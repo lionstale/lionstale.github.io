@@ -711,7 +711,7 @@
     "Home": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "index",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
