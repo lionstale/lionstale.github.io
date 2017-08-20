@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page16.html",
+    "currentPage": "Archives",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1887,7 +1887,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Living the Dream",
+          "title4": "Living the Dream?",
           "subtitle4": "Written By: Eva Morris",
           "caption4": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.",
           "button4": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -3685,7 +3685,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Living the Dream",
+          "title4": "Living the Dream?",
           "subtitle4": "Written By: Eva Morris",
           "caption4": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.",
           "button4": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
