@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page15.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -19,21 +19,22 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": [
-        "#2e2e2e"
-      ]
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 166,
-    "versionPublish": "4.1.7"
+    "uniqCompNum": 126,
+    "versionPublish": "4.1.7",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "lionstale",
+    "gitHubPath": ""
   },
   "pages": {
     "Sports": {
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -66,7 +67,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hot-dog-mascots-1400x893.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1037.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -114,11 +115,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -128,11 +129,11 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": true,
@@ -142,11 +143,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;<br>",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -226,12 +227,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -265,7 +264,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -342,12 +341,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -419,8 +416,8 @@
               "size": 250
             }
           },
-          "title": "High School New Student Orientation",
-          "text": "Coming once orientation actually happens.",
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -449,11 +446,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -463,11 +460,11 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -477,11 +474,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -493,7 +490,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -570,12 +567,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -633,11 +628,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/map2-420x412.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -651,9 +642,9 @@
               "size": 250
             }
           },
-          "title": "The Story Behind Maps",
-          "text": "By examining the evolution of maps through history, this article uncovers how maps affect the way we perceive the world.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -681,11 +672,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -695,11 +686,11 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -709,11 +700,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -725,7 +716,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 16
+        "order": 13
       },
       "components": [
         {
@@ -802,12 +793,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -865,7 +854,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x786.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -883,9 +872,9 @@
               "size": 250
             }
           },
-          "title": "My Icelandic Boyfriend",
-          "text": "A tale of love in the land of fire and ice.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -934,10 +923,10 @@
               "active": true
             }
           },
-          "title1": "Coming Soon",
-          "subtitle1": "Who Will Write Next?",
-          "caption1": "More articles being written... literary genius takes time. :)",
-          "button1": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -946,10 +935,10 @@
               "active": true
             }
           },
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :)",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -958,10 +947,10 @@
               "active": true
             }
           },
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :)",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -970,10 +959,10 @@
               "active": true
             }
           },
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :)",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1005,7 +994,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1109,12 +1098,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1191,8 +1178,8 @@
               "size": 0
             }
           },
-          "title": "Aimee Dastin-van Rijn",
-          "text": "Aimee is a writer for the paper, as well as the Editor in Chief.<br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1226,11 +1213,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/15252472-1023759337751204-9170983574434501323-o-1365x1365.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1244,8 +1227,8 @@
               "size": 0
             }
           },
-          "title": "Ceola Daly",
-          "text": "Ceola is a writer for the paper.<br>Articles Written:<br>- Lucky to be Lions",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1279,11 +1262,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/16797713-708573405990308-7168436788970340563-o-1248x2048.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1297,8 +1276,8 @@
               "size": 0
             }
           },
-          "title": "Shahriar Hossain",
-          "text": "Shahriar is a writer for the paper, as well as the head of photography for the paper.&nbsp;<br>Articles Written: <br>- Taking the Perfect Picture",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1346,8 +1325,8 @@
               "size": 0
             }
           },
-          "title": "Ignacio Bricchi",
-          "text": "Ignacio is our programmer who is currently working on an improved version of the current website, so that we can replace it with his.&nbsp;",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
@@ -1356,7 +1335,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -1433,12 +1412,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1496,11 +1473,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-838x559.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1514,9 +1487,9 @@
               "size": 250
             }
           },
-          "title": "Living the Dream",
-          "text": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.\n<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page16.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -1569,10 +1542,10 @@
               "active": true
             }
           },
-          "title1": "Coming Soon",
-          "subtitle1": "Who Will Write Next?",
-          "caption1": "More articles being written... literary genius takes time. :) ",
-          "button1": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1581,10 +1554,10 @@
               "active": true
             }
           },
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :) ",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1593,10 +1566,10 @@
               "active": true
             }
           },
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :) ",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1605,10 +1578,10 @@
               "active": true
             }
           },
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :) ",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1640,7 +1613,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -1751,12 +1724,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1829,68 +1800,52 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hot-dog-mascots-600x382.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title1": "Lucky to be Lions",
-          "subtitle1": "Written By: Ceola Daly",
-          "caption1": "What does our mascot mean to us?",
-          "button1": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-600x450.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title2": "My Icelandic Boyfriend",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "A tale of love in the land of fire and ice.",
-          "button2": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-600x337.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title3": "Taking the Perfect Picture",
-          "subtitle3": "Written By: Shahriar Hossain",
-          "caption3": "With this article, you can take much more professional photos.",
-          "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-600x400.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title4": "Living the Dream",
-          "subtitle4": "Written By: Eva Morris",
-          "caption4": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.",
-          "button4": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1961,20 +1916,16 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/map2-420x412.png",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title1": "The Story Behind Maps",
-          "subtitle1": "Written By: Camille Kummer",
-          "caption1": "By examining the evolution of maps through history, this article uncovers how maps affect the way we perceive the world.",
-          "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1983,10 +1934,10 @@
               "active": true
             }
           },
-          "title2": "The 2017-2018 Guide to St. John's",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn with various contributors",
-          "caption2": "This is the comedic guide to everything St. John's for this year. ",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1995,10 +1946,10 @@
               "active": true
             }
           },
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :) ",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2007,10 +1958,10 @@
               "active": true
             }
           },
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :) ",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2042,7 +1993,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -2119,12 +2070,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2304,7 +2253,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 12
       },
       "components": [
         {
@@ -2380,12 +2329,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2545,7 +2492,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 10
       },
       "components": [
         {
@@ -2621,12 +2568,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2980,12 +2925,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3067,18 +3010,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hot-dog-mascots-600x382.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title1": "Lucky to be Lions",
-          "subtitle1": "Written By: Ceola Daly",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -3089,24 +3028,20 @@
               "active": true
             }
           },
-          "title2": "My Icelandic Boyfriend",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-600x337.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title3": "Taking the Perfect Picture",
-          "subtitle3": "Written By: Shahriar Hossain",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -3177,7 +3112,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -3253,12 +3188,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3365,11 +3298,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -3379,11 +3312,11 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -3393,11 +3326,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -3412,7 +3345,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -3540,12 +3473,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3639,24 +3570,20 @@
           },
           "title1": "Lucky to Be Lions",
           "subtitle1": "Written By: Ceola Daly",
-          "caption1": "What does our mascot mean to us?<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-600x450.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title2": "My Icelandic Boyfriend",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "A tale of love in the land of fire and ice.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ts-night-photography-600x337.jpg",
@@ -3671,24 +3598,20 @@
           },
           "title3": "Taking the Perfect Picture",
           "subtitle3": "Written By: Shahriar Hossain",
-          "caption3": "With this article, you can take much more professional photos.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-600x400.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title4": "Living the Dream",
-          "subtitle4": "Written By: Eva Morris",
-          "caption4": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.",
-          "button4": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -3745,7 +3668,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 11
       },
       "components": [
         {
@@ -3821,12 +3744,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3979,585 +3900,6 @@
           "_anchor": "content1-3h"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Scroll down when you've finished reading...</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3l"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3i"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3j"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3k"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3m"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me2-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me4-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me3-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Jeffrey was closed off from the world and unenthusiastic, despite me trying to cheer him up.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "On the car ride to Reykjavik, he started to open up and was more fun to be around.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "That night, we walked the streets of Reykjavik together and gazed romantically over the city skyline.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "We ate dinner and even went for froyo.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-3n"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me5-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me7-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/memore-600x748.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The next morning, we went to Reykjavik's Penis Museum together (not really my idea of a perfect date, but fun either way.)",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We also did the touristy things, including seeing far too many Icelandic waterfalls.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Throughout the trip, we took many long, romantic walks.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I met Skyr the same day I met Jeffrey and we became obsessed with each other.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-3o"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x512.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/me6-600x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/evenmoreme-600x778.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x512.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "It's like he has a flavor for every day of the week, although mostly just sweet.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Here, Jeffrey and I are happily enjoying ourselves in America.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-3p"
-        }
-      ]
-    },
-    "page16.html": {
-      "settings": {
-        "title": "Living the Dream Article",
-        "meta_descr": "Web Page Builder Description",
-        "order": 12
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives.html\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"lionstale.news\">Home</a></li>",
-          "_anchor": "menu-3q"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-3r"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#174034",
-            "overlayOpacity": 0.5
-          },
-          "title": "Living the Dream",
-          "text": "<p>Written By: Eva Morris</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-3s"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>We all have aspirations and dreams, but it has struck me that in recent years there are many young people in the world who have had their dreams shattered. The typical aspirations of millenniums are often: to be a singer, YouTuber, entrepreneur, to enjoy a free education, or to have just as many followers on Instagram as you can. However, the dream in war-torn countries is very different. These young people just want to live in a safe and happy place. They crave security and often they arrive in Europe via Italy with a very optimistic view of this new land and quest for a bright future. Unfortunately, for many, Europe is not quite as it seems and, often they are faced with obstacles and sometimes subjected to situations where they are assaulted, molested, and forced into things that they do not want to do, just in order to survive.</p><p>\n</p><p><br></p>",
-          "_anchor": "content1-3t"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -4571,7 +3913,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-838x559.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-ways-to-fix-iphone-66-plus-camera-black-image-issue-1400x883.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -4582,411 +3924,20 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Pictured is a boat of migrants traveling to Italy.",
-          "_anchor": "image2-3u"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>\n</p><p>In an article published by the BBC “Exploited and abandoned: A child's journey to Europe,” I read into the traumatic stories of the under-18’s crossing into Europe from countries such as Syria, Eritrea, and Afghanistan. (1) I continue to be amazed by how resilient they are as they leave their homes and have to endure a journey during which often experiencing abuse and trauma in search for their new life. Unfortunately, the rape and abuse often does not end after arriving in Italy, as these minors are brought into illegal work and business. Khaled at 14, not too much younger than myself, sells drugs so that he can afford to buy food for himself. In his words “I did it to avoid doing what other boys I know here are doing- having (sexual relations) with Italian men. I’ve seen it with my own eyes.” While this whole phrase is heart rending, the very last words ‘I’ve seen it with my own eyes,’ shows the true horror and trauma that has resided with Khaled. This is only one of many stories.\n</p><p>Ruth is a 19-year old Nigerian girl who had been an aspiring gospel singer and actress in her hometown Lagos. She left her home because her “family were suffering,” and barely had enough food to survive. (2) While on her journey out of Nigeria, like many other girls, Ruth’s traffickers tried to force her into prostitution, and while she refused, this meant that she had to find another way to compensate her traffickers. Her only other option was to accept the offer of an older Ghanaian man who she had recently met to enter into a relationship with him for money. Soon after, she fell pregnant with his child. (3) I found this particularly awful and even more desolate given that she had not yet even embarked on her journey to Italy. After arriving in Italy, she was asked what advice she would give anyone considering this journey and she admitted, “I would advise the person not come at all. Even if I heard of my sister…I would tell them to arrest her so she wouldn’t move…The journey is not good… They should not even try it. If I had known these things would happen I wouldn’t come.” (4)</p><p>\n</p>",
-          "_anchor": "content1-3v"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "\"Unfortunately, the rape and abuse often does not end after arriving in Italy, as these minors are brought into illegal work and business. \"",
-          "meta": "",
-          "_anchor": "header3-3w"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Hamid, another teenager, has already been previously convicted and spent time in jail for selling drugs. He calls his mother every week reassuring her that everything is fine, when in fact everything is not fine. (5) Thankfully, I know I will never be in a position where I feel so unsafe and vulnerable. I think we can all agree that we are all blessed to live in a safe community where we do not have to deal with feeling misplaced every day of our lives.</p><p><br></p><p>\n</p><p>\n</p><p>While Italy provides centers for minors, they only have a few translators who speak the children’s languages and staff often do not reach out or are not equipped to deal with victims of sexual exploitation. Therefore, a large number of these minors feel no purpose and no longer feel safe in these centers. They are forced to find an alternative survival route on the streets. Fabio Sorgoni, a member of the Italian charity On the Road, told the BBC that “feeling uncertain and unprotected, thousands of children have run away from Italian reception centres, disappearing on to streets.” (6)</p><p><br></p><p>\n</p><p>While the stories of these three teenagers have been heard, there are estimated to be over of 50,000 migrant children who have travelled to Europe this year, many of whom have experience identical traumas, whose voices and stories will never be acknowledged. Federica Mogherini, High Representative for Foreign Affairs and Security Policy, said last month in the European summit that “we need unity of purpose, a coordinated international and regional effort under the umbrella of the UN.” Delving more into this topic has made me reflect that living in our privileged environment, the onus is on my generation to settle this migration crisis, recognize their plight, hear their voices, and ensure everyone has equal opportunities to live their dream.</p>",
-          "_anchor": "content1-3x"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>(1) &nbsp;Adler, Katya. \"Exploited and abandoned: A child's journey to Europe.\" BBC17 Sept. 2015: n. pag. Web. 9 Aug. 2017.</p><p>(2) Kermani, Secunder. ‘’Death on the Mediterranean: One Teenage Migrant’s Story.’’ Huffpost 29 April. 2015</p><p>(3) Ibid.&nbsp;</p><p>(4) Ibid.&nbsp;</p><p>(5) Adler, Katya. \"Exploited and abandoned: A child's journey to Europe.\" BBC17 Sept. 2015: n. pag. Web. 9 Aug. 2017.</p><p>(6) Kermani, Secunder. ‘’Death on the Mediterranean: One Teenage Migrant’s Story.’’ Huffpost 29 April. 2015</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3y"
-        }
-      ]
-    },
-    "page17.html": {
-      "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Coming Soon",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives.html\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"lionstale.news\">Home</a></li>",
-          "_anchor": "menu-3z"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-40"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Coming Soon",
-          "text": "Who Will Write Next?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-41"
-        }
-      ]
-    },
-    "page18.html": {
-      "settings": {
-        "title": "Maps Article",
-        "meta_descr": "Web Page Builder Description",
-        "order": 11
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives.html\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"lionstale.news\">Home</a></li>",
-          "_anchor": "menu-42"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-43"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#174034",
-            "overlayOpacity": 0.5
-          },
-          "title": "The Story Behind Maps",
-          "text": "<p>Written By: Camille Kummer</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-44"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>The Earth isn't flat. If this doesn’t come as a surprise to anyone (which I hope it doesn’t,) it is because it is the first of many lies told by the Mercator projection, the name used to describe the projection of the world which everyone has encountered and probably studied in school. The map was named after its designer, Flemish mathematician, cartographer and geographer Mercator, who created the map in 1569. This projection is a cylindrical projection, meaning that it acts as if the globe was put inside a cylinder and points on the globe were reported on that cylinder. Once unfolded, the result is a 2D projection of the Earth.</p>",
-          "_anchor": "content1-45"
+          "text": "Nowadays, however, everyone has a camera in their pocket, but so few people actually know how to use it and take advantage of what is actually has to offer!",
+          "_anchor": "image2-3b"
         },
         {
           "_params": {
             "showText": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/globe-600x353.png",
+              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-960x540.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -4997,437 +3948,12 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "The Earth isn't flat.",
+          "text": "Before you take a photo, explore your angles.",
           "_tags": [
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4b"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>However, with the initial purpose of this map being navigation, Mercator had to implement a few modifications in order to preserve directions. For that, he had to vary the distance between the latitude lines and to straighten them in order to obtain a grid of latitude and longitude lines, crossing at right angles. This way, the line drawn between two points on the map would provide the angle to follow which was ideal for navigators who only had a compass to get their bearings. The division happens between Europe and the East Coast of the USA, because it made sense to divide a non-populated area which was the ocean.\n</p><p><br></p><p>The main problem of this projection is that, although it generally preserves the shape of the countries and continents and the local angular relationships, it fails in its representation of size.\n&nbsp;<span style=\"font-size: 1.07rem;\">The closer the land is to the top poles, the more distorted it becomes. If you drew circles on the globe and then unfolded it like Mercator's projection, you'd observe that the circles would have conserved their circular shape, however, they would be much bigger as they approach the poles. This method is called the Tissot Indicatrix, and the circles used have a radius of 500 km (around 311 miles,) meaning each circle has the same area.&nbsp;</span></p><p><br></p>",
-          "_anchor": "content1-47"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x512.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/map-1-600x311.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/map2-420x412.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x512.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-4d"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "\"The Mercator's Map shows the developed countries as being much bigger than they truly are, and much bigger compared to reality than the third-world countries or countries in development.\"",
-          "meta": "",
-          "_anchor": "header3-48"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>The End of the Myths – the Problems of the Mercator's Projection \n</b></p><p>\n</p><p>The Mercator's Map shows the developed countries as being much bigger than they truly are, and much bigger compared to reality than the third-world countries or countries in development. This reinforces the feeling of domination of the developed countries over the developing ones, and seems to show very unfairly what parts of the world are «governing.» \n</p><p>\n</p><p>Still with that view in mind, the countries most affected by wars, poverty, natural disasters, famine and diseases are coincidentally the ones appearing smaller. This observation engenders in our minds a process of exculpation: the problems faced by those countries don't matter as much since the countries look so much tinier. \n</p><p>\n</p><p>The ratio of water/continent isn't obeyed, because the earth is made up of around 71% of water, with the remaining 29% consisting of land and islands. Difficult to realise, isn't it? This reinforces the dominating feeling of humans over the rest of nature, yet, we don't even inhabit half of the Earth. This is impossible to deduce or realise from glancing at the map sitting in most classrooms. \n</p><p>\n</p><p>The map depicts Greenland and Africa as being about the same size, when in reality Greenland is 14 times smaller than Africa.\n</p><p>Russia is actually smaller than Africa, Madagascar is bigger than Sweden, Iceland is about the same size as Tasmania, and most of the continents could fit in Africa. There are loads of other examples, but it'd be too long of a list to write here! Difficult to believe? The website thetruesize.com allows you to see for yourself. \n</p><p><br></p>",
-          "_anchor": "content1-49"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/aafrica.gif",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "The real sizes of countries compared to Africa.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4g"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>The Politics of Perception\n</b></p><p>\n</p><p>Maps are a perfect demonstration of the politics of perception – how what you see affects what you think – and the orientation of a map does control our perception of the world. For example, the ideas of South, North, East and West are “rhetorical and social constructions,”1 but the Mercator's map is so implemented in our minds that any other map seems strange and sometimes even wrong in its representation of the world. For the audience, what they read from the map becomes their reality. Indeed, maps have the immense power of shaping a person's perception of the world. This is precisely why it's so important to look at other maps – because maps are “rather an argument presented than a reality.” The various projections of the world show us different aspects of it every time, and from those, political, social and environmental conclusions and beliefs will be inferred. The ratio water/continents as well as the strategic placing of countries on the maps are two factors which have a big impact on our perception – one feels smaller when realising how much water surrounds us. Deciding what countries to place in the north or south also has a huge effect on that it is linked to the idea that countries in the southern hemisphere have less of a role to play. \n</p><p>\n</p><p>Countries tend to use maps in which their country sits in the middle, as it is an easier point of reference. However, this presents the disadvantage of instilling in the people's minds, probably unconsciously, that their country is quite literally at the center of the world and that the other continents sit around them, which, needless to say, is not true. For example, we can observe here the Mercator's map, designed by a Flemish person, hence the placing of Europe in the middle. In Japan and Australia it is also noticeable that their country is placed approximately in the middle of the map. \n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4e"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x5124.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/media-20170820-1-600x331.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/media-480x302.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x5124.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-4h"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>The Ethics of Mapmaking\n</b></p><p>\n</p><p>The mapmaker has huge responsibilities – the way the world is going to be seen is put in their hands. Depending on where they position some countries, the audience's interpretation will give more political weight and consideration to those countries. The mapmaker creates the map through their vision of the world, and this lense will be used by the audience to read the map, hence the subjectivity and bias of maps. Indeed, maps “socially and culturally construct the earth through different scales and perspectives.”</p><p><br></p><p> \n</p><p>\n</p><p><b>What Map to Use?\n</b></p><p>\n</p><p>The alternative to Mercator's map is often that of Galls Peter, created in 1974. This one preserves land area but distorts shapes completely – the circles mentioned before would look as if they were stretched horizontally near the poles whereas the circles closer to the equator would look stretched vertically. The countries look extremely unfamiliar, but their size is accurately depicted.\n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4f"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-600x324.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "In 1988, the National Geographic Society adopted the Winkel-Tripel map for its balance between size and shape accuracy.&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4i"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>The Cassini Projection – late 174Os\n</b></p><p>&nbsp;\n</p><p>The globe is rotated so that the central meridian (an imaginary half-circle of the surface of the Earth which joins the two poles) becomes the equator (“a line notionally drawn on the earth equidistant from the poles, dividing the earth into northern and southern hemispheres and constituting the parallel of latitude 0°”).\n&nbsp;<span style=\"font-size: 1.07rem;\">It shows many more ocean and seas than the map we're accustomed to, and places Africa in the middle, unconsciously suggesting its being one of the main actors in today's world. </span><span style=\"font-size: 1.07rem;\">Furthermore, cartographers have agreed on a variety of non-rectangular maps which are each relatively accurate in their depiction of the world – each used for a different purpose.&nbsp;</span><span style=\"font-size: 1.07rem;\">In the end, the most accurate depiction of the Earth is a globe (even though the Earth is not a perfect sphere.) &nbsp;</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4j"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem;\">In conclusion, maps aren't the only way we have to evaluate the countries around us, but they have the advantage of being more convenient than globes to study on and to use. However, projecting a sphere onto a 2D rectangular surface is impossible, and compromises have to happen between shape, distance, direction, and land area accuracy, which leads to common misbeliefs and biased perceptions of the world we live in, acting on our sub-conscience most of the time. The Mercator's Map, for example, has the modern accusation of reinforcing appearances of the domination of developed countries over third-world countries, due to the distortion of the countries located nearest to the poles. More accurate equivalents were designed, but those don't beat the “pleasing aesthetic” of Mercator's Map. It is also interesting to notice that the view of the people depended on what they were presented with, and it raises the question of how, in the age of capitalism and global warming, we choose to represent our planet. It brings us to wonder how our view of the world would differ if we hadn't been brought up with the Mercator's Map. It also warns us of the powers put in the hands of one man, be it for drawing the world, controlling the economy, or leading a country.&nbsp;</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4k"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem;\">Sources:</span></p><p><span style=\"font-size: 1.07rem;\">https://www.universetoday.com/65588/what-percent-of-earth-is-water/&nbsp;</span><br></p><p>https://blog.richmond.edu/livesofmaps/2014/10/29/the-cassini-projection-how-should-earth-be-portrayed/\r</p><p>http://map-projections.net/compare.php?p1=winkel-tripel&amp;p2=winkel-tripel-bartholomew&amp;w=1&amp;sm=1&amp;d=1\r</p><p>https://www.google.fr/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjW1_WFgM_VAhVDWxoKHf4uCf0QjRwIBw&amp;url=http%3A%2F%2Fkai.sub.blue%2Fen%2Fafrica.html&amp;psig=AFQjCNHBmBbteKAdTqeEjcgYJYplSSv2vQ&amp;ust=1502534685752397\r</p><p>https://youtu.be/kIID5FDi2JQ\r</p><p>https://youtu.be/S3R-rP8dawM\r</p><p>https://youtu.be/g3ginHk6eB0\r</p><p>https://youtu.be/8F2gjh_iXM8\r</p><p>https://www.google.fr/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwj5kp6fg8_VAhVEOxoKHZwqB44QjRwIBw&amp;url=https%3A%2F%2Fwww.scienceabc.com%2Fsocial-science%2Fwhat-is-wrong-with-all-our-maps.html&amp;psig=AFQjCNE7zBebQc1EG43tGvCEYGqSmGRpNQ&amp;ust=1502535540587642\r</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4l"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+          "_anchor": "image2-3f"
         }
       ]
     }
