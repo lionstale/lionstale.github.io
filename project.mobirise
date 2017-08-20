@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Events",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -421,7 +421,7 @@
           },
           "title": "High School New Student Orientation",
           "text": "Coming once orientation actually happens.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -5233,7 +5233,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x51212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/white-512x51213.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5269,7 +5269,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x51212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/white-512x51213.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
