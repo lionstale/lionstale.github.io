@@ -5233,7 +5233,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x5126.jpg",
+              "src": "@PROJECT_PATH@/assets/images/white-512x5127.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5269,7 +5269,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-512x5126.jpg",
+              "src": "@PROJECT_PATH@/assets/images/white-512x5127.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
