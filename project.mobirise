@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page14.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1977,10 +1977,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "The 2017-2018 Guide to St. John's",
@@ -3444,7 +3448,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-980x980.jpg",
               "link": "",
               "alt": "",
               "title": "",
