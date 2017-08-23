@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page19.html",
+    "currentPage": "page21.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 187,
+    "uniqCompNum": 197,
     "versionPublish": "4.1.7"
   },
   "pages": {
@@ -729,7 +729,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -2422,7 +2422,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2663,7 +2663,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3434,7 +3434,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-960x540.jpg",
+              "src": "@PROJECT_PATH@/assets/images/byebyebirdie-1400x818.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3452,74 +3452,126 @@
               "size": 250
             }
           },
-          "title": "Taking the Perfect Picture",
-          "text": "With this article, you can take much more professional photos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Bye Bye Birdie",
+          "text": "This article gives an overview of the plot and characters of this year's musical.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page21.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_anchor": "header2-2z"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-lead": {
-              "color": "#fff"
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Taking the Perfect Picture",
+          "subtitle1": "Written By: Shahriar Hossain",
+          "caption1": "With this article, you can take much more professional photos.",
+          "title2": "Coming Soon",
+          "subtitle2": "Who Will Write Next?",
+          "caption2": "More articles being written... literary genius takes time. :)",
+          "title3": "Coming Soon",
+          "subtitle3": "Who Will Write Next?",
+          "caption3": "More articles being written... literary genius takes time. :)",
+          "title4": "Coming Soon",
+          "subtitle4": "Who Will Write Next?",
+          "caption4": "More articles being written... literary genius takes time. :)",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_params": {
-            "autoplay": true,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "slides": [
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Coming Soon",
-                "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "Coming Soon",
-                "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Coming Soon",
-                "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
-              }
-            ]
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#174034"
+            },
+            "H4": {
+              "color": "#174034"
+            },
+            "H5": {
+              "color": "#174034"
+            }
           },
-          "_anchor": "slider2-30"
+          "_anchor": "features3-5g"
         }
       ]
     },
@@ -3863,7 +3915,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4518,7 +4570,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -4937,7 +4989,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -5553,7 +5605,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -5740,7 +5792,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -5998,6 +6050,234 @@
           },
           "text": "<p>All the high school students then moved on to play games to learn each other's names or other facts or played ninja and voltage (drama games that almost all high school students know.) After the games, they split into groups to discuss the different aspects of student life and proceeded to tour campus with the student ambassadors as leaders.&nbsp;</p><p><br></p><p>Once all the students (including the middle schoolers) were back on C-Level, Ms. Cooke went through the new student handbook with them, explaining every section in depth so no student would be confused.&nbsp;</p><p><br></p><p>By the end of this, all the students were starving, so they all went to the cafeteria to enjoy a school-provided lunch and continue socializing.&nbsp;</p>",
           "_anchor": "content1-53"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "title": "Musical Article",
+        "meta_descr": "Web Page Builder Description",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives.html\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-57"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-58"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#174034",
+            "overlayOpacity": 0.5
+          },
+          "title": "Bye Bye Birdie",
+          "text": "<p>Written By: Aimee Dastin-van Rijn</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-59"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">This year’s musical is Bye Bye Birdie. For those of you who have no idea what it is about, read on. This musical was originally inspired by Elvis Presley when he got drafted into the army and has music in the style of the 1950s. The plot is quite complicated, so it is explained briefly below.</span><br></p><p><br></p><p><b>In Act 1:</b></p><p>The musical begins with an agent and songwriter called Albert who is upset that the rock star he represents has been drafted into the army. His secretary comes up with a plan to gain popularity right before Conrad Birdie (the rockstar) goes into the army. The stunt is to write a song and then offer the winner of the contest a kiss from Conrad before he goes to war.&nbsp;</p><p><br></p><p>The winner of the contest is a girl named Kim, from Ohio. After she wins the contest, she quits the fan club because she got a boyfriend, while people have already begun to set up for it. When the music crew gets there, the whole town loves Conrad and the women are obsessed with him. Kim’s boyfriend, Hugo, is jealous that she might like Conrad more than him, but she assures him that this is not true. Conrad stays at Kim’s house and is a rude guest.&nbsp;</p><p><br></p><p>Meanwhile, Albert is dating the secretary Rosie, but his mother tries to break them up by introducing him to a new woman named Gloria. After an unfortunate incident, Albert feels bad for Gloria and give her a job, much to Rosie’s dismay.&nbsp;</p><p><br></p><p>Hugo and Rosie plan to ruin the broadcast to get back at their significant others, so when it comes on, Hugo punches Conrad and Rosie breaks up with Albert on live television. Albert tries to fix the night by singing a song.&nbsp;</p><p><br></p><p><b>In Act 2:</b></p><p>Rosie and Kim leave their boyfriends and Kim sneaks out with Rosie to party. Conrad also goes to party on his last night before leaving for the army. Kim’s parents get upset when they realize she has snuck out. Rosie goes and hits on men who become crazy, so Albert comes to her rescue and finally stands up to his mother. Hugo tells the parents where all the teens are partying and the parents get very angry.&nbsp;</p><p><br></p><p>The police show up at the bar with the teenagers and arrest Conrad. Kim blames her behavior on Conrad and gets back with Hugo. Rosie and Albert get back together, both ignoring his mother’s wishes. Albert bails Conrad out of jail and sneaks him out of town on a train with his mother as well. Once Albert is free of those two burdens on his life, he and Rosie get engaged and move to Iowa for him to become an English teacher like he promised her at the beginning of the show.&nbsp;</p><p><br></p>",
+          "_anchor": "content1-5a"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/byebyebirdie-1400x818.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Symbol for the show",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5f"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>There are many characters in the show which are all listed below:</b></p><p><br></p><p>Albert Peterson – Conrad Birdie’s Agent and Songwriter</p><p>Rose \"Rosie\" Alvarez – Albert's secretary and girlfriend</p><p>Kim MacAfee – the winner of the contest for Conrad Birdie’s “last kiss”</p><p>Conrad Birdie – the rock star which the show focusses on</p><p>Randolph MacAfee – Kim's younger brother who is usually well behaved</p><p>Mr. MacAfee – Kim’s father who is usually angry</p><p>Mrs. MacAfee – Kim’s mother</p><p>Mae Peterson – Albert's controlling, racist mother</p><p>Hugo Peabody – Kim's boyfriend who is very jealous of Conrad Birdie</p><p>Ursula Merkle – Kim's excited best friend who is obsessed with Connor too</p><p>Gloria Rasputin – The curvy tap dancer who Albert’s mother tries to set up with him</p><p>Helen, Alice, Deborah Sue, Nancy, Penelope, Suzie, Margie – Kim’s friends who also love Connor</p><p>Harvey Johnson – A nerd who lives in town</p><p>Fred and Karl – More teenagers</p><p>Maude – Owner of one of the bars</p><p>Mrs. Merkle – Ursula's mother</p><p>Mr. Johnson – Harvey's father</p><p>The Mayor – the mayor of Kim’s town</p><p>The Mayor's Wife (Edna) – the wife of the mayor</p><p>Dishwasher/Bar Patrons – people seen in the bar</p><p>Reporters</p><p>Policemen</p><p><br></p><p>Overall, the musical is an amazing experience, whether you are a performer, a member of the backstage crew, a set builder, a member of the tech crew, or even an audience member. The musical is a long process during which everyone works very hard, so everyone should go see it when performance-time comes around.</p><p><br></p><p>For those of you who are interested in performing in this amazing show, tryouts begin Monday after school.</p>",
+          "_anchor": "content1-5c"
         },
         {
           "alias": "facebook-comments",

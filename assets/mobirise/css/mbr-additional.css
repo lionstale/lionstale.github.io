@@ -1321,9 +1321,14 @@ h6,
 #menu-2x .close-icon::after {
   background-color: #ffffff;
 }
-#slider2-30 .mbr-section-title,
-#slider2-30 .mbr-section-lead {
-  color: #fff;
+#features3-5g P {
+  color: #174034;
+}
+#features3-5g H4 {
+  color: #174034;
+}
+#features3-5g H5 {
+  color: #174034;
 }
 #menu-32 .hide-buttons .nav-btn {
   display: none !important;
@@ -1846,4 +1851,75 @@ h6,
 #header3-52 .mbr-section-title,
 #header3-52 .mbr-section-subtitle {
   text-align: center;
+}
+#menu-57 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-57 .navbar-caption {
+  color: #ffffff;
+}
+#menu-57 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-57 .link,
+#menu-57 .dropdown-item {
+  color: #ffffff;
+}
+#menu-57 .link {
+  font-size: 0.75rem;
+}
+#menu-57 .dropdown-item,
+#menu-57 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-57 .link:hover,
+#menu-57 .dropdown-item:hover,
+#menu-57 .link:focus,
+#menu-57 .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-57 .link[aria-expanded="true"],
+#menu-57 .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-57 .nav-dropdown-sm .link:focus,
+#menu-57 .nav-dropdown-sm .link:hover,
+#menu-57 .nav-dropdown-sm .dropdown-item:focus,
+#menu-57 .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-57 .navbar,
+#menu-57 .nav-dropdown-sm,
+#menu-57 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-57 .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-57 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-57 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-57 .bg-color.transparent.opened .link:hover,
+#menu-57 .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-57 .link[aria-expanded="true"],
+#menu-57 .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-57.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-57 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-57 .close-icon::before,
+#menu-57 .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box8-59 .mbr-section-title,
+#msg-box8-59 p {
+  color: #fff;
 }
