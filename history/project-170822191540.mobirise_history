@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,10 +25,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 176,
-    "versionPublish": "4.1.7",
-    "publishType": "local",
-    "publishPath": "file:///Users/Aimee/Documents"
+    "uniqCompNum": 166,
+    "versionPublish": "4.1.7"
   },
   "pages": {
     "Sports": {
@@ -727,7 +725,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -1992,7 +1990,7 @@
           "title2": "The 2017-2018 Guide to St. John's",
           "subtitle2": "Written By: Aimee Dastin-van Rijn with various contributors",
           "caption2": "This is the comedic guide to everything St. John's for this year. ",
-          "button2": "<a data-app-btn=\"true\" href=\"page19.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2310,7 +2308,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -2551,7 +2549,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -3470,7 +3468,7 @@
           },
           "title": "2017-2018 Guide to St. John's",
           "text": "This is the comedic guide to everything St. John's for this year. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "_anchor": "header2-31"
         },
         {
@@ -3751,7 +3749,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -4406,7 +4404,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -4825,7 +4823,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -5410,193 +5408,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-4l"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        }
-      ]
-    },
-    "page19.html": {
-      "settings": {
-        "title": "2017-2018 Guide to St. John's",
-        "meta_descr": "Web Page Builder Description",
-        "order": 11
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives.html\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
-          "_anchor": "menu-4o"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-4p"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#174034",
-            "overlayOpacity": 0.5
-          },
-          "title": "2017-2018 Guide to St. John's",
-          "text": "<p>Written By: Aimee Dastin-van Rijn</p><p>With Contributions By: Lucy Lansman, Evan Dastin-van Rijn, Andreea Samareanu, Clara Dehandschutter, Claire Graham, Madeleine Bitter, Theijs Boekema, Kajsa Hansen, Matthieu De Wolf, Peder Foss, Jose Malinab, Rehaan Ahmad, Lukas Nichta, Ceola Daly, Joud Aboud, Nathaniel Bentley, and Akari Izumi</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-4q"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>Teacher Introductions</b></p><p><br></p><p><b>Note:</b> Almost all PE teachers will be referenced by their first names because somehow their last names are all terribly hard to pronounce.</p><p><br></p><p><b>Señora Bartholome - Pending Approval</b></p><p><br></p><p><b>Mrs. Boland</b> is a well known name throughout the High School. She teaches English. However, when she is not in the classroom she is helping students apply to universities. Mrs. Boland may seem intimidating, but she is truly a passionate, supportive, and understanding teacher. If you find that you have her as your teacher, there are ways to distract! If you cleverly talk about the new hot gossip between students, she will have no problem pausing the class to be filled in. Another popular topic with her is horses, but she also gets enthusiastic about cats and dogs. Nonetheless, Mrs. Boland has a plethora of knowledge when it comes to Literature (meaning she knows what she’s talking about.) Also, just remember, if she just recently visited her son in China, expect some tasty and unusual treats!</p><p><br></p><p><b>Mrs. Briggs</b> will be teaching Middle School and High School Math classes this year.  She is a kind and fair teacher and although she is a seventh grade advisor, her door is always open if you need help or just someone to talk to. Mrs. Briggs’s room is located at the end of the 7th grade hallway where you can sometimes hear her enthusiastic voice. She is professional while in class and has a great sense of humour.</p><p><br></p><p><b>Dr. Carlin</b> is a science teacher. Aside from the regular physics teaching, expect to regularly experience DJ Carlin and his vast repertoire of Scottish punk music and lesser known classic rock. Dr. Carlin places a major emphasis on self-motivated learning. In class, the material will be presented, but he expects you to consult the textbook where the content is confusing. If the textbook is ambiguous or unhelpful, he will guide you to realizing an answer yourself rather than outright giving you one. Expect to have a binder you wish was a brick by the end of a semester, as Dr. Carlin gives out an incredible amount of packets for notes and homework. Dr. Carlin gives fewer tests during the semester than most teachers so make good use of the homework to learn the content or you will struggle come exam time.</p><p><br></p><p><b>Dr. Castillo</b> (Jesus Castillo-Coronado) is the Religious Studies and Theory of Knowledge teacher. In religious studies, the focus is not on any single faith but rather sociology and philosophy of religion and the porpoise it has for beliebers around the world. He teaches in a lecture style using slideshows but the main element of every lesson is a discussion following the presentation. Dr. Castillo really appreciates those who contribute to the discussion and is always open to answer any question someone may have. Assignments throughout each semester consist of essays and the occasional presentation. While he is lenient with due dates, a selection of these essays will appear as the prompts for the exam so it is in your interest to do them well. To the few who know him well, he is considered as a wise guru – to whom you can go for advice, to learn about philosophy, and – though it is very rare – to jam out as he whips out guitar and plays some classic latin tunes. He takes class very seriously, but if you're lucky, you may be one of the few that he enjoys teasing and calling out in front of the entire class. As a final note, it is of utmost importance that in both religious studies and ToK people respect the opinions and beliefs of Dr. Castillo and other students to foster the best atmosphere for discussion.</p><p><br></p><p><b>Dr. Colotto - Pending Approval</b></p><p><br></p><p><b>Ms. Cooke</b> is a high school math teacher and the Assistant Principal for Student Life. She encourage kids to like math and is always willing to help them understand. She helps students understand in whatever way best suits them. It is not uncommon for her to make math jokes in class and she is known to love how one equation can be solved in many different ways. Her laptop background is a picture of steps to show you how to lead yourself to positivity. While she may have a reputation for being strict because of her role as part of the administration, she is truly one of the kindest people at St. John’s.</p><p><br></p><p><b>Coach D</b> is our Athletics Director, who you will see a lot of, even if you don't do sports, as he is hard to miss in the hallway. You can always count on him to crack a joke, but be very helpful with anything you need as well. He has been known to not like boys within a 10 mile radius of his female athletes and to comment on anyone who decides to ignore our \"no cleats inside the sports building rule.\" Fun fact! Martine is very fond of Coach D.</p><p><br></p><p><b>Ms. D’Agostino</b> a.k.a. Dags (only between students) is the economics teacher. She also teaches AP Microeconomics and AP Macroeconomics. Every class is exciting and interesting, whether it be bidding for a bar of chocolate or cutting shapes out of paper to explain economic concepts. Mind you she is always strict about handing in work on time, but it is only afterwards that you realize this is for the better. If she tells you to read chapters for homework, ALWAYS read them. Also, always print your assignments BEFORE class. Never be late to class at all, because you will get one of her patented death stares. She also organizes the European Central Bank Competition, and if you win, you will get the chance to visit the ECB Headquarters in Frankfurt, and meet the President, Mr. Draghi. You might also win an iPad… She is so extremely passionate about teaching Economics to her class that, when she unfortunately had an accident and ended up in hospital, she would have walked out that hospital to come teach her class the next day if it had been up to her. Note: Subscribe to The Economist and The Financial Times. It is very helpful for applying what you learn in her class.&nbsp;</p><p><br></p><p><b>Mvr. Demyttenaere</b> is the Dutch teacher for all the classes offered in the high school. The Dutch community at St. John’s is quite small, but this is a bonus because your classes will be small as well. These small classes allow for much greater degrees of discussion which is especially helpful when learning a language. Furthermore, fewer meetings will be required each week, so Mvr. Demyttenaere is happy to rearrange classes in the way which best suits the students. Be forewarned, however, that these switches can be slightly confusing at first and lead to you or Mvr. Demyttenaere not showing up to class. Mvr. Demyttenaere teaches through special binders and workbooks she has specifically prepared for each student, as well as a variety of videos concerned with current events and Dutch/Flemish culture.</p><p><br></p><p><b>Mr. Diedrich</b> is the teacher of our new Public Speaking Class, as well as the teacher for IB Philosophy. He is known for showing movies from Bruce Almighty to The Room, as well as having baked goods be brought in to every Philosophy class. At times during the year, you may wonder if he still exists, but he will for sure be back within three classes. He is one of our teachers who happens to have outside talent with his amazing voice with which he performs in school musicals. He is also the mentor for those writing IB Philosophy extended essays. Lastly, he is the head of both our Debate Club (Tuesday lunch - come check it out) and the head of Feminist Society (Wednesday lunch - come check it out.)</p><p><br></p><p><b>Dr. Doyle</b> is a science teacher. Dr. Doyle is nothing if not kind, enthusiastic, and positive. She has been known to hand out emergency chocolate during exams, and if you get lucky, you might get to take a quiz written by her daughter for take your daughter to work day. Dr. Doyle is also known to start all her classes with meditation, which has reached a record of being 45 minutes long once (sorry to disappoint, but it's regularly around 5.)</p><p><br></p><p><b>Ms. Franzen</b> has many important roles in the St. John’s world. She is the Business Management teacher, as well as the IBDP coordinator. Ms. Franzen may seem strict at first, but once you get to know her, get used to her class, and stick around, you’ll find out that she is an awesome teacher. She often joins in on her students conversations and you will catch her laughing with them. She has a unique teaching style, different from most other teachers. For example, in class, she loves playing games with her students as a learning process, as well as having a unique way of forming groups (her students would understand.) If you ever need her to repeat a sentence, as she occasionally tends to speak a bit too fast, she will gladly repeat it, sometimes even multiple times.&nbsp;</p><p>Do not forget to do your work on time with Ms. Franzen!</p><p><br></p><p><b>Madame Froidcoeur</b> is new to teaching the IB curriculum, but will be teaching IB Geography this year, a newly reinstated course at St. John's. She also teaches social studies. While her name may mean \"cold heart,\" she has a reputation for being the opposite and will give you any help you need. It's pretty much a standard rule that Donald Trump must be brought up either in seriousness or for fun once per class in her classroom, as many of her classes involve a group-discussion element and your input is always valued. She has done some work with Serve the City, which is a service opportunity, so you can talk to her about that. In addition to her teaching and service, she will also be sponsoring our new student-run online newspaper The Lion's Tale (Thursday lunch - come check it out) which, if you are reading this, you have already heard of.</p><p><br></p><p><b>Señora Gortari</b> teaches Spanish. She is known to be a kindhearted and funny teacher. She has been teaching at St. John’s for over 20 years and is the kind of teacher you can have good talks with. She is always ready to help all of her students, no matter when or what for. She always tries to make her classes as interesting and creative as possible, although it is still a language she is teaching so you cannot escape the grammar.</p><p><br></p><p><b>Ms. Glaser</b> is our dance teacher. Ms. Glaser is a very talented dancer and teaches very many classes. Many students have marveled at her extravagant outfits and the height of her heels. She is good with students of all ages as she teaches many age groups and is also good at choreographing dances of different genres. Her dance studio is located in the PAC. Ms. Glaser not only teaches during school hours but also teaches many classes after school as well. Last year was STJ’s first year participating in the “Dance ISSTs,” where Ms. Glaser and a group of selected girls went to London to perform with and for other schools in Europe, an unforgettable opportunity. Ms. Glaser is also in charge of our School Wide Dance Showcase which is absolutely amazing every year.&nbsp;</p><p><br></p><p><b>Mr. Graham</b> is the Theater teacher, but also teaches an elective called Musical Theater. He can be intense, but he truly does care so much about his students. As long as you treat him with respect, he will afford you the same courtesy, so please do so. He both choreographs and directs all high school and all school productions. He also teaches a ballet class on Friday after school. Fun fact! Mr. Graham is actually on the official poster for Chicago on Broadway, from his days as a Broadway performer. He has many words of wisdom, but his favorite has to be, \"Be a better person,\" which is an important thing we should all tell ourselves every day. P.S. He has a refrigerator and kettle in his room which IB Theater students can use, so underclassmen *hint hint* take IB Theater.</p><p><br></p><p><b>Dr. Hausdorff</b> is both a College Counsellor as well as an English Teacher. She is one of the most enthusiastic teachers you will have, as she is always trying to get kids fired up and excited about whatever poem or novel they may be doing – although make sure she doesn’t lose track of time! A teacher that will always give you her full time and attention whenever you need it, she is a great teacher and amazing advisor!</p><p><br></p><p><b>Coach Jacobs</b> <b>- Pending Approval</b></p><p><br></p><p><b>Mr. Jones</b> teaches english. He has been known to be able to analyze single passages in great, great detail, but this seems to be every English teacher. He is, though, one of the rare breed of English teachers who will seldom pause a movie if you're watching it in class, which is amazing. If you're bored, you can always stop by his classroom and play with the zen garden on his desk. Fun fact! Mr. Jones is really good at calligraphy, but somehow his comments on your papers will still be mostly illegible, so listen closely to his oral feedback which he gives on every paper. Lastly, if you see Mr. Jones smiling on a cold winter day, it is due to the present Mr. van Rijn bought him from the Icelandic Phallological Museum. Please ask him about this, as it will be funnier than a written explanation.</p><p><br></p><p><b>Ms. Kallenberg</b> teaches music to Middle School, but is the Visual and Performing Arts Director at St. John’s. She organizes the choir and many of the school concerts. She is also the music director to the musicals. She tends to go off on analogies about how singing and hitting a bowl of water in the mountains is the same every time she hears a voice crack. Mrs. Kallenberg is very much a teacher who nurtures the musical talent in her students, and teaches them skills that greatly helps them improve. She has a knack for cleaning, as she constantly reminds everybody within reach to polish silver and seal their envelopes, whatever that means! If you’re ever bored and want to listen to live music, just walk anywhere into the PAC and you’ll hear her playing piano, any time during the day.</p><p><br></p><p><b>Madame Lariviere</b> is a math teacher. Math never had a more enthusiastic fan than Madame Lariviere. If you ever have a complicated math problem to solve (you might even get a Gili-gili noise) or really just want to see the kind of excitement math can bring to someone, stop by and talk to her. Make sure you adapt to a fast-paced speaking speed before you start her class. Also, if you wish to speak to her, in person is recommended, as she does not often answer emails when it is not during school hours. Madame Lariviere runs most, if not all, of our math competitions (there are always math problems to solve outside her door, or speak to her personally for more specific competition opportunities.) P.S. We can attest to the fact that the reward for participating in these is sometimes pizza.</p><p><br></p><p><b>Ms. Larsson</b> or Gun-Marie Larsson is a Swedish, English, and EAL teacher. She is from Gothenburg, Sweden. The Swedish students like to call her Gun-Marie, as you call the teacher by the first name in Sweden. However, her English students call her Ms. Larsson. Gun-Marie is very kind, understanding, very good at working with her students, and also at providing help. She is always open and available for a student’s questions or requests. She loves to read and is very passionate in persuading others to read as well. She even has her own library right inside of her classroom, containing both Swedish and English books.&nbsp;</p><p><br></p><p><b>Mr. MacDonald</b> is a social studies and history teacher. He is often mistaken in the halls for Mr. Jones, as they are both from the UK with glasses, so if you think you see him in the hall, check twice. For those of you who don't know him, he has a unique teaching style, but it is still effective. If you ever walked by his classroom and wondered about the pictures of guys with ponytails, this was a prank played on Mr. MacDonald based on his dislike for men with ponytails. This dislike is due to his hair envy, but sadly the pictures are gone. If you like caffeine, then Mr. MacDonald's classroom is certainly the place for you as coffee is always in abundance (tea is provided too.) This keeps the students and teachers awake. This classroom is also the location of In the Groove (Monday or Tuesday lunch - check it out.) Mr. MacDonald is often the advisor for history extended essays. Last but not least, his classroom is also home to the Varsity Darts Club. Yes, you read that right. Varsity Darts. Go check it out at Wednesday lunch.</p><p><br></p><p><b>Ms. Malinab</b> is a sweet and funny teacher who is great to be around if you are on her good side. To survive her class, absolutely do not get on her bad side. Also, don’t talk too much. Lastly, do not disrespect her personal space. Just don't. For most of the first semester, she will still be on maternity leave.</p><p><br></p><p><b>Martine</b> is the high school secretary and resident dress coder. For her sanity, please try to follow page 10 of your agenda to the best of your abilities. Running back to your PE locker to change when you see her in the cafeteria is exhausting, so just come to school that way. We all know wearing shorts is tempting during the few weeks that Belgium actually becomes horribly hot, but it is not fair to Martine who would really rather not have to tell us to change. Martine's office is also where you go if you are leaving school early, need to get or hand in an assignment sheet (forms you need to fill in if you are missing school,) or if you're late to school. Fun Fact! Coach D is very fond of Martine.</p><p><br></p><p><b>Mr. Mitchell</b> ain't your average art teacher. This is because he won't only teach you art, but he will also constantly give you life lectures varying on the subjects of how modern technology is taking over our lives, or on how Andrea Boticelli's every, precise brush stroke, in the cold and gentle aquamarine hue represents the struggle the artists of the Renaissance had to endure in the 15th century. These hour long lectures will be told in the most soothing and quiet voice you've ever encountered - putting you at risk of falling asleep right there, right then. But you really should stay awake so that you might be personally sucked into a never ending conversation about whether the government isn't truly poisoning us through the air. Mr. Mitchell is a pretty amazing artist - but this also means that he will make sure to prove that to you: as you are drawing your mediocre, geometrically-correct tree, he will approach you, suddenly taking over your spot and pencil, and adjacently drawing the same tree; only more artistically and geometrically-perfect than yours. Hence, making your tree, in comparison, look primitive.</p><p><br></p><p><b>Ms. Mobley </b>is our high school counselor. Her smiling face and positive personality are always appreciated. If you need a safe haven from anything, even PE, Ms. Mobley's office is the place to go. She always has tea, brownies, or other assorted things available. If you're interested in Italy Beach Week, Ms. Mobley is who you should talk to.</p><p><br></p><p><b>Mr. Vanderkelen - Pending Approval</b></p><p><br></p><p><b>Mr. Prowse</b> (or just Prowse, as some call him, or Edgy Prowse, or even Prowsey) teaches english. He can write a series of books on anything, even just a single word. He is of the brand of English teacher who pauses a movie a million times. His crowning moment was definitely when he wore UGGs and shorts to the International Day Parade. He runs the Dusty Giants Appreciation Society (Friday Lunch - come check it out.) Mr. Prowse's son Sebastian was born this summer, and as he begins his life of cringing at his father's bad puns and bad accents, the question on everyone's mind is - who will go through puberty first: Mr. Prowse or his son?</p><p><br></p><p><b>Mr. van Rijn</b>, more commonly known as PVR (not to his face,) is a math teacher. He has been rumoured to have spent his summer going to the penis museum in Iceland. Although he is often described as \"chill,\" make no mistake, his class is legit and you are expected to work. If any help is needed, PVR can often be found in his classroom until about 6 every day (which is the fault of his daughter who never lets him go home on time.) Lunch time is probably not a great time to approach him for help, as he is usually teaching 8th grade or is running the high school's MUN (Tuesday lunch - come check it out) and GAIA (Wednesday lunch - come check this out, too) clubs. If he's not in his classroom, he's probably at a meeting or staring lovingly at his lettuce plants in the GAIA garden. PVR is the advisor for our students concentrating in Global Studies for their extended essay. PVR will also be replacing Mr. Ambrozi as this year's CAS advisor, so you'll be seeing a lot of him in his office on C-level, especially if you decide to leave 39 of your around 40 reflections to the last minute. One message I know PVR would like to convey is that you have school email accounts for a reason, so please answer them!</p><p><br></p><p><b>Coach Rita - Pending Approval</b></p><p><br></p><p><b>Madame Ruscher</b> is a french teacher who also teaches AP French to students during free blocks, by request. You can expect to spend many classes just having discussions, but quizzes will happen pretty often (not pop quizzes, but it is advised to check her Moodle page and your school email daily if you don't want a nasty surprise in french class.) She lovessssssss International Day. Overall, Madame Ruscher is a good teacher and person, but has quite a serious class. She also is in charge of the club The Giraffe Project.</p><p><br></p><p><b>Ms. Saugstrup</b> is the person who you go to if you want to get stuff done.</p><p>Completely Contributed By: Nathaniel Bentley</p><p><br></p><p>In all seriousness, though, Ms. Saugstrup is a lovely teacher who helps with learning support. She works one on one with students as well as small groups, making sure they stay organized, meet their deadlines, and in the process become all round better students.</p><p><br></p><p><b>Mr. Stryckers</b> teaches music. To some, he has always looked a little like Beethoven, but with glasses. He runs Chamber Orchestra, so see him for the rehearsal schedule.</p><p><br></p><p><b>Tanya - Pending Approval</b></p><p><br></p><p><b>Coach Thomas</b> is a PE teacher, as well as the Healthy Living teacher. He is a very carying person, whom you can bond with if you do International Award. He is a fun teacher that will always say hi to you and smile in the hallways even if he isn't your teacher. He always playfully mocks and joking around with the older kids, and always ready to join the sports in PE class himself. He likes to act younger than he is and although he may look close to the age of a high school student, he isn’t. He can always be seen with hiking boots and a backpack, so it looks like he is planning to go hiking every day. He also rents a creepy white van for the international awards, and, instead of hiking with you, will just follow you in his van.</p><p><br></p><p><b>Ms. Tuppeny</b> is a science teacher. Ms. Tuppeny is not only a science teacher, but will enlighten you on the various aspects of equestrianism and the details of life in Michigan. Ms. Tuppeny teaches through a variety of media including packets, videos, and models fitting the needs of any student. She is very flexible and if a student has a question or needs to know particular content she is happy to adjust her teaching style. Ms. Tuppeny also has an in depth understanding of how chemistry works in the world around us, making her course all the more interesting and applicable. If you plan on doing an extended essay in chemistry, be prepared to come into school for at least a week during the summer holidays. Ms. Tuppeny is very dedicated to her students so take advantage of the help she always has to offer whenever it may be needed.</p><p><br></p><p><b>Ms. Vohra</b> is a science teacher. She is one of the kindest and gentlest teachers there is, and is always willing to smile at you first thing in the morning. She’s not unfamiliar to cheesy biology jokes, and you can trust that her constant sighing is NOT because of how badly your class may be doing – it’s just a habit! Be sure to tell her all of the latest Biological news if in need of some really interesting talk (and some extra brownie points!).</p><p><br></p><p><b>Ms. Walravens</b>, more widely known as MC, provides all university counselling support, as well as being the scheduler for all teacher and student schedules. So, if you have major gaps in your schedule, go see her during the first unscheduled period in your schedule. If you want to change a class, please wait a couple days. She is another smiling face on C-Level. There would be no need for security cameras on C-level, as MC is a good replacement (she can overhear all conversations.)</p><p><br></p><p><b>Dr. Willmott</b>, or Frau Willmott, if you will, teaches all the German classes in high school, from beginner to native. She is known to vanish and reappear in random places. However, you have nothing to fear from her unless you:</p><p>1. Are a millisecond late</p><p>2. Have not handed in your homework</p><p>But if you do well or at least try to, she will cut you some slack. If you plan on taking German, get a REALLY big binder; I am certain the number of worksheets, tests and review packages she hands out on paper equates to half a rain-forest. But all in all, she is a great teacher and her teaching yields results.</p><p>P.S. If she ever promises to hand out candy/chocolate \"if you're really good\" be prepared to receive such candy/chocolate 1 out of 5 times it is talked about.</p><p>P.P.S. Do NOT try and speak another language to conceal what you're saying. She speaks almost every language.</p><p><br></p><p><b>Ms. De Wolf</b> is thought to be the official school photographer by many students, but she in fact does a lot more than take the occasional photo. Having been at the school for over 10 years, she knows almost everything about it and will always be able to tell you who to ask, where to find them, and pretty much anything you need. While she may seem strict and controlling, she enjoys having her fair share of fun with students when she can, especially if candy is involved!</p><p><b><br></b></p><p><b><br></b></p><p><b>Places On Campus</b></p><p><br></p><p><b>The Sports Foyer</b> is a social hub. On any given day, there will be a group or two eating lunch here. Many things have happened here, some which should not be named (11th graders know what this is in reference to.) I'm sure every high schooler has a cringy memory from a school dance there. After school, it always smells of popcorn because of the Booster Club food stand which is a great place to get a snack.</p><p><br></p><p><b>The Gym</b> is not only the location of after school practices, but also where a group of sweaty boys will be playing basketball every day at lunch. It also serves as a location for any number of random school events from international day to student council election speeches.</p><p><br></p><p><b>The Cafeteria</b> is another social place, both during break and lunch. It serves overpriced food, but sometimes has new inventions, such as last year's \"Pizza Baguette.\" About once a week, there will be a day where nothing seems appetizing, but always know that Thursday is chicken nugget day and Friday is, well, Friesday. Every grade has their own unspoken assigned table (Note to last year's freshman: taking another grade's table is not funny.) If you need a coffee, there is a machine which will allow you to buy coffee or tea with change at the front of the teachers' eating area.</p><p><br></p><p><b>C-Level</b> is a wonderful area to hang out during break, lunch, or free blocks. If you get there early, you might be lucky enough to see a stray student getting the sleep they should have gotten the night before. The pattern of the tables is ever-changing, so it's always a nice surprise to see what they look like on any given day. Many offices open up to C-level including the counselors' offices, the IB Coordinator's office, and the CAS Coordinator's office. It is also the location of Supervised Study after school, which is most often not a voluntary activity. Note: C-Level has great couches and a printer.</p><p><br></p><p><b>The PAC</b> is the arts building where the theater is located. This is also the location of all performing arts classes and where all performing arts productions are shown. The senior lounge is also located here, as well as various couches in other areas of the building. While there have been rumors about what goes on in PAC bathrooms, in the words of Mr. Graham, just be a better person.</p><p><br></p><p><b>The middle school foyer</b> is a place where no high schooler dares to go as it is always swarming with middle schoolers. Warning! Enter at your own risk.</p><p><br></p><p><b>The courtyard</b> is where everyone goes to eat when there is even the slightest bit of sun. Other than this, it is also used for school events and, again, sweaty boys playing basketball anytime they get a chance.</p><p><br></p><p><b>The science hallway</b> is also home to another couch and a printer. For some, this is their favorite part of the science wing. If going through the science wing to get to the cafeteria takes away your appetite, there is another entrance to the cafeteria here down the stairs.</p><p><br></p><p><b>The D-Level hallway</b> is used for last minute study sessions during finals, but is otherwise mostly populated by freshmen. It also is home to most social studies and language classes.</p><p><br></p><p><b>The Library</b> is often used to study before school, during break, during lunch, after school, or during free blocks. It is a godsend during finals if you need a quiet place to study, as there is a quiet room where no one is supposed to speak. People are rarely seen actually checking out books, but it must happen at some point. It is used for teacher meetings on Monday mornings, so don't go in there then. Note: No food is allowed in the library.</p><p><br></p><p><b>The seats under the stairs </b>leading to the library are sometimes occupied during lunch by those who want to study. It is surprising that more people don't take advantage of this perfect, comfortable study spot where food is actually allowed.</p><p><br></p><p><b>The red seats on the grass outside the PAC </b>are also underappreciated, but should definitely be used when the weather is nice.</p><p><br></p><p><b>The library patio</b> is used during free blocks when the weather is nice. Maybe student council can arrange for a barista to be hired to serve a coffee.</p><p><br></p><p><b>The Visual Arts building</b> is across the street from the school through the back gates. There is always much art on the walls, which everyone should definitely look at once in awhile. It is the location of Art Club on Mondays after school and art showcases about once a month, which are run by the Greene Gallery. If you do decide to join your friends in the art building while they work, during lunch or afterschool, avoid Mr. Mitchell at all costs as he does not take kindly to loiterers who don't take Art.</p><p><br></p><p><br></p><p><b>Clubs</b></p><p><br></p><p><b>Amnesty International</b> raises funds for a chosen cause.&nbsp;</p><p>Meeting Time: Monday Lunch&nbsp;</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Annai Erika Home</b> is meant to help schools and orphanages in need. They do this through activities, lunches, and selling items, among other fundraisers. Note: They are a great contributor to the very large number of bake sales that St. John’s has throughout the year.</p><p>Meeting Time: Wednesday Break in HD06</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Art Club</b> is a club that meets after school to do art. If you can’t take art for the IB or just want to do more art, this is the place for you.</p><p>Meeting Time: Monday After School in the Greene Gallery</p><p>Potential Sections of CAS: Creativity&nbsp;</p><p><br></p><p><b>Backstage Crew </b>is the group in charge of everything that happens behind the scenes in the musical involving moving sets, props, and more. They are the ninjas of the performing arts department and a really fun group to be in. They are also looking for more people.</p><p>Meeting Time: Often during the two weeks before the musical</p><p>Potential Sections of CAS: Action and Service</p><p><br></p><p><b>Ballet </b>is another after school dance class. It’s a different type of dance, but similar people might be interested in both. Beginners are welcome, so go ahead and try something new.&nbsp;</p><p>Meeting Time: Friday After School 4-6 in the Drama Room</p><p>Potential Sections of CAS: Creativity and Action</p><p><br></p><p><b>Bus Monitors</b> are meant to maintain order and safety for all passengers on their bus. Good with kids? Have lots of patience? This might be the opportunity for you.</p><p>Meeting Time: Every School Day</p><p>Potential Sections of CAS: Service</p><p><br></p><p><b>Chamber Orchestra</b> is our school’s orchestra. They also perform at concerts.</p><p>Meeting Time: Friday After School in the Choir Room</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Chess Club… </b>It’s a club where people play the game of chess. Will it exist this year? Who will run it? So many unanswered questions.</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Creativity&nbsp;</p><p><br></p><p><b>Choir</b> is the only club where you will actually get a grade. They sing songs from all over the world and perform multiple times throughout the year. Small dance movements might be involved.&nbsp;</p><p>Meeting Time: Wednesday After School 3:45-5:30 in the Choir Room</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Dance</b> is an after school class for dance enthusiasts or those who would like to compete in the Dance ISSTs. They will also perform at the School Wide Dance Showcase. Note: Those who participate in the Dance ISSTs will mostl likely get cool STJ Dance Swag like jackets or bags.&nbsp;</p><p>Meeting Time: Wednesday After School 3:45-5:30 in the Dance Studio or the Drama Room, depending on the day</p><p>Potential Sections of CAS: Creativity and Action</p><p><br></p><p><b>Debate Club</b> is a club where people learn to debate. Beginners to advanced are allowed in. If you enjoy arguing and can do it in a polite way, you should check it out.</p><p>Meeting Time: Tuesday Lunch in Mr. Diedrich’s Room</p><p>Potential Sections of CAS: Creativity</p><p><br></p><p><b>Duke of Edinburgh's International Award</b> is an award which is very prestigious, especially when applying to UK universities. It’s basically more CAS, along with adventurous journeys (where you go hike, camp, and cook for yourselves.) You can start it in freshman or sophomore year and continue through until senior year. It’s definitely a Commitment.</p><p>Meeting Time: Different lunchtimes for different levels, on C-Level</p><p>Potential Sections of CAS: Creativity, Action, and Service</p><p><br></p><p><b>Dusty Giants Appreciation Society</b> is a group which learns about the authors of the Western Canon. Mr. Prowse is very passionate about this club, and you will boring things in a fun way.</p><p>Meeting Time: Friday Lunch in the Library</p><p>Potential Sections of CAS: Creativity</p><p><br></p><p><b>Feminist Society </b>is a group that has meetings to talk about issues related to the feminist movement. It is a pretty free discussion group, which usually has a theme for each meeting.</p><p>Meeting Time: Wednesday Lunch</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>GAIA (Global Awareness, Investigation, and Action)</b> is a club dedicated to all things related to the environment. It allows students to look into any environmental issue that they would like to. It also has a Gaia Garden and many plants in Mr. van Rijn’s room. They might be getting an aquarium and a greenhouse this year. There is also a potential trip to Israel, which is another added bonus of joining.</p><p>Meeting Time: Wednesday Lunch in HB01</p><p>Potential Sections of CAS: Creativity, Action, and Service</p><p><br></p><p><b>Giraffe Project</b> is an organization which aims to bring education to the children in the poorest parts of Kenya. They have so far built a few schools. They raise money for this organization through various fundraisers. Note: Another large contributor to the bake sale movement. You can always tell when they’re going to have one from the many posters around school as well as the stacks of food in Madame Ruscher’s windows.</p><p>Meeting Time: Friday Break in Madame Ruscher’s classroom</p><p>Potential Sections of CAS: Creativity, Action, and Service</p><p><br></p><p><b>Girls Choir</b> is another choir which sings songs specifically targeted to women. Only girls join, if that didn’t already come across from the name. They perform at the concerts, as well.&nbsp;</p><p>Meeting Time: Tuesday Lunch in the Choir Room</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Greene Gallery</b> is a club which helps to set up the art gallery for art exhibitions. For aspiring artists, this is a real opportunity to learn what running a gallery is like. There are many jobs in the club, ranging from interviewing people at exhibitions to putting up artwork to performing at the art shows.</p><p>Meeting Time: Some mondays during the year in the Greene Gallery</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Homeless Restaurant</b> is a group that will go on some saturdays during the year to serve food to the homeless in Brussels at a restaurant. It will be a great service opportunity and will help you give back to the community of Brussels.</p><p>Meeting Time: Some saturdays during the year</p><p>Potential Sections of CAS: Service</p><p><br></p><p><b>In the Groove</b> is a group that plays different records, listens to them, and appreciates them together.&nbsp;</p><p>Meeting Time: Thursday Lunch in HD03</p><p>Potential Sections of CAS: Creativity</p><p><br></p><p><b>Instrumental Music</b> is a class which teaches students to play instruments.&nbsp;</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Creativity&nbsp;</p><p><br></p><p><b>Lion’s Tale</b> is our new online student newspaper, which allows articles to be written about pretty much anything, ranging from arts to comedy to anything you can think of. If you like writing or have anything to contribute to this type of student website, come check it out. They are always open to new ideas.</p><p>Meeting Time: Thursday Lunch in Madame Froidcoeur’s Room</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Maitland Cottage Home</b> is a group which helps to raise funds for a hospital in South Africa. There is also a trip to South Africa during the summer for members of the club. It seemed to be an amazing experience. Note: Another large contributor to bake sales.</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Service</p><p><br></p><p><b>MUN and Model NATO</b> is a club which focuses on debate about international relations. Students can represent the school at conferences.&nbsp;</p><p>Meeting Time: Tuesday Lunch in HB01</p><p>Potential Sections of CAS: Creativity</p><p><br></p><p><b>Musical Participation</b> is a very big time commitment, but definitely worth it. The musical this year is Bye Bye Birdy. There is an article up explaining what it is about. Anyone can join, from beginners to those who have participated in many musicals. Expect to have to sing, dance, and act.</p><p>Meeting Time: Rehearsals Monday, Tuesday, Thursday, Saturday with varying times and locations</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>NHS (or National Honors Society)</b> is a group of students of a particular academic standing with a record in service and leadership responsible for peer tutoring and certain academic events throughout the year. There are certain requirements for getting in which you can look into further if you are interested. It is quite prestigious.</p><p>Meeting Time: Wednesday Lunch, most likely</p><p>Potential Sections of CAS: Service</p><p><br></p><p><b>Optional Concerts and Events (Cabaret, Unplugged, Rock Extravaganza) </b>need to be organized and participated in. Organizing one of these can count as a CAS Project. Performers are also needed. They are also fun to just go and watch, as the quality of performance is very high. Each event targets a different type of music.</p><p>Meeting Time: TBD&nbsp;</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Programming Club </b>is a club for anyone who already programs or is interested in learning how.</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Creativity</p><p><br></p><p><b>Prom Committee</b> is in charge of making decisions involved in prom such as the menu and the venue. They raise money for it as well. Note: Even more bake sales contributed by this club.</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Red Cross</b> is about understanding the social, cultural, political, ethical, and humanitarian issues facing asylum seekers and refugees, and offering human solidarity and support in practical ways. Basically, this is a club to help people in need in our current time.</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Creativity, Action, and Service</p><p><br></p><p><b>Student Council</b> is like student council at every school. Each advisory will elect a representative or two. They are in charge of planning high school events such as dances and spirit week. They have many duties other than this, which you can learn about if you join. Representatives for President, Vice President, Secretary, and Treasurer will give speeches and be voted into office at the end of each year.</p><p>Meeting Time: Monday Lunch in Dr. Hausdorff’s Room</p><p>Potential Sections of CAS: Creativity, Service, and Action</p><p><br></p><p><b>Theater Tech </b>is in charge of lighting and sound for all school productions or events that involve tech. They are a small group which requires training. They definitely deserve everyone’s respect, as they are the reason our shows look so good. They are looking for more people, so please consider it.</p><p>Meeting Time: Depends on the student</p><p>Potential Sections of CAS: Service</p><p><br></p><p><b>Varsity Darts</b> is another club at St. John’s. The group gets together at lunchtime and plays darts and even competes against other schools. This is not a club you will find at many other schools, so check it out!</p><p>Meeting Time: TBD</p><p>Potential Sections of CAS: Action</p><p><br></p><p><b>Vocal Jazz</b> is another choir group for the more experienced singers. It is usually by audition. They do more advanced songs, and sometimes acapella. They also perform at the concerts.</p><p>Meeting Time: Thursday Lunch in the Choir Room</p><p>Potential Sections of CAS: Creativity and Service</p><p><br></p><p><b>Volunteer Opportunities:</b></p><p>ASP (Arts Supports Program)</p><p>Relay for Life and Relay Recess</p><p>Front of House Manager</p><p><br></p><p>Note: If your club is not here, please contact aidastinvanrijn@stjohns.be</p><p><br></p>",
-          "_anchor": "content1-4r"
         },
         {
           "alias": "facebook-comments",
