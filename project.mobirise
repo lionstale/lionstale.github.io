@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Comedy",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -26,9 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 187,
-    "versionPublish": "4.1.7",
-    "publishType": "local",
-    "publishPath": "file:///Users/Aimee/Documents"
+    "versionPublish": "4.1.7"
   },
   "pages": {
     "Sports": {
@@ -407,7 +405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1382,7 +1380,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21034899_1212070702230938_1967859116_o-1000x1334.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21034899-1212070702230938-1967859116-o-1000x1334.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2105,7 +2103,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page19.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img_20170822-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170822-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5913,7 +5911,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x987.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x987.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -5970,7 +5968,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x787.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
