@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "About",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 185,
+    "uniqCompNum": 187,
     "versionPublish": "4.1.7",
     "publishType": "local",
     "publishPath": "file:///Users/Aimee/Documents"
@@ -1198,7 +1198,7 @@
             }
           },
           "title": "Aimee Dastin-van Rijn",
-          "text": "Aimee is a writer for the paper, as well as the Editor in Chief.<br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend",
+          "text": "Aimee is a writer for the paper, as well as the Editor in Chief.<br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1206,7 +1206,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1a",
+          "_anchor": "msg-box5-1c",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1232,11 +1232,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/15252472-1023759337751204-9170983574434501323-o-1365x1365.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1250,8 +1246,8 @@
               "size": 0
             }
           },
-          "title": "Ceola Daly",
-          "text": "Ceola is a writer for the paper.<br>Articles Written:<br>- Lucky to be Lions",
+          "title": "Ignacio Bricchi",
+          "text": "Ignacio is our programmer who is currently working on an improved version of the current website, so that we can replace it with his.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1308,11 +1304,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1c",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1338,7 +1329,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/img-640x1136.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1352,8 +1347,119 @@
               "size": 0
             }
           },
-          "title": "Ignacio Bricchi",
-          "text": "Ignacio is our programmer who is currently working on an improved version of the current website, so that we can replace it with his.&nbsp;",
+          "title": "Nathaniel Bentley",
+          "text": "Nat is a writer for the paper, as well as the content editor and editor of the comedy section.<br>Articles Written:<br>Coming Soon",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-56"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/21034899_1212070702230938_1967859116_o-1000x1334.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Eva Morris",
+          "text": "Eva is a writer for the paper.<br>Articles Written:<br>- Living the Dream?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-55"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1a",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/15252472-1023759337751204-9170983574434501323-o-1365x1365.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Ceola Daly",
+          "text": "Ceola is a writer for the paper.<br>Articles Written:<br>- Lucky to be Lions",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
