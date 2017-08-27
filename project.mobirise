@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page22.html",
+    "currentPage": "Events",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -405,7 +405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-1368x912.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -423,9 +423,9 @@
               "size": 250
             }
           },
-          "title": "High School New Student Orientation",
-          "text": "A description of orientation and how it went, containing two reactions from new students.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Green and White Day",
+          "text": "A summary of our back to school sports barbecue.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page22.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
