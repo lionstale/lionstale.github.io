@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Miscellaneous",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 221,
+    "uniqCompNum": 230,
     "versionPublish": "4.1.7"
   },
   "pages": {
@@ -637,7 +637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/map2-420x412.png",
+              "src": "@PROJECT_PATH@/assets/images/chemical-science-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -655,9 +655,9 @@
               "size": 250
             }
           },
-          "title": "The Story Behind Maps",
-          "text": "By examining the evolution of maps through history, this article uncovers how maps affect the way we perceive the world.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Doing Two Sciences at Higher Level in the IB",
+          "text": "A guide and evaluation of doing two higher level sciences in the IB.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page24.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -679,17 +679,17 @@
             "slides": [
               {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8d95971a407b72eaa52a5edb9c7754bc.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "The Story Behind Maps",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :)&nbsp;",
+                "text": "By examining the evolution of maps through history, this article uncovers how maps affect the way we perceive the world.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -729,7 +729,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -2200,7 +2200,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/chemical-science-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2253,9 +2253,9 @@
           "title1": "Why Nice Guys Finish Last",
           "subtitle1": "",
           "caption1": "An interpretation of the statement \"Nice guys finish last.\"",
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :)",
+          "title2": "Doing Two Sciences at Higher Level in the IB",
+          "subtitle2": "Written By: Dominic Gray",
+          "caption2": "A guide and evaluation of doing two higher level sciences in the IB.",
           "title3": "Coming Soon",
           "subtitle3": "Who Will Write Next?",
           "caption3": "More articles being written... literary genius takes time. :)",
@@ -2269,7 +2269,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page23.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page24.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2562,7 +2562,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -2803,7 +2803,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -3937,7 +3937,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hot-dog-mascots-600x382.jpg",
+              "src": "@PROJECT_PATH@/assets/images/map2-420x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3947,10 +3947,10 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Lucky to Be Lions",
-          "subtitle1": "Written By: Ceola Daly",
-          "caption1": "What does our mascot mean to us?<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "The Story Behind Maps",
+          "subtitle1": "Written By: Camille Kummer",
+          "caption1": "By examining the evolution of maps through history, this article uncovers how maps affect the way we perceive the world.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-600x450.jpg",
@@ -4055,7 +4055,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -4710,7 +4710,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5129,7 +5129,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -5745,7 +5745,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -5932,7 +5932,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -6221,7 +6221,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -6449,7 +6449,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -6800,7 +6800,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -6956,6 +6956,275 @@
           },
           "text": "<p><span style=\"font-size: 1.07rem;\">While “nice guys finish last” is often said about guys trying to get girls, the statement is generally untrue, as girls do tend to go for nicer guys, as they give more attention and emotional support. That being said, in everyday life, the statement is often true. Often, people of power, such as big business owners or politicians, are more selfish or hard-hearted. They tend to be more successful, because of their ability to be selfish, or not being one of the nice guys.</span><br></p><p><br></p><p>​I find that this is mostly because no good deed goes unpunished. In general, when someone spends all their time focusing on how to help other people, they use up the time they should be focusing on themselves instead. When someone inconveniences themselves for others once, it is being nice, but when it is consistent, it could become a problem for that person. Because of this, people who focus on themselves first often end up being able to do more for themselves rather than using up the majority of their time on other people.</p><p><br></p><p>​People often also end up taking advantage of people’s good graces. When someone shows that they are available and willing to help others, people start to expect that person to help all the time, and then could start taking advantage of them. In addition to this, when people allow others to take advantage of them, it can intensify the problem, and the person starts digging a hole that they can’t get out of. This is generally unfair to those who want to be helpful, as they are just trying to do a good thing until it gets ruined by someone who just wants personal gain from the other.</p><p><br></p><p>For instance, if someone is working on an essay and someone else asks them for help there are two options: either help or don’t. If they choose not to help, they can spend all their time working on their own essay, increasing the chances of them getting their desired grade, or giving them more free time. However, if they choose to help, they risk using too much of their time, thus, risking their grade. In addition to this, the risk is that the person who asked for help can and, most likely, will take advantage of the person helping by having them do too much, or most, of their essay. It is also possible that by helping one person, more people ask for help, using up more time and energy. And if those people are denied, it will make you seem unkind for purposely choosing to only help certain people, defeating the purpose of helping in the first place.</p><p><br></p><p>​Because of this, it ends up that the nice guys of the world are worse off than the nastier ones. While this may be unfair, it is how it is. However, it is also true that often the nice, helpful people of the world are more liked, which could make them more successful in other areas, including friendship and overall happiness. According to a study conducted by the University of Oxford, students who frequently helped their friends felt happier than those who didn’t. While the difference wasn’t much, it was consistent based on how helpful someone was. This shows that there are genuine and kind hearted people in the world, and their importance is huge to a functioning society, as long as people don’t take advantage of them.</p>",
           "_anchor": "content1-5z"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "page24.html": {
+      "settings": {
+        "title": "2 IB Sciences",
+        "meta_descr": "Web Page Builder Description",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-65"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-66"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#174034",
+            "overlayOpacity": 0.5
+          },
+          "title": "Doing Two Sciences at Higher Level in the IB",
+          "text": "<p>Written By: Dominic Gray</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-67"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Based purely on the fact that I was even asked to write this, there is clearly a stigma concerning taking two sciences at higher level in the IB. I think that it’s important for people to consider it purely the same as taking any two courses at a higher level.&nbsp;</p><p><br></p><p>Regardless of this fact, I will go through each of the elements of the examination process for the sciences trying to give out some tips.</p>",
+          "_anchor": "content1-68"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-programs-biology-shutterstock-1200x480.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Biology",
+          "_anchor": "image2-69"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Paper 1 - this is a multiple choice paper which is worth 20% at HL and is 1 hour in length. The only advice that I can give for this paper is to practice and once you’ve done that, practice some more. Firstly, the questions often reappear in very similar formats between years. Also, you start understanding the way they ask questions and what exactly the IB is looking for. When you do questions and get them wrong, don’t just accept that you got it wrong but try to find what went wrong: was it because you didn’t know the information or because you fell into one of the IB’s notorious traps? This is important since the IB does try to trick you in these questions as it is really testing the nitty gritty parts of the syllabus.</p><p><br></p><p>Paper 2 - this is a longer paper focusing on all of the core (SL and HL) information. For HL, this is worth 36% and is, therefore, the component worth the most. What is important in these questions is looking for the connections between questions; this is very important.  If you feel that you are struggling on questions, it is very possible that this part is leaning on the previous part. Therefore, if you are really struggling, it might be a good idea to look back at other sections. More than just looking at the connections between questions, it is paramount that you learn the syllabus in a way that allows you to see the connections between different chapters of the course, as this will prepare you best for this examination.</p><p><br></p><p>Paper 3 - this is the experimental and data based questions and option paper, worth 24% in total. The first 15 marks are based on the prescribed experiments that you learn and other practical applications of the course. For this, the best preparation is thinking about experimental procedures, specifically to all of the ones that you have done throughout the two years of the IB. By knowing these well, and using common sense during the exam, then you will be able to score highly in this section. The final 30 marks of the paper are based on the option. This is one area chosen out of four options. Theoretically, this gives you the option to explore in more detail one area of the science that interests you the most in detail. The option is usually a straightforward section, if you’ve devoted enough time to really exploring all the content. It is essential, however, that you still commit enough time to it to ensure that you do well. Many people focus more on paper 1 and paper 2 since they assume paper 3 is easy. While it may be an easier paper, it might then be easier to do better on it. In summary, don’t ignore the importance of this paper.</p>",
+          "_anchor": "content1-6a"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slide05-950x329.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Physics",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>For the external exams, the best way I found to revise the syllabus was to find the syllabus online and go through every single point, either by myself or with a group of friends, and make sure that I understand the necessary information to be able to answer any question posed on that point. I think this is a good way to revise because it means that you will get through all of the syllabus without fail and you might even spot pieces of information that were overlooked slightly in the classroom.&nbsp;</p><p><br></p><p>Internal Assessment - this is an investigation worth 20% of your final grade. There are only two pieces of advice I think should be given out are the following: don’t get too bogged down in Personal Engagement and to use your teacher! One of the marking criteria is personal engagement and it is important to try and score highly here as it is easy to gain marks. This does not mean making things up to feign an interest in your topic, but instead means that you need to show original thought and input. One way to do this is by comparing your experiment to similar ones online and trying to find a different way of conducting it which will result in it becoming more unique. For the second piece of advice, the teachers know the IA best. It is important to have your drafts done on time so that they can have enough time to give you relevant feedback. It is essential that you get as much feedback from them as possible, as this is the way you will be graded more highly.</p><p><br></p><p>Good luck!</p>",
+          "_anchor": "content1-6c"
         },
         {
           "alias": "facebook-comments",
