@@ -854,6 +854,30 @@ h6,
 #msg-box8-1m p {
   color: #fff;
 }
+#features1-64 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #91bdae;
+}
+#features1-64 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #174034;
+}
+#features1-64 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #174034;
+}
+#features1-64 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #174034;
+}
+#features1-1l .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #91bdae;
+}
+#features1-1l .mbr-cards-col:nth-child(odd) .card-title {
+  color: #174034;
+}
+#features1-1l .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #174034;
+}
+#features1-1l .mbr-cards-col:nth-child(odd) .card-text {
+  color: #174034;
+}
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -931,30 +955,6 @@ h6,
   color: #174034;
 }
 #features1-1k .mbr-cards-col:nth-child(odd) .card-text {
-  color: #174034;
-}
-#features1-1l .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #91bdae;
-}
-#features1-1l .mbr-cards-col:nth-child(odd) .card-title {
-  color: #174034;
-}
-#features1-1l .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #174034;
-}
-#features1-1l .mbr-cards-col:nth-child(odd) .card-text {
-  color: #174034;
-}
-#features1-64 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #91bdae;
-}
-#features1-64 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #174034;
-}
-#features1-64 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #174034;
-}
-#features1-64 .mbr-cards-col:nth-child(odd) .card-text {
   color: #174034;
 }
 #menu-1o .hide-buttons .nav-btn {
