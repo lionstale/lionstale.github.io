@@ -869,7 +869,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/northern-lights-waterfall-iceland-icelandhot0517-1400x875.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -7412,34 +7412,6 @@
           },
           "text": "<p>On Thursday afternoon, after we’d all settled into the comfortable boredom and inattentiveness that comes with every school assembly, some of our peers presented their clubs and trips, all of which contain necessary criteria for those of us who wish to graduate: Creativity, Activity, and Service. This was done in a variety of ways and provided us with a lot of information. So, for any of you who forgot or missed anything, below you’ll find all the information you’ll need.&nbsp;</p><p><br></p><p>Firstly, for all you overachievers out there, STUCO is an excellent opportunity to put in your two cents and try and make the school a better place. STUCO is “An opportunity for everyone to have a voice” according to Junior, the Co-President. They meet Monday at lunchtime in HC12. If you have any STUCO related questions, you can e-mail Junior at tabuanahagi@stjohns.be. Next we have NHS, however, unlike other clubs, the National Honors Society is by recruitment only. The Lion's Tale is the student school publication and in my unbiased opinion the best club out there. They meet Thursday at lunch in room HD06.</p><p><br></p><p>Debate club will be meeting Tuesday at lunch in room HB08. This year they will be balancing fun debates and more serious debates on current events. As an unfortunate surprise for argumentative party-organizers, Tuesday at lunch is also the Prom Committee, meeting in Ms. Larsons room. After a stunning performance, the High School dance club was “very happy so many people were signing up”, a quote from club member Kajsa. Dance will be meeting from 3:35-5:30 in Mr. Graham’s Room or the Dance Studio if no one is there. The Giraffe Project is a charity that provides sponsorship and support for the education of  kids living in Kenya. They will be meeting Monday at break in Mme. Ruschers room.</p>",
           "_anchor": "content1-78"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "The dance team.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-7d"
         },
         {
           "_tags": [
