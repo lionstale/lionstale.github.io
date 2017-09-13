@@ -26,7 +26,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 245,
-    "versionPublish": "4.1.7"
+    "versionPublish": "4.1.7",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Sports": {
@@ -447,7 +449,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-20170822-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20170822-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -461,7 +463,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-1368x912.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21083561_10155103134846747_8244472783375803781_o-1368x912.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1380,7 +1382,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21034899-1212070702230938-1967859116-o-1000x1334.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21034899_1212070702230938_1967859116_o-1000x1334.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1606,7 +1608,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369-nice-guys-finish-last-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1817,7 +1819,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369-nice-guys-finish-last-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2000,7 +2002,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page19.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2016,7 +2018,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21083561_10155103134846747_8244472783375803781_o-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6103,7 +6105,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x987.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x987.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6160,7 +6162,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x787.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6616,7 +6618,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21056309-10155103163501747-1754465073088945245-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21056309_10155103163501747_1754465073088945245_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6657,7 +6659,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21016142-10155103163486747-7081100746334132550-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21016142_10155103163486747_7081100746334132550_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6722,7 +6724,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21055361-10155103160206747-5607008961605324383-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21055361_10155103160206747_5607008961605324383_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6763,7 +6765,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21054978-10155103128986747-4353532423810240276-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21054978_10155103128986747_4353532423810240276_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
