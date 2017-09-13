@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "page25.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -7475,7 +7475,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "The GAIA group, which, if you multiply this number by 8, looks more like what it's first meeting with new members looked like on Wednesday at lunch.",
+          "text": "The GAIA group, which, if you multiply this number by 8, looks more like what its first meeting with new members looked like on Wednesday at lunch.",
           "_tags": [
             "Theme"
           ],
@@ -7505,7 +7505,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0556-1-1400x1050.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
