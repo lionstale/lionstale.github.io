@@ -7417,34 +7417,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_params": {
-            "showText": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Here is the Dance Group.",
-          "_anchor": "image2-6i"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "content1",
           "_params": {
             "paddingTop": 1,
@@ -7453,34 +7425,6 @@
           },
           "text": "<p>GAIA, or Global Awareness Investigation and Action, is a club that focuses on environmental issues and places emphasis on acting on them.  They will be meeting Wednesday at lunch in HB01. Varsity Darts is on Tuesday at lunch in Mr. MacDonalds room, HD03. Amnesty International is an independent group from any political party or religious organization. They actively pursue justice wherever there seems to be a lack of it to fight power abuses worldwide. This group is run by Megan and Junior and will be meeting Wednesdays at lunch in room HC17. Jazz Band will be meeting Wednesday at lunch, Choir will be meeting Wednesday at 4:00-5:30, and Vocal Jazz will be meeting Thursday at lunch, all in the PAC. All of these are excellent opportunities to become a better artist and have no conflicting sports.</p>",
           "_anchor": "content1-6j"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "The GAIA group, which, if you multiply this number by 8, looks more like what its first meeting with new members looked like on Wednesday at lunch.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6s"
         },
         {
           "_tags": [
@@ -7494,34 +7438,6 @@
           },
           "text": "<p>MUN will be meeting Tuesday at lunch in room HB01 to debate and discuss global issues. No prior knowledge is necessary but one should have a decent understanding of global issues and politics before joining the Model United Nations. The Feminist Society will be meeting Thursdays at lunch in room HB08 to discuss issues concerning feminism and equality. They would also like us to know that they are not anti-men. The programming club will be meeting Friday at lunch in Dr. Carlin’s room. Remember to bring your laptop! The chess club was a bit too busy playing chess to answer my questions, but I did manage to get the important stuff out of them. They’ll be meeting Friday at lunch in Mme. Larivieres room.</p>",
           "_anchor": "content1-6l"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-0556-1-1400x1050.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "The band playing a song.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6n"
         },
         {
           "_params": {
