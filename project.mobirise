@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Arts.html",
+    "currentPage": "Events",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 246,
+    "uniqCompNum": 257,
     "versionPublish": "4.1.7"
   },
   "pages": {
@@ -405,7 +405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -425,7 +425,7 @@
           },
           "title": "CAS Fair",
           "text": "An article describing the high school CAS event and information presented in it",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page25.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -729,7 +729,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1841,7 +1841,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x797.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1899,7 +1899,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page23.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page24.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page25.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2562,7 +2562,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -2803,7 +2803,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -4055,7 +4055,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -4710,7 +4710,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5129,7 +5129,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5745,7 +5745,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5932,7 +5932,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -6221,7 +6221,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -6449,7 +6449,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -6800,7 +6800,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -6987,7 +6987,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -7225,260 +7225,6 @@
           },
           "text": "<p>For the external exams, the best way I found to revise the syllabus was to find the syllabus online and go through every single point, either by myself or with a group of friends, and make sure that I understand the necessary information to be able to answer any question posed on that point. I think this is a good way to revise because it means that you will get through all of the syllabus without fail and you might even spot pieces of information that were overlooked slightly in the classroom.&nbsp;</p><p><br></p><p>Internal Assessment - this is an investigation worth 20% of your final grade. There are only two pieces of advice I think should be given out are the following: don’t get too bogged down in Personal Engagement and to use your teacher! One of the marking criteria is personal engagement and it is important to try and score highly here as it is easy to gain marks. This does not mean making things up to feign an interest in your topic, but instead means that you need to show original thought and input. One way to do this is by comparing your experiment to similar ones online and trying to find a different way of conducting it which will result in it becoming more unique. For the second piece of advice, the teachers know the IA best. It is important to have your drafts done on time so that they can have enough time to give you relevant feedback. It is essential that you get as much feedback from them as possible, as this is the way you will be graded more highly.</p><p><br></p><p>Good luck!</p>",
           "_anchor": "content1-6c"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        }
-      ]
-    },
-    "page25.html": {
-      "settings": {
-        "title": "CAS Fair",
-        "meta_descr": "Web Page Builder Description",
-        "order": 11
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
-          "_anchor": "menu-6e"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-6f"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#174034",
-            "overlayOpacity": 0.5
-          },
-          "title": "CAS Fair",
-          "text": "<p>Written By: Emma McDonald</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-6g"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>On Thursday afternoon, after we’d all settled into the comfortable boredom and inattentiveness that comes with every school assembly, some of our peers presented their clubs and trips, all of which contain necessary criteria for those of us who wish to graduate: Creativity, Activity, and Service. This was done in a variety of ways and provided us with a lot of information. So, for any of you who forgot or missed anything, below you’ll find all the information you’ll need.&nbsp;</p><p><br></p><p>Firstly, for all you overachievers out there, STUCO is an excellent opportunity to put in your two cents and try and make the school a better place. STUCO is “An opportunity for everyone to have a voice” according to Junior, the Co-President. They meet Monday at lunchtime in HC12. If you have any STUCO related questions, you can e-mail Junior at tabuanahagi@stjohns.be. Next we have NHS, however, unlike other clubs, the National Honors Society is by recruitment only. The Lion's Tale is the student school publication and in my unbiased opinion the best club out there. They meet Thursday at lunch in room HD06.</p><p><br></p><p>Debate club will be meeting Tuesday at lunch in room HB08. This year they will be balancing fun debates and more serious debates on current events. As an unfortunate surprise for argumentative party-organizers, Tuesday at lunch is also the Prom Committee, meeting in Ms. Larsons room. After a stunning performance, the High School dance club was “very happy so many people were signing up”, a quote from club member Kajsa. Dance will be meeting from 3:35-5:30 in Mr. Graham’s Room or the Dance Studio if no one is there. The Giraffe Project is a charity that provides sponsorship and support for the education of  kids living in Kenya. They will be meeting Monday at break in Mme. Ruschers room.</p>",
-          "_anchor": "content1-6h"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "This is the dance group.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6t"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>GAIA, or Global Awareness Investigation and Action, is a club that focuses on environmental issues and places emphasis on acting on them.  They will be meeting Wednesday at lunch in HB01. Varsity Darts is on Tuesday at lunch in Mr. MacDonalds room, HD03. Amnesty International is an independent group from any political party or religious organization. They actively pursue justice wherever there seems to be a lack of it to fight power abuses worldwide. This group is run by Megan and Junior and will be meeting Wednesdays at lunch in room HC17. Jazz Band will be meeting Wednesday at lunch, Choir will be meeting Wednesday at 4:00-5:30, and Vocal Jazz will be meeting Thursday at lunch, all in the PAC. All of these are excellent opportunities to become a better artist and have no conflicting sports.</p>",
-          "_anchor": "content1-6j"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>MUN will be meeting Tuesday at lunch in room HB01 to debate and discuss global issues. No prior knowledge is necessary but one should have a decent understanding of global issues and politics before joining the Model United Nations. The Feminist Society will be meeting Thursdays at lunch in room HB08 to discuss issues concerning feminism and equality. They would also like us to know that they are not anti-men. The programming club will be meeting Friday at lunch in Dr. Carlin’s room. Remember to bring your laptop! The chess club was a bit too busy playing chess to answer my questions, but I did manage to get the important stuff out of them. They’ll be meeting Friday at lunch in Mme. Larivieres room.</p>",
-          "_anchor": "content1-6l"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>The ambiance out in the PAC last Thursday was very enthusiastic and the overall fair was an overwhelming success and seemed very well received. Mr. Van Rijn, CAS Coordinator, believes if everyone can find a club that they enjoy and that they can commit to, there will be excellent student participation in clubs this year.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-6o"
         },
         {
           "alias": "facebook-comments",
