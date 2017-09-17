@@ -1,6 +1,6 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -2218,4 +2218,166 @@ h6,
 #msg-box8-77 .mbr-section-title,
 #msg-box8-77 p {
   color: #fff;
+}
+#menu-7e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-7e .navbar-caption {
+  color: #ffffff;
+}
+#menu-7e .navbar-toggler {
+  color: #ffffff;
+}
+#menu-7e .link,
+#menu-7e .dropdown-item {
+  color: #ffffff;
+}
+#menu-7e .link {
+  font-size: 0.75rem;
+}
+#menu-7e .dropdown-item,
+#menu-7e .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-7e .link:hover,
+#menu-7e .dropdown-item:hover,
+#menu-7e .link:focus,
+#menu-7e .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-7e .link[aria-expanded="true"],
+#menu-7e .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-7e .nav-dropdown-sm .link:focus,
+#menu-7e .nav-dropdown-sm .link:hover,
+#menu-7e .nav-dropdown-sm .dropdown-item:focus,
+#menu-7e .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-7e .navbar,
+#menu-7e .nav-dropdown-sm,
+#menu-7e .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-7e .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-7e .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-7e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-7e .bg-color.transparent.opened .link:hover,
+#menu-7e .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-7e .link[aria-expanded="true"],
+#menu-7e .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-7e.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-7e .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-7e .close-icon::before,
+#menu-7e .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box8-7g .mbr-section-title,
+#msg-box8-7g p {
+  color: #fff;
+}
+#header3-7k .mbr-section-title,
+#header3-7k .mbr-section-subtitle {
+  text-align: center;
+}
+#menu-7m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-7m .navbar-caption {
+  color: #ffffff;
+}
+#menu-7m .navbar-toggler {
+  color: #ffffff;
+}
+#menu-7m .link,
+#menu-7m .dropdown-item {
+  color: #ffffff;
+}
+#menu-7m .link {
+  font-size: 0.75rem;
+}
+#menu-7m .dropdown-item,
+#menu-7m .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-7m .link:hover,
+#menu-7m .dropdown-item:hover,
+#menu-7m .link:focus,
+#menu-7m .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-7m .link[aria-expanded="true"],
+#menu-7m .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-7m .nav-dropdown-sm .link:focus,
+#menu-7m .nav-dropdown-sm .link:hover,
+#menu-7m .nav-dropdown-sm .dropdown-item:focus,
+#menu-7m .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-7m .navbar,
+#menu-7m .nav-dropdown-sm,
+#menu-7m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-7m .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-7m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-7m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-7m .bg-color.transparent.opened .link:hover,
+#menu-7m .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-7m .link[aria-expanded="true"],
+#menu-7m .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-7m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-7m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-7m .close-icon::before,
+#menu-7m .close-icon::after {
+  background-color: #ffffff;
+}
+#features7-7o .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-7o .iconbox {
+  background-color: #174034;
+  border-color: #174034;
+}
+#features7-7o P {
+  color: #000000;
+}
+#features7-7o H4 {
+  color: #000000;
+}
+#features7-7p .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-7p .iconbox {
+  background-color: #174034;
+  border-color: #174034;
 }
