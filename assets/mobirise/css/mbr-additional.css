@@ -2361,13 +2361,6 @@ h6,
 #menu-7m .close-icon::after {
   background-color: #ffffff;
 }
-#features7-7r .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-7r .iconbox {
-  background-color: #174034;
-  border-color: #174034;
-}
 #msg-box8-7q .mbr-section-title,
 #msg-box8-7q p {
   color: #fff;
@@ -2395,6 +2388,13 @@ h6,
   color: #bcbcbc;
 }
 #features7-7p .iconbox {
+  background-color: #174034;
+  border-color: #174034;
+}
+#features7-7r .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-7r .iconbox {
   background-color: #174034;
   border-color: #174034;
 }
