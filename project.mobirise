@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page27.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -3943,20 +3943,19 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/map2-420x412.png",
+              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "title1": "The Story Behind Maps",
-          "subtitle1": "Written By: Camille Kummer",
-          "caption1": "By examining the evolution of maps through history, this article uncovers how maps affect the way we perceive the world.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Living the Dream?",
+          "subtitle1": "Written By: Eva Morris",
+          "caption1": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-600x450.jpg",
@@ -3991,20 +3990,19 @@
           "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/130518052242-north-korea-missiles-super-169-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "title4": "Living the Dream?",
+          "title4": "Time to Grow Up<div>Mr. Kim Jong-Un</div>",
           "subtitle4": "Written By: Eva Morris",
-          "caption4": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.",
-          "button4": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "An piece discussing the North Korean missiles. <br>Note: Since this article was written, a second missile was launched on the 15th September.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"page26.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
