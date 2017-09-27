@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page28.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 310,
+    "uniqCompNum": 309,
     "versionPublish": "4.3.0",
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@"
@@ -3960,13 +3960,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/northern-lights-waterfall-iceland-icelandhot0517-1400x875.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "My Icelandic Boyfriend",
@@ -8412,51 +8413,6 @@
           "_anchor": "image1-8k"
         },
         {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "4",
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#2e2e2e",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_2df-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-2df-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_32d-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-32d-2000x1414-800x565.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-8l"
-        },
-        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -8468,7 +8424,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "70",
+            "imageSize": "58",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -8487,7 +8443,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7362-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput_2df-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
