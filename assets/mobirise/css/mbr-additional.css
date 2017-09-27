@@ -2406,10 +2406,6 @@ h6,
 #msg-box7-8e .lead p {
   color: #fff;
 }
-#msg-box7-85 .mbr-section-title,
-#msg-box7-85 .lead p {
-  color: #fff;
-}
 #menu-7t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2476,12 +2472,4 @@ h6,
 #menu-7t .close-icon::before,
 #menu-7t .close-icon::after {
   background-color: #ffffff;
-}
-#msg-box7-8a .mbr-section-title,
-#msg-box7-8a .lead p {
-  color: #fff;
-}
-#msg-box7-81 .mbr-section-title,
-#msg-box7-81 .lead p {
-  color: #fff;
 }
