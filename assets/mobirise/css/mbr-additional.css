@@ -2398,3 +2398,90 @@ h6,
   background-color: #174034;
   border-color: #174034;
 }
+#msg-box7-8b .mbr-section-title,
+#msg-box7-8b .lead p {
+  color: #fff;
+}
+#msg-box7-8e .mbr-section-title,
+#msg-box7-8e .lead p {
+  color: #fff;
+}
+#msg-box7-85 .mbr-section-title,
+#msg-box7-85 .lead p {
+  color: #fff;
+}
+#menu-7t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-7t .navbar-caption {
+  color: #ffffff;
+}
+#menu-7t .navbar-toggler {
+  color: #ffffff;
+}
+#menu-7t .link,
+#menu-7t .dropdown-item {
+  color: #ffffff;
+}
+#menu-7t .link {
+  font-size: 0.75rem;
+}
+#menu-7t .dropdown-item,
+#menu-7t .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-7t .link:hover,
+#menu-7t .dropdown-item:hover,
+#menu-7t .link:focus,
+#menu-7t .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-7t .link[aria-expanded="true"],
+#menu-7t .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-7t .nav-dropdown-sm .link:focus,
+#menu-7t .nav-dropdown-sm .link:hover,
+#menu-7t .nav-dropdown-sm .dropdown-item:focus,
+#menu-7t .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-7t .navbar,
+#menu-7t .nav-dropdown-sm,
+#menu-7t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-7t .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-7t .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-7t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-7t .bg-color.transparent.opened .link:hover,
+#menu-7t .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-7t .link[aria-expanded="true"],
+#menu-7t .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-7t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-7t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-7t .close-icon::before,
+#menu-7t .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box7-8a .mbr-section-title,
+#msg-box7-8a .lead p {
+  color: #fff;
+}
+#msg-box7-81 .mbr-section-title,
+#msg-box7-81 .lead p {
+  color: #fff;
+}
