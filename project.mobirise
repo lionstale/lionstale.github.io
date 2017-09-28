@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "Opinions",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1579,7 +1579,7 @@
             }
           },
           "title": "Time to Grow Up<br>Mr. Kim Jong-Un",
-          "text": "An piece discussing the North Korean missiles.&nbsp;<br>Note: Since this article was written, a second <br>missile was launched on the 15th September. <br><br>",
+          "text": "A piece discussing the North Korean missiles.&nbsp;<br>Note: Since this article was written, a second <br>missile was launched on the 15th September. <br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
