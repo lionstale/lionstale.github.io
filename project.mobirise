@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page19.html",
+    "currentPage": "page27.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -23,11 +23,12 @@
       "additionalSetColors": [
         "#2e2e2e",
         "#174034",
-        "#91bdae"
+        "#91bdae",
+        "#222222"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 319,
+    "uniqCompNum": 329,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -8102,16 +8103,16 @@
           },
           "title1": "Capricorn <br>(December 22nd - January 19th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Give up your crush. Like them again. Repeat this process until you don’t like them anymore.",
+          "caption1": "Blind yourself, spin around in a circle, and point at something. Wear that.",
           "title2": "Aquarius<br>(January 20th - February 18th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "You and your significant other are already happening. If not, wait a couple years.",
+          "caption2": "Wear flippers and a snorkel. ",
           "title3": "Pisces<br>(February 19th - March 20th)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": " Fall in love with your worst enemy. Maybe it will work.",
+          "caption3": " Make sure it’s water resistant. Scales are your friend.",
           "title4": "Aries<br>(March 21st - April 19th)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "You will now be one with the air. Give up on love for humans; love the environment. ",
+          "caption4": "Change it up. Wear a different style.  ",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -8232,16 +8233,16 @@
           },
           "title1": "Taurus<br>(April 20th - May 20th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "023545939",
+          "caption1": "Wear only tour merchandise. If not, dress like a tourist.",
           "title2": "Gemini<br>(May 21st - June 20th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Love is in the air this month, and if it isn't - create it! If you've been waiting around for your Mr (or Mrs) Right and they're just taking way too long, micromanage every single detail of your social life so that you can manipulate into becoming REAL!&nbsp;",
+          "caption2": "Copy the last person you saw at school the day before.",
           "title3": "Cancer<br>(June 21st - July 22nd)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Maybe this month just isn't your month. Try again later.",
+          "caption3": "Chokers and only chokers. ",
           "title4": "Leo<br>(July 23rd - August 22nd)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Look in the mirror.",
+          "caption4": "Wear jeans and a tucked in t-shirt. Tuck everything in this week.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -8362,16 +8363,16 @@
           },
           "title1": "Virgo<br>(August 23rd - September 22nd)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "You can’t love someone else until you love yourself.",
+          "caption1": "Wear all brightly colored colored patterns. You might get lost this week, so you’ll be easy to see.",
           "title2": "Libra<br>(September 23rd - October 22nd)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Who needs love?",
+          "caption2": "Just go naked. Be free.",
           "title3": "Scorpio<br>(October 23rd - November 21st)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Stop searching. They’ll come to you.",
+          "caption3": "Everything Orange. I hear carrots are really in these days.",
           "title4": "Sagittarius<br>(November 22nd - December 21st)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Love is an open door.",
+          "caption4": "Double denim is your jam this week.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -8409,6 +8410,40 @@
         "order": 1
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.8"
+          },
+          "title": "",
+          "text": "<p>making statements through style and fashion</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-94"
+        },
         {
           "_inherit": "gallery1",
           "_params": {
@@ -8472,7 +8507,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-283-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7576-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8487,126 +8522,26 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-8k"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "4",
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#2e2e2e",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-2df-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-2df-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-32d-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-32d-2000x1414-800x565.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-8l"
+          "_anchor": "image1-8v"
         },
         {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.6"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7362-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-8b"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
@@ -8642,13 +8577,69 @@
             }
           },
           "title": "",
-          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-8e"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7347-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7347-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-2d3-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-2d3-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7388-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7388-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-8x"
         },
         {
           "_params": {
@@ -8673,6 +8664,260 @@
           ],
           "_name": "image1",
           "_anchor": "image1-8j"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-322-2000x2592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-322-2000x2592-800x1036.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-c-2000x2590.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-c-2000x2590-800x1036.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-8y"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-2df-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-8b"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-7455-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-8z"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-251-1400x1120.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-8k"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-11-1999x2763.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-11-1999x2763-800x1105.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-14-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-14-2000x2829-800x1131.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-91"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-283-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-92"
         },
         {
           "_styles": {

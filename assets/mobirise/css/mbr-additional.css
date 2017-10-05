@@ -2410,12 +2410,23 @@ h6,
   background-color: #174034;
   border-color: #174034;
 }
-#msg-box7-8b .mbr-section-title,
-#msg-box7-8b .lead p {
+#msg-box8-94 .mbr-section-title,
+#msg-box8-94 p {
   color: #fff;
 }
 #msg-box7-8e .mbr-section-title,
 #msg-box7-8e .lead p {
+  color: #fff;
+}
+#msg-box7-8e P {
+  text-align: right;
+}
+#msg-box7-8b .mbr-section-title,
+#msg-box7-8b .lead p {
+  color: #fff;
+}
+#msg-box7-8z .mbr-section-title,
+#msg-box7-8z .lead p {
   color: #fff;
 }
 #menu-7t .hide-buttons .nav-btn {
