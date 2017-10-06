@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -2410,8 +2411,9 @@ h6,
   background-color: #174034;
   border-color: #174034;
 }
-#msg-box8-94 .mbr-section-title,
-#msg-box8-94 p {
+
+#msg-box8-95 .mbr-section-title,
+#msg-box8-95 p {
   color: #fff;
 }
 #msg-box7-8e .mbr-section-title,
@@ -2428,6 +2430,14 @@ h6,
 #msg-box7-8z .mbr-section-title,
 #msg-box7-8z .lead p {
   color: #fff;
+}
+#header3-96 .mbr-section-title,
+#header3-96 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-96 .mbr-section-subtitle P {
+  font-family: 'Oxygen', sans-serif;
+  color: #222222;
 }
 #menu-7t .hide-buttons .nav-btn {
   display: none !important;

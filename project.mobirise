@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page27.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -24,11 +24,12 @@
         "#2e2e2e",
         "#174034",
         "#91bdae",
-        "#222222"
+        "#222222",
+        "#101010"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 329,
+    "uniqCompNum": 331,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -3841,11 +3842,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-980x980.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-254-1400x2100.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3859,9 +3859,9 @@
               "size": 250
             }
           },
-          "title": "2017-2018 Guide to St. John's",
-          "text": "This is the comedic guide to everything St. John's for this year. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "title": "Daydream Nation: A Photo Series",
+          "text": "An expression through style<br>photographed by Andreea Samareannu",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "_anchor": "header2-31"
         },
         {
@@ -8420,10 +8420,10 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8432,17 +8432,17 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
           },
-          "title": "",
-          "text": "<p>making statements through style and fashion</p>",
+          "title": "DAYDREAM NATION",
+          "text": "<b>A PHOTO SERIES</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-94"
+          "_anchor": "msg-box8-95"
         },
         {
           "_inherit": "gallery1",
@@ -8918,6 +8918,31 @@
           ],
           "_name": "image1",
           "_anchor": "image1-92"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#222222"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "",
+          "meta": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; by Andreea Samareanu</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-96"
         },
         {
           "_styles": {
