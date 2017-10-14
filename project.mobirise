@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Sports",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 331,
+    "uniqCompNum": 346,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -37,7 +37,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -70,11 +70,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hot-dog-mascots-1400x893.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled1-938x625.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -88,9 +87,9 @@
               "size": 250
             }
           },
-          "title": "Lucky to be Lions",
-          "text": "What does our mascot mean to us?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Kayla Smith:<br>A Teen <br>Runner’s Life",
+          "text": "Feature article shedding light on one <br>of St. Johns’ most devoted athletes…",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page30.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -111,18 +110,18 @@
             "paddingBottom": 4,
             "slides": [
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/hot-dog-mascots-1400x893.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Coming Soon",
+                "title": "Lucky to be Lions",
                 "showText": true,
-                "text": "More articles being written... literary genius takes time. :) ",
+                "text": "What does our mascot mean to us? ",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -139,7 +138,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -269,7 +268,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -501,7 +500,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -732,7 +731,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1015,7 +1014,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1423,7 +1422,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1713,7 +1712,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2650,7 +2649,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2891,7 +2890,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -3523,7 +3522,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4139,7 +4138,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -4794,7 +4793,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -5068,7 +5067,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5213,7 +5212,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5829,7 +5828,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -6016,7 +6015,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -6305,7 +6304,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -6533,7 +6532,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -6884,7 +6883,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -7071,7 +7070,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -7340,7 +7339,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -7581,7 +7580,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -7841,7 +7840,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -9057,7 +9056,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -9270,6 +9269,346 @@
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "page30.html": {
+      "settings": {
+        "title": "Kayla's Feature",
+        "meta_descr": "Web Page Builder Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-99"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-9a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#174034",
+            "overlayOpacity": 0.5
+          },
+          "title": "Kayla Smith: A Teen Runner’s Life",
+          "text": "<p>Written By: Isaiah Lowney</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-9b"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Kayla Smith is an introverted, blue eyed, petite 17 year old senior at St. Johns International School, notable for being a high caliber runner with an exceptional knack for getting lost on what most of the cross country team would describe as, “regular routes.” Kayla’s shy and quiet attitude is directly in contrast with the international presence she has as a runner. Kayla has won numerous Belgian National and European Titles in cross country and track and field. Her latest Instagram post shows her running in a Diamond League track meet, which is where the world’s top professional athletes race. She is undoubtedly one of the best distance runners of her generation. Her 5000m personal record would put her in the top 65 runners in the U.S high school female cross country rankings, out of over 173,000. That’s the 96th percentile of the 99th percentile, for the statisticians among you.</p>",
+          "_anchor": "content1-9c"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-703x456.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Kayla at a race.",
+          "_anchor": "image2-9d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Most people around her are aware of her above-average running performances and ability, as well as her love for running, which can be derived by her Instagram username, @runnergirlkayla. What most people don’t realize, though, is exactly how exceptional of a runner she actually is, and how much work that requires. Every Tuesday, at 6:15a.m., Kayla wakes up and goes for a tempo run or interval workout before school. Some people get shirts for completing 10km runs. Kayla runs 15 kilometers at a 4:30 minute-per-kilometer pace, once a week, every week, whether or not she plans on it. Kayla often sets out on a 10km run, only to take a series of wrong turns, which turns her runs into considerably longer distances. When asked about her last unexpectedly long run, she replies with a dismissive wave of the hand, “probably about two weeks ago.” </p><p><br></p><p> \n\nHer legs are long, relative to her small body type, and tanned from years of regular running. Her unusually fast cadence, paired with the light footfall, makes it deceiving as to how fast she is going. Between kilometer repeat sets, Kayla has the habit of moving her head slightly to one side and gently tugging on her ponytail. Relentless. That is the only way to describe the way she pursues her training. “There’s always people doing more than you are,” she says when asked about how she stays motivated, “If you want to be good, you have to do more than the next person.”\n</p>",
+          "_anchor": "content1-9e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "“There’s always people doing more than you are. If you want to be good, you have to do more than the next person.”",
+          "meta": "",
+          "_anchor": "header3-9f"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;In the small and relatively unimportant races that fill the St. John’s fall calendar, Kayla is absolutely untouchable. Having won every international school race on the cross-country circuit since middle school, she amuses herself with breaking course records as she goes along, which usually happen to be her previous record on that course. From the moment the gun goes off, Kayla shoots straight to the front. There are no tactics involved, but simply a completely different caliber of high school runner who moves at an unimaginably different speed. She wins by such huge margins that a bystander simply cannot comprehend exactly the difference in level between her and the other runners. Kayla says “It’s very difficult to explain running to someone who is not passionate about it because it’s something you can’t relate to.”&nbsp;</p>",
+          "_anchor": "content1-9g"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled1-938x625.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Kayla happily having finished her race.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Kayla faces a struggle during races that very few people can even begin to understand, the ever-elusive goal of trying to catch the lead man (a biker.) The pain experienced during a cross-country race is one that is difficult to convey in words, but what keeps most runners driving towards the finish line is the feeling of competitiveness, the desire to get to the line in front of the person next to you. When Kayla is minutes ahead of the nearest competition, the fight to push on becomes an intense mental struggle, and makes getting personal bests at these races very difficult. Kayla cannot simply strive to beat the next person, she has to set a goal time and engage in a fierce mental battle to keep her goal pace. “It’s very difficult mentally. You just have to focus, that’s the biggest part,” she says on the subject of her front running. This year, other runners have been coming close to Kayla’s times. Runners have been coming within as close as 10 seconds to her winning times. Interestingly, but logically, the runners have been other athletes from the St. Johns cross country team, like her sister, Sydney, and a talented up and coming freshman, Abby. This series of results in this season’s races show just how important it is to train with the right people. Training alone has mental advantages, but training with people much faster than you allows for very fast progression. &nbsp;</p><p><br></p><p>Running at Kayla’s level requires sacrifices. “Every day you have to make choices. Last night, I decided to go to the gym at 9 o’clock for an hour. I should’ve studied because I had a test today.” How did the test go? Kayla shakes her head, and says, “I’m just glad I went and got my run in.” The tradeoff between running and other hobbies, interests and aspirations are precarious for her. “I want to go to medical school. Working towards that,” she says in regards to her future university and post-undergraduate plans. While passionate about skiing and waterskiing, she’s also interested in art, but she “doesn’t really have the time to do any.”</p><p><br></p><p>Kayla is by no means superhuman. Beyond the numbers, statistics, and countless victories, she’s still a teenage girl. “I procrastinate a lot, but that’s pretty standard,” she says when asked about her weaknesses. While she is a last-minute person, according to her, “I absolutely make sure to get it done,” she says. “My sister always says that, and my parents too actually, that I’m slow in everything in life besides running,” she says, “I really have to think about things and take my time.” Weaknesses aside, running has provided Kayla with a trait that sets her apart from other people her age, discipline. She struggles with the same issues as other kids her age, like getting out of bed in the morning, but she has methods in place to make sure she stays on track. “Wait until you get hungry,” she advises on the subject.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9i"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled2-657x657.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Everyday Kayla Smith.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>At the end of the day, Kayla is just like your average high schooler, who has discovered a passion and put her time and energy into it. She has the same school deadlines and has her own irritations just like us all. “You know when girls post an Instagram picture from the beach? And they caption it ‘Take me back’? That is a pet peeve.”&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9k"
         }
       ]
     }
