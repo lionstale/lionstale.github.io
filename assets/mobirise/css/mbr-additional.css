@@ -2656,3 +2656,107 @@ h6,
 #header3-9f .mbr-section-subtitle {
   text-align: center;
 }
+#menu-9m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-9m .navbar-caption {
+  color: #ffffff;
+}
+#menu-9m .navbar-toggler {
+  color: #ffffff;
+}
+#menu-9m .link,
+#menu-9m .dropdown-item {
+  color: #ffffff;
+}
+#menu-9m .link {
+  font-size: 0.75rem;
+}
+#menu-9m .dropdown-item,
+#menu-9m .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-9m .link:hover,
+#menu-9m .dropdown-item:hover,
+#menu-9m .link:focus,
+#menu-9m .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-9m .link[aria-expanded="true"],
+#menu-9m .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-9m .nav-dropdown-sm .link:focus,
+#menu-9m .nav-dropdown-sm .link:hover,
+#menu-9m .nav-dropdown-sm .dropdown-item:focus,
+#menu-9m .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-9m .navbar,
+#menu-9m .nav-dropdown-sm,
+#menu-9m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-9m .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-9m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-9m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-9m .bg-color.transparent.opened .link:hover,
+#menu-9m .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-9m .link[aria-expanded="true"],
+#menu-9m .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-9m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-9m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-9m .close-icon::before,
+#menu-9m .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box8-9o .mbr-section-title,
+#msg-box8-9o p {
+  color: #fff;
+}
+#msg-box8-9o .mbr-section-title {
+  color: #000000;
+}
+#msg-box8-9o .lead P {
+  color: #000000;
+}
+#features7-9p .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-9p .iconbox {
+  background-color: #174034;
+  border-color: #174034;
+}
+#features7-9p P {
+  color: #000000;
+}
+#features7-9p H4 {
+  color: #000000;
+}
+#features7-9q .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-9q .iconbox {
+  background-color: #174034;
+  border-color: #174034;
+}
+#features7-9r .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-9r .iconbox {
+  background-color: #174034;
+  border-color: #174034;
+}
