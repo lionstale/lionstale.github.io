@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Arts.html",
+    "currentPage": "Archives",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 365,
-    "versionPublish": "4.3.0"
+    "versionPublish": "4.3.0",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Sports": {
@@ -450,7 +452,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-20170822-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20170822-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -464,7 +466,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-1368x912.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21083561_10155103134846747_8244472783375803781_o-1368x912.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1336,7 +1338,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21034899-1212070702230938-1967859116-o-1000x1334.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21034899_1212070702230938_1967859116_o-1000x1334.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1644,7 +1646,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369-nice-guys-finish-last-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1808,14 +1810,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture1-600x471.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media5": {
@@ -1843,9 +1844,9 @@
           "title3": "Kayla Smith:<div>A Teen&nbsp;</div><div>Runner’s Life</div>",
           "subtitle3": "Written By: Isaiah Lowney",
           "caption3": "Feature article shedding light on one <br>of St. Johns’ most devoted athletes…",
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :)",
+          "title4": "\"Ship of Fools\" Exhibition",
+          "subtitle4": "Written By: Anna Hilton-Ibold",
+          "caption4": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1855,7 +1856,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page29.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page28.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page30.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -1904,7 +1905,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369-nice-guys-finish-last-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2086,7 +2087,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page19.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2102,7 +2103,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21083561_10155103134846747_8244472783375803781_o-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3677,7 +3678,7 @@
             }
           },
           "title": "\"Ship of Fools\" Exhibition",
-          "text": "An article about the featured artist, Leon De Bliquy, at the school's very on Greene Gallery.",
+          "text": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_anchor": "header2-2z"
         },
@@ -6186,7 +6187,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x987.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x987.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6243,7 +6244,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x787.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6699,7 +6700,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21056309-10155103163501747-1754465073088945245-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21056309_10155103163501747_1754465073088945245_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6740,7 +6741,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21016142-10155103163486747-7081100746334132550-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21016142_10155103163486747_7081100746334132550_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6805,7 +6806,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21055361-10155103160206747-5607008961605324383-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21055361_10155103160206747_5607008961605324383_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6846,7 +6847,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21054978-10155103128986747-4353532423810240276-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21054978_10155103128986747_4353532423810240276_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8472,7 +8473,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-25f-1999x1389.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_25f-1999x1389.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-25f-1999x1389-800x555.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8483,7 +8484,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-25e-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_25e-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-25e-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8557,7 +8558,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-32b-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput_32b-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8613,7 +8614,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-2d3-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_2d3-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-2d3-2000x3000-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8693,7 +8694,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-c-2000x2590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_c-2000x2590.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-c-2000x2590-800x1036.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8740,7 +8741,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-2df-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput_2df-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
