@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page31.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,15 +29,17 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 374,
-    "versionPublish": "4.4.0"
+    "uniqCompNum": 373,
+    "versionPublish": "4.3.0",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Sports": {
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -268,7 +270,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -450,7 +452,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-20170822-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20170822-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -464,7 +466,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-1368x912.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21083561_10155103134846747_8244472783375803781_o-1368x912.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -500,7 +502,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -640,7 +642,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1701x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uk-1170x600.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -657,9 +659,9 @@
               "size": 250
             }
           },
-          "title": "Applying to US Universities",
-          "text": "Advice on how to apply to universities in the US",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Applying to the United Kingdom",
+          "text": "Advice on how to apply to universities in the U.K.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -694,7 +696,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/chemical-science-1400x933.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -706,20 +708,6 @@
                 "text": "A guide and evaluation of doing two higher level sciences in the IB.&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page24.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/uk-1170x600.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Applying to the United Kingdom",
-                "showText": true,
-                "text": "Advice on how to apply to universities in the U.K. ",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -745,7 +733,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1028,7 +1016,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1350,7 +1338,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21034899-1212070702230938-1967859116-o-1000x1334.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21034899_1212070702230938_1967859116_o-1000x1334.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1436,7 +1424,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1658,7 +1646,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369-nice-guys-finish-last-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1726,7 +1714,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1762,137 +1750,6 @@
           "title": "Archives",
           "text": "<p>Below are all past and present articles.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#91bdae",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x761.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Applying to US Universities",
-          "subtitle1": "",
-          "caption1": "Advice on how to apply to universities in the US",
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :)",
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :)",
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :)",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page31.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#91bdae"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#174034"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#174034"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#174034"
-            }
-          },
-          "_anchor": "features1-ad"
         },
         {
           "_params": {
@@ -2048,7 +1905,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369-nice-guys-finish-last-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2230,7 +2087,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page19.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2246,7 +2103,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/21083561-10155103134846747-8244472783375803781-o-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21083561_10155103134846747_8244472783375803781_o-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2791,7 +2648,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -3032,7 +2889,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -3664,7 +3521,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4167,7 +4024,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x761.jpg",
+              "src": "@PROJECT_PATH@/assets/images/italy-migrants-refugees-asylum-seekers-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4176,10 +4033,10 @@
               "title": ""
             }
           },
-          "title1": "Applying to the US",
-          "subtitle1": "Written By: Evan Dastin-van Rijn",
-          "caption1": "Advice on how to apply to universities in the US<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page31.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Living the Dream?",
+          "subtitle1": "Written By: Eva Morris",
+          "caption1": "While mostly based on fact, this is partially an opinion piece delving in to the problem of the migrant crisis in Europe.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/northern-lights-waterfall-iceland-icelandhot0517-1400x875.jpg",
@@ -4197,19 +4054,20 @@
           "button2": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture1-703x553.png",
+              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "\"Ship of Fools\" Exhibition",
-          "subtitle3": "Written By: Anna Hilton-Ibold",
-          "caption3": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Taking the Perfect Picture",
+          "subtitle3": "Written By: Shahriar Hossain",
+          "caption3": "With this article, you can take much more professional photos.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/130518052242-north-korea-missiles-super-169-600x337.jpg",
@@ -4281,7 +4139,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -4936,7 +4794,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5210,7 +5068,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5355,7 +5213,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -6158,7 +6016,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -6329,7 +6187,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x987.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x987.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6386,7 +6244,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170822-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_20170822-1400x787.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6447,7 +6305,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -6675,7 +6533,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -6842,7 +6700,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21056309-10155103163501747-1754465073088945245-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21056309_10155103163501747_1754465073088945245_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6883,7 +6741,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21016142-10155103163486747-7081100746334132550-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21016142_10155103163486747_7081100746334132550_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6948,7 +6806,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21055361-10155103160206747-5607008961605324383-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21055361_10155103160206747_5607008961605324383_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -6989,7 +6847,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/21054978-10155103128986747-4353532423810240276-o-1368x912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21054978_10155103128986747_4353532423810240276_o-1368x912.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -7482,7 +7340,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -7723,7 +7581,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -7983,7 +7841,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -8549,7 +8407,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -8615,7 +8473,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-25f-1999x1389.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_25f-1999x1389.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-25f-1999x1389-800x555.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8626,7 +8484,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-25e-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_25e-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-25e-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8700,7 +8558,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-32b-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput_32b-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8756,7 +8614,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-2d3-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_2d3-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-2d3-2000x3000-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8836,7 +8694,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-c-2000x2590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput_c-2000x2590.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-c-2000x2590-800x1036.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -8883,7 +8741,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-2df-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput_2df-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -9199,7 +9057,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -9419,7 +9277,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -9759,7 +9617,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -10091,9 +9949,9 @@
     },
     "page31.html": {
       "settings": {
-        "title": "US Colleges",
+        "title": "US",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 3
       },
       "components": [
         {
@@ -10218,7 +10076,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -10232,8 +10090,8 @@
             "overlayColor": "#174034",
             "overlayOpacity": 0.5
           },
-          "title": "Applying to US Universities",
-          "text": "<p>Written By: Evan Dastin-van Rijn</p>",
+          "title": "Sample Article",
+          "text": "<p>Sourced From nytimes</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_anchor": "msg-box8-a7"
         },
@@ -10247,8 +10105,82 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>There are four parts to applying to the US: standardized tests, academic transcript, extra curriculars, and application essays. I will cover each of these as well as the Common Application.</p><p><br></p><p>The relationship between US applications and standardized tests is quite infamous with many people thinking a low score to be absolutely damning for an application. In reality, standardized tests are but one component of the application, and a worse score can be made up for elsewhere. However, this is not to say they don’t matter. A high score for a standardized test can be very helpful. There are five types of standardized tests you are likely to encounter: the SAT, ACT, SAT subject tests, AP, and IB. Almost every university in the US will require you to either take the SAT or ACT. The SAT has math, writing, and reading sections, as well as an optional essay. The total score is out of 1600, with math counting for 800 and reading and writing counting for a combined 800. The optional essay is marked out of 24. The ACT has English, math, reading, and science sections as well as an optional essay. Each section is scored out of 36 with your composite score being the average of the sections. Both the SAT and ACT have ‘pre’ exams which can be useful in providing an idea of their differences and which test best suits you. Both of the tests can be taken repeatedly so set your sights on a minimum score you need and you can try multiple times to achieve it, if necessary. SAT subjects tests are not required by most universities, but when they are you will often have to do two. If given a choice, do some research to choose the tests you feel you can perform best on. AP and IB exams are also subject based and often worth college credit. They are never required by universities but can be useful to set yourself at a higher academic standing than similar applicants.&nbsp;</p><p><br></p><p>Your academic transcript is a record of your grades throughout high school. Just as universities have expectations for standardized tests, they will have similar expectations for your results in school. Your academic transcript is often measured through an average, or GPA, which will take into account the difficulty of classes, as well as the score to more accurately compare students.&nbsp;</p><p><br></p><p>Extracurriculars include activities like sports, performing arts, community service, and pretty much anything else beyond academics. Universities in the US place a significant emphasis on these activities, especially the higher ranked ones. When listing extracurriculars, quantity is not of importance but rather longstanding dedication. Examples like playing volleyball for years moving up from junior varsity, to varsity, to eventually being team captain show universities your commitment and what you can bring them beyond academics. You often hear that universities want you to be ‘well-rounded,’ but in truth it is often more important to show there’s something you have a real longstanding passion for which will make you out to be unique amongst many similar students.&nbsp;</p><p><br></p><p>Application essays are your chance to show universities who you are as a person. Prompts will often focus on things like extracurriculars, challenges, background, or something about the university itself. What is important to remember is that these essays are not places to list facts or make an argument, but rather express your personality in a way descriptions and scores can not. These essays will make or break an application so make sure to work through multiple drafts and get feedback wherever you can to develop the best possible work.</p><p><br></p><p>The majority of universities in the US run their applications through a system called the Common Application. The Common Application allows you to input most of your data only a single time rather than repeatedly for each university. It also has a specific essay which is sent to every university, in addition to the other essays particular universities may require. It is reasonably straightforward and it is worth opening an account as soon as possible during the application season.</p>",
+          "text": "<p>Which leads us to Noah Syndergaard, the Mets’ fire-throwing ace and opening-day starter, who seems to be testing the limits of human velocity. Over nearly 184 innings in his All-Star 2016 season, Syndergaard’s four-seam fastball sizzled at a major-league best for starting pitchers. His average was 97.9 m.p.h. — nearly a mile and a half better than the next best starter.</p><p><br></p><p>Some relievers, like Yankees closer Aroldis Chapman, have reached higher maximum velocities, but Syndergaard, as a starter, not a ninth-inning closer, did it over a much larger body of work last season. It helped that Syndergaard is young (now 24) and massive (6 feet 6 inches and 242 pounds).</p><p><br></p><p>Although data isn’t available from earlier eras in baseball, when the mound height and distance were different at times, Syndergaard’s average fastball velocity as a starter in 2016 might have been the fastest to date. It was at least the fastest since 2007, when advanced technology began reliably tracking the speed of pitches.</p>",
           "_anchor": "content1-a8"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Sports.",
+          "_anchor": "image2-a9"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Syndergaard seems intent on setting the bar even higher, having shown up for spring training in February with more muscle on his frame and with the stated intent of pushing himself harder this season and throwing even faster.</p><p><br></p><p>Last week, he took on a bit of a different tone in an interview outside the Mets’ clubhouse in Port St. Lucie, Fla. “I want to set goals,” he said. “Not necessarily throw harder, but just make the game easier.”</p><p><br></p><p>He added, “Just never become complacent and try to maintain anything, because once you start maintaining, you ultimately lose.”</p><p><br></p><p>Let’s assume for a moment that Syndergaard does throw his four-seam fastball a little harder this season. Maybe it jumps to an average of 98.5 m.p.h. If it does, people will inevitably begin to wonder if a starter can average 100 miles an hour on his fastball.</p><p><br></p><p>“That’s feasible,” said Glenn Fleisig, research director at the American Sports Medicine Institute in Birmingham, Ala. “But I don’t think you’ll ever see a pitcher averaging 10 to 20 miles per hour more than that, even with all the science, technology and medicine.”</p><p><br></p><p>Fleisig added: “We are, I believe, at the limit of maximum velocity. And a decade from now, it won’t be any different than it is now, but it’ll continue to get more crowded at the top. Why is that? In the biomechanics of pitching, this is all the ligaments and tendons can take.”</p>",
+          "_anchor": "content1-aa"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "\"And a decade from now, it won't be any different than it is now\"",
+          "meta": "",
+          "_anchor": "header3-ab"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>So although high velocity has been found to be a factor in arm injuries, that doesn’t mean that slower throwers won’t also get hurt. The efficiency of a pitcher’s mechanics are also a factor.</p><p><br></p><p>“If there are two guys throwing 95 miles per hour for an average fastball, one of them could have better mechanics than the other and the stress on his elbow could be vastly different,” Fleisig said.</p><p><br></p><p>In Syndergaard’s case, the Mets believe that he makes throwing hard a little bit easier because of his quick arm and fluid delivery, even when he is throwing 100 m.p.h., as he often did last season.</p><p><br></p><p>“He doesn’t jump off the mound,” said Dan Warthen, the Mets’ pitching coach. “He doesn’t force the baseball to come out of his hand. It’s a one-piece delivery, and the thing comes out of his hand the way it’s supposed to.”</p><p><br></p><p>Warthen said Syndergaard did not have a maximum-effort delivery, the kind that he sees in other pitchers and that is more risky.</p>",
+          "_anchor": "content1-ac"
         },
         {
           "alias": "facebook-comments",
