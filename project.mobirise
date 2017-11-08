@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "Miscellaneous",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,9 +30,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 386,
-    "versionPublish": "4.4.0",
-    "publishType": "local",
-    "publishPath": "file:///Users/Aimee/Documents"
+    "versionPublish": "4.4.0"
   },
   "pages": {
     "Sports": {
