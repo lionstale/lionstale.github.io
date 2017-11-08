@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 386,
+    "uniqCompNum": 378,
     "versionPublish": "4.4.0",
     "publishType": "local",
     "publishPath": "file:///Users/Aimee/Documents"
@@ -39,7 +39,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -270,7 +270,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -502,7 +502,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -642,7 +642,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/cnada2-1410x846.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1701x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -659,9 +659,9 @@
               "size": 250
             }
           },
-          "title": "Applying to Canadian Universities",
-          "text": "Advice on how to apply to universities in Canada",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page33.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Applying to US Universities",
+          "text": "Advice on how to apply to universities in the US",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -710,7 +710,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page24.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/uk-1170x600.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -724,18 +724,18 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1200x761.jpg",
-                "playVideo": false,
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Applying to US Universities",
+                "title": "Coming Soon",
                 "showText": true,
-                "text": "Advice on how to apply to universities in the US",
+                "text": "More articles being written... literary genius takes time. :) ",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -747,7 +747,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1030,7 +1030,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -1646,7 +1646,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -1936,7 +1936,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -2010,13 +2010,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cnada2-1410x846.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -2059,12 +2060,12 @@
               "active": true
             }
           },
-          "title1": "Applying to US Universities<br>",
-          "subtitle1": "Written By: Evan Dastin-van Rijn",
+          "title1": "Applying to US Universities",
+          "subtitle1": "",
           "caption1": "Advice on how to apply to universities in the US",
-          "title2": "Applying to Canadian Universities",
-          "subtitle2": "Written By: Lea Lepik",
-          "caption2": "Advice on how to apply to universities in Canada",
+          "title2": "Coming Soon",
+          "subtitle2": "Who Will Write Next?",
+          "caption2": "More articles being written... literary genius takes time. :)",
           "title3": "Coming Soon",
           "subtitle3": "Who Will Write Next?",
           "caption3": "More articles being written... literary genius takes time. :)",
@@ -2078,7 +2079,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page31.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page33.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2188,7 +2189,7 @@
             }
           },
           "title1": "Applying to the United Kingdom",
-          "subtitle1": "Written By: Dominic Grey",
+          "subtitle1": "",
           "caption1": "Advice on how to apply to universities in the U.K.",
           "title2": "Daydream Nation: A Photo Series",
           "subtitle2": "Photographed By: Andreea Samareannu",
@@ -3000,7 +3001,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -3241,7 +3242,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -3873,7 +3874,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -4490,7 +4491,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -5145,7 +5146,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -5419,7 +5420,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -5564,7 +5565,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -6180,7 +6181,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 30
       },
       "components": [
         {
@@ -6367,7 +6368,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -6656,7 +6657,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -6884,7 +6885,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -7235,7 +7236,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -7422,7 +7423,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -7691,7 +7692,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -7932,7 +7933,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -8192,7 +8193,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -8758,7 +8759,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -9408,7 +9409,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -9628,7 +9629,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -9968,7 +9969,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -10302,7 +10303,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -10458,193 +10459,6 @@
           },
           "text": "<p>There are four parts to applying to the US: standardized tests, academic transcript, extra curriculars, and application essays. I will cover each of these as well as the Common Application.</p><p><br></p><p>The relationship between US applications and standardized tests is quite infamous with many people thinking a low score to be absolutely damning for an application. In reality, standardized tests are but one component of the application, and a worse score can be made up for elsewhere. However, this is not to say they don’t matter. A high score for a standardized test can be very helpful. There are five types of standardized tests you are likely to encounter: the SAT, ACT, SAT subject tests, AP, and IB. Almost every university in the US will require you to either take the SAT or ACT. The SAT has math, writing, and reading sections, as well as an optional essay. The total score is out of 1600, with math counting for 800 and reading and writing counting for a combined 800. The optional essay is marked out of 24. The ACT has English, math, reading, and science sections as well as an optional essay. Each section is scored out of 36 with your composite score being the average of the sections. Both the SAT and ACT have ‘pre’ exams which can be useful in providing an idea of their differences and which test best suits you. Both of the tests can be taken repeatedly so set your sights on a minimum score you need and you can try multiple times to achieve it, if necessary. SAT subjects tests are not required by most universities, but when they are you will often have to do two. If given a choice, do some research to choose the tests you feel you can perform best on. AP and IB exams are also subject based and often worth college credit. They are never required by universities but can be useful to set yourself at a higher academic standing than similar applicants.&nbsp;</p><p><br></p><p>Your academic transcript is a record of your grades throughout high school. Just as universities have expectations for standardized tests, they will have similar expectations for your results in school. Your academic transcript is often measured through an average, or GPA, which will take into account the difficulty of classes, as well as the score to more accurately compare students.&nbsp;</p><p><br></p><p>Extracurriculars include activities like sports, performing arts, community service, and pretty much anything else beyond academics. Universities in the US place a significant emphasis on these activities, especially the higher ranked ones. When listing extracurriculars, quantity is not of importance but rather longstanding dedication. Examples like playing volleyball for years moving up from junior varsity, to varsity, to eventually being team captain show universities your commitment and what you can bring them beyond academics. You often hear that universities want you to be ‘well-rounded,’ but in truth it is often more important to show there’s something you have a real longstanding passion for which will make you out to be unique amongst many similar students.&nbsp;</p><p><br></p><p>Application essays are your chance to show universities who you are as a person. Prompts will often focus on things like extracurriculars, challenges, background, or something about the university itself. What is important to remember is that these essays are not places to list facts or make an argument, but rather express your personality in a way descriptions and scores can not. These essays will make or break an application so make sure to work through multiple drafts and get feedback wherever you can to develop the best possible work.</p><p><br></p><p>The majority of universities in the US run their applications through a system called the Common Application. The Common Application allows you to input most of your data only a single time rather than repeatedly for each university. It also has a specific essay which is sent to every university, in addition to the other essays particular universities may require. It is reasonably straightforward and it is worth opening an account as soon as possible during the application season.</p>",
           "_anchor": "content1-a8"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        }
-      ]
-    },
-    "page33.html": {
-      "settings": {
-        "title": "Canadian Universities",
-        "meta_descr": "Web Page Builder Description",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
-          "_anchor": "menu-ai"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-aj"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#174034",
-            "overlayOpacity": 0.5
-          },
-          "title": "Applying to Canadian Universities",
-          "text": "<p>Written By: Lea Lepik</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-ak"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem;\">As I am going to be attending McGill University, an institution that finds itself in Montréal, Canada, I have been asked to share my process and journey for applying to schools in Canada. Being a veteran of the admissions process, I am happy to disclose my experience and words of advice to anyone considering going to Canada to pursue their education.&nbsp;</span><br></p><p><br></p><p>First off, it needs to be said that there are many benefits to attending university in Canada: the tuition is often lower for international students in comparison to what you may find in the US, Canada harbours a great deal of cultural diversity making it international student friendly, and there are many universities known worldwide for their high-quality education.&nbsp;</p><p><br></p><p>The process starts with a meeting with the advisor assigned to you to determine what you are looking for in a university. It is a good idea to narrow down what you like and dislike in a university in preparation for your consultation with your advisor. Doing so allows your advisor to be more helpful in guiding you through the process of selecting a school.&nbsp;</p><p><br></p><p>Something I learned while consulting with my advisor is that the application process to Canada is one of the most straightforward in the world when completing the IB. This is because Canadian universities rarely ask applicants to write essays or have a letter of recommendation, unlike schools in the US. The application to my four chosen schools (McGill University, University of Ottawa, Carleton University and York University) did not demand any essays or standardised test scores like the SAT or the ACT.&nbsp;</p><p><br></p><p>Instead, the schools simply wanted good grades. While this is a given, keeping up grades is incredibly important, especially since schools will often demand to see your transcript with your grades from semester 1 of 12th grade. This is because the university wants to see your most recent grades to gauge who you are as a student.&nbsp;</p><p><br></p><p>While the IB is still relatively new in comparison to A levels and the AP system, it is becoming more recognised on an international scale. This became evident to me when I started doing some research into universities that fit my preferences. As it turns out, Canada understands the rigor of the IB so much so that often, the admissions requirements are relatively low. This, however, is completely dependent upon the course and faculty that you are applying to as the requirements for a bachelor in the arts are lower than those for a bachelor in engineering.&nbsp;</p><p><br></p><p>This exceptional understanding of the IB puts those students who complete the diploma at a certain advantage, as the admissions requirements are quite attainable (my requirements ranged from 28 to 34 subject points).</p><p><br></p><p>Because Canada values diversity, universities are more inclined to grant scholarships to high achieving international students as an incentive to attend the school, and in hopes that they become Canadian citizens later in life. I was made aware of this fact when I was offered three scholarships to universities for being international and completing the IB diploma.&nbsp;</p><p><br></p><p>To conclude, the benefits to applying to Canadian universities as an IB student are vast: the admissions requirements are attainable, there are no essays or test scores involved, and they are eager to grant international students scholarships. If I were to give advice to anyone who is about to start applying for college, it would be to work hard so that you put yourself in the best possible position to choose where you will pursue your extra education.&nbsp;</p><p><br></p>",
-          "_anchor": "content1-al"
         },
         {
           "alias": "facebook-comments",
