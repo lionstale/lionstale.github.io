@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Miscellaneous",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 386,
+    "uniqCompNum": 401,
     "versionPublish": "4.4.0"
   },
   "pages": {
@@ -37,7 +37,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -268,7 +268,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -500,7 +500,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -745,7 +745,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1028,7 +1028,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1644,7 +1644,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1784,7 +1784,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/130518052242-north-korea-missiles-super-169-1100x619.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1801,9 +1801,9 @@
               "size": 250
             }
           },
-          "title": "Time to Grow Up<br>Mr. Kim Jong-Un",
-          "text": "A piece discussing the North Korean missiles.&nbsp;<br>Note: Since this article was written, a second <br>missile was launched on the 15th September. <br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "St. John's for a Newcomer",
+          "text": "A perspective of St. John's from a new student. <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -1881,16 +1881,19 @@
           "button2": "<a data-app-btn=\"true\" href=\"page23.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/130518052242-north-korea-missiles-super-169-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :) ",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Time to Grow Up Mr. Kim Jong Un",
+          "subtitle3": "Written By: Eva Morris",
+          "caption3": "A piece discussing the North Korean missiles. <br>Note: Since this article was written, a second <br>missile was launched on the 15th September.",
+          "button3": "<a data-app-btn=\"true\" href=\"page26.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1934,7 +1937,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2019,14 +2022,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -2063,9 +2065,9 @@
           "title2": "Applying to Canadian Universities",
           "subtitle2": "Written By: Lea Lepik",
           "caption2": "Advice on how to apply to universities in Canada",
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :)",
+          "title3": "St. John's for a Newcomer",
+          "subtitle3": "Written By: Ilinca Maria Manda",
+          "caption3": "A perspective of St. John's from a new student. ",
           "title4": "Coming Soon",
           "subtitle4": "Who Will Write Next?",
           "caption4": "More articles being written... literary genius takes time. :)",
@@ -2077,7 +2079,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page31.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page33.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page34.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2998,7 +3000,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -3239,7 +3241,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -3871,7 +3873,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4419,7 +4421,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/130518052242-north-korea-missiles-super-169-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4428,10 +4430,10 @@
               "title": ""
             }
           },
-          "title4": "Time to Grow Up<div>Mr. Kim Jong-Un</div>",
-          "subtitle4": "Written By: Eva Morris",
-          "caption4": "A piece discussing the North Korean missiles. <br>Note: Since this article was written, a second missile was launched on the 15th September.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"page26.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "St. John's for a Newcomer",
+          "subtitle4": "Written By: Ilinca Maria Manda",
+          "caption4": "A perspective of St. John's from a new student.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"page34.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -4488,7 +4490,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -5143,7 +5145,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5417,7 +5419,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5562,7 +5564,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -6178,7 +6180,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -6365,7 +6367,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -6654,7 +6656,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -6882,7 +6884,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -7233,7 +7235,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -7420,7 +7422,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -7689,7 +7691,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -7930,7 +7932,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -8190,7 +8192,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -8756,7 +8758,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -9406,7 +9408,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -9626,7 +9628,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -9966,7 +9968,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -10300,7 +10302,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -10487,7 +10489,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -10643,6 +10645,416 @@
           },
           "text": "<p><span style=\"font-size: 1.07rem;\">As I am going to be attending McGill University, an institution that finds itself in Montréal, Canada, I have been asked to share my process and journey for applying to schools in Canada. Being a veteran of the admissions process, I am happy to disclose my experience and words of advice to anyone considering going to Canada to pursue their education.&nbsp;</span><br></p><p><br></p><p>First off, it needs to be said that there are many benefits to attending university in Canada: the tuition is often lower for international students in comparison to what you may find in the US, Canada harbours a great deal of cultural diversity making it international student friendly, and there are many universities known worldwide for their high-quality education.&nbsp;</p><p><br></p><p>The process starts with a meeting with the advisor assigned to you to determine what you are looking for in a university. It is a good idea to narrow down what you like and dislike in a university in preparation for your consultation with your advisor. Doing so allows your advisor to be more helpful in guiding you through the process of selecting a school.&nbsp;</p><p><br></p><p>Something I learned while consulting with my advisor is that the application process to Canada is one of the most straightforward in the world when completing the IB. This is because Canadian universities rarely ask applicants to write essays or have a letter of recommendation, unlike schools in the US. The application to my four chosen schools (McGill University, University of Ottawa, Carleton University and York University) did not demand any essays or standardised test scores like the SAT or the ACT.&nbsp;</p><p><br></p><p>Instead, the schools simply wanted good grades. While this is a given, keeping up grades is incredibly important, especially since schools will often demand to see your transcript with your grades from semester 1 of 12th grade. This is because the university wants to see your most recent grades to gauge who you are as a student.&nbsp;</p><p><br></p><p>While the IB is still relatively new in comparison to A levels and the AP system, it is becoming more recognised on an international scale. This became evident to me when I started doing some research into universities that fit my preferences. As it turns out, Canada understands the rigor of the IB so much so that often, the admissions requirements are relatively low. This, however, is completely dependent upon the course and faculty that you are applying to as the requirements for a bachelor in the arts are lower than those for a bachelor in engineering.&nbsp;</p><p><br></p><p>This exceptional understanding of the IB puts those students who complete the diploma at a certain advantage, as the admissions requirements are quite attainable (my requirements ranged from 28 to 34 subject points).</p><p><br></p><p>Because Canada values diversity, universities are more inclined to grant scholarships to high achieving international students as an incentive to attend the school, and in hopes that they become Canadian citizens later in life. I was made aware of this fact when I was offered three scholarships to universities for being international and completing the IB diploma.&nbsp;</p><p><br></p><p>To conclude, the benefits to applying to Canadian universities as an IB student are vast: the admissions requirements are attainable, there are no essays or test scores involved, and they are eager to grant international students scholarships. If I were to give advice to anyone who is about to start applying for college, it would be to work hard so that you put yourself in the best possible position to choose where you will pursue your extra education.&nbsp;</p><p><br></p>",
           "_anchor": "content1-al"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "page34.html": {
+      "settings": {
+        "title": "St. John's Student Perspective",
+        "meta_descr": "Web Page Builder Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-aq"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-ar"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#174034",
+            "overlayOpacity": 0.5
+          },
+          "title": "St. John's for a Newcomer",
+          "text": "<p>Written By: Ilinca Maria Manda</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-as"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_anchor": "image2-au"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>When I first came to St. John’s, I did not know what to expect or how everything would turn out. It was like stepping into a great unknown, a feeling to which any person who has changed schools can probably relate. A new school is a true challenge at the beginning, since you do not know anything about it and have no idea how you will adapt to the entirely unknown place. You can’t tell if the atmosphere will be welcoming and friendly, or indifferent and cold (and that can be scary, since you will be spending a large part of your time here.)</p><p><br></p><p>\n</p><p>\n</p><p>However, right from the beginning, all my uncertainties and fears started to fade away and eventually disappeared, as I have found in St. John’s not only a school, but a true community, which seems to me very strong indeed! Once you get to know the people of this community, you realize how the principles of companionship, integrity, and respect are not just fancy words, but values to live by every day. It is very true that a school’s community plays a big role in how we feel about going to school every day and in how smoothly our daily routine flows.</p><p><br></p><p> \n</p><p>\n</p><p>St. John’s has opened its gates widely for all of us who have joined this year and we soon felt that we had found our place. We did not feel that “newcomer’s anxiety” for too long, because there is no way that you won’t be able to find people who share your interests, are ready to help, and put a smile on your face right away here at St. John’s. I have had the chance to go to many schools and know many different people, but none of the school communities that I have encountered so far are quite like St. John’s. In addition to a community composed of bright and friendly faces, St. John’s offers a unique variety of clubs and activities that I have found truly amazing, as they give everyone a chance to discover or cultivate their passions, get to know even more people and have a super fun time during lunches, after-school, and free periods.</p><p><br></p><p> \n</p><p>\n</p><p>The cheery atmosphere that I now associate with St. John’s can be found in every corner and especially on every wall, as students did not hesitate in expressing themselves and giving the place a splash of color! I remember hearing one of the other new-comers exclaiming how “artsy” everything looks and I could not stop myself from thinking that we were in a place which was very far from being a boring school. \n</p>",
+          "_anchor": "content1-at"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.10-am-286x216.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.10-am-286x216-286x216.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.18-am-242x220.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.18-am-242x220-242x220.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-az"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Another element that contributes to the beauty of St. John’s is the cultural diversity and how, even though we come from different backgrounds, we manage to create beautiful connections with people. It is for sure that every person has a story to tell and it is always beautiful to listen to, for surprises can arise from every corner. One thing that is rare, but that exists permanently in our school community, is acceptance. The individuality of people is embraced, not judged, which makes people feel free and comfortable with who they are and allows them to grow even more.&nbsp;</p>",
+          "_anchor": "content1-av"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.23.55-am-355x226.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-b0"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>I was able to see and enjoy this fully at the International Festival, an amazing event that the school community takes very seriously and it turned out to be fantastic! Compared to other international schools and their ideas of international festivals, the one at St. John’s was authentic and unique, just like its people. The atmosphere cannot be well put into words (people who have been to one would know.)</p>",
+          "_anchor": "content1-ax"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.23-am-573x373.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.23-am-573x373-573x373.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.37-am-485x359.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.37-am-485x359-485x359.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-b1"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Whether you are looking for a school, a place full of potential friends, or a place to fulfill your passions and maybe discover new ones, or maybe for a unique and diverse community, St. John’s is the right place for you! As the principal said on the first day of school, within a month any new-comer will be able to say: “I am truly a student of St. John’s!”&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b2"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x271.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-b3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>I am more than happy to be a part of this community and would like to thank everyone for the warm welcome they gave to all of us who joined St. John’s this year, making it so much easier for us to overcome the difficulties of changing schools and missing the friends we have left behind!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b4"
         },
         {
           "alias": "facebook-comments",
