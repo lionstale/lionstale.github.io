@@ -30,7 +30,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 401,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Sports": {
@@ -1784,7 +1786,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2022,7 +2024,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4212,7 +4214,7 @@
             }
           },
           "title": "Daydream Nation: A Photo Series",
-          "text": "An expression through style<br>photographed by Andreea Samareanu",
+          "text": "An expression through style<br>photographed by Andreea Samareannu",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "_anchor": "header2-31"
         },
@@ -4421,7 +4423,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10834,7 +10836,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -10878,7 +10880,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.10-am-286x216.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.21.10%20am-286x216.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.10-am-286x216-286x216.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -10889,7 +10891,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.18-am-242x220.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.21.18%20am-242x220.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.18-am-242x220-242x220.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -10928,7 +10930,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.23.55-am-355x226.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.23.55%20am-355x226.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -10976,7 +10978,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.23-am-573x373.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.25.23%20am-573x373.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.23-am-573x373-573x373.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -10987,7 +10989,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.37-am-485x359.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.25.37%20am-485x359.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.37-am-485x359-485x359.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -11026,7 +11028,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x271.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.27.14%20am-493x271.png",
               "width": 1400,
               "link": "",
               "alt": "",
