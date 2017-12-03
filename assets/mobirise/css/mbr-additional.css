@@ -412,6 +412,264 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+.extCountdown1 .number,
+.extCountdown2 .number {
+  font-family: 'Montserrat', sans-serif;
+}
+.extCountdown1 .period,
+.extCountdown2 .period {
+  font-family: 'Lora', serif;
+}
+.extCountdown1 .dot,
+.extCountdown2 .dot {
+  font-family: 'Montserrat', sans-serif;
+}
+.features6 .feature-subtitle {
+  font-family: 'Lora', serif;
+}
+.features6 .feature-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.features6 .description {
+  font-family: 'Raleway', sans-serif;
+}
+.count,
+.counter-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.counter-subtitle {
+  font-family: 'Lora', serif;
+}
+.mbr-iconfont-counters1 {
+  color: #91bdae;
+}
+.extHeader1 .container h3,
+.extHeader2 .container h3,
+.extHeader3 .container h3,
+.extHeader5 .container h3,
+.extHeader6 .container h3,
+.extHeader7 .container h3,
+.extHeader8 .container h3,
+.extHeader9 .container h3,
+.extHeader10 .container h3,
+.extHeader12 .container h3,
+.extHeader13 .container h3,
+.extFeatures10 .container h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader1 .container p,
+.extHeader2 .container p,
+.extHeader3 .container p,
+.extHeader5 .container p,
+.extHeader6 .container p,
+.extHeader7 .container p,
+.extHeader8 .container p,
+.extHeader9 .container p,
+.extHeader10 .container p,
+.extHeader12 .container p,
+.extHeader13 .container p,
+.extFeatures10 .container p {
+  font-family: 'Lora', serif;
+}
+.extHeader5 .container label {
+  font-family: 'Lora', serif;
+}
+.extHeader9 form p.form-subtitle {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader11 .container span {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader11 .container p.element {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader11 .container p {
+  font-family: 'Lora', serif;
+}
+.extHeader12 h4,
+.extFeatures10 h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader12 .subtitle,
+.extFeatures10 .subtitle {
+  font-family: 'Lora', serif;
+}
+.extHeader13 h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader13 .number {
+  font-family: 'Montserrat', sans-serif;
+}
+.extHeader13 .period {
+  font-family: 'Lora', serif;
+}
+.extHeader13 .dot {
+  font-family: 'Montserrat', sans-serif;
+}
+.extFeatures .feature-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.extFeatures .feature-subtitle {
+  font-family: 'Lora', serif;
+}
+.extFeatures .feature-text {
+  font-family: 'Raleway', sans-serif;
+}
+.extFeatures2 h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extFeatures3 .border-wrap {
+  border-color: #91bdae;
+}
+.extFeatures4 h4,
+.extFeatures6 h4,
+.extFeatures5 .card-title h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extFeatures4 h5,
+.extFeatures6 h5,
+.extFeatures5 .card-title h5 {
+  font-family: 'Lora', serif;
+}
+.extForm1 h4,
+.extForm2 h4,
+.extForm3 h4,
+.extForm4 h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extForm1 .subtitle,
+.extForm2 .subtitle,
+.extForm3 .subtitle,
+.extForm4 .subtitle {
+  font-family: 'Lora', serif;
+}
+.extForm2 .container h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extForm2 .container p {
+  font-family: 'Lora', serif;
+}
+.extPricingTable1 .bottom_line {
+  border-bottom-color: #91bdae;
+}
+.extPricingTable1 .mbr-price small {
+  font-family: 'Lora', serif;
+}
+.extPricingTable1 .mbr-plan-label {
+  background: #91bdae;
+}
+.extCounters2 h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extCounters2 h5 {
+  font-family: 'Lora', serif;
+}
+.extCounters3 .count {
+  font-family: 'Montserrat', sans-serif;
+}
+.extCounters3 .counter-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.extCounters3 .counter-subtitle {
+  font-family: 'Lora', serif;
+}
+.extProgressBar .progress-primary[value]::-webkit-progress-value {
+  background-color: #91bdae;
+}
+.extProgressBar .progress-primary[value]::-moz-progress-bar {
+  background-color: #91bdae;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar .progress-primary .progress-bar {
+    background-color: #91bdae;
+  }
+}
+.extProgressBar .title-wrap {
+  font-family: 'Lora', serif;
+}
+.extProgressBarRound .progress-radial .overlay {
+  font-family: 'Montserrat', sans-serif;
+}
+.extProgressBar4 .feature-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.extProgressBar4 .feature-subtitle {
+  font-family: 'Lora', serif;
+}
+.extTabs1 ul.nav-tabs li a:hover,
+.extTabs2 ul.nav-tabs li a:hover {
+  color: #91bdae;
+}
+.extAccordion1 .panel-heading a {
+  font-family: 'Raleway', sans-serif;
+}
+.extAccordion1 .pseudoPlus,
+.extAccordion2 .pseudoPlus,
+.extToggle1 .pseudoPlus,
+.extAccordion1 .pseudoPlus:after,
+.extAccordion2 .pseudoPlus:after,
+.extToggle1 .pseudoPlus:after,
+.extAccordion1 .pseudoMinus,
+.extAccordion2 .pseudoMinus,
+.extToggle1 .pseudoMinus {
+  background-color: #91bdae;
+}
+.extAccordion2 .panel-heading a,
+.extAccordion3 .panel-heading a,
+.extToggle1 .panel-heading a {
+  font-family: 'Raleway', sans-serif;
+}
+.extProgressBar5 .progress-primary[value]::-webkit-progress-value {
+  background-color: #91bdae;
+}
+.extProgressBar5 .progress-primary[value]::-moz-progress-bar {
+  background-color: #91bdae;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar5 .progress-primary .progress-bar {
+    background-color: #91bdae;
+  }
+}
+.extProgressBar5 .title-wrap {
+  font-family: 'Lora', serif;
+}
+.extMsg-box1 .container h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extMsg-box1 .container p {
+  font-family: 'Lora', serif;
+}
+.extMsg-box1 h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+.extMsg-box1 .subtitle {
+  font-family: 'Lora', serif;
+}
+.extMsg-box2 .container span,
+.extMsg-box3 .container span,
+.extMsg-box4 .container span {
+  font-family: 'Montserrat', sans-serif;
+}
+.extMsg-box2 .container p,
+.extMsg-box3 .container p,
+.extMsg-box4 .container p {
+  font-family: 'Lora', serif;
+}
+.extProgressBarRound .pie_progress__number {
+  font-family: 'Montserrat', sans-serif;
+}
+.extMenu1 span.icon a:hover {
+  color: #91bdae !important;
+}
+.extProgressBar .progress-primary[value]::-ms-fill {
+  color: #91bdae;
+}
+.extProgressBar5 .progress-primary[value]::-ms-fill {
+  color: #91bdae;
+}
+.theme-border {
+  border: 1px solid #91bdae;
+}
 #slider2-r .mbr-section-title,
 #slider2-r .mbr-section-lead {
   color: #fff;
@@ -624,6 +882,15 @@ h6,
 #slider2-16 .mbr-section-title,
 #slider2-16 .mbr-section-lead {
   color: #fff;
+}
+#features3-d7 H4 {
+  color: #ffffff;
+}
+#features3-d7 H5 {
+  color: #ffffff;
+}
+#features3-d7 P {
+  color: #ffffff;
 }
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -2951,4 +3218,257 @@ h6,
 #msg-box8-as .mbr-section-title,
 #msg-box8-as p {
   color: #fff;
+}
+#menu-bq .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-bq .navbar-caption {
+  color: #ffffff;
+}
+#menu-bq .navbar-toggler {
+  color: #ffffff;
+}
+#menu-bq .link,
+#menu-bq .dropdown-item {
+  color: #ffffff;
+}
+#menu-bq .link {
+  font-size: 0.75rem;
+}
+#menu-bq .dropdown-item,
+#menu-bq .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-bq .link:hover,
+#menu-bq .dropdown-item:hover,
+#menu-bq .link:focus,
+#menu-bq .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-bq .link[aria-expanded="true"],
+#menu-bq .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-bq .nav-dropdown-sm .link:focus,
+#menu-bq .nav-dropdown-sm .link:hover,
+#menu-bq .nav-dropdown-sm .dropdown-item:focus,
+#menu-bq .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-bq .navbar,
+#menu-bq .nav-dropdown-sm,
+#menu-bq .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-bq .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-bq .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-bq .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-bq .bg-color.transparent.opened .link:hover,
+#menu-bq .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-bq .link[aria-expanded="true"],
+#menu-bq .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-bq.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-bq .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-bq .close-icon::before,
+#menu-bq .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-c2 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-c2 .navbar-caption {
+  color: #ffffff;
+}
+#menu-c2 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-c2 .link,
+#menu-c2 .dropdown-item {
+  color: #ffffff;
+}
+#menu-c2 .link {
+  font-size: 0.75rem;
+}
+#menu-c2 .dropdown-item,
+#menu-c2 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-c2 .link:hover,
+#menu-c2 .dropdown-item:hover,
+#menu-c2 .link:focus,
+#menu-c2 .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-c2 .link[aria-expanded="true"],
+#menu-c2 .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-c2 .nav-dropdown-sm .link:focus,
+#menu-c2 .nav-dropdown-sm .link:hover,
+#menu-c2 .nav-dropdown-sm .dropdown-item:focus,
+#menu-c2 .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-c2 .navbar,
+#menu-c2 .nav-dropdown-sm,
+#menu-c2 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-c2 .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-c2 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-c2 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-c2 .bg-color.transparent.opened .link:hover,
+#menu-c2 .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-c2 .link[aria-expanded="true"],
+#menu-c2 .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-c2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-c2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-c2 .close-icon::before,
+#menu-c2 .close-icon::after {
+  background-color: #ffffff;
+}
+#extHeader16-cd P {
+  color: #222222;
+}
+#extHeader16-cd H3 {
+  color: #222222;
+}
+#extHeader16-cf P {
+  color: #222222;
+}
+#extHeader16-cf H3 {
+  color: #222222;
+}
+#extHeader16-ch P {
+  color: #222222;
+}
+#extHeader16-ch H3 {
+  color: #222222;
+}
+#extHeader16-cj P {
+  color: #222222;
+}
+#extHeader16-cj H3 {
+  color: #222222;
+}
+#extHeader16-cl P {
+  color: #222222;
+}
+#extHeader16-cl H3 {
+  color: #222222;
+}
+#extHeader16-cn P {
+  color: #222222;
+}
+#extHeader16-cn H3 {
+  color: #222222;
+}
+#extHeader16-cp P {
+  color: #222222;
+}
+#extHeader16-cp H3 {
+  color: #222222;
+}
+#extHeader16-cr P {
+  color: #222222;
+}
+#extHeader16-cr H3 {
+  color: #222222;
+}
+#menu-cu .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-cu .navbar-caption {
+  color: #ffffff;
+}
+#menu-cu .navbar-toggler {
+  color: #ffffff;
+}
+#menu-cu .link,
+#menu-cu .dropdown-item {
+  color: #ffffff;
+}
+#menu-cu .link {
+  font-size: 0.75rem;
+}
+#menu-cu .dropdown-item,
+#menu-cu .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-cu .link:hover,
+#menu-cu .dropdown-item:hover,
+#menu-cu .link:focus,
+#menu-cu .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-cu .link[aria-expanded="true"],
+#menu-cu .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-cu .nav-dropdown-sm .link:focus,
+#menu-cu .nav-dropdown-sm .link:hover,
+#menu-cu .nav-dropdown-sm .dropdown-item:focus,
+#menu-cu .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-cu .navbar,
+#menu-cu .nav-dropdown-sm,
+#menu-cu .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-cu .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-cu .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-cu .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-cu .bg-color.transparent.opened .link:hover,
+#menu-cu .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-cu .link[aria-expanded="true"],
+#menu-cu .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-cu.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-cu .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-cu .close-icon::before,
+#menu-cu .close-icon::after {
+  background-color: #ffffff;
+}
+#header3-d0 .mbr-section-title,
+#header3-d0 .mbr-section-subtitle {
+  text-align: center;
 }
