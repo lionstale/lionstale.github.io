@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "About",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 477,
+    "uniqCompNum": 480,
     "versionPublish": "4.4.0"
   },
   "pages": {
@@ -38,7 +38,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -269,7 +269,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 8
       },
       "components": [
         {
@@ -501,7 +501,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 10
       },
       "components": [
         {
@@ -746,7 +746,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -1095,7 +1095,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -1282,7 +1282,7 @@
             }
           },
           "title": "Aimee Dastin-van Rijn",
-          "text": "Aimee is a writer for the paper, as well as the Editor in Chief.<br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation<br>- Bye Bye Birdie<br>- Green and White Day<br>- The True Story of Conrad Birdie",
+          "text": "Aimee is a writer for the paper, as well as the Editor in Chief.<br><br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation<br>- Bye Bye Birdie<br>- Green and White Day<br>- The True Story of Conrad Birdie",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1311,7 +1311,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17795752-1803266223333691-2774230574149882408-n-960x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1328,8 +1328,8 @@
               "size": 0
             }
           },
-          "title": "Andreea Samareannu",
-          "text": "Aimee is a creator for the paper, as well as the head of the Arts Section.<br>Articles Written:<br>- Daydream Nation: A Photo Series",
+          "title": "Andreea Samareanu",
+          "text": "Andreea is a creator for the paper, as well as the head of the Arts Section.<br><br>Articles Written:<br>- Daydream Nation: A Photo Series",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1382,7 +1382,7 @@
             }
           },
           "title": "Eva Morris",
-          "text": "Eva is a writer for the paper, as well as the head of the Opinion Section.<br>Articles Written:<br>- Living the Dream?<br>- Time to Grow Up Mr. Kim Jong Un",
+          "text": "Eva is a writer for the paper, as well as the head of the Opinion Section.<br><br>Articles Written:<br>- Living the Dream?<br>- Time to Grow Up Mr. Kim Jong Un",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1416,7 +1416,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21740801-1973311009592967-3468470554414808778-o-1400x1866.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1434,7 +1434,7 @@
             }
           },
           "title": "Emma McDonald",
-          "text": "Aimee is a writer for the paper, as well as the head of the Events Section.<br>Articles Written:<br>- CAS Fair",
+          "text": "Emma is a writer for the paper, as well as the head of the Events Section.<br><br>Articles Written:<br>- CAS Fair",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1468,7 +1468,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17523082-275359776255220-6768294316210395117-n-555x555.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1486,7 +1486,7 @@
             }
           },
           "title": "Camille Kummer",
-          "text": "Camille is a writer for the paper, as well as the head of the Miscellaneous Section.<br>Articles Written:<br>- The Story About Maps",
+          "text": "Camille is a writer for the paper, as well as the head of the Miscellaneous Section.<br><br>Articles Written:<br>- The Story About Maps",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1596,7 +1596,7 @@
             }
           },
           "title": "Shahriar Hossain",
-          "text": "Shahriar is a writer for the paper, as well as the head of photography for the paper.&nbsp;<br>Articles Written: <br>- Taking the Perfect Picture<br><br>Articles Photographed For:<br>- CAS Fair",
+          "text": "Shahriar is a writer for the paper, as well as the head of photography for the paper.&nbsp;<br><br>Articles Written: <br>- Taking the Perfect Picture<br><br>Articles Photographed For:<br>- CAS Fair",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1649,7 +1649,7 @@
             }
           },
           "title": "Ceola Daly",
-          "text": "Ceola is a writer for the paper.<br>Articles Written:<br>- Lucky to be Lions",
+          "text": "Ceola is a writer for the paper.<br><br>Articles Written:<br>- Lucky to be Lions<br>- Some Horoscopes",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1697,13 +1697,169 @@
             }
           },
           "title": "Nathaniel Bentley",
-          "text": "Nat is a writer for the paper, as well as the content editor.<br>Articles Written:<br>Coming Soon",
+          "text": "Nat is on the paper's board.<br><br>Articles Written:<br>Coming Soon",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-56"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/23472988-1916582168590708-8497006839715032733-n-960x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Debora Bruno",
+          "text": "Debora is a horoscope writer for the paper.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/19554459-1386155158127530-3351076425474060909-n-960x959.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Julia Bastos",
+          "text": "Julia is the head of the Comedy Section for the paper.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-da"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/23472988-1916582168590708-8497006839715032733-n-960x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Ilinca Maria-Manda",
+          "text": "Ilinca is a writer for the paper.<br><br>Articles Written:<br>- St. John's for a Newcomer<br>- Reading Suggestions for the Cold Season",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-db"
         }
       ]
     },
@@ -1711,7 +1867,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 11
+        "order": 9
       },
       "components": [
         {
@@ -2004,7 +2160,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -3197,7 +3353,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -3438,7 +3594,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -4070,7 +4226,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -4687,7 +4843,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -5342,7 +5498,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -5616,7 +5772,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -5761,7 +5917,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -6564,7 +6720,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -6853,7 +7009,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -7081,7 +7237,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -7888,7 +8044,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -8129,7 +8285,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -8389,7 +8545,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 15
+        "order": 13
       },
       "components": [
         {
@@ -8955,7 +9111,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 16
+        "order": 14
       },
       "components": [
         {
@@ -9825,7 +9981,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -10165,7 +10321,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 15
       },
       "components": [
         {
@@ -10686,7 +10842,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 5
+        "order": 17
       },
       "components": [
         {
@@ -10873,7 +11029,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 4
+        "order": 30
       },
       "components": [
         {
@@ -11399,7 +11555,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 16
       },
       "components": [
         {
@@ -12707,7 +12863,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
