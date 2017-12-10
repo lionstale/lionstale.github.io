@@ -31,7 +31,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 480,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.4.0",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Sports": {
@@ -785,7 +787,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet%20(8)-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1311,7 +1313,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17795752-1803266223333691-2774230574149882408-n-960x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17795752_1803266223333691_2774230574149882408_n-960x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1416,7 +1418,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21740801-1973311009592967-3468470554414808778-o-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21740801_1973311009592967_3468470554414808778_o-1400x1866.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1468,7 +1470,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17523082-275359776255220-6768294316210395117-n-555x555.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17523082_275359776255220_6768294316210395117_n-555x555.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1731,7 +1733,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/23472988-1916582168590708-8497006839715032733-n-960x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/23472988_1916582168590708_8497006839715032733_n-960x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1783,7 +1785,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19554459-1386155158127530-3351076425474060909-n-960x959.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19554459_1386155158127530_3351076425474060909_n-960x959.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1835,7 +1837,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/23472988-1916582168590708-8497006839715032733-n-960x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/23472988_1916582168590708_8497006839715032733_n-960x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2007,7 +2009,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2234,7 +2236,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2246,7 +2248,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2258,7 +2260,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2376,7 +2378,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2387,7 +2389,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet%20(8)-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4744,7 +4746,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page31.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet%20(8)-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4774,7 +4776,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -11187,7 +11189,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.19.11%20am-524x391.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11231,7 +11233,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.10-am-286x216.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.21.10%20am-286x216.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.10-am-286x216-286x216.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -11242,7 +11244,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.18-am-242x220.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.21.18%20am-242x220.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.21.18-am-242x220-242x220.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -11281,7 +11283,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.23.55-am-355x226.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.23.55%20am-355x226.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11329,7 +11331,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.23-am-573x373.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.25.23%20am-573x373.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.23-am-573x373-573x373.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -11340,7 +11342,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.37-am-485x359.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.25.37%20am-485x359.png",
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.25.37-am-485x359-485x359.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -11379,7 +11381,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x271.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-11-15%20at%208.27.14%20am-493x271.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11580,7 +11582,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1449258308-1449258308-goodreads-misc-885x502.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1449258308-1449258308_goodreads_misc-885x502.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -11773,7 +11775,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/9781435160514-p0-v1-s1200x630-415x630.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9781435160514_p0_v1_s1200x630-415x630.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -11811,7 +11813,7 @@
         },
         {
           "_params": {
-            "showImage": true,
+            "showImage": false,
             "showTitle": true,
             "showText": true,
             "showForm": false,
@@ -11837,7 +11839,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/u341fevwh7ngw7nlvxickikw2pmyaglw8rbmsyhbriag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygmmb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -11909,7 +11911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sophies-world-cover-300x475.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -11973,7 +11975,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/13158800-314x475.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12045,7 +12047,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/51fhiy7p8cl.-sx309-bo1204203200-311x499.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12109,7 +12111,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/eat-pray-love-335x500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12181,7 +12183,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/18757940-316x475.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12245,7 +12247,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21853621-300x463.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12317,7 +12319,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2958cc72f06bcdfa31de93ef44ca6817-316x479.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12381,7 +12383,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/jennifer-niven-all-the-bright-places-500x758.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12453,7 +12455,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5191u1xie6l-305x500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12517,7 +12519,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0b21d1f385dfba129a87d7ab0cc64d15-281x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12589,7 +12591,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/51zvj2ygail.-sx345-bo1204203200-347x499.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12653,7 +12655,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel.-sy445-314x445.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12725,7 +12727,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19286609-314x475.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u34+1f!evwh7ngw7nlvxickikw2pmya+gl!w8rbmsyh!briag5ouet9tcq9f2xjffxkzsjelhh1dotzfe59az1jygm+mb65m9isyjgxo3rswsw1oyzkgsradzgmvyczu-299x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12789,7 +12791,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/the-worlds-wife-cover-310x475.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81tqgmsrxel._sy445_-314x445.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12984,7 +12986,7 @@
             "animText3": "",
             "typeSpeed": "80",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotojet-8-1000x667.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotojet%20(8)-1000x667.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#174034",
@@ -13045,7 +13047,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fotojet-7-700x1049.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet%20(7)-700x1049.jpg",
               "link": "",
               "alt": "",
               "title": ""
