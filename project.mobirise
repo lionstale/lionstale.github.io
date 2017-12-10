@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page36.html",
+    "currentPage": "Arts.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 480,
+    "uniqCompNum": 492,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -2234,14 +2234,13 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
@@ -2287,9 +2286,9 @@
           "title1": "Reading Suggestions for the Cold Season",
           "subtitle1": "",
           "caption1": "Book recommendations for this Winter.",
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :)",
+          "title2": "Winter Art Vernissage",
+          "subtitle2": "Written By: Aimee Dastin-van Rijn",
+          "caption2": "An article about the Winter Art Vernissage, <br>reactions to it, and inspiration for the artists.",
           "title3": "Coming Soon",
           "subtitle3": "Who Will Write Next?",
           "caption3": "More articles being written... literary genius takes time. :)",
@@ -2303,7 +2302,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3353,7 +3352,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -3594,7 +3593,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -4365,7 +4364,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture1-703x553.png",
+              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4382,9 +4381,9 @@
               "size": 250
             }
           },
-          "title": "\"Ship of Fools\" Exhibition",
-          "text": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Winter Art Vernissage",
+          "text": "An article about the Winter Art Vernissage, <br>reactions to it, and inspiration for the artists.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page38.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_anchor": "header2-2z"
         },
         {
@@ -4435,10 +4434,13 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture1-600x471.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -4471,9 +4473,9 @@
           "title2": "Bye Bye Birdie",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
           "caption2": "This article gives an overview of the plot and characters of this year's musical.",
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :)",
+          "title3": "\"Ship of Fools\" Exhibition",
+          "subtitle3": "Written By: Anna Hilton-Ibold",
+          "caption3": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.",
           "title4": "Coming Soon",
           "subtitle4": "Who Will Write Next?",
           "caption4": "More articles being written... literary genius takes time. :)",
@@ -4485,7 +4487,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page21.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4729,7 +4731,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x761.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x797.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4738,10 +4740,10 @@
               "title": ""
             }
           },
-          "title1": "Applying to the US",
-          "subtitle1": "Written By: Evan Dastin-van Rijn",
-          "caption1": "Advice on how to apply to universities in the US<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page31.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Reading Suggestions for the Cold Season",
+          "subtitle1": "Written By: Ilinca Maria Manda",
+          "caption1": "Book recommendations for this Winter.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
@@ -4759,7 +4761,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture1-703x553.png",
+              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4768,10 +4770,10 @@
               "title": ""
             }
           },
-          "title3": "\"Ship of Fools\" Exhibition",
-          "subtitle3": "Written By: Anna Hilton-Ibold",
-          "caption3": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Winter Art Vernissage",
+          "subtitle3": "Written By: Aimee Dastin-van Rijn",
+          "caption3": "An article about the Winter Art Vernissage, reactions to it, and inspiration for the artists.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
@@ -4843,7 +4845,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -5498,7 +5500,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -5917,7 +5919,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -6533,7 +6535,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -6720,7 +6722,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -7009,7 +7011,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -7237,7 +7239,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -7588,7 +7590,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -7775,7 +7777,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -8044,7 +8046,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -8285,7 +8287,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -9761,7 +9763,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -9981,7 +9983,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -10655,7 +10657,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -10842,7 +10844,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -11029,7 +11031,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -11555,7 +11557,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -12863,7 +12865,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -13140,6 +13142,666 @@
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "page38.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Art Show #2 Article",
+        "order": 16
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-dc"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-dd"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#174034",
+            "bgText": "Art Vernissage",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#91bdae",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "Winter Art Vernissage",
+          "text": "On Friday, December 8th, there was a showcase of the artwork of our IB senior art students, as well as the 10th grade students artwork and designs. There was an amazing turnout and everyone was very impressed with what our <br>students managed to create.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-dg"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Are you proud of your students?</b></p><p><br></p><p><i>Mr. Mitchell, our high school art teacher:</i> </p><p><br></p><p>\"I’m proud of the ones who have worked hard, and most of them have, but not all of them are only artists. Some plan to follow different paths in life, such as Karolina who plans to study physical therapy, but art has been a language for their process.\"</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-dk"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24852142-10155341164521747-6473642437434855259-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24852142-10155341164521747-6473642437434855259-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24852248-10155341164906747-4377571415458446200-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24852248-10155341164906747-4377571415458446200-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24900004-10155341164901747-7244751035838404868-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24900004-10155341164901747-7244751035838404868-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24796700-10155341601716747-6401498933446802893-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24796700-10155341601716747-6401498933446802893-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24862133-10155341164356747-1056984663284320626-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24862133-10155341164356747-1056984663284320626-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24862654-10155341601411747-8240672617336845081-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24862654-10155341601411747-8240672617336845081-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24899784-10155341164361747-4612536427086229812-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24899784-10155341164361747-4612536427086229812-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-dn"
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#174034"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#91bdae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "4",
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>“I guess my inspiration is family. One of my projects was all about my brother and was like a study. It’s really creepy when you think about it.”</p>",
+                "authorName": "Josephine Droste",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/11800181-411800995692126-6807319369871755580-n-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+                "authorName": "Sara Media",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/15230681-1325365050820633-646244257514404990-n-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Alex Roche",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/13466556-1719263965007448-7211514224508297904-n-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>\"My inspiration stems from my love for architecture, crafting, building, scale diagrams, and <b>minimalism</b>. I hope to inspire more children to take into account that visual arts, specifically architecture, is not an easy subject. It take time and effort.\"</p>",
+                "authorName": "Jose A. Malinab",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/25181545-1650361168341201-2070678822-n-90x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": true,
+                "text": "<p>“My inspiration is body image and what it represents to society.”</p>",
+                "authorName": "Lucy Lansman",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/25316997-135038000608942-1999379856-o-1-90x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“My inspiration is my subconscious self. I usually explore art through different medias, but I thought it would be interesting to explore my subconscious self and how I produce art based on that.\"</p>",
+                "authorName": "Marysia Szarzynska",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/22688436-1924660684522381-4458927888570265432-n-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“My inspiration is street art and Brazilian Graffiti.\"</p>",
+                "authorName": "Thiago Almeida Petramale",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/13567031-613532175480769-9018315186376028939-n-160x159.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“My inspiration is body image and what it represents to society.”</p>",
+                "authorName": "Lara Demande",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/14666219-977885319024467-2757641109051824048-n-159x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“My inspiration is a painting by Salvador Dali. From up close, it is a painting of Dali’s wife, but from far away if one squints at it, it is a portrait of Abraham Lincoln. This shows how something can seem like one thing up close, but from far away it’s a different thing altogether. I wanted to use that.\"</p>",
+                "authorName": "Karolina Rhenman",
+                "authorBio": "12th Grade",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/12144846-812796932151804-4463806715426511285-n-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
+          },
+          "title": "Our Artists' Inspirations",
+          "subtitle": "Each Artist Had a Different Inspiration for Creating Their Art",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials4",
+          "_anchor": "extTestimonials4-de"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Reactions from Viewers",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Mr. Prowse, English Teacher",
+              "authorBio": "User",
+              "text": "<p>“There’s something tremendously humbling about being faced with the immense talent of my students, talents that far exceed my own.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Coach D, Athletics Director",
+              "authorBio": "User",
+              "text": "<p>“My first impression was of the detail that goes into what students do and the second was how it’s not always traditional. Specifically showing this is the bones study by Lara and the painting of the nuclear power plant by Alex. That’s pretty cool. Each and every student went about making&nbsp;<span style=\"font-size: 1.125rem;\">art in their own way. Overall, very good.”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Clara Dehandschutter, Student Body Co-President",
+              "authorBio": "User",
+              "text": "<p>“It is truly inspiring to see all the effort and creativity our fellow students pt together in one extraordinary art exhibition. One word, talent.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-dh"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-59-1400x1050.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<b>Martin</b>, \"I can’t see the second Anusha.\" <br><b>Mr. van Rijn</b>, \"You need to have 4 glasses of warm apple cider and then you start seeing it.\"",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-dl"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1440x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "More From the Viewers",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Julia Bastos, 11th Grade Student",
+              "authorBio": "User",
+              "text": "<p>“It hasn’t collapsed yet, so it’s good.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Martin Vanhaelst, 11th Grade Student",
+              "authorBio": "User",
+              "text": "<p>\"The cookies are good. The cookies are excellent. The cookies are divine.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Amelia Silcock, 11th Grade Student",
+              "authorBio": "User",
+              "text": "<p>“Oh, it’s 3-D, 4-D, oh my days! I don’t know what this is, but I don’t care, it’s amazing.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-di"
         }
       ]
     }
