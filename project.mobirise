@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Arts.html",
+    "currentPage": "page36.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -11556,7 +11556,7 @@
     "page36.html": {
       "settings": {
         "title": "Book Recommendations",
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "A great list of book to read this winter break.",
         "order": 17
       },
       "components": [
