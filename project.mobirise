@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 492,
+    "uniqCompNum": 500,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -38,7 +38,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -269,7 +269,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -501,7 +501,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -746,7 +746,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1095,7 +1095,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1867,7 +1867,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2160,7 +2160,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3090,7 +3090,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3352,7 +3352,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -3593,7 +3593,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -4225,7 +4225,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4517,7 +4517,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4845,7 +4845,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -5500,7 +5500,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -5774,7 +5774,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5919,7 +5919,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -6535,7 +6535,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -6722,7 +6722,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -7011,7 +7011,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -7239,7 +7239,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -7590,7 +7590,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -7777,7 +7777,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -8046,7 +8046,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -8287,7 +8287,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -8547,7 +8547,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -9113,7 +9113,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -9763,7 +9763,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -9983,7 +9983,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -10323,7 +10323,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -10657,7 +10657,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -10844,7 +10844,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -11031,7 +11031,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -11441,7 +11441,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -11557,7 +11557,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -12865,7 +12865,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -13147,9 +13147,9 @@
     },
     "page38.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -13802,6 +13802,280 @@
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-di"
+        }
+      ]
+    },
+    "page39.html": {
+      "settings": {
+        "meta_descr": "A contest to win a small prize",
+        "title": "December Site Contest",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-do"
+        },
+        {
+          "_params": {
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 1,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
+          },
+          "title1": "What teacher is featured in “Daydream Nation: A Photo Series?”",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "What is President Trump trying to do? Found in: “Time to Grow Up Mr. Kim Jong Un”",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "What is “the rule of thirds?” Found in: “Taking the Perfect Picture”",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Who is Jeffrey? Found in: “My Icelandic Boyfriend”",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background1": "1",
+          "background2": "2",
+          "background3": "3",
+          "background4": "4",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_anchor": "extFeatures14-ds"
+        },
+        {
+          "_params": {
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 1,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
+          },
+          "title1": "How many siblings did Conrad Birdie have and what is the name of the brand of Moonshine he drinks in “The True Story of Conrad Birdie?”",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "What doesn’t Kayla have time for? Found in: “Kayla Smith: A Teen Runner’s Life”",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background1": "5",
+          "background2": "6",
+          "background3": "3",
+          "background4": "4",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_anchor": "extFeatures14-du"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Bonus: What would you call Jeffrey’s brother if you could choose the name? (The best name will be featured in a follow-up article.)",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-dv"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-dp"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "December Site Context",
+          "caption": "For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of December break. The first 10 to get the answers correct or almost all correct will get a small prize.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-dq"
         }
       ]
     }
