@@ -13429,7 +13429,7 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "showImages": true,
+            "showImages": false,
             "showName": true,
             "showBio": true,
             "autoplay": true,
@@ -13458,7 +13458,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/11800181-411800995692126-6807319369871755580-n-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/11800181_411800995692126_6807319369871755580_n-160x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13476,7 +13476,7 @@
                 "authorBio": "User",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/15230681-1325365050820633-646244257514404990-n-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/15230681_1325365050820633_646244257514404990_n-160x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13494,7 +13494,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/13466556-1719263965007448-7211514224508297904-n-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/13466556_1719263965007448_7211514224508297904_n-160x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13512,7 +13512,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/25181545-1650361168341201-2070678822-n-90x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/25181545_1650361168341201_2070678822_n-90x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13530,7 +13530,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/25316997-135038000608942-1999379856-o-1-90x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/25316997_135038000608942_1999379856_o%20(1)-90x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13548,7 +13548,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/22688436-1924660684522381-4458927888570265432-n-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/22688436_1924660684522381_4458927888570265432_n-160x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13566,7 +13566,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/13567031-613532175480769-9018315186376028939-n-160x159.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/13567031_613532175480769_9018315186376028939_n-160x159.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13584,7 +13584,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/14666219-977885319024467-2757641109051824048-n-159x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/14666219_977885319024467_2757641109051824048_n-159x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -13602,7 +13602,7 @@
                 "authorBio": "12th Grade",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/12144846-812796932151804-4463806715426511285-n-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/12144846_812796932151804_4463806715426511285_n-160x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
