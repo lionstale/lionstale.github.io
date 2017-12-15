@@ -3563,6 +3563,13 @@ h6,
 #testimonials3-di .mbr-author-name {
   color: #ccc;
 }
+#content5-dq .mbr-section-title,
+#content5-dq p {
+  color: #fff;
+}
+#content5-dq DIV {
+  color: #ffffff;
+}
 #menu-do .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3636,11 +3643,4 @@ h6,
 }
 #header3-dv .mbr-section-title {
   font-size: 32px;
-}
-#content5-dq .mbr-section-title,
-#content5-dq p {
-  color: #fff;
-}
-#content5-dq DIV {
-  color: #ffffff;
 }
