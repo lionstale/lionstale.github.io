@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page41.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,14 +31,14 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 510,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.4.0"
   },
   "pages": {
     "Sports": {
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -269,7 +269,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -501,7 +501,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -746,7 +746,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -785,7 +785,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x870.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -829,9 +829,9 @@
           "title1": "Horoscopes",
           "subtitle1": "A Combined Effort",
           "caption1": "Our latest group-written horoscopes.",
-          "title2": "St. John's A-Z Guide to the Holidays",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn<br>",
-          "caption2": "",
+          "title2": "The True Story of Conrad Birdie",
+          "subtitle2": "Written By: Aimee Dastin-van Rijn",
+          "caption2": "Where did this megastar really come from?",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -845,7 +845,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page41.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1030,19 +1030,16 @@
           "button1": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
-          "title2": "The True Story of <br>Conrad Birdie",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "Where did this megastar really come from?",
-          "button2": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Coming Soon",
+          "subtitle2": "Who Will Write Next?",
+          "caption2": "More articles being written... literary genius takes time. :)",
+          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1098,7 +1095,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -1870,7 +1867,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -2163,7 +2160,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -2248,13 +2245,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x870.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -2291,9 +2289,9 @@
           "title2": "Winter Art Vernissage",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
           "caption2": "An article about the Winter Art Vernissage, <br>reactions to it, and inspiration for the artists.",
-          "title3": "St. John's A-Z Guide to the Holidays",
-          "subtitle3": "Written By: Aimee Dastin-van Rijn",
-          "caption3": "A comedic explanation of a St. John's holiday season.",
+          "title3": "Coming Soon",
+          "subtitle3": "Who Will Write Next?",
+          "caption3": "More articles being written... literary genius takes time. :)",
           "title4": "Coming Soon",
           "subtitle4": "Who Will Write Next?",
           "caption4": "More articles being written... literary genius takes time. :)",
@@ -2388,7 +2386,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3092,7 +3090,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -3354,7 +3352,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -3595,7 +3593,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -4227,7 +4225,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -4522,7 +4520,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4554,7 +4552,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-9-1620x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4571,9 +4569,9 @@
               "size": 250
             }
           },
-          "title": "December Site Contest",
-          "text": "For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of Christmas break. The first 10 people to get all the answers correct or almost all correct will get a small prize.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "title": "St. John's A-Z Guide to the Holidays",
+          "text": "A comedic explanation of a St. John's holiday season.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page41.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "_anchor": "header2-31"
         },
         {
@@ -4751,7 +4749,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4850,7 +4848,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -5505,7 +5503,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -5779,7 +5777,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -5924,7 +5922,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -6540,7 +6538,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -6727,7 +6725,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -7016,7 +7014,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -7244,7 +7242,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -7595,7 +7593,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -7782,7 +7780,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -8051,7 +8049,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -8292,7 +8290,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -8552,7 +8550,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -9118,7 +9116,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -9768,7 +9766,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -9988,7 +9986,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -10328,7 +10326,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -10662,7 +10660,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -10849,7 +10847,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -11036,7 +11034,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -11446,7 +11444,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -11562,7 +11560,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -12870,7 +12868,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -13154,7 +13152,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -13814,7 +13812,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -14084,11 +14082,342 @@
         }
       ]
     },
+    "page40.html": {
+      "settings": {
+        "title": "Page 40",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "December Site Contest",
+          "text": "For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of Christmas break. The first 10 people to get all the answers correct or almost all correct will get a small prize.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "_anchor": "header2-e2"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-e3"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-e4"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#91bdae"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#174034"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#91bdae",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x797.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Reading Suggestions for the Cold Season",
+          "subtitle1": "Written By: Ilinca Maria Manda",
+          "caption1": "Book recommendations for this Winter.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "The True Story of Conrad Birdie",
+          "subtitle2": "Written By: Aimee Dastin-van Rijn",
+          "caption2": "Where did this megastar really come from?<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title3": "Winter Art Vernissage",
+          "subtitle3": "Written By: Aimee Dastin-van Rijn",
+          "caption3": "An article about the Winter Art Vernissage, reactions to it, and inspiration for the artists.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title4": "St. John's for a Newcomer",
+          "subtitle4": "Written By: Ilinca Maria Manda",
+          "caption4": "A perspective of St. John's from a new student.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"page34.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features1-e5"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
+            "facebook": "https://www.facebook.com/Lions-Tale-394188364278710/",
+            "twitter": "",
+            "google": "The Lion's Tale",
+            "postToLoad": 3,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#174034",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        }
+      ]
+    },
     "page41.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 17
+        "order": 1
       },
       "components": [
         {
