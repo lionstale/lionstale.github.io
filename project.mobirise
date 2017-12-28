@@ -1285,7 +1285,7 @@
             }
           },
           "title": "Aimee Dastin-van Rijn",
-          "text": "Aimee is a writer for the paper, as well as the Editor in Chief. She also designs the website.<br><br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation<br>- Bye Bye Birdie<br>- Green and White Day<br>- The True Story of Conrad Birdie<br>- A-Z Guide to St. John's for the Holidays",
+          "text": "Aimee is a writer for the paper, as well as the Editor in Chief. She also designs the website.<br><br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation<br>- Bye Bye Birdie<br>- Green and White Day<br>- The True Story of Conrad Birdie<br>- Winter Art Vernissage<br>- A-Z Guide to St. John's for the Holidays",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -2388,7 +2388,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4002.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4751,7 +4751,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4002.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
