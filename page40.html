@@ -6,17 +6,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.5.2, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/20988002-1378120402302790-1549326759-n-130x128.png" type="image/x-icon">
-  <meta name="description" content="">
-  <title>Page 40</title>
+  <link rel="shortcut icon" href="assets/images/20988002-1378120402302790-1549326759-n-1-130x128.png" type="image/x-icon">
+  <meta name="description" content="Website Builder Description">
+  <title>Quiz Page</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
   <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
@@ -24,7 +24,7 @@
   
 </head>
 <body>
-<section id="menu-e3" data-rv-view="1874">
+<section id="menu-e6" data-rv-view="933">
 
     <nav class="navbar navbar-dropdown transparent navbar-fixed-top bg-color">
         <div class="container">
@@ -33,7 +33,7 @@
                 <div class="mbr-table-cell">
 
                     <div class="navbar-brand">
-                        <a href="https://mobirise.com" class="navbar-logo"><img src="assets/images/20988002-1378120402302790-1549326759-n-130x128.png" alt="Mobirise"></a>
+                        <a href="https://mobirise.com" class="navbar-logo"><img src="assets/images/20988002-1378120402302790-1549326759-n-1-130x128.png" alt="Mobirise"></a>
                         <a class="navbar-caption" href="http://lionstale.news">The Lion's Tale</a>
                     </div>
 
@@ -57,110 +57,148 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.co/c">web page maker</a></section><section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-after-navbar" id="header2-e2" data-rv-view="1871" style="background-color: rgb(23, 64, 52);">
+<section class="engine"><a href="https://mobirise.co/m">bootstrap table</a></section><div id="custom-html-ek" custom-code="true" data-rv-view="937" class="mbr-after-navbar"><script>
+    function check(id) {
+        document.getElementById(id).checked = true;
+        document.getElementById(id).nextElementSibling.style.opacity = 1;
+        for (i = 1; i <= 4; i++) {
+            if (i != id % 5) {
+                document.getElementById(Math.floor(id/10) + "" + i).checked = false;
+                document.getElementById(Math.floor(id/10) + "" + i).nextElementSibling.style.opacity = 0.7;
+        	}
+        }
+        var question = 1;
+        var allAnswered = true;
+        while (document.getElementById(question + "" + 1) != null && allAnswered) {
+            var index = 1;
+            var checked = false;
+            while (document.getElementById(question + "" + index) != null) {
+                checked = checked || document.getElementById(question + "" + index).checked;
+                index++;
+            }
+            allAnswered = allAnswered && checked;
+            question++;
+        }
+        if (allAnswered) {
+            complete();
+        }
+    }
+</script>
 
+<script>
+    function Result(title, description, answers) {
+        this.title = title;
+        this.description = description;
+        this.count = 0;
+        this.answers = answers;
+    }
     
+    function complete() {
+        var results = [
+            new Result("Test", "Test", [11, 12, 21, 22]),
+            new Result("Test2", "Test2", [13, 14, 23, 24])
+        ];
+        var question = 1;
+        while (document.getElementById(question + "" + 1) != null) {
+            var index = 1;
+            while (document.getElementById(question + "" + index) != null) {
+                for (var i = 0; i < results.length; i++) {
+                    if (results[i].answers.includes(question + "" + index)) {
+                        results[i].count++;
+                    }
+                }
+                index++;
+            }
+            question++;
+        }
+        var max = results[0]
+        for (var i = 1; i < results.length; i++) {
+            if (max.count < results[i].count) {
+            	max = results[i];
+            }
+        }
+        var answer = document.createElement('div');
+        answer.className = "answer-container";
+        var inner = document.createElement('div');
+        inner.className = "result-container";
+        var title = document.createElement('h3');
+        title.className = "header-text";
+        var desc = document.createElement('h5');
+        desc.className = "desc-text";
+        answer.appendChild(inner);
+        inner.appendChild(title);
+        inner.appendChild(desc);
+        document.body.append(answer);
+    }
+</script>
 
-    <div class="mbr-table mbr-table-full">
-        <div class="mbr-table-cell">
+<div class="header-container">
+    <h1 class="header-text">Choose some sequins</h1>
+</div>
 
-            <div class="container">
-                <div class="mbr-section row">
-                    <div class="mbr-table-md-up">
-                        
-                        
-                        
+<form>
+<div class="picture-question-container">
+    <table style="width: 40%">
+        <tbody>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="11" onclick="check(this.id);">
+                    <label for="11">
+                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="12" onclick="check(this.id);">
+                    <label for="12">
+                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="13" onclick="check(this.id);">
+                    <label for="13">
+                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="14" onclick="check(this.id);">
+                    <label for="14">
+                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+            </tr>
+    </tbody>
+    </table>
+</div>
+</form>
 
-                        <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
+<div class="header-container">
+    <h1 class="header-text">Choose some sequins</h1>
+</div>
 
-                            <h3 class="mbr-section-title display-2">December Site Contest</h3>
+<form>
+<div class="picture-question-container">
+    <table style="width: 40%">
+        <tbody>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="21" onclick="check(this.id);">
+                    <label for="21">
+                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="22" onclick="check(this.id);">
+                    <label for="22">
+                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="23" onclick="check(this.id);">
+                    <label for="23">
+                        <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="24" onclick="check(this.id);">
+                    <label for="24">
+                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+            </tr>
+    </tbody>
+    </table>
+</div>
+</form></div>
 
-                            <div class="mbr-section-text">
-                                <p>For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of Christmas break. The first 10 people to get all the answers correct or almost all correct will get a small prize.</p>
-                            </div>
-
-                            <div class="mbr-section-btn"><a class="btn btn-secondary" href="page39.html">MORE</a> </div>
-
-                        </div>
-                        <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
-                            <div class="mbr-figure"><img src="assets/images/mbr-1080x1080.jpg"></div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"><a href="#undefined"><i class="mbr-arrow-icon"></i></a></div>
-
-</section>
-
-<section class="mbr-cards mbr-section mbr-section-nopadding" id="features1-e5" data-rv-view="1878" style="background-color: rgb(255, 255, 255);">
-
-        
-
-    <div class="mbr-cards-row row striped">
-
-        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
-            <div class="container">
-                <div class="card cart-block">
-                    <div class="card-img"><img src="assets/images/mbr-2-1200x797.jpg" class="card-img-top"></div>
-                    <div class="card-block">
-                        <h4 class="card-title">Reading Suggestions for the Cold Season</h4>
-                        <h5 class="card-subtitle">Written By: Ilinca Maria Manda</h5>
-                        <p class="card-text">Book recommendations for this Winter.<br><br></p>
-                        <div class="card-btn"><a href="page36.html" class="btn btn-danger">MORE</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
-            <div class="container">
-                <div class="card cart-block">
-                    <div class="card-img"><img src="assets/images/fotojet-8-600x400.jpg" class="card-img-top"></div>
-                    <div class="card-block">
-                        <h4 class="card-title">The True Story of Conrad Birdie</h4>
-                        <h5 class="card-subtitle">Written By: Aimee Dastin-van Rijn</h5>
-                        <p class="card-text">Where did this megastar really come from?<br></p>
-                        <div class="card-btn"><a href="page37.html" class="btn btn-danger">MORE</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
-            <div class="container">
-                <div class="card cart-block">
-                    <div class="card-img"><img src="assets/images/24796630-10155341163966747-151520171172123512-n-600x450.jpg" class="card-img-top"></div>
-                    <div class="card-block">
-                        <h4 class="card-title">Winter Art Vernissage</h4>
-                        <h5 class="card-subtitle">Written By: Aimee Dastin-van Rijn</h5>
-                        <p class="card-text">An article about the Winter Art Vernissage, reactions to it, and inspiration for the artists.<br><br></p>
-                        <div class="card-btn"><a href="page38.html" class="btn btn-danger">MORE</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
-            <div class="container">
-                <div class="card cart-block">
-                    <div class="card-img"><img src="assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png" class="card-img-top"></div>
-                    <div class="card-block">
-                        <h4 class="card-title">St. John's for a Newcomer</h4>
-                        <h5 class="card-subtitle">Written By: Ilinca Maria Manda</h5>
-                        <p class="card-text">A perspective of St. John's from a new student.&nbsp;</p>
-                        <div class="card-btn"><a href="page34.html" class="btn btn-danger">MORE</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        
-    </div>
-</section>
-
-<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-e4" data-rv-view="1876" style="background-color: rgb(23, 64, 52); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-e7" data-rv-view="935" style="background-color: rgb(23, 64, 52); padding-top: 1.75rem; padding-bottom: 1.75rem;">
     
     <div class="container text-xs-center">
         <p>St. John's International School</p>
@@ -172,9 +210,9 @@
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
-  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
   <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
   
