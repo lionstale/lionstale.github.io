@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page39.html",
+    "currentPage": "page42.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -38,7 +38,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -274,7 +274,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -511,7 +511,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -761,7 +761,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -1118,7 +1118,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -1895,7 +1895,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2196,7 +2196,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -2420,7 +2420,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40034.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40036.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3129,7 +3129,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -4284,7 +4284,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -4584,7 +4584,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -4816,7 +4816,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40034.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40036.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5854,7 +5854,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -8166,7 +8166,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -8677,7 +8677,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -9248,7 +9248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -10473,7 +10473,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -11004,7 +11004,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -11551,7 +11551,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x27135.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x27137.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11611,7 +11611,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -11732,7 +11732,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -13045,7 +13045,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -13334,7 +13334,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -13999,7 +13999,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -14278,7 +14278,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -14503,7 +14503,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Quiz Page",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -14641,8 +14641,8 @@
     "page42.html": {
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
-        "title": "Camille's Article",
-        "order": 1
+        "title": "The Downside of the Fat-Acceptance Movement",
+        "order": 24
       },
       "components": [
         {
