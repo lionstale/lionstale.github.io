@@ -57,7 +57,8 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.co/m">bootstrap table</a></section><div id="custom-html-ek" custom-code="true" data-rv-view="937" class="mbr-after-navbar"><script>
+<section class="engine"><a href="https://mobirise.co/l">free bootstrap theme</a></section><div id="custom-html-ek" custom-code="true" data-rv-view="937" class="mbr-after-navbar"><script src="assets/web/assets/jquery/jquery.min.js"></script>
+<script>
     function check(id) {
         document.getElementById(id).checked = true;
         document.getElementById(id).nextElementSibling.style.opacity = 1;
@@ -95,15 +96,20 @@
     
     function complete() {
         var results = [
-            new Result("Test", "Test", [11, 12, 21, 22]),
-            new Result("Test2", "Test2", [13, 14, 23, 24])
+            new Result("One", "One", [11, 21]),
+            new Result("Two", "Two", [12, 22]),
+            new Result("Three", "Three", [13, 23]),
+            new Result("Four", "Four", [14, 24])
         ];
         var question = 1;
         while (document.getElementById(question + "" + 1) != null) {
             var index = 1;
             while (document.getElementById(question + "" + index) != null) {
                 for (var i = 0; i < results.length; i++) {
-                    if (results[i].answers.includes(question + "" + index)) {
+                    document.getElementById(question + "" + index).className += ' no-hover';
+                    document.getElementById(question + "" + index).removeAttribute('onclick');
+                    if (document.getElementById(question + "" + index).checked && results[i].answers.includes(parseInt(question + "" + index))) {
+                        console.log("called");
                         results[i].count++;
                     }
                 }
@@ -111,24 +117,17 @@
             }
             question++;
         }
-        var max = results[0]
+        var max = results[0];
+        console.log(results);
         for (var i = 1; i < results.length; i++) {
             if (max.count < results[i].count) {
             	max = results[i];
             }
         }
-        var answer = document.createElement('div');
-        answer.className = "answer-container";
-        var inner = document.createElement('div');
-        inner.className = "result-container";
-        var title = document.createElement('h3');
-        title.className = "header-text";
-        var desc = document.createElement('h5');
-        desc.className = "desc-text";
-        answer.appendChild(inner);
-        inner.appendChild(title);
-        inner.appendChild(desc);
-        document.body.append(answer);
+        document.getElementById('title-text').innerHTML = max.title;
+        document.getElementById('desc-text').innerHTML = max.description;
+        document.getElementById('answer-container').removeAttribute('hidden');
+        window.scrollTo(0,document.body.scrollHeight);
     }
 </script>
 
@@ -196,7 +195,13 @@
     </tbody>
     </table>
 </div>
-</form></div>
+</form>
+<div id="answer-container" hidden="">
+    <div id="result-container">
+        <h1 id="title-text"></h1>
+        <h5 id="desc-text"></h5>
+    </div>
+</div></div>
 
 <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-e7" data-rv-view="935" style="background-color: rgb(23, 64, 52); padding-top: 1.75rem; padding-bottom: 1.75rem;">
     

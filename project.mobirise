@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page42.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 525,
+    "uniqCompNum": 537,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -38,7 +38,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -274,7 +274,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -511,7 +511,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -761,7 +761,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1118,7 +1118,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1895,7 +1895,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2040,7 +2040,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-1400x726.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2057,9 +2057,9 @@
               "size": 250
             }
           },
-          "title": "St. John's for a Newcomer",
-          "text": "A perspective of St. John's from a new student. <br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page34.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "The Downside of the Fat-Acceptance Movement: A Reflection on the Outlook of Skinny People in Today’s Society",
+          "text": "Written By: Camille Kummer<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page42.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -2152,16 +2152,19 @@
           "button3": "<a data-app-btn=\"true\" href=\"page26.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x271.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :) ",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "St. John's for a Newcomer",
+          "subtitle4": "Written By: Ilinca Maria-Manda",
+          "caption4": "A perspective of St. John's from a new student.&nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"page34.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2193,7 +2196,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2418,7 +2421,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40028.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3127,7 +3130,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3394,7 +3397,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -3640,7 +3643,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -4282,7 +4285,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4582,7 +4585,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4814,7 +4817,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40028.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4913,7 +4916,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -5573,7 +5576,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -5852,7 +5855,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -6002,7 +6005,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -6623,7 +6626,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -6815,7 +6818,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -7109,7 +7112,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -7342,7 +7345,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -7698,7 +7701,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -7890,7 +7893,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -8164,7 +8167,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -8410,7 +8413,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -8675,7 +8678,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -9246,7 +9249,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -9901,7 +9904,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -10126,7 +10129,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -10471,7 +10474,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -10810,7 +10813,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -11002,7 +11005,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -11194,7 +11197,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -11549,7 +11552,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x271.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x27129.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11609,7 +11612,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -11730,7 +11733,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -13043,7 +13046,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -13332,7 +13335,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -13997,7 +14000,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -14276,7 +14279,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -14501,7 +14504,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Quiz Page",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -14619,8 +14622,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0}\n\n{JS_CODE_1}\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Choose some sequins</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"11\" onclick=\"check(this.id);\">\n                    <label for=\"11\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"12\" onclick=\"check(this.id);\">\n                    <label for=\"12\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"13\" onclick=\"check(this.id);\">\n                    <label for=\"13\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"14\" onclick=\"check(this.id);\">\n                    <label for=\"14\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Choose some sequins</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"21\" onclick=\"check(this.id);\">\n                    <label for=\"21\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"22\" onclick=\"check(this.id);\">\n                    <label for=\"22\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"23\" onclick=\"check(this.id);\">\n                    <label for=\"23\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"24\" onclick=\"check(this.id);\">\n                    <label for=\"24\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>",
-          "_customCSS": ".header-container {\n    background-color: #174034; \n    height: 30vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.header-text {\n  color: white; \n    font-weight: bold;\n    font-size: 400%;\n    width: 50%;\n    text-align: center;\n}\n\n.answer-container {\n    background-color: #174034; \n    height: 50vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.result-container {\n    margin: auto; \n    width: 50%;\n}\n\n.title-text {\n  color: white; \n    font-weight: bold\n}\n\n.desc-text {\n  color: white; \n}\n\n.text-question-container {\n  height: 60vh;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.text-answer {\n    color: white;\n    font-weight: bold;\n    text-align: center;\n  -moz-transition: all 0.3s;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n.text-container {\n  width: 100%;\n  height: 100%;\n  background-color: #174034;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.image-checkbox {\n    display: none;\n}\n\n.image-checkbox + label {\n    display: block;\n    position: relative;\n    width: 100%;\n    height: 100%;\n    opacity: 1;\n    cursor: pointer;\n}\n\n.picture-question-container {\n  height: 60vh;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.picture-container {\n    width: 20vw;\n    height: 25vh;\n    margin: .5vw .5vw;\n    overflow: hidden;\n    background: white;\n}\n\n.image-answer {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n}\n\n.image-checkbox:checked + label:hover {\n    -moz-transition: ease 0.3s ;\n  -webkit-transition: ease 0.3s;\n  transition: ease 0.3s;\n}\n\n.image-checkbox:not(:checked) + label:hover {\n  -moz-transform: scale(1.1);\n  -webkit-transform: scale(1.1);\n  transform: scale(1.1);\n}",
+          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n\n{JS_CODE_2}\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Choose some sequins</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"11\" onclick=\"check(this.id);\">\n                    <label for=\"11\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"12\" onclick=\"check(this.id);\">\n                    <label for=\"12\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"13\" onclick=\"check(this.id);\">\n                    <label for=\"13\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"14\" onclick=\"check(this.id);\">\n                    <label for=\"14\">\n                    <img class=\"image-answer\" src=\"https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg\"></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Choose some sequins</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"21\" onclick=\"check(this.id);\">\n                    <label for=\"21\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"22\" onclick=\"check(this.id);\">\n                    <label for=\"22\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"23\" onclick=\"check(this.id);\">\n                    <label for=\"23\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"24\" onclick=\"check(this.id);\">\n                    <label for=\"24\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Before midnight</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n<div id=\"answer-container\" hidden=\"\">\n    <div id=\"result-container\">\n        <h1 id=\"title-text\"></h1>\n        <h5 id=\"desc-text\"></h5>\n    </div>\n</div>",
+          "_customCSS": ".header-container {\n    background-color: #174034; \n    height: 30vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.header-text {\n  color: white; \n    font-weight: bold;\n    font-size: 400%;\n    width: 50%;\n    text-align: center;\n}\n\n#answer-container {\n    background-color: #174034; \n    height: 50vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n#result-container {\n    margin: auto; \n    width: 50%;\n}\n\n#title-text {\n  color: white; \n    font-weight: bold\n}\n\n#desc-text {\n  color: white; \n}\n\n.text-question-container {\n  height: 60vh;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.text-answer {\n    color: white;\n    font-weight: bold;\n    text-align: center;\n  -moz-transition: all 0.3s;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n.text-container {\n  width: 100%;\n  height: 100%;\n  background-color: #174034;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.image-checkbox {\n    display: none;\n}\n\n.image-checkbox + label {\n    display: block;\n    position: relative;\n    width: 100%;\n    height: 100%;\n    opacity: 1;\n    cursor: pointer;\n}\n\n.picture-question-container {\n  height: 60vh;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.picture-container {\n    width: 20vw;\n    height: 25vh;\n    margin: .5vw .5vw;\n    overflow: hidden;\n    background: white;\n}\n\n.image-answer {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n}\n\n.image-checkbox:checked + label:hover {\n    -moz-transition: ease 0.3s ;\n  -webkit-transition: ease 0.3s;\n  transition: ease 0.3s;\n}\n\n.image-checkbox:not(:checked):not(.no-hover) + label:hover {\n  -moz-transform: scale(1.1);\n  -webkit-transform: scale(1.1);\n  transform: scale(1.1);\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -14629,9 +14632,332 @@
           "_anchor": "custom-html-ek",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
+            "<script src=\"assets/web/assets/jquery/jquery.min.js\"></script>",
             "<script>\n    function check(id) {\n        document.getElementById(id).checked = true;\n        document.getElementById(id).nextElementSibling.style.opacity = 1;\n        for (i = 1; i <= 4; i++) {\n            if (i != id % 5) {\n                document.getElementById(Math.floor(id/10) + \"\" + i).checked = false;\n                document.getElementById(Math.floor(id/10) + \"\" + i).nextElementSibling.style.opacity = 0.7;\n        \t}\n        }\n        var question = 1;\n        var allAnswered = true;\n        while (document.getElementById(question + \"\" + 1) != null && allAnswered) {\n            var index = 1;\n            var checked = false;\n            while (document.getElementById(question + \"\" + index) != null) {\n                checked = checked || document.getElementById(question + \"\" + index).checked;\n                index++;\n            }\n            allAnswered = allAnswered && checked;\n            question++;\n        }\n        if (allAnswered) {\n            complete();\n        }\n    }\n</script>",
-            "<script>\n    function Result(title, description, answers) {\n        this.title = title;\n        this.description = description;\n        this.count = 0;\n        this.answers = answers;\n    }\n    \n    function complete() {\n        var results = [\n            new Result(\"Test\", \"Test\", [11, 12, 21, 22]),\n            new Result(\"Test2\", \"Test2\", [13, 14, 23, 24])\n        ];\n        var question = 1;\n        while (document.getElementById(question + \"\" + 1) != null) {\n            var index = 1;\n            while (document.getElementById(question + \"\" + index) != null) {\n                for (var i = 0; i < results.length; i++) {\n                    if (results[i].answers.includes(question + \"\" + index)) {\n                        results[i].count++;\n                    }\n                }\n                index++;\n            }\n            question++;\n        }\n        var max = results[0]\n        for (var i = 1; i < results.length; i++) {\n            if (max.count < results[i].count) {\n            \tmax = results[i];\n            }\n        }\n        var answer = document.createElement('div');\n        answer.className = \"answer-container\";\n        var inner = document.createElement('div');\n        inner.className = \"result-container\";\n        var title = document.createElement('h3');\n        title.className = \"header-text\";\n        var desc = document.createElement('h5');\n        desc.className = \"desc-text\";\n        answer.appendChild(inner);\n        inner.appendChild(title);\n        inner.appendChild(desc);\n        document.body.append(answer);\n    }\n</script>"
+            "<script>\n    function Result(title, description, answers) {\n        this.title = title;\n        this.description = description;\n        this.count = 0;\n        this.answers = answers;\n    }\n    \n    function complete() {\n        var results = [\n            new Result(\"One\", \"One\", [11, 21]),\n            new Result(\"Two\", \"Two\", [12, 22]),\n            new Result(\"Three\", \"Three\", [13, 23]),\n            new Result(\"Four\", \"Four\", [14, 24])\n        ];\n        var question = 1;\n        while (document.getElementById(question + \"\" + 1) != null) {\n            var index = 1;\n            while (document.getElementById(question + \"\" + index) != null) {\n                for (var i = 0; i < results.length; i++) {\n                    document.getElementById(question + \"\" + index).className += ' no-hover';\n                    document.getElementById(question + \"\" + index).removeAttribute('onclick');\n                    if (document.getElementById(question + \"\" + index).checked && results[i].answers.includes(parseInt(question + \"\" + index))) {\n                        console.log(\"called\");\n                        results[i].count++;\n                    }\n                }\n                index++;\n            }\n            question++;\n        }\n        var max = results[0];\n        console.log(results);\n        for (var i = 1; i < results.length; i++) {\n            if (max.count < results[i].count) {\n            \tmax = results[i];\n            }\n        }\n        document.getElementById('title-text').innerHTML = max.title;\n        document.getElementById('desc-text').innerHTML = max.description;\n        document.getElementById('answer-container').removeAttribute('hidden');\n        window.scrollTo(0,document.body.scrollHeight);\n    }\n</script>"
           ]
+        }
+      ]
+    },
+    "page42.html": {
+      "settings": {
+        "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
+        "title": "Camille's Article",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-1-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://lionstale.news/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-el"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-em"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#91bdae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/the-buzzfeed-body-image-survey-2014-2-21981-1446753392-0-big-355x236.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Downside of the Fat-Acceptance Movement: <br>a Reflection on the Outlook of Skinny People in Today’s Society",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ep"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>&nbsp;“Are you sure you eat enough?”</p><p><br></p><p><br></p><p>“If you stand in the wind, you’ll fall.”</p>",
+          "text2": "<p>“You can allow yourself to eat more if you want, you’re far from fat.”</p><p><br></p><p>“You’re weak.”</p>",
+          "text3": "<p>“You’re anorexic.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-er"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Although these sentences probably are intended to be nice and not hurtful, their impact can last a lifetime. These past few years, society has made intense progress in reducing “fat” shaming and accepting “oversize” people, through advertising campaigns and the creation of “plus-size” clothing lines for example. As wonderful as it might seem, and as big of an advancement that it is, there is, as is often the case, a downside. The effect of accepting more and more bigger people is that skinnier people tend to be told that they are anorexic, not pretty, and many other hurtful phrases… repeating the same mistake that was occurring towards bigger people some years ago. \n</p><p><br></p><p>To justify this and make society accept bigger people, the argument the most used was often that “skinny is not natural,” and that the models present in advertisements everywhere had insane diet restrictions and that they were, for the most part, anorexic or on drugs (if not both.) As often happens, the idea was extrapolated and is now present in everybody’s minds. \n</p><p><br></p><p>The shift in people’s minds, going from establishing being thin as the climax of beauty, to finding curves the most attractive and the most natural, is remarkable and had to happen. What didn’t have to happen is the shaming of skinny people on the basis that it is not natural and just “ugly”.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-eq"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-1400x726.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-es"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Let’s get this clear: there’s multiple types of skinny. You can be skinny because you’ve been exercising intensely, because you’ve been paying attention to your diet (or starving yourself,) or because your job requires you to be so, which is the case for supermodels and that is what is dangerous. But some people are just born taller, or with a higher metabolism which means that they will burn more calories at rest than some other people. That doesn’t mean that their health is at risk, and they might not eat a lot because they are just not hungry, and they do sports because they enjoy it and not because they want to be even skinnier – a common misconception. Lastly, there is anorexia, a very different case. \n</p><p><br></p><p>Anorexia is a mental disease in which one person will always find themselves to be overweight. This results in difficulties in eating, practicing high-intensity physical activity, but also binging on foods and having extremely low self-esteem. The body, in a desperate attempt to get nutrients, will use the fat from the muscles as a very last resort, meaning that the person’s health is at a high risk. In boys and girls this results in deadly deficiencies in minerals and vitamins needed for the body’s normal functioning, and extreme fatigue is experienced from the lack of nutrients received by the body. At a certain level, girls will stop getting their periods, a result of a severe imbalance in hormones. People die from anorexia. It is not something to joke about; it is not an insult; it is not a compliment. These people finding themselves too big is the proof that society still has a long way to go before making everyone feel worthy.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-et"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#91bdae",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2ba28bbb72137bb6f83aa1d3865a0b94-bookmarkimage-620x480-xlarge-original-1-620x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2ba28bbb72137bb6f83aa1d3865a0b94-bookmarkimage-620x480-xlarge-original-1-620x480-620x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/anorexia-600x475.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anorexia-600x475-600x475.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-eu"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The rising concern for anorexia, a very positive thing as it means the reducing of the stigma on mental health, has led to a very paradoxal situation: the word is now used very often, even when it is clearly not relevant. Even more dangerously, the word is becoming a sort of compliment for the people saying it (not for the people receiving it) “Are you kidding me? You’re so skinny you’re almost anorexic, I wish I was like you.” This shows how today’s society is still not 100% acceptant of all body types – starting with one’s own body type, despite the advancements of advertisement and campaigns of sensitization. This has terrible effects on the people’s minds. A bigger person would hate being told that she is bulimic if he/she wasn’t, or in a state of morbid obesity. It is not a compliment, the same way telling someone they’re anorexic isn’t a compliment. Would you tell someone who is paler because they are tired that they look as though they have gotten cancer? No, you wouldn’t, and you really shouldn’t. Likewise, you don’t allow yourself to make unfriendly comments about someone’s appearance. \n</p><p>All of this is to say that different people have different body types and metabolisms. You can eat a lot and remain “skinny,” or have a tendency to have wider hips, not to have a six pack… And that’s okay! The bottom line of these advertisement campaigns was to promote body acceptance and natural beauty for everyone, never to bring skinnier people down in an attempt to make bigger people rise up. By bringing other people down, you don’t make yourself better.\n</p><p><br></p><p>So please, next time you see a “skinny” person eating what they want, do not tell them that you don’t understand how they can eat so much and not get fat, or force them to eat more, or make any comment on their appearance at all – unless there is a genuine and justified concern about their mental health, or if it is out of kindness. \n</p><p><br></p><p>If there is one thing to remember from this article, it is that being skinny and anorexic are two very different things. You don’t have to be skinny to be anorexic, and you can be skinny without being anorexic. Everyone’s diets differ according to physical activity, gender, age, hormones… And there are as many body types as there are people on earth – all worthy of the same respect and outlook. As is beautifully put by Rae Smith, ‘There is nothing wrong with your body, but there is a lot wrong with the messages which try to convince you otherwise.’</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ev"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#91bdae",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-ew"
         }
       ]
     }

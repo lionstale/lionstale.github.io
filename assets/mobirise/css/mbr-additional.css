@@ -3792,22 +3792,22 @@ h6,
   width: 50%;
   text-align: center;
 }
-#custom-html-ek .answer-container {
+#custom-html-ek #answer-container {
   background-color: #174034;
   height: 50vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-#custom-html-ek .result-container {
+#custom-html-ek #result-container {
   margin: auto;
   width: 50%;
 }
-#custom-html-ek .title-text {
+#custom-html-ek #title-text {
   color: white;
   font-weight: bold;
 }
-#custom-html-ek .desc-text {
+#custom-html-ek #desc-text {
   color: white;
 }
 #custom-html-ek .text-question-container {
@@ -3868,8 +3868,75 @@ h6,
   -webkit-transition: ease 0.3s;
   transition: ease 0.3s;
 }
-#custom-html-ek .image-checkbox:not(:checked) + label:hover {
+#custom-html-ek .image-checkbox:not(:checked):not(.no-hover) + label:hover {
   -moz-transform: scale(1.1);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+#menu-el .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-el .navbar-caption {
+  color: #ffffff;
+}
+#menu-el .navbar-toggler {
+  color: #ffffff;
+}
+#menu-el .link,
+#menu-el .dropdown-item {
+  color: #ffffff;
+}
+#menu-el .link {
+  font-size: 0.75rem;
+}
+#menu-el .dropdown-item,
+#menu-el .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-el .link:hover,
+#menu-el .dropdown-item:hover,
+#menu-el .link:focus,
+#menu-el .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-el .link[aria-expanded="true"],
+#menu-el .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-el .nav-dropdown-sm .link:focus,
+#menu-el .nav-dropdown-sm .link:hover,
+#menu-el .nav-dropdown-sm .dropdown-item:focus,
+#menu-el .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-el .navbar,
+#menu-el .nav-dropdown-sm,
+#menu-el .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-el .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-el .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-el .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-el .bg-color.transparent.opened .link:hover,
+#menu-el .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-el .link[aria-expanded="true"],
+#menu-el .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-el.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-el .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-el .close-icon::before,
+#menu-el .close-icon::after {
+  background-color: #ffffff;
 }
