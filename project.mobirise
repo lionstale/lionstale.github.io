@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page42.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2292,14 +2292,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-600x311.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media5": {
@@ -2327,9 +2326,9 @@
           "title3": "St. John's A-Z Guide to the Holidays",
           "subtitle3": "Written By: Aimee Dastin-van Rijn",
           "caption3": "A comedic explanation of a St. John's holiday season.",
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :)",
+          "title4": "The Downside of the Fat-Acceptance Movement",
+          "subtitle4": "Written By: Camille Kummer",
+          "caption4": "A reflection on the outlook of skinny people in today’s society.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2339,7 +2338,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page42.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -2421,7 +2420,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40030.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4634,8 +4633,8 @@
               "size": 250
             }
           },
-          "title": "December Site Contest",
-          "text": "For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of Christmas break. The first 10 people to get all the answers correct or almost all correct will get a small prize.",
+          "title": "January Site Contest",
+          "text": "For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of January. The first 10 people to get all the answers correct or almost all correct will get a small prize.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "_anchor": "header2-31"
         },
@@ -4817,7 +4816,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotojet-8-600x40030.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4847,7 +4846,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.19.11-am-524x391.png",
+              "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-600x311.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4856,10 +4855,10 @@
               "title": ""
             }
           },
-          "title4": "St. John's for a Newcomer",
-          "subtitle4": "Written By: Ilinca Maria Manda",
-          "caption4": "A perspective of St. John's from a new student.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"page34.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "The Downside of the Fat-Acceptance Movement:",
+          "subtitle4": "Written By: Camille Kummer",
+          "caption4": "A Reflection on the Outlook of Skinny People in Today’s Society.",
+          "button4": "<a data-app-btn=\"true\" href=\"page42.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -11552,7 +11551,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x27129.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-15-at-8.27.14-am-493x27131.png",
               "width": 1400,
               "link": "",
               "alt": "",
