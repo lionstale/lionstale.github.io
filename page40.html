@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/20988002-1378120402302790-1549326759-n-1-130x128.png" type="image/x-icon">
   <meta name="description" content="Website Builder Description">
-  <title>Quiz Page</title>
+  <title>Default Quiz Page</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
@@ -57,7 +57,7 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.co/n">bootstrap modal</a></section><section class="mbr-section mbr-after-navbar" id="msg-box5-ex" data-rv-view="945" style="background-color: rgb(23, 64, 52); padding-top: 80px; padding-bottom: 0px;">
+<section class="engine"><a href="https://mobirise.co/q">bootstrap carousel</a></section><section class="mbr-section mbr-after-navbar" id="msg-box5-ex" data-rv-view="945" style="background-color: rgb(23, 64, 52); padding-top: 80px; padding-bottom: 0px;">
 
     
     <div class="container">
@@ -128,10 +128,16 @@
     
     function complete() {
         var results = [
-            new Result("One", "One", [11, 21]),
-            new Result("Two", "Two", [12, 22]),
-            new Result("Three", "Three", [13, 23]),
-            new Result("Four", "Four", [14, 24])
+            new Result("Mr. Jones", "Like Mr. Jones, you may be soft-spoken, but have a great sense of humor and very much enjoy doing what you love.", [11, 13, 21, 26, 34, 42, 43, 44, 51, 55]),
+            new Result("Dr. Doyle", "Like Dr. Doyle, you have a bright personality which is why people enjoy being around you.", [15, 23, 25, 31, 32, 45, 46, 51, 55]),
+            new Result("Madame Lariviere", "Like Madame Lariviere, you get super excited by doing what you love, sometimes even to the point of jumping up and down.", [16, 22, 35, 36, 44, 45, 46, 54]),
+            new Result("Mr. Prowse", "Like Mr. Prowse, your sarcasm and dad jokes have no end.", [11, 12, 21, 23, 34, 35, 36, 41, 46, 53]),
+            new Result("Mr. Graham", "Like Mr. Graham, your personality can fill any room.", [14, 15, 23, 24, 31, 32, 44, 45, 46, 52, 54]),
+            new Result("Mr. van Rijn", "Like Mr. van Rijn, you take everything in life in a humourous way.", [12, 15, 22, 31, 33, 41, 52, 56]),
+            new Result("Coach D", "Like Coach D, you are very calm while still being very fun to be around and people love you for it.", [16, 23, 32, 42, 45, 52]),
+            new Result("Mr. Mitchell", "Like Mr. Mitchell, you are very passionate and tell others what you really think.", [14, 24, 34, 42, 43, 56]),
+            new Result("Dr. Castillo", "Like Castillo, you give good advice and your friends appreciate you for it.", [13, 23, 26, 31, 44, 54, 56]),
+            new Result("Dr. Carlin", "Like Dr. Carlin, you have unmatched knowledge of obscure scottish punk bands.", [11, 14, 25, 34, 36, 42, 43, 56])
         ];
         var question = 1;
         while (document.getElementById(question + "" + 1) != null) {
@@ -149,13 +155,14 @@
             }
             question++;
         }
-        var max = results[0];
-        console.log(results);
-        for (var i = 1; i < results.length; i++) {
-            if (max.count < results[i].count) {
-            	max = results[i];
-            }
+        results.sort(function(a, b){return b.count-a.count});
+        var maxes = [];
+        var i = 0;
+        while (results[i].count == results[0].count) {
+            maxes.push(results[i]);
+            i++;
         }
+        var max = maxes[Math.floor(Math.random() * maxes.length)];
         document.getElementById('title-text').innerHTML = max.title;
         document.getElementById('desc-text').innerHTML = max.description;
         document.getElementById('answer-container').removeAttribute('hidden');
@@ -164,7 +171,7 @@
 </script>
 
 <div class="header-container">
-    <h1 class="header-text">Choose some sequins</h1>
+    <h1 class="header-text">What Do You Do in Your Free Time?</h1>
 </div>
 
 <form>
@@ -175,21 +182,31 @@
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="11" onclick="check(this.id);">
                     <label for="11">
-                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">Read</h1></div></label></div></th>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="12" onclick="check(this.id);">
                     <label for="12">
-                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">Watch Comedy Shows</h1></div></label></div></th>
             </tr>
             <tr>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="13" onclick="check(this.id);">
                     <label for="13">
-                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+                        <div class="text-container"><h1 class="text-answer">Contemplate Life</h1></div></label></div></th>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="14" onclick="check(this.id);">
                     <label for="14">
-                    <img class="image-answer" src="https://www.sitebuilderreport.com/assets/facebook-stock-up-446fff24fb11820517c520c4a5a4c032.jpg"></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">Something Artsy</h1></div></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="15" onclick="check(this.id);">
+                    <label for="15">
+                        <div class="text-container"><h1 class="text-answer">Watch Netflix</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="16" onclick="check(this.id);">
+                    <label for="16">
+                    <div class="text-container"><h1 class="text-answer">Exercise</h1></div></label></div></th>
             </tr>
     </tbody>
     </table>
@@ -197,7 +214,7 @@
 </form>
 
 <div class="header-container">
-    <h1 class="header-text">Choose some sequins</h1>
+    <h1 class="header-text">What's Your Favorite Subject?</h1>
 </div>
 
 <form>
@@ -208,36 +225,166 @@
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="21" onclick="check(this.id);">
                     <label for="21">
-                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">English</h1></div></label></div></th>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="22" onclick="check(this.id);">
                     <label for="22">
-                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">Math</h1></div></label></div></th>
             </tr>
             <tr>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="23" onclick="check(this.id);">
                     <label for="23">
-                        <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                        <div class="text-container"><h1 class="text-answer">Free Block</h1></div></label></div></th>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="24" onclick="check(this.id);">
                     <label for="24">
-                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">The Arts</h1></div></label></div></th>
             </tr>
             <tr>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="25" onclick="check(this.id);">
                     <label for="25">
-                        <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                        <div class="text-container"><h1 class="text-answer">Science</h1></div></label></div></th>
                 <th><div class="picture-container">
                     <input type="checkbox" class="image-checkbox" id="26" onclick="check(this.id);">
                     <label for="26">
-                    <div class="text-container"><h1 class="text-answer">Before midnight</h1></div></label></div></th>
+                    <div class="text-container"><h1 class="text-answer">Social Studies</h1></div></label></div></th>
             </tr>
     </tbody>
     </table>
 </div>
 </form>
+
+<div class="header-container">
+    <h1 class="header-text">What's Your Favorite Food?</h1>
+</div>
+
+<form>
+<div class="picture-question-container">
+    <table style="width: 40%">
+        <tbody>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="31" onclick="check(this.id);">
+                    <label for="31">
+                    <img class="image-answer" src="http://img.taste.com.au/w_-0kcUJ/taste/2016/11/aussie-style-beef-and-salad-tacos-86525-1.jpeg"></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="32" onclick="check(this.id);">
+                    <label for="32">
+                    <img class="image-answer" src="https://i.ytimg.com/vi/rG9r3RV_PDc/maxresdefault.jpg"></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="33" onclick="check(this.id);">
+                    <label for="33">
+                    <img class="image-answer" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chocolate%28bgFFF%29.jpg"></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="34" onclick="check(this.id);">
+                    <label for="34">
+                    <img class="image-answer" src="https://www.peta.org/wp-content/uploads/2014/11/11-637x320-1415214403.jpg?20151027091318"></label></div></th>
+            </tr>
+            <tr>
+             <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="35" onclick="check(this.id);">
+                    <label for="35">
+                    <img class="image-answer" src="https://www.justataste.com/wp-content/uploads/2016/06/peanut-butter-chocolate-chunk-cookies-580x380.jpg"></label></div></th>   
+             <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="36" onclick="check(this.id);">
+                    <label for="36">
+                    <img class="image-answer" src="https://simplyfreshfruit.com.au/image/catalog/img_home-fruits.jpg"></label></div></th>
+            </tr>
+    </tbody>
+    </table>
+</div>
+</form>
+
+<div class="header-container">
+    <h1 class="header-text">How Do You Speak?</h1>
+</div>
+
+<form>
+<div class="picture-question-container">
+    <table style="width: 40%">
+        <tbody>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="41" onclick="check(this.id);">
+                    <label for="41">
+                    <div class="text-container"><h1 class="text-answer">Sarcastically</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="42" onclick="check(this.id);">
+                    <label for="42">
+                    <div class="text-container"><h1 class="text-answer">Calmly</h1></div></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="43" onclick="check(this.id);">
+                    <label for="43">
+                        <div class="text-container"><h1 class="text-answer">Quietly</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="44" onclick="check(this.id);">
+                    <label for="44">
+                    <div class="text-container"><h1 class="text-answer">For Long Periods of Time Without Interruption</h1></div></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="45" onclick="check(this.id);">
+                    <label for="45">
+                        <div class="text-container"><h1 class="text-answer">Loudly</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="46" onclick="check(this.id);">
+                    <label for="46">
+                    <div class="text-container"><h1 class="text-answer">Animated</h1></div></label></div></th>
+            </tr>
+    </tbody>
+    </table>
+</div>
+</form>
+
+<div class="header-container">
+    <h1 class="header-text">What Sport Do You Like Best?</h1>
+</div>
+
+<form>
+<div class="picture-question-container">
+    <table style="width: 40%">
+        <tbody>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="51" onclick="check(this.id);">
+                    <label for="51">
+                    <div class="text-container"><h1 class="text-answer">Badminton</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="52" onclick="check(this.id);">
+                    <label for="52">
+                    <div class="text-container"><h1 class="text-answer">Basketball</h1></div></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="53" onclick="check(this.id);">
+                    <label for="53">
+                        <div class="text-container"><h1 class="text-answer">Swimming</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="54" onclick="check(this.id);">
+                    <label for="54">
+                    <div class="text-container"><h1 class="text-answer">Martial Arts</h1></div></label></div></th>
+            </tr>
+            <tr>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="55" onclick="check(this.id);">
+                    <label for="55">
+                        <div class="text-container"><h1 class="text-answer">Soccer/<br>Football</h1></div></label></div></th>
+                <th><div class="picture-container">
+                    <input type="checkbox" class="image-checkbox" id="56" onclick="check(this.id);">
+                    <label for="56">
+                    <div class="text-container"><h1 class="text-answer">None</h1></div></label></div></th>
+            </tr>
+    </tbody>
+    </table>
+</div>
+</form>
+
 <div id="answer-container" hidden="">
     <div id="result-container">
         <h1 id="title-text"></h1>
