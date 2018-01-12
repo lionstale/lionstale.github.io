@@ -57,7 +57,7 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.co/b">free web site creator</a></section><section class="mbr-section mbr-after-navbar" id="msg-box5-f0" data-rv-view="24" style="background-color: rgb(23, 64, 52); padding-top: 80px; padding-bottom: 0px;">
+<section class="engine"><a href="https://mobirise.co/m">bootstrap table</a></section><section class="mbr-section mbr-after-navbar" id="msg-box5-f0" data-rv-view="24" style="background-color: rgb(23, 64, 52); padding-top: 80px; padding-bottom: 0px;">
 
     
     <div class="container">
@@ -133,11 +133,11 @@
             new Result("Madame Lariviere", "Like Madame Lariviere, you get super excited by doing what you love, sometimes even to the point of jumping up and down.", [16, 22, 35, 36, 44, 45, 46, 54]),
             new Result("Mr. Prowse", "Like Mr. Prowse, your sarcasm and dad jokes have no end.", [11, 12, 21, 23, 34, 35, 36, 41, 46, 53]),
             new Result("Mr. Graham", "Like Mr. Graham, your personality can fill any room.", [14, 15, 23, 24, 31, 32, 44, 45, 46, 52, 54]),
-            new Result("Mr. van Rijn", "Like Mr. van Rijn, you take everything in life in a humourous way.", [12, 15, 22, 33, 41, 52]),
+            new Result("Mr. van Rijn", "Like Mr. van Rijn, you take everything in life in a humourous way.", [12, 15, 22, 31, 33, 41, 52, 56]),
             new Result("Coach D", "Like Coach D, you are very calm while still being very fun to be around and people love you for it.", [16, 23, 32, 42, 45, 52]),
             new Result("Mr. Mitchell", "Like Mr. Mitchell, you are very passionate and tell others what you really think.", [14, 24, 34, 42, 43, 56]),
             new Result("Dr. Castillo", "Like Castillo, you give good advice and your friends appreciate you for it.", [13, 23, 26, 31, 44, 54, 56]),
-            new Result("Dr. Carlan", "Like Dr. Carlan, you have unmatched knowledge of obscure scottish punk bands.", [11, 14, 25, 34, 36, 42, 43, 56])
+            new Result("Dr. Carlin", "Like Dr. Carlin, you have unmatched knowledge of obscure scottish punk bands.", [11, 14, 25, 34, 36, 42, 43, 56])
         ];
         var question = 1;
         while (document.getElementById(question + "" + 1) != null) {
@@ -155,13 +155,14 @@
             }
             question++;
         }
-        var max = results[0];
-        console.log(results);
-        for (var i = 1; i < results.length; i++) {
-            if (max.count < results[i].count) {
-            	max = results[i];
-            }
+        results.sort(function(a, b){return b.count-a.count});
+        var maxes = [];
+        var i = 0;
+        while (results[i].count == results[0].count) {
+            maxes.push(results[i]);
+            i++;
         }
+        var max = maxes[Math.floor(Math.random() * maxes.length)];
         document.getElementById('title-text').innerHTML = max.title;
         document.getElementById('desc-text').innerHTML = max.description;
         document.getElementById('answer-container').removeAttribute('hidden');
