@@ -3298,6 +3298,9 @@ h6,
 #menu-bq .close-icon::after {
   background-color: #ffffff;
 }
+#form1-fe .form-control-label {
+  color: #232323;
+}
 #menu-c2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4176,4 +4179,170 @@ h6,
 #menu-f2 .close-icon::before,
 #menu-f2 .close-icon::after {
   background-color: #ffffff;
+}
+#menu-fh .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-fh .navbar-caption {
+  color: #ffffff;
+}
+#menu-fh .navbar-toggler {
+  color: #ffffff;
+}
+#menu-fh .link,
+#menu-fh .dropdown-item {
+  color: #ffffff;
+}
+#menu-fh .link {
+  font-size: 0.75rem;
+}
+#menu-fh .dropdown-item,
+#menu-fh .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-fh .link:hover,
+#menu-fh .dropdown-item:hover,
+#menu-fh .link:focus,
+#menu-fh .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-fh .link[aria-expanded="true"],
+#menu-fh .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-fh .nav-dropdown-sm .link:focus,
+#menu-fh .nav-dropdown-sm .link:hover,
+#menu-fh .nav-dropdown-sm .dropdown-item:focus,
+#menu-fh .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-fh .navbar,
+#menu-fh .nav-dropdown-sm,
+#menu-fh .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-fh .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-fh .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-fh .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-fh .bg-color.transparent.opened .link:hover,
+#menu-fh .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-fh .link[aria-expanded="true"],
+#menu-fh .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-fh.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-fh .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-fh .close-icon::before,
+#menu-fh .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box5-fj H3 {
+  color: #ffffff;
+}
+#custom-html-fk .header-container {
+  background-color: #174034;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#custom-html-fk .header-text {
+  color: white;
+  font-weight: bold;
+  font-size: 400%;
+  width: 50%;
+  text-align: center;
+}
+#custom-html-fk #answer-container {
+  background-color: #174034;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#custom-html-fk #result-container {
+  margin: auto;
+  width: 50%;
+}
+#custom-html-fk #title-text {
+  color: white;
+  font-weight: bold;
+}
+#custom-html-fk #desc-text {
+  color: white;
+}
+#custom-html-fk .text-question-container {
+  height: auto;
+  background-color: #91bdae;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#custom-html-fk .text-answer {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+#custom-html-fk .text-container {
+  width: 100%;
+  height: 100%;
+  background-color: #174034;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#custom-html-fk .image-checkbox {
+  display: none;
+}
+#custom-html-fk .image-checkbox + label {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  cursor: pointer;
+}
+#custom-html-fk .picture-question-container {
+  padding: 10vh 0 10vh 0;
+  height: auto;
+  background-color: #91bdae;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#custom-html-fk .picture-container {
+  width: 20vw;
+  height: 25vh;
+  margin: .5vw .5vw;
+  overflow: hidden;
+  background: white;
+}
+#custom-html-fk .image-answer {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+#custom-html-fk .image-checkbox:checked + label:hover {
+  -moz-transition: ease 0.3s ;
+  -webkit-transition: ease 0.3s;
+  transition: ease 0.3s;
+}
+#custom-html-fk .image-checkbox:not(:checked):not(.no-hover) + label:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
