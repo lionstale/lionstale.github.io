@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 569,
+    "uniqCompNum": 561,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -41,7 +41,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -223,7 +223,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -277,7 +277,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -344,7 +344,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -514,7 +514,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -581,7 +581,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -764,7 +764,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -949,7 +949,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -1121,7 +1121,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -1215,7 +1215,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -1898,7 +1898,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -1965,7 +1965,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -2199,7 +2199,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -2947,7 +2947,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -3132,7 +3132,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3199,7 +3199,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -3399,7 +3399,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 30
       },
       "components": [
         {
@@ -3465,7 +3465,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -3645,7 +3645,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 36
       },
       "components": [
         {
@@ -3711,7 +3711,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -4075,7 +4075,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -4287,7 +4287,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -4353,7 +4353,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -4587,66 +4587,59 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
-          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
+            "showArrow": true,
             "imageSize": 50,
-            "paddingTop": "6",
-            "paddingBottom": "6",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#91bdae",
+            "bgColorRadio": true,
+            "bgColor": "#174034",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-720x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "active": true,
-              "src": "https://youtu.be/AGkDeUI81Xc",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
               "size": 250
             }
           },
-          "title": "Centsaday",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-fl",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "January Site Contest",
+          "text": "For the contest, answer the following questions by email to aidastinvanrijn@stjohns.be by the end of January. The first 10 people to get all the answers correct or almost all correct will get a small prize.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "_anchor": "header2-31"
         },
         {
           "_styles": {
@@ -4711,7 +4704,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -4926,7 +4919,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 33
       },
       "components": [
         {
@@ -4992,7 +4985,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -5586,7 +5579,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -5652,7 +5645,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -5865,7 +5858,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -5931,7 +5924,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -6015,7 +6008,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 31
       },
       "components": [
         {
@@ -6081,7 +6074,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -6636,7 +6629,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 44
+        "order": 43
       },
       "components": [
         {
@@ -6702,7 +6695,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -6828,7 +6821,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 34
       },
       "components": [
         {
@@ -6894,7 +6887,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -7122,7 +7115,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 32
       },
       "components": [
         {
@@ -7188,7 +7181,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -7355,7 +7348,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -7421,7 +7414,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -7711,7 +7704,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 42
+        "order": 41
       },
       "components": [
         {
@@ -7777,7 +7770,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -7903,7 +7896,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 42
       },
       "components": [
         {
@@ -7969,7 +7962,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -8177,7 +8170,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -8243,7 +8236,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -8423,7 +8416,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 35
       },
       "components": [
         {
@@ -8489,7 +8482,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -8688,7 +8681,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -8754,7 +8747,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -9258,7 +9251,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -9858,7 +9851,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -9913,7 +9906,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 38
       },
       "components": [
         {
@@ -9979,7 +9972,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -10138,7 +10131,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -10204,7 +10197,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -10483,7 +10476,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -10623,7 +10616,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -10822,7 +10815,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 39
       },
       "components": [
         {
@@ -10888,7 +10881,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -11014,7 +11007,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -11080,7 +11073,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -11206,7 +11199,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 37
       },
       "components": [
         {
@@ -11272,7 +11265,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -11621,7 +11614,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -11632,7 +11625,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -11749,7 +11742,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -11869,7 +11862,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -13062,7 +13055,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -13128,7 +13121,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -13351,7 +13344,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -13417,7 +13410,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -14016,7 +14009,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -14117,7 +14110,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -14295,7 +14288,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -14361,7 +14354,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -14520,7 +14513,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -14586,7 +14579,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -14713,7 +14706,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -14779,7 +14772,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -15037,7 +15030,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 41
+        "order": 40
       },
       "components": [
         {
@@ -15103,7 +15096,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -15233,7 +15226,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -15345,7 +15338,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -15405,7 +15398,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Quiz #2",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -15471,7 +15464,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#174034",
             "fontSize": 0.75,
             "fontName": {},
@@ -15577,7 +15570,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n\n{JS_CODE_2}\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Which Sounds the Most Fun?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"11\" onclick=\"check(this.id);\">\n                    <label for=\"11\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Dinner with Friends</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"12\" onclick=\"check(this.id);\">\n                    <label for=\"12\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Netflix at Home</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"13\" onclick=\"check(this.id);\">\n                    <label for=\"13\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Reading a Book</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"14\" onclick=\"check(this.id);\">\n                    <label for=\"14\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Going to a Party</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"15\" onclick=\"check(this.id);\">\n                    <label for=\"15\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Going on a Roller Coaster</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"16\" onclick=\"check(this.id);\">\n                    <label for=\"16\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Visiting a Museum</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Which of These Cities is Your Favorite?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"21\" onclick=\"check(this.id);\">\n                    <label for=\"21\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">London</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"22\" onclick=\"check(this.id);\">\n                    <label for=\"22\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Paris</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"23\" onclick=\"check(this.id);\">\n                    <label for=\"23\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">New York City</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"24\" onclick=\"check(this.id);\">\n                    <label for=\"24\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Amsterdam</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"25\" onclick=\"check(this.id);\">\n                    <label for=\"25\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Brussels</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"26\" onclick=\"check(this.id);\">\n                    <label for=\"26\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">I don't like cities.</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What's Your Favorite Food?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"31\" onclick=\"check(this.id);\">\n                    <label for=\"31\">\n                    <img class=\"image-answer\" src=\"http://img.taste.com.au/w_-0kcUJ/taste/2016/11/aussie-style-beef-and-salad-tacos-86525-1.jpeg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"32\" onclick=\"check(this.id);\">\n                    <label for=\"32\">\n                    <img class=\"image-answer\" src=\"https://i.ytimg.com/vi/rG9r3RV_PDc/maxresdefault.jpg\"></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"33\" onclick=\"check(this.id);\">\n                    <label for=\"33\">\n                    <img class=\"image-answer\" src=\"https://upload.wikimedia.org/wikipedia/commons/9/9f/Chocolate%28bgFFF%29.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"34\" onclick=\"check(this.id);\">\n                    <label for=\"34\">\n                    <img class=\"image-answer\" src=\"https://www.peta.org/wp-content/uploads/2014/11/11-637x320-1415214403.jpg?20151027091318\"></label></div></th>\n            </tr>\n            <tr>\n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"35\" onclick=\"check(this.id);\">\n                    <label for=\"35\">\n                    <img class=\"image-answer\" src=\"https://www.justataste.com/wp-content/uploads/2016/06/peanut-butter-chocolate-chunk-cookies-580x380.jpg\"></label></div></th>   \n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"36\" onclick=\"check(this.id);\">\n                    <label for=\"36\">\n                    <img class=\"image-answer\" src=\"https://simplyfreshfruit.com.au/image/catalog/img_home-fruits.jpg\"></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">How Do You Speak?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"41\" onclick=\"check(this.id);\">\n                    <label for=\"41\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Sarcastically</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"42\" onclick=\"check(this.id);\">\n                    <label for=\"42\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Calmly</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"43\" onclick=\"check(this.id);\">\n                    <label for=\"43\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Quietly</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"44\" onclick=\"check(this.id);\">\n                    <label for=\"44\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">For Long Periods of Time Without Interruption</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"45\" onclick=\"check(this.id);\">\n                    <label for=\"45\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Loudly</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"46\" onclick=\"check(this.id);\">\n                    <label for=\"46\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Animated</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What Sport Do You Like Best?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"51\" onclick=\"check(this.id);\">\n                    <label for=\"51\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Badminton</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"52\" onclick=\"check(this.id);\">\n                    <label for=\"52\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Basketball</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"53\" onclick=\"check(this.id);\">\n                    <label for=\"53\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Swimming</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"54\" onclick=\"check(this.id);\">\n                    <label for=\"54\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Martial Arts</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"55\" onclick=\"check(this.id);\">\n                    <label for=\"55\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Soccer/<br>Football</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"56\" onclick=\"check(this.id);\">\n                    <label for=\"56\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">None</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div id=\"answer-container\" hidden=\"\">\n    <div id=\"result-container\">\n        <h1 id=\"title-text\"></h1>\n        <h5 id=\"desc-text\"></h5>\n    </div>\n</div>",
+          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n\n{JS_CODE_2}\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What Do You Do in Your Free Time?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"11\" onclick=\"check(this.id);\">\n                    <label for=\"11\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Read</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"12\" onclick=\"check(this.id);\">\n                    <label for=\"12\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Watch Comedy Shows</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"13\" onclick=\"check(this.id);\">\n                    <label for=\"13\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Contemplate Life</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"14\" onclick=\"check(this.id);\">\n                    <label for=\"14\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Something Artsy</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"15\" onclick=\"check(this.id);\">\n                    <label for=\"15\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Watch Netflix</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"16\" onclick=\"check(this.id);\">\n                    <label for=\"16\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Exercise</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What's Your Favorite Subject?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"21\" onclick=\"check(this.id);\">\n                    <label for=\"21\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">English</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"22\" onclick=\"check(this.id);\">\n                    <label for=\"22\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Math</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"23\" onclick=\"check(this.id);\">\n                    <label for=\"23\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Free Block</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"24\" onclick=\"check(this.id);\">\n                    <label for=\"24\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">The Arts</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"25\" onclick=\"check(this.id);\">\n                    <label for=\"25\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Science</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"26\" onclick=\"check(this.id);\">\n                    <label for=\"26\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Social Studies</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What's Your Favorite Food?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"31\" onclick=\"check(this.id);\">\n                    <label for=\"31\">\n                    <img class=\"image-answer\" src=\"http://img.taste.com.au/w_-0kcUJ/taste/2016/11/aussie-style-beef-and-salad-tacos-86525-1.jpeg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"32\" onclick=\"check(this.id);\">\n                    <label for=\"32\">\n                    <img class=\"image-answer\" src=\"https://i.ytimg.com/vi/rG9r3RV_PDc/maxresdefault.jpg\"></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"33\" onclick=\"check(this.id);\">\n                    <label for=\"33\">\n                    <img class=\"image-answer\" src=\"https://upload.wikimedia.org/wikipedia/commons/9/9f/Chocolate%28bgFFF%29.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"34\" onclick=\"check(this.id);\">\n                    <label for=\"34\">\n                    <img class=\"image-answer\" src=\"https://www.peta.org/wp-content/uploads/2014/11/11-637x320-1415214403.jpg?20151027091318\"></label></div></th>\n            </tr>\n            <tr>\n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"35\" onclick=\"check(this.id);\">\n                    <label for=\"35\">\n                    <img class=\"image-answer\" src=\"https://www.justataste.com/wp-content/uploads/2016/06/peanut-butter-chocolate-chunk-cookies-580x380.jpg\"></label></div></th>   \n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"36\" onclick=\"check(this.id);\">\n                    <label for=\"36\">\n                    <img class=\"image-answer\" src=\"https://simplyfreshfruit.com.au/image/catalog/img_home-fruits.jpg\"></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">How Do You Speak?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"41\" onclick=\"check(this.id);\">\n                    <label for=\"41\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Sarcastically</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"42\" onclick=\"check(this.id);\">\n                    <label for=\"42\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Calmly</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"43\" onclick=\"check(this.id);\">\n                    <label for=\"43\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Quietly</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"44\" onclick=\"check(this.id);\">\n                    <label for=\"44\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">For Long Periods of Time Without Interruption</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"45\" onclick=\"check(this.id);\">\n                    <label for=\"45\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Loudly</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"46\" onclick=\"check(this.id);\">\n                    <label for=\"46\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Animated</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What Sport Do You Like Best?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"51\" onclick=\"check(this.id);\">\n                    <label for=\"51\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Badminton</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"52\" onclick=\"check(this.id);\">\n                    <label for=\"52\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Basketball</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"53\" onclick=\"check(this.id);\">\n                    <label for=\"53\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Swimming</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"54\" onclick=\"check(this.id);\">\n                    <label for=\"54\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Martial Arts</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"55\" onclick=\"check(this.id);\">\n                    <label for=\"55\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Soccer/<br>Football</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"56\" onclick=\"check(this.id);\">\n                    <label for=\"56\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">None</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div id=\"answer-container\" hidden=\"\">\n    <div id=\"result-container\">\n        <h1 id=\"title-text\"></h1>\n        <h5 id=\"desc-text\"></h5>\n    </div>\n</div>",
           "_customCSS": ".header-container {\n    background-color: #174034; \n    height: 30vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.header-text {\n  color: white; \n    font-weight: bold;\n    font-size: 400%;\n    width: 50%;\n    text-align: center;\n}\n\n#answer-container {\n    background-color: #174034; \n    height: 50vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n#result-container {\n    margin: auto; \n    width: 50%;\n}\n\n#title-text {\n  color: white; \n    font-weight: bold\n}\n\n#desc-text {\n  color: white; \n}\n\n.text-question-container {\n  height: auto;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.text-answer {\n    color: white;\n    font-weight: bold;\n    text-align: center;\n  -moz-transition: all 0.3s;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n.text-container {\n  width: 100%;\n  height: 100%;\n  background-color: #174034;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.image-checkbox {\n    display: none;\n}\n\n.image-checkbox + label {\n    display: block;\n    position: relative;\n    width: 100%;\n    height: 100%;\n    opacity: 1;\n    cursor: pointer;\n}\n\n.picture-question-container {\n    padding: 10vh 0 10vh 0;\n  height: auto;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.picture-container {\n    width: 20vw;\n    height: 25vh;\n    margin: .5vw .5vw;\n    overflow: hidden;\n    background: white;\n}\n\n.image-answer {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n}\n\n.image-checkbox:checked + label:hover {\n    -moz-transition: ease 0.3s ;\n  -webkit-transition: ease 0.3s;\n  transition: ease 0.3s;\n}\n\n.image-checkbox:not(:checked):not(.no-hover) + label:hover {\n  -moz-transform: scale(1.1);\n  -webkit-transform: scale(1.1);\n  transform: scale(1.1);\n}",
           "alias": "code-editor",
           "_tags": [
@@ -15591,189 +15584,6 @@
             "<script>\n    function Result(title, description, answers) {\n        this.title = title;\n        this.description = description;\n        this.count = 0;\n        this.answers = answers;\n    }\n    \n    function complete() {\n        var results = [\n            new Result(\"Mr. Jones\", \"Like Mr. Jones, you may be soft-spoken, but have a great sense of humor and very much enjoy doing what you love.\", [11, 13, 21, 26, 34, 42, 43, 44, 51, 55]),\n            new Result(\"Dr. Doyle\", \"Like Dr. Doyle, you have a bright personality which is why people enjoy being around you.\", [15, 23, 25, 31, 32, 45, 46, 51, 55]),\n            new Result(\"Madame Lariviere\", \"Like Madame Lariviere, you get super excited by doing what you love, sometimes even to the point of jumping up and down.\", [16, 22, 35, 36, 44, 45, 46, 54]),\n            new Result(\"Mr. Prowse\", \"Like Mr. Prowse, your sarcasm and dad jokes have no end.\", [11, 12, 21, 23, 34, 35, 36, 41, 46, 53]),\n            new Result(\"Mr. Graham\", \"Like Mr. Graham, your personality can fill any room.\", [14, 15, 23, 24, 31, 32, 44, 45, 46, 52, 54]),\n            new Result(\"Mr. van Rijn\", \"Like Mr. van Rijn, you take everything in life in a humourous way.\", [12, 15, 22, 31, 33, 41, 52, 56]),\n            new Result(\"Coach D\", \"Like Coach D, you are very calm while still being very fun to be around and people love you for it.\", [16, 23, 32, 42, 45, 52]),\n            new Result(\"Mr. Mitchell\", \"Like Mr. Mitchell, you are very passionate and tell others what you really think.\", [14, 24, 34, 42, 43, 56]),\n            new Result(\"Dr. Castillo\", \"Like Castillo, you give good advice and your friends appreciate you for it.\", [13, 23, 26, 31, 44, 54, 56]),\n            new Result(\"Dr. Carlin\", \"Like Dr. Carlin, you have unmatched knowledge of obscure scottish punk bands.\", [11, 14, 25, 34, 36, 42, 43, 56])\n        ];\n        var question = 1;\n        while (document.getElementById(question + \"\" + 1) != null) {\n            var index = 1;\n            while (document.getElementById(question + \"\" + index) != null) {\n                for (var i = 0; i < results.length; i++) {\n                    document.getElementById(question + \"\" + index).className += ' no-hover';\n                    document.getElementById(question + \"\" + index).removeAttribute('onclick');\n                    if (document.getElementById(question + \"\" + index).checked && results[i].answers.includes(parseInt(question + \"\" + index))) {\n                        console.log(\"called\");\n                        results[i].count++;\n                    }\n                }\n                index++;\n            }\n            question++;\n        }\n        results.sort(function(a, b){return b.count-a.count});\n        var maxes = [];\n        var i = 0;\n        while (results[i].count == results[0].count) {\n            maxes.push(results[i]);\n            i++;\n        }\n        var max = maxes[Math.floor(Math.random() * maxes.length)];\n        document.getElementById('title-text').innerHTML = max.title;\n        document.getElementById('desc-text').innerHTML = max.description;\n        document.getElementById('answer-container').removeAttribute('hidden');\n        window.scrollTo(0,document.body.scrollHeight);\n    }\n</script>"
           ],
           "_anchor": "custom-html-fk"
-        }
-      ]
-    },
-    "page46.html": {
-      "settings": {
-        "meta_descr": "This is the description of our charity campaign.",
-        "title": "Centsaday",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "active": true,
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
-          "_anchor": "menu-fm"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-fn"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#91bdae",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CENTSADAY",
-          "subtitle": "Accomplish Your Goals for a Good Cause",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">COMMIT</a>",
-          "form": {
-            "action": "aidastinvanrijn@stjohns.be",
-            "alerts": {
-              "success": "Thanks for commiting!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Number of Cents Per Day"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Daily Goal"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#2e2e2e"
-            },
-            "SMALL": {
-              "color": "#174034"
-            }
-          },
-          "_anchor": "form1-fs"
         }
       ]
     }

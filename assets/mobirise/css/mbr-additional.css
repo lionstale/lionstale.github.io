@@ -1646,6 +1646,9 @@ h6,
 #features3-5g H5 {
   color: #174034;
 }
+#msg-box4-fl H3 {
+  color: #ffffff;
+}
 #menu-32 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4345,4 +4348,80 @@ h6,
   -moz-transform: scale(1.1);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+#menu-fm .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-fm .navbar-caption {
+  color: #ffffff;
+}
+#menu-fm .navbar-toggler {
+  color: #ffffff;
+}
+#menu-fm .link,
+#menu-fm .dropdown-item {
+  color: #ffffff;
+}
+#menu-fm .link {
+  font-size: 0.75rem;
+}
+#menu-fm .dropdown-item,
+#menu-fm .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-fm .link:hover,
+#menu-fm .dropdown-item:hover,
+#menu-fm .link:focus,
+#menu-fm .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-fm .link[aria-expanded="true"],
+#menu-fm .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-fm .nav-dropdown-sm .link:focus,
+#menu-fm .nav-dropdown-sm .link:hover,
+#menu-fm .nav-dropdown-sm .dropdown-item:focus,
+#menu-fm .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-fm .navbar,
+#menu-fm .nav-dropdown-sm,
+#menu-fm .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-fm .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-fm .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-fm .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-fm .bg-color.transparent.opened .link:hover,
+#menu-fm .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-fm .link[aria-expanded="true"],
+#menu-fm .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-fm.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-fm .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-fm .close-icon::before,
+#menu-fm .close-icon::after {
+  background-color: #ffffff;
+}
+#form1-fs .form-control-label {
+  color: #232323;
+}
+#form1-fs .mbr-section-title {
+  color: #2e2e2e;
+}
+#form1-fs SMALL {
+  color: #174034;
 }
