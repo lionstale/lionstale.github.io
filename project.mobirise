@@ -26,11 +26,12 @@
         "#91bdae",
         "#222222",
         "#101010",
-        "#232323"
+        "#232323",
+        "#545454"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 579,
+    "uniqCompNum": 585,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -41,7 +42,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -277,7 +278,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -514,7 +515,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -764,7 +765,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1121,7 +1122,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1898,7 +1899,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2199,7 +2200,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3132,7 +3133,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3399,7 +3400,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -3645,7 +3646,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -4287,7 +4288,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4586,7 +4587,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4925,7 +4926,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -5585,7 +5586,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -5864,7 +5865,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -6014,7 +6015,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -6635,7 +6636,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -6827,7 +6828,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -7121,7 +7122,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -7354,7 +7355,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -7710,7 +7711,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -7902,7 +7903,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -8176,7 +8177,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -8422,7 +8423,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -8687,7 +8688,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -9257,7 +9258,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -9912,7 +9913,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -10137,7 +10138,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -10482,7 +10483,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -10821,7 +10822,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -11013,7 +11014,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -11205,7 +11206,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -11620,7 +11621,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -11748,7 +11749,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -13061,7 +13062,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -13350,7 +13351,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -14015,7 +14016,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -14294,7 +14295,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -14519,7 +14520,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -14712,7 +14713,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -15036,7 +15037,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -15232,7 +15233,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -15404,7 +15405,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Quiz #2",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -15597,7 +15598,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -15730,7 +15731,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -16011,7 +16012,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Stephanie Wintjes</b></p><p><br></p><p>Stephanie was previously an art teacher at St. John’s, but is currently at art school. When she worked at the school, they used to have community shows, but this is her first real exhibition in The Green Gallery and she is excited to be called a “visiting artist.”</p><p><br></p><p>\n</p><p>\n</p><p>Stephanie is fascinated by still life. She believes that it is a way to capture a dramatic moment that might otherwise be overlooked. Her inspiration for her recent work came from the work of a Spanish artist named Cotom. He painted dark cupboards with vegetables hanging on strings. This was how the Spanish people kept their produce separate to keep them from rotting. To her, this was truly magical to see these floating vegetables and she wished to capture the drama. Madame Froidcoeur, a HS Social Studies teacher was, “intrigued by the tension of the string holding something as massive as a vegetable,” in Stephanie’s work. Plus, she is “drawn to anything that has to do with food anyway.”</p><p><br></p><p>\n</p><p>\n</p><p>Some of her paintings focus on blue dish cloths, as to her the dish cloths were “posing” and she thought it would be interesting to capture an object people take for granted by finding the beauty in it. Another viewer saw the painting and said it look like a prison uniform or the “boy with the striped pajamas.” She had never seen it that way. This made her realize that for one person it could be an innocent dish towel, but to another it could be frightening. She realized that art is a political act which can make some people have an unbelievable interpretation of the seemingly innocent.</p><p><br></p><p>\n</p><p>\n</p><p>But, overall, she thinks that art should make you think and reflect so she is happy whenever someone finds an interpretation of her work that she had not even imagined.</p>",
+          "text": "<p><b>Stephanie Wintjes</b></p><p><br></p><p>Stephanie was previously an art teacher at St. John’s, but is currently at art school. When she worked at the school, they used to have community shows, but this is her first real exhibition in The Greene Gallery and she is excited to be called a “visiting artist.”</p><p><br></p><p>\n</p><p>\n</p><p>Stephanie is fascinated by still life. She believes that it is a way to capture a dramatic moment that might otherwise be overlooked. Her inspiration for her recent work came from the work of a Spanish artist named Cotom. He painted dark cupboards with vegetables hanging on strings. This was how the Spanish people kept their produce separate to keep them from rotting. To her, this was truly magical to see these floating vegetables and she wished to capture the drama. Madame Froidcoeur, a HS Social Studies teacher was, “intrigued by the tension of the string holding something as massive as a vegetable,” in Stephanie’s work. Plus, she is “drawn to anything that has to do with food anyway.”</p><p><br></p><p>\n</p><p>\n</p><p>Some of her paintings focus on blue dish cloths, as to her the dish cloths were “posing” and she thought it would be interesting to capture an object people take for granted by finding the beauty in it. Another viewer saw the painting and said it look like a prison uniform or the “boy with the striped pajamas.” She had never seen it that way. This made her realize that for one person it could be an innocent dish towel, but to another it could be frightening. She realized that art is a political act which can make some people have an unbelievable interpretation of the seemingly innocent.</p><p><br></p><p>\n</p><p>\n</p><p>But, overall, she thinks that art should make you think and reflect so she is happy whenever someone finds an interpretation of her work that she had not even imagined.</p>",
           "_tags": [
             "Theme"
           ],
@@ -16101,6 +16102,237 @@
           },
           "text": "St. John's International School",
           "_anchor": "footer1-fu"
+        }
+      ]
+    },
+    "page48.html": {
+      "settings": {
+        "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
+        "title": "Unspoken Stresses of the IB",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-g3"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-g4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "inverse": false,
+            "imageSize": 60,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#91bdae",
+            "bgText": "IB Stress",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#efefef",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-11-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Unspoken Stresses of the IB and How to Handle Them",
+          "text": "The stress no one talks about, <br>but everyone experiences.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-g5",
+          "_styles": {
+            "H3": {
+              "color": "#545454"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Starting the IB diploma program comes with a few well-known warnings: you might not get as much sleep, you need to keep doing your CAS, and you need to work <i>hard</i>. However, as January comes to a close and deadlines are passing all of us by, I realise that what I struggle with – and what I see all of my peers struggle with – is not on the list I have just mentioned. Before I continue, it’s important to note that most of us are in the middle of those hectic months of deadlines and submissions and absolute craziness – but somehow all of that pressure is just one of the many things we have on our backs.\n</p><p><br></p><p>We’re unsure. Anybody who tells you they aren’t is probably lying to either you or themselves. After nearly 18 years of saying what we wanted to be, we’re faced with an even more horrifying prospect – the fact that <i>we might actually have to be what we want to be</i>. To most people this sounds like a dream; I knew what I wanted to be, or at least what I wanted to study, ever since I was in primary school. The problem is that the stress isn’t about deciding what we want to do (although this is also pressure – inducing and problematic in its own right) but it’s the realisation <i>we actually have to do it</i>. Every dream you have ever had is suddenly becoming an option. It’s been months and already I see people second-guessing themselves every day because during this year nothing is certain anymore! Do we want to be who we said we wanted to be yesterday? Will we want to be that person a year from now? We find ourselves looking for safety nets, ‘get out of jail free cards’ from any sort of major life planning that could be avoided. This pressure, this constant fear of having to make decisions for and by yourself, creates an unnerving and insecure atmosphere that transfers itself across to all disciplines of our lives. I sent a final IB assessment to Mr. Graham one day and then resent the same email with a modified attachment entitled “FINAL FINAL FINAL Version” – this, I’m sure, is a scenario relatable to all IB students.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g6"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#91bdae"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "\"Do we want to be who we said we wanted to be yesterday? Will we want to be that person a year from now?\"",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g7"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>This is the type of pressure that unfortunately makes or breaks our relationships. When undergoing these sorts of emotions, you either find solace in your friends or rival them – do they know what they’re doing? How are they so together? Why can’t I be more like that? It’s times like these it can be admittedly hard trying to remember that we need to look out for people other than ourselves.</p><p><br></p><p>\n</p><p>On top of these emotions, the stress of extracurriculars can get to you too. We do extracurriculars because we love them and they’re our passions – either that or we have a CAS requirement. I like to <i>think</i> we do them because we love them. But when you’re running on minimum sleep, you know you have basketball practice until late, college apps (yes, the ones you haven’t finished yet) are due in two days and the <i>tiniest thing goes wrong</i>? Disaster. It’s awful. It feels as if that one thing that went wrong that you were counting on to go right was a foreshadowing of your whole day/week/month/life.\n</p><p><br></p><p>That being said, January does bring a certain hope to fruition. I can look back and safely say that November was the most stress inducing month for me (until May, presumably). I remember getting in the car after a long day of school late November, knowing that I had a mountain of work to do when I got home, and hearing my Mum tell me that we were going out to dinner as a surprise. Tears weren’t the result, but they were pretty damn close.\n</p><p><br></p><p>You’re probably wondering, “But that’s a good thing! A dinner out is a lovely surprise for a stressed student!” and to that I would agree with you. However, this is merely an extension of my previous point. When your time is being stretched thinner than is visible to the eye, the slightest changes in scheduling can be the straw that breaks your back. This is what has become extremely apparent to me watching my peers.\n</p><p>So, if I have any advice to you future IB students, it would just be to give everyone a break. People will be snappy, moody and rude at times and you just have to accept it. You’ll all be cranky and you’ll all be tired, but most importantly, you’ll all be going through the same thing. \n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g8"
         }
       ]
     }
