@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 569,
+    "uniqCompNum": 579,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -41,7 +41,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -277,7 +277,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -514,7 +514,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -764,7 +764,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1121,7 +1121,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -1898,7 +1898,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2199,7 +2199,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3132,7 +3132,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3399,7 +3399,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -3645,7 +3645,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -4287,7 +4287,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -4431,7 +4431,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc00119-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4448,9 +4448,9 @@
               "size": 250
             }
           },
-          "title": "Winter Art Vernissage",
-          "text": "An article about the Winter Art Vernissage, <br>reactions to it, and inspiration for the artists.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page38.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Obverse Art Show",
+          "text": "An article about the Obverse Art Show and the artists' inspiration.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_anchor": "header2-2z"
         },
         {
@@ -4478,14 +4478,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ts-night-photography-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -4537,9 +4536,9 @@
               "active": true
             }
           },
-          "title1": "Taking the Perfect Picture",
-          "subtitle1": "Written By: Shahriar Hossain",
-          "caption1": "With this article, you can take much more professional photos.",
+          "title1": "Winter Art Vernissage",
+          "subtitle1": "Written By: Aimee Dastin-van Rijn",
+          "caption1": "An article about the Winter Art Vernissage, <br>reactions to it, and inspiration for the artists.",
           "title2": "Bye Bye Birdie",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
           "caption2": "This article gives an overview of the plot and characters of this year's musical.",
@@ -4555,7 +4554,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page21.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page28.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -4587,7 +4586,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4842,7 +4841,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc00119-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4851,10 +4850,10 @@
               "title": ""
             }
           },
-          "title3": "Winter Art Vernissage",
+          "title3": "Obverse Art Show",
           "subtitle3": "Written By: Aimee Dastin-van Rijn",
-          "caption3": "An article about the Winter Art Vernissage, reactions to it, and inspiration for the artists.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "An article about the Obverse Art Show and the artists' inspiration.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page47.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-600x311.png",
@@ -4926,7 +4925,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -5586,7 +5585,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -5865,7 +5864,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6015,7 +6014,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -6636,7 +6635,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -6828,7 +6827,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -7122,7 +7121,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -7355,7 +7354,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -7711,7 +7710,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -7903,7 +7902,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -8177,7 +8176,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -8423,7 +8422,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -8688,7 +8687,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -9258,7 +9257,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -9913,7 +9912,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -10138,7 +10137,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -10483,7 +10482,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -10822,7 +10821,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -11014,7 +11013,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -11206,7 +11205,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -11621,7 +11620,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -11749,7 +11748,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -13062,7 +13061,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -13351,7 +13350,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -14016,7 +14015,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -14295,7 +14294,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -14520,7 +14519,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -14713,7 +14712,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -15037,7 +15036,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -15233,7 +15232,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -15405,7 +15404,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Quiz #2",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -15598,7 +15597,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -15724,6 +15723,384 @@
             }
           },
           "_anchor": "form1-fs"
+        }
+      ]
+    },
+    "page47.html": {
+      "settings": {
+        "meta_descr": "Obverse Art Show",
+        "title": "Art Show #3",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-ft"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc00151-1400x1050.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Teachers and one of the artists enjoying the art and the company.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-fw"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Audrey Atkinson\n</b></p><p><br></p><p>When asked about her inspiration, Audrey stated that most artists would say their inspiration is a dream, but her inspiration comes from anything, even a trash can on the street. To her, everything becomes beautiful or interesting. She likes the basis of art: the drawing. While she does sculpt, etch, and paint, she always makes sure to draw each day.</p><p><br></p><p> \n</p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Her art style can change once in a while, but this is because she believes the world is constantly changing and one cannot do the same thing over and over. You have to push yourself to go further, as it must get boring to see the same thing all the time.</p><p><br></p><p> \n</p><p>\n</p><p>Some of her artwork was created on fabric such as silk, rather than paper. People often say that “you can’t do that,” because it is different, but Audrey dares to be different. She prefers to work on material that is light, transparent, and fluid – noble.</p><p><br></p><p>\n</p><p>\n</p><p>Some of her works are inspired by photos of poverty, ruin, and explosions. While to us appreciative viewers it seems a beautiful and magical thing, “it’s not really pretty if you know where the pictures come from.” This ability to create beauty from the darker parts of humanity is part of what makes Audrey’s work so special. One can choose to appreciate the art on a superficial level as being pleasing to the eye, or one can search deeper to see how darker inspiration has created a masterpiece.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-fz"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00111-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00111-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00118-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00118-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00122-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00122-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00120-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00120-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-g0"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Stephanie Wintjes</b></p><p><br></p><p>Stephanie was previously an art teacher at St. John’s, but is currently at art school. When she worked at the school, they used to have community shows, but this is her first real exhibition in The Green Gallery and she is excited to be called a “visiting artist.”</p><p><br></p><p>\n</p><p>\n</p><p>Stephanie is fascinated by still life. She believes that it is a way to capture a dramatic moment that might otherwise be overlooked. Her inspiration for her recent work came from the work of a Spanish artist named Cotom. He painted dark cupboards with vegetables hanging on strings. This was how the Spanish people kept their produce separate to keep them from rotting. To her, this was truly magical to see these floating vegetables and she wished to capture the drama. Madame Froidcoeur, a HS Social Studies teacher was, “intrigued by the tension of the string holding something as massive as a vegetable,” in Stephanie’s work. Plus, she is “drawn to anything that has to do with food anyway.”</p><p><br></p><p>\n</p><p>\n</p><p>Some of her paintings focus on blue dish cloths, as to her the dish cloths were “posing” and she thought it would be interesting to capture an object people take for granted by finding the beauty in it. Another viewer saw the painting and said it look like a prison uniform or the “boy with the striped pajamas.” She had never seen it that way. This made her realize that for one person it could be an innocent dish towel, but to another it could be frightening. She realized that art is a political act which can make some people have an unbelievable interpretation of the seemingly innocent.</p><p><br></p><p>\n</p><p>\n</p><p>But, overall, she thinks that art should make you think and reflect so she is happy whenever someone finds an interpretation of her work that she had not even imagined.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g1"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00115-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00115-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00151-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00151-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00117-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00117-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc00142-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00142-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-g2"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-fu"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00119-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Obverse Art Show",
+          "text": "Art is an alchemy that transforms and changes the ordinary world into an extraordinary world. – Mr. Mitchell",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-fy"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The Obverse art showcase took place at the Greene Gallery on January 19th. The turnout was wonderful, “enriched with friends and colleagues, philosophy, art, and cake.”</p><p><br></p><p>The two visiting artists’ works each had many merits, but, as Mr. Graham, the MS and HS Theatre Teacher said, “These are two artists who have definitely found their voice, but those voices are very different.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-fv"
         }
       ]
     }
