@@ -4425,6 +4425,10 @@ h6,
 #form1-fs SMALL {
   color: #174034;
 }
+#msg-box6-fy .mbr-section-title,
+#msg-box6-fy .lead p {
+  color: #fff;
+}
 #menu-ft .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4491,8 +4495,4 @@ h6,
 #menu-ft .close-icon::before,
 #menu-ft .close-icon::after {
   background-color: #ffffff;
-}
-#msg-box6-fy .mbr-section-title,
-#msg-box6-fy .lead p {
-  color: #fff;
 }

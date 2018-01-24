@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page47.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -41,7 +41,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 8
       },
       "components": [
         {
@@ -277,7 +277,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -514,7 +514,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 13
       },
       "components": [
         {
@@ -764,7 +764,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 11
+        "order": 9
       },
       "components": [
         {
@@ -1121,7 +1121,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 14
       },
       "components": [
         {
@@ -1898,7 +1898,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -2199,7 +2199,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 17
+        "order": 15
       },
       "components": [
         {
@@ -3132,7 +3132,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -4287,7 +4287,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 12
+        "order": 10
       },
       "components": [
         {
@@ -4586,7 +4586,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -5864,7 +5864,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -8176,7 +8176,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -8687,7 +8687,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 18
+        "order": 16
       },
       "components": [
         {
@@ -9257,7 +9257,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 19
+        "order": 17
       },
       "components": [
         {
@@ -10482,7 +10482,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 18
       },
       "components": [
         {
@@ -11013,7 +11013,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -11620,7 +11620,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -11748,7 +11748,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -13350,7 +13350,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 21
+        "order": 19
       },
       "components": [
         {
@@ -14294,7 +14294,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -14519,7 +14519,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -15232,7 +15232,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -15404,7 +15404,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Quiz #2",
-        "order": 4
+        "order": 2
       },
       "components": [
         {
@@ -15597,7 +15597,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 2
+        "order": 25
       },
       "components": [
         {
@@ -15730,9 +15730,80 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 1
+        "order": 20
       },
       "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00119-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Obverse Art Show",
+          "text": "Art is an alchemy that transforms and changes the ordinary world into an extraordinary world. – Mr. Mitchell",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-fy"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The Obverse art showcase took place at the Greene Gallery on January 19th. The turnout was wonderful, “enriched with friends and colleagues, philosophy, art, and cake.”</p><p><br></p><p>The two visiting artists’ works each had many merits, but, as Mr. Graham, the MS and HS Theatre Teacher said, “These are two artists who have definitely found their voice, but those voices are very different.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-fv"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -16030,77 +16101,6 @@
           },
           "text": "St. John's International School",
           "_anchor": "footer1-fu"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc00119-1400x1050.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Obverse Art Show",
-          "text": "Art is an alchemy that transforms and changes the ordinary world into an extraordinary world. – Mr. Mitchell",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-fy"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>The Obverse art showcase took place at the Greene Gallery on January 19th. The turnout was wonderful, “enriched with friends and colleagues, philosophy, art, and cake.”</p><p><br></p><p>The two visiting artists’ works each had many merits, but, as Mr. Graham, the MS and HS Theatre Teacher said, “These are two artists who have definitely found their voice, but those voices are very different.”</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-fv"
         }
       ]
     }
