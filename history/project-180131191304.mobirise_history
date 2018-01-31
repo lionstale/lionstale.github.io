@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page40.html",
+    "currentPage": "Archives",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -32,18 +32,19 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 587,
-    "versionPublish": "4.6.3",
+    "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112402344-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112402344-1');\r\n</script>\r\n",
-    "path": "@PROJECT_PATH@"
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Sports": {
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -279,7 +280,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -516,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -766,7 +767,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -1123,7 +1124,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -1900,7 +1901,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -2201,7 +2202,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -2264,29 +2265,31 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x738.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/636215660129678022-2052079369_nice-guys-finish-last-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc00119-600x450.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2298,7 +2301,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2324,12 +2327,12 @@
               "active": true
             }
           },
-          "title1": "Unspoken Stresses of the IB",
+          "title1": "Why Nice Guys Finish Last",
           "subtitle1": "",
-          "caption1": "An article by Ceola Daly on the stresses of the IB that no one talks about and how to handle them",
-          "title2": "Obverse Art Show",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "An article about the Obverse Art Show and the artists' inspiration.",
+          "caption1": "An interpretation of the statement \"Nice guys finish last.\"",
+          "title2": "Coming Soon",
+          "subtitle2": "Who Will Write Next?",
+          "caption2": "More articles being written... literary genius takes time. :)",
           "title3": "Coming Soon",
           "subtitle3": "Who Will Write Next?",
           "caption3": "More articles being written... literary genius takes time. :)",
@@ -2342,8 +2345,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page47.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page23.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3264,7 +3267,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -3531,7 +3534,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -3777,7 +3780,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -4419,7 +4422,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -4610,7 +4613,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24796630_10155341163966747_151520171172123512_n-1-960x720.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4718,7 +4721,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -5057,7 +5060,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -5717,7 +5720,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -5996,7 +5999,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -6146,7 +6149,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -6959,7 +6962,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -7253,7 +7256,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -7486,7 +7489,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -8308,7 +8311,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -8554,7 +8557,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -8819,7 +8822,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -9389,7 +9392,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -10044,7 +10047,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -10269,7 +10272,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -10614,7 +10617,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -10953,7 +10956,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -11145,7 +11148,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -11337,7 +11340,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -11752,7 +11755,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -11880,7 +11883,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -13193,7 +13196,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -13482,7 +13485,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -14147,7 +14150,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -14426,7 +14429,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -14651,7 +14654,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -14844,7 +14847,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -15364,7 +15367,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -15587,8 +15590,8 @@
     "page45.html": {
       "settings": {
         "meta_descr": "Find out your hidden talent here",
-        "title": "What Should You Perform for the Talent Show?",
-        "order": 42
+        "title": "Quiz #2",
+        "order": 3
       },
       "components": [
         {
@@ -15784,7 +15787,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -15917,7 +15920,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -16295,7 +16298,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 40
+        "order": 1
       },
       "components": [
         {
