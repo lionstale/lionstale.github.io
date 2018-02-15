@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page44.html",
+    "currentPage": "page49.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,11 +31,13 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 601,
+    "uniqCompNum": 596,
     "versionPublish": "4.6.3",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112402344-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112402344-1');\r\n</script>\r\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -43,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -279,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -515,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -765,7 +767,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -1122,7 +1124,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -1899,7 +1901,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -2200,7 +2202,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -2296,7 +2298,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3262,7 +3264,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -3529,7 +3531,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 31
       },
       "components": [
         {
@@ -3775,7 +3777,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 37
       },
       "components": [
         {
@@ -4417,7 +4419,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -4608,7 +4610,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24796630_10155341163966747_151520171172123512_n-1-960x720.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4716,7 +4718,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -5055,7 +5057,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 34
       },
       "components": [
         {
@@ -5715,7 +5717,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 30
       },
       "components": [
         {
@@ -5994,7 +5996,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -6144,7 +6146,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 32
       },
       "components": [
         {
@@ -6765,7 +6767,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 48
+        "order": 47
       },
       "components": [
         {
@@ -6957,7 +6959,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 35
       },
       "components": [
         {
@@ -7251,7 +7253,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 33
       },
       "components": [
         {
@@ -7484,7 +7486,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -7840,7 +7842,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 46
+        "order": 45
       },
       "components": [
         {
@@ -8032,7 +8034,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 47
+        "order": 46
       },
       "components": [
         {
@@ -8306,7 +8308,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -8552,7 +8554,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 36
       },
       "components": [
         {
@@ -8817,7 +8819,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -9387,7 +9389,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -10042,7 +10044,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 40
       },
       "components": [
         {
@@ -10267,7 +10269,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -10612,7 +10614,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -10951,7 +10953,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 42
       },
       "components": [
         {
@@ -11143,7 +11145,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -11335,7 +11337,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 38
       },
       "components": [
         {
@@ -11750,7 +11752,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -11878,7 +11880,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -13191,7 +13193,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -13480,7 +13482,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -14145,7 +14147,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -14424,7 +14426,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -14842,7 +14844,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -15166,7 +15168,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 45
+        "order": 44
       },
       "components": [
         {
@@ -15362,7 +15364,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -15372,7 +15374,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -15440,7 +15442,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-1440x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1530x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -15457,14 +15459,14 @@
               "size": 0
             }
           },
-          "title": "Which Waterloo Restaurant Are You?",
-          "text": "Everyone has a restaurant for their soul.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page50.html\" data-toolbar=\"-mbrBtnMove\">Take the Quiz</a>",
+          "title": "Which Teacher Are <br>You Most Like?",
+          "text": "A question we've all been dying to know the answer to.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page43.html\" data-toolbar=\"-mbrBtnMove\">Take the Quiz</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-go"
+          "_anchor": "msg-box5-f7"
         },
         {
           "_params": {
@@ -15517,58 +15519,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-g9"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#91bdae",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1530x1080.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Which Teacher Are <br>You Most Like?",
-          "text": "A question we've all been dying to know the answer to.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page43.html\" data-toolbar=\"-mbrBtnMove\">Take the Quiz</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-f7"
         },
         {
           "_name": "menu",
@@ -15638,7 +15588,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 44
+        "order": 43
       },
       "components": [
         {
@@ -15834,7 +15784,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -15967,7 +15917,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -16345,7 +16295,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 42
+        "order": 41
       },
       "components": [
         {
@@ -16576,7 +16526,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 40
+        "order": 39
       },
       "components": [
         {
@@ -16759,7 +16709,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-6e390179fb4f4faeb725c06fee09c8c9-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_6e390179fb4f4faeb725c06fee09c8c9_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-6e390179fb4f4faeb725c06fee09c8c9-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16839,7 +16789,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-e6da8c669423479596eacc046df75317-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_e6da8c669423479596eacc046df75317_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-e6da8c669423479596eacc046df75317-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16850,7 +16800,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-2279bb9a181f4b8dada40d876b169023-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_2279bb9a181f4b8dada40d876b169023_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-2279bb9a181f4b8dada40d876b169023-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16861,7 +16811,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-6d2f96775a33403f954f47390399244f-mv2-d-4928-3264-s-4-2-815x540.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_6d2f96775a33403f954f47390399244f_mv2_d_4928_3264_s_4-2-815x540.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-6d2f96775a33403f954f47390399244f-mv2-d-4928-3264-s-4-2-815x540-800x530.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16872,7 +16822,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-ba96ff71defe45daaebf3a4639cc16be-mv2-d-5472-3648-s-4-2-867x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_ba96ff71defe45daaebf3a4639cc16be_mv2_d_5472_3648_s_4-2-867x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-ba96ff71defe45daaebf3a4639cc16be-mv2-d-5472-3648-s-4-2-867x578-800x533.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16900,202 +16850,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-gj"
-        }
-      ]
-    },
-    "page50.html": {
-      "settings": {
-        "meta_descr": "This is the restaurant of your soul.",
-        "title": "Which Waterloo Restaurant Are you?",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1a16"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#13352b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#174034"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#91bdae!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#174034",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sports.html\">Sports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
-          "_anchor": "menu-gk"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "St. John's International School",
-          "_anchor": "footer1-gl"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#174034",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-13-1620x1080.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Which Waterloo Restaurant Are You?",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-gm"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n\n{JS_CODE_2}\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Pick Your Favorite Movie Out of These Options</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"11\" onclick=\"check(this.id);\">\n                    <label for=\"11\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Mean Girls</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"12\" onclick=\"check(this.id);\">\n                    <label for=\"12\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Harry Potter</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"13\" onclick=\"check(this.id);\">\n                    <label for=\"13\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Shutter Island</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"14\" onclick=\"check(this.id);\">\n                    <label for=\"14\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Fast and Furious</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"15\" onclick=\"check(this.id);\">\n                    <label for=\"15\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Avengers</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"16\" onclick=\"check(this.id);\">\n                    <label for=\"16\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Inception</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Where Would You Most Like To Go On Vacation?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"21\" onclick=\"check(this.id);\">\n                    <label for=\"21\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Japan</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"22\" onclick=\"check(this.id);\">\n                    <label for=\"22\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Scotland</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"23\" onclick=\"check(this.id);\">\n                    <label for=\"23\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Bahamas</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"24\" onclick=\"check(this.id);\">\n                    <label for=\"24\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">South of France</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"25\" onclick=\"check(this.id);\">\n                    <label for=\"25\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Argentina</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"26\" onclick=\"check(this.id);\">\n                    <label for=\"26\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">New York City</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Pick Your Favorite Color</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"31\" onclick=\"check(this.id);\">\n                    <label for=\"31\">\n                    <img class=\"image-answer\" src=\"http://www.solidbackgrounds.com/images/1680x1050/1680x1050-folly-solid-color-background.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"32\" onclick=\"check(this.id);\">\n                    <label for=\"32\">\n                    <img class=\"image-answer\" src=\"https://lh3.googleusercontent.com/ccPAXz7Y9lQJqF9MaGc_koCjkvKvjD3XH4s8u9e5QZKUjh5BmX6cM7GKGnq-3aVwRw=w300\"></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"33\" onclick=\"check(this.id);\">\n                    <label for=\"33\">\n                    <img class=\"image-answer\" src=\"https://www.xmple.com/wallpaper/one-colour-blue-single-plain-solid-color-1920x1080-c-7b67eb-f-24.svg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"34\" onclick=\"check(this.id);\">\n                    <label for=\"34\">\n                    <img class=\"image-answer\" src=\"https://images-na.ssl-images-amazon.com/images/I/114tc%2BRRNoL.01_SL500_.jpg\"></label></div></th>\n            </tr>\n            <tr>\n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"35\" onclick=\"check(this.id);\">\n                    <label for=\"35\">\n                    <img class=\"image-answer\" src=\"https://img00.deviantart.net/ef85/i/2012/228/e/b/plain_color_stock_05_by_gradient_textures-d5bd3wd.jpg\"></label></div></th>   \n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"36\" onclick=\"check(this.id);\">\n                    <label for=\"36\">\n                    <img class=\"image-answer\" src=\"http://cdn.playbuzz.com/cdn/6ca97ead-01a8-42f3-8ba6-daba2c3ee5bc/e7bf660b-68b4-4366-8128-c1f6ce775167.jpg\"></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What Would You Most Want To Be?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"41\" onclick=\"check(this.id);\">\n                    <label for=\"41\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Famous Athlete</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"42\" onclick=\"check(this.id);\">\n                    <label for=\"42\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Famous Singer</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"43\" onclick=\"check(this.id);\">\n                    <label for=\"43\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">A Ninja</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"44\" onclick=\"check(this.id);\">\n                    <label for=\"44\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">A Writer</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"45\" onclick=\"check(this.id);\">\n                    <label for=\"45\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">A Teacher</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"46\" onclick=\"check(this.id);\">\n                    <label for=\"46\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Scientist</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What's Your Favorite Animal?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"51\" onclick=\"check(this.id);\">\n                    <label for=\"51\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Seal</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"52\" onclick=\"check(this.id);\">\n                    <label for=\"52\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Tiger</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"53\" onclick=\"check(this.id);\">\n                    <label for=\"53\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Turtle</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"54\" onclick=\"check(this.id);\">\n                    <label for=\"54\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Cat</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"55\" onclick=\"check(this.id);\">\n                    <label for=\"55\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Horse</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"56\" onclick=\"check(this.id);\">\n                    <label for=\"56\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Dog</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div id=\"answer-container\" hidden=\"\">\n    <div id=\"result-container\">\n        <h1 id=\"title-text\"></h1>\n        <h5 id=\"desc-text\"></h5>\n    </div>\n</div>",
-          "_customCSS": ".header-container {\n    background-color: #174034; \n    height: 30vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.header-text {\n  color: white; \n    font-weight: bold;\n    font-size: 400%;\n    width: 50%;\n    text-align: center;\n}\n\n#answer-container {\n    background-color: #174034; \n    height: 50vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n#result-container {\n    margin: auto; \n    width: 50%;\n}\n\n#title-text {\n  color: white; \n    font-weight: bold\n}\n\n#desc-text {\n  color: white; \n}\n\n.text-question-container {\n  height: auto;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.text-answer {\n    color: white;\n    font-weight: bold;\n    text-align: center;\n  -moz-transition: all 0.3s;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n.text-container {\n  width: 100%;\n  height: 100%;\n  background-color: #174034;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.image-checkbox {\n    display: none;\n}\n\n.image-checkbox + label {\n    display: block;\n    position: relative;\n    width: 100%;\n    height: 100%;\n    opacity: 1;\n    cursor: pointer;\n}\n\n.picture-question-container {\n    padding: 10vh 0 10vh 0;\n  height: auto;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.picture-container {\n    width: 20vw;\n    height: 25vh;\n    margin: .5vw .5vw;\n    overflow: hidden;\n    background: white;\n}\n\n.image-answer {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n}\n\n.image-checkbox:checked + label:hover {\n    -moz-transition: ease 0.3s ;\n  -webkit-transition: ease 0.3s;\n  transition: ease 0.3s;\n}\n\n.image-checkbox:not(:checked):not(.no-hover) + label:hover {\n  -moz-transform: scale(1.1);\n  -webkit-transform: scale(1.1);\n  transform: scale(1.1);\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src=\"assets/web/assets/jquery/jquery.min.js\"></script>",
-            "<script>\n    function check(id) {\n        document.getElementById(id).checked = true;\n        document.getElementById(id).nextElementSibling.style.opacity = 1;\n        var i = 1;\n        while (document.getElementById(Math.floor(id/10) + \"\" + i) != null) {\n            if (i != id % 10) {\n                document.getElementById(Math.floor(id/10) + \"\" + i).checked = false;\n                document.getElementById(Math.floor(id/10) + \"\" + i).nextElementSibling.style.opacity = 0.7;\n        \t}\n            i++;\n        }\n        var question = 1;\n        var allAnswered = true;\n        while (document.getElementById(question + \"\" + 1) != null && allAnswered) {\n            var index = 1;\n            var checked = false;\n            while (document.getElementById(question + \"\" + index) != null) {\n                checked = checked || document.getElementById(question + \"\" + index).checked;\n                index++;\n            }\n            allAnswered = allAnswered && checked;\n            question++;\n        }\n        if (allAnswered) {\n            complete();\n        }\n    }\n</script>",
-            "<script>\n    function Result(title, description, answers) {\n        this.title = title;\n        this.description = description;\n        this.count = 0;\n        this.answers = answers;\n    }\n    \n    function complete() {\n        var results = [\n            new Result(\"Sushi Shop\", \"Sushi shop is classy, just like you.\", [11, 13, 21, 26, 36, 42, 43, 44, 51, 56]),\n            new Result(\"Thai Cafe\", \"You are aggressively mediocre, just like everything about this restaurant.\", [15, 23, 25, 31, 32, 45, 46, 51, 55]),\n            new Result(\"Makisu\", \"You are unknown to many, but you're still there.\", [16, 21, 22, 35, 34, 44, 45, 46, 54]),\n            new Result(\"Marcel's Burger Bar\", \"You're high maintenance, but worth it.\", [11, 12, 21, 23, 34, 35, 36, 41, 46, 53]),\n            new Result(\"Oscar's\", \"You are full of wonderful qualities, but have a hard time letting people in.\", [14, 15, 23, 24, 31, 32, 44, 45, 46, 52, 54]),\n            new Result(\"Zigz\", \"You're probably vegan or wish you were.\", [12, 15, 22, 31, 33, 41, 52, 56]),\n            new Result(\"Chez Ali\", \"You like to keep it casual and might smell vaguely of old Mediterranean food.\", [16, 23, 32, 42, 45, 52]),\n            new Result(\"Exki\", \"You shine so bright that you tend to take over any room you go in to.\", [14, 24, 34, 42, 43, 55]),\n            new Result(\"Pizza Hut\", \"You're friendly and reliable, which is why people like you do much.\", [13, 23, 26, 31, 44, 54, 56]),\n            new Result(\"Anchos\", \"You tend to come off a little strong, but when people get to know you, they love you for who you really are.\", [11, 14, 25, 34, 36, 42, 43, 56])\n        ];\n        var question = 1;\n        while (document.getElementById(question + \"\" + 1) != null) {\n            var index = 1;\n            while (document.getElementById(question + \"\" + index) != null) {\n                for (var i = 0; i < results.length; i++) {\n                    document.getElementById(question + \"\" + index).className += ' no-hover';\n                    document.getElementById(question + \"\" + index).removeAttribute('onclick');\n                    if (document.getElementById(question + \"\" + index).checked && results[i].answers.includes(parseInt(question + \"\" + index))) {\n                        console.log(\"called\");\n                        results[i].count++;\n                    }\n                }\n                index++;\n            }\n            question++;\n        }\n        results.sort(function(a, b){return b.count-a.count});\n        var maxes = [];\n        var i = 0;\n        while (results[i].count == results[0].count) {\n            maxes.push(results[i]);\n            i++;\n        }\n        var max = maxes[Math.floor(Math.random() * maxes.length)];\n        document.getElementById('title-text').innerHTML = max.title;\n        document.getElementById('desc-text').innerHTML = max.description;\n        document.getElementById('answer-container').removeAttribute('hidden');\n        window.scrollTo(0,document.body.scrollHeight);\n    }\n</script>"
-          ],
-          "_anchor": "custom-html-gn"
         }
       ]
     }
