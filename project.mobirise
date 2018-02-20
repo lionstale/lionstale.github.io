@@ -36,6 +36,8 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112402344-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112402344-1');\r\n</script>\r\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -2296,7 +2298,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4608,7 +4610,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24796630_10155341163966747_151520171172123512_n-1-960x720.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4744,7 +4746,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/elaine-purves-26-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/elaine%20purves%20(26)-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4763,7 +4765,7 @@
           },
           "title": "Interview With the New Head of School",
           "text": "Everything you'd like to know about our new head of school.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -16752,7 +16754,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-6e390179fb4f4faeb725c06fee09c8c9-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_6e390179fb4f4faeb725c06fee09c8c9_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-6e390179fb4f4faeb725c06fee09c8c9-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16832,7 +16834,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-e6da8c669423479596eacc046df75317-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_e6da8c669423479596eacc046df75317_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-e6da8c669423479596eacc046df75317-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16843,7 +16845,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-2279bb9a181f4b8dada40d876b169023-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_2279bb9a181f4b8dada40d876b169023_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-2279bb9a181f4b8dada40d876b169023-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16854,7 +16856,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-6d2f96775a33403f954f47390399244f-mv2-d-4928-3264-s-4-2-815x540.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_6d2f96775a33403f954f47390399244f_mv2_d_4928_3264_s_4-2-815x540.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-6d2f96775a33403f954f47390399244f-mv2-d-4928-3264-s-4-2-815x540-800x530.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16865,7 +16867,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-ba96ff71defe45daaebf3a4639cc16be-mv2-d-5472-3648-s-4-2-867x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_ba96ff71defe45daaebf3a4639cc16be_mv2_d_5472_3648_s_4-2-867x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-ba96ff71defe45daaebf3a4639cc16be-mv2-d-5472-3648-s-4-2-867x578-800x533.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -17237,7 +17239,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/elaine-purves-26-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/elaine%20purves%20(26)-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
