@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page51.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -36,6 +36,8 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112402344-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112402344-1');\r\n</script>\r\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -2296,7 +2298,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "file:///Users/Aimee/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4608,7 +4610,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/24796630-10155341163966747-151520171172123512-n-1-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24796630_10155341163966747_151520171172123512_n-1-960x720.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4744,7 +4746,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/elaine-purves-26-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/elaine%20purves%20(26)-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -16752,7 +16754,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-6e390179fb4f4faeb725c06fee09c8c9-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_6e390179fb4f4faeb725c06fee09c8c9_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-6e390179fb4f4faeb725c06fee09c8c9-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16832,7 +16834,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-e6da8c669423479596eacc046df75317-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_e6da8c669423479596eacc046df75317_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-e6da8c669423479596eacc046df75317-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16843,7 +16845,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-2279bb9a181f4b8dada40d876b169023-mv2-d-4928-3264-s-4-2-873x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_2279bb9a181f4b8dada40d876b169023_mv2_d_4928_3264_s_4-2-873x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-2279bb9a181f4b8dada40d876b169023-mv2-d-4928-3264-s-4-2-873x578-800x529.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16854,7 +16856,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-6d2f96775a33403f954f47390399244f-mv2-d-4928-3264-s-4-2-815x540.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_6d2f96775a33403f954f47390399244f_mv2_d_4928_3264_s_4-2-815x540.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-6d2f96775a33403f954f47390399244f-mv2-d-4928-3264-s-4-2-815x540-800x530.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -16865,7 +16867,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ede7a9-ba96ff71defe45daaebf3a4639cc16be-mv2-d-5472-3648-s-4-2-867x578.png",
+                "image": "@PROJECT_PATH@/assets/images/ede7a9_ba96ff71defe45daaebf3a4639cc16be_mv2_d_5472_3648_s_4-2-867x578.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ede7a9-ba96ff71defe45daaebf3a4639cc16be-mv2-d-5472-3648-s-4-2-867x578-800x533.png",
                 "alt": "",
                 "caption": "Type caption here",
@@ -17237,7 +17239,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/elaine-purves-26-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/elaine%20purves%20(26)-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -17277,7 +17279,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Recently, Ms. Elaine Purves, who will replace Mr. Holliday in the coming school year, visited the school for the second time. She was born in Scotland, but has lived all over the world and visited many countries. Mrs. Purves chose to come work at St. John’s because she enjoyed the “feel of the school” and truly has a passion for international education.&nbsp;</p><p><br></p><p>In high school, Ms. Purves enjoyed all her subjects including math, physics, languages, music, english, and art, which is why she sees the importance in all subjects and values them equally. It is this same appreciation for such a wide range of subjects that allows her to foster the diversity in education that international schools so greatly need.</p><p><br></p><p>Ms. Purves left university with no clear idea of the path she wanted to take. Instead, she explored education as well as other career paths including working for corporations. She volunteered at many schools and eventually found this was what she truly enjoyed, but never planned on working in private education. “Fate” just happened to bring her there through a series of events that led to her job at a public school no longer being viable. Once she had begun working in private education, she continued to get jobs in the same sector, which eventually led her here, to St. John’s. What attracted her was St. John’s’ educational heritage, reputation, the direction it is currently taking, and, most of all, the global outlook which it has. To her, the IB is a wonderful basis for allowing students to have many opportunities to develop. She finds that through the IB and its variety of extracurricular activities, St. John’s is succeeding in sparking interest in the students which will ignite passion as they complete their schooling and go on to lead their lives. She also believes that expanding to a boarding school will bring in different perspectives through more types of students. Her experience at a variety of schools all over Europe and dedication to international education are what will make her a wonderful addition to the St. John’s community.</p><p><br></p><p><b>Now For Some Fun Facts:</b></p><p><b><i>Books or TV?</i></b> Books, as she does not really watch TV.</p><p><b><i>Favorite Book</i></b>: A Room of One’s Own by Virginia Woolf</p><p><b><i>Last Book She Read:</i></b> Cleverlands by Lucy Crehan (it is a book about international education)</p><p><b><i>Favorite Movie: </i></b>Cinema Paradiso</p><p><b><i>Favorite Type of Music:</i></b> Uplifting, such as music from musicals</p><p><b><i>What She Enjoys Outside of School:</i></b> Spending time with her family (including caddying on golf courses as her kids very much enjoy golf), being outdoors, and cooking</p><p><b><i>Pet Peeve:</i></b> Grammar and spelling mistakes, especially in newspapers (hopefully she does not find one in this article)</p><p><b><i>Extracurriculars She Did In High School:</i></b> School orchestra, choir, tuba, violin, pottery, ceramics, photography, and some sports (including field hockey)</p><p><br></p><p><b>Where Does Ms. Purves See St. John’s Going in the Future?</b></p><p>She would not like to say just yet, as she would like to wait until she gets to know the school better, but believes that it has “fantastic potential.” She hopes that St. John’s will continue to be a place where students can pursue all of their interests and become well-rounded people through an abundance of opportunities, as this will help them to cope with all aspects of life. She sees a rosy, positive future where St. John’s reputation will build and grow in the international community of schools that make up Inspired.</p><p><br></p>",
+          "text": "<p>Recently, Elaine Purves, who will replace Mr. Holliday in the coming school year, visited the school for the second time. She was born in Scotland, but has lived all over the world and visited many countries. Mrs. Purves chose to come work at St. John’s because she enjoyed the “feel of the school” and truly has a passion for international education.&nbsp;</p><p><br></p><p>In high school, Ms. Purves enjoyed all her subjects including math, physics, languages, music, english, and art, which is why she sees the importance in all subjects and values them equally. It is this same appreciation for such a wide range of subjects that allows her to foster the diversity in education that international schools so greatly need.</p><p><br></p><p>Ms. Purves left university with no clear idea of the path she wanted to take. Instead, she explored education as well as other career paths including working for corporations. She volunteered at many schools and eventually found this was what she truly enjoyed, but never planned on working in private education. “Fate” just happened to bring her there through a series of events that led to her job at a public school no longer being viable. Once she had begun working in private education, she continued to get jobs in the same sector, which eventually led her here, to St. John’s. What attracted her was St. John’s’ educational heritage, reputation, the direction it is currently taking, and, most of all, the global outlook which it has. To her, the IB is a wonderful basis for allowing students to have many opportunities to develop. She finds that through the IB and its variety of extracurricular activities, St. John’s is succeeding in sparking interest in the students which will ignite passion as they complete their schooling and go on to lead their lives. She also believes that expanding to a boarding school will bring in different perspectives through more types of students. Her experience at a variety of schools all over Europe and dedication to international education are what will make her a wonderful addition to the St. John’s community.</p><p><br></p><p><b>Now For Some Fun Facts:</b></p><p><b><i>Books or TV?</i></b> Books, as she does not really watch TV.</p><p><b><i>Favorite Book</i></b>: A Room of One’s Own by Virginia Woolf</p><p><b><i>Last Book She Read:</i></b> Cleverlands by Lucy Crehan (it is a book about international education)</p><p><b><i>Favorite Movie: </i></b>Cinema Paradiso</p><p><b><i>Favorite Type of Music:</i></b> Uplifting, such as music from musicals</p><p><b><i>What She Enjoys Outside of School:</i></b> Spending time with her family (including caddying on golf courses as her kids very much enjoy golf), being outdoors, and cooking</p><p><b><i>Pet Peeve:</i></b> Grammar and spelling mistakes, especially in newspapers (hopefully she does not find one in this article)</p><p><b><i>Extracurriculars She Did In High School:</i></b> School orchestra, choir, tuba, violin, pottery, ceramics, photography, and some sports (including field hockey)</p><p><br></p><p><b>Where Does Ms. Purves See St. John’s Going in the Future?</b></p><p>She would not like to say just yet, as she would like to wait until she gets to know the school better, but believes that it has “fantastic potential.” She hopes that St. John’s will continue to be a place where students can pursue all of their interests and become well-rounded people through an abundance of opportunities, as this will help them to cope with all aspects of life. She sees a rosy, positive future where St. John’s reputation will build and grow in the international community of schools that make up Inspired.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
