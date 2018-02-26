@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "Miscellaneous",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -678,7 +678,7 @@
             }
           },
           "title": "Unspoken Stresses <br>of the IB",
-          "text": "The stresses nobody tells you about.",
+          "text": "The stresses nobody tells you about.<br><br>By: Ceola Daly",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -16499,7 +16499,7 @@
             }
           },
           "title": "Unspoken Stresses of the IB and How to Handle Them",
-          "text": "The stress no one talks about, <br>but everyone experiences.",
+          "text": "The stress no one talks about, <br>but everyone experiences.<br><br>By: Ceola Daly",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
