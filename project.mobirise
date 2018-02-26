@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page27.html",
+    "currentPage": "Archives",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 611,
+    "uniqCompNum": 615,
     "versionPublish": "4.6.3",
     "favicon": "",
     "noImageResize": "",
@@ -43,7 +43,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 7
       },
       "components": [
         {
@@ -279,7 +279,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 13
+        "order": 10
       },
       "components": [
         {
@@ -515,7 +515,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 12
       },
       "components": [
         {
@@ -660,7 +660,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1451x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -677,9 +677,9 @@
               "size": 250
             }
           },
-          "title": "Reading Suggestions for the Cold Season",
-          "text": "Book recommendations for this Winter.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page36.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Unspoken Stresses <br>of the IB",
+          "text": "The stresses nobody tells you about.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -701,17 +701,17 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1442x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Applying to Canadian Universities",
+                "title": "Reading Suggestions for the Cold Season",
                 "showText": true,
-                "text": "Advice on how to apply to universities in Canada",
+                "text": "Book recommendations for this Winter.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page33.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page36.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -765,7 +765,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 11
+        "order": 8
       },
       "components": [
         {
@@ -1122,7 +1122,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 13
       },
       "components": [
         {
@@ -1899,7 +1899,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 11
       },
       "components": [
         {
@@ -2200,7 +2200,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 17
+        "order": 14
       },
       "components": [
         {
@@ -3262,7 +3262,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 7
+        "order": 2
       },
       "components": [
         {
@@ -3529,7 +3529,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 32
       },
       "components": [
         {
@@ -3775,7 +3775,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 38
       },
       "components": [
         {
@@ -4417,7 +4417,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 12
+        "order": 9
       },
       "components": [
         {
@@ -4716,7 +4716,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -5048,7 +5048,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 35
       },
       "components": [
         {
@@ -5708,7 +5708,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 33
+        "order": 31
       },
       "components": [
         {
@@ -5987,7 +5987,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 8
+        "order": 5
       },
       "components": [
         {
@@ -6137,7 +6137,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 33
       },
       "components": [
         {
@@ -6950,7 +6950,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 36
       },
       "components": [
         {
@@ -7244,7 +7244,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 34
       },
       "components": [
         {
@@ -7477,7 +7477,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 28
       },
       "components": [
         {
@@ -8299,7 +8299,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 23
       },
       "components": [
         {
@@ -8545,7 +8545,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 37
       },
       "components": [
         {
@@ -8810,7 +8810,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Horoscopes",
-        "order": 18
+        "order": 15
       },
       "components": [
         {
@@ -9380,7 +9380,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 19
+        "order": 16
       },
       "components": [
         {
@@ -10035,7 +10035,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 41
       },
       "components": [
         {
@@ -10260,7 +10260,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 30
       },
       "components": [
         {
@@ -10605,7 +10605,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 17
       },
       "components": [
         {
@@ -10944,7 +10944,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 45
+        "order": 43
       },
       "components": [
         {
@@ -11136,7 +11136,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 22
       },
       "components": [
         {
@@ -11328,7 +11328,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 39
       },
       "components": [
         {
@@ -11743,7 +11743,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -11871,7 +11871,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 24
+        "order": 21
       },
       "components": [
         {
@@ -13184,7 +13184,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 25
       },
       "components": [
         {
@@ -13473,7 +13473,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 21
+        "order": 18
       },
       "components": [
         {
@@ -14138,7 +14138,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 29
+        "order": 26
       },
       "components": [
         {
@@ -14417,7 +14417,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 23
+        "order": 20
       },
       "components": [
         {
@@ -14642,7 +14642,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -14835,7 +14835,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 30
+        "order": 27
       },
       "components": [
         {
@@ -15159,7 +15159,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 47
+        "order": 46
       },
       "components": [
         {
@@ -15355,7 +15355,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 9
+        "order": 6
       },
       "components": [
         {
@@ -15631,7 +15631,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 46
+        "order": 45
       },
       "components": [
         {
@@ -15827,7 +15827,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 27
+        "order": 24
       },
       "components": [
         {
@@ -15960,7 +15960,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 22
+        "order": 19
       },
       "components": [
         {
@@ -16338,7 +16338,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 44
+        "order": 42
       },
       "components": [
         {
@@ -16569,7 +16569,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 42
+        "order": 40
       },
       "components": [
         {
@@ -16900,7 +16900,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 4
+        "order": 47
       },
       "components": [
         {
@@ -17096,7 +17096,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 2
+        "order": 29
       },
       "components": [
         {
@@ -17290,7 +17290,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 1
+        "order": 44
       },
       "components": [
         {
@@ -17389,6 +17389,58 @@
           "_anchor": "menu-gv"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We have all surely been asked, at least once before, the question: “So, what about your future?”. It often comes either from curious relatives and friends, teachers, or maybe even completely random people we meet. Let’s face it, everyone is curious about that, it is something everyone asks. And, most of the time, when faced with this very direct and somehow rhetorical question, no matter what the intentions or the actual level of concern behind it may be, we pause, take a deep breath and think of what we may answer. We can say something like “Well, I don’t really know yet” or “Haven’t really thought of it much” or rather something like “Well, I have to enter Uni first and then will figure out the rest.” The idea is, not all of us know yet. The thought of it seems quite scary, it is something we haven’t really considered much before because we were too busy getting through high school. Too busy with the present. We don’t yet know what our life will look like in five, ten or fifteen years and there is a reason for that.</p><p><br></p><p>Of course, the future is something we all think of sometimes. Some of us may know already what our path is and that is great. However, most of us are stuck in a kind of periodical contemplation, as we try to imagine ourselves doing different things in life, based on our current interests and hobbies. I have been once told that, in order to find my path in life, I need to go for what I actually see myself doing now. But that is quite hard to think of, really. One month we may be sure our path is medicine, while the next month it all changes and we want to do something else. We “see” ourselves doing a whole lot of different things, but how can we know what is one meant for us, our path? What are we really supposed to be doing, what is it that would make us happy? And, since it’s approaching fast, what should we study in university that will best fit our interest? Or what will life after high school be like?</p><p><br></p><p>This is the age when we wonder a lot about what our path may be and we try to find our purpose through new experiences. We start looking more at others and wonder how they figured it all out, whether they’re parents, older siblings or simply people we look up to. It is a time of growing, maybe a bit too fast, and that can be very confusing. As years pass, this confusion grows stronger and we miss those careless, sunny childhood days when such thoughts were still far away. One day, though, this confusion will disappear and you will have found your path.</p><p><br></p><p>The idea of a job is both scary and exciting. The idea of building our own lives, being independent and working for what we want sounds great. However, as we look closer into it and try to think of what we can do that would actually suit all our capabilities, it gets tricky. Especially nowadays, when finding the ideal job is far from easy and the competition never diminishes. However, we know there must be something out there for us. And in order to find it, we must look for the thing that brings us happiness and satisfaction and would continue doing so for many years.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-gz"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>“If I have one piece of advice to give you all about what to search for in your quest for What Next, it's to find where the line blurs between hard work and happiness for you. To find that thing where working hard at it makes you happy, and where you're happy to work hard at it.”&nbsp;</blockquote><blockquote>― Tom Fletcher</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h0"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We shouldn’t rush into it. The best way to go through this is just never losing hope and knowing that we will find it all: that university, that job, everything. Whenever asked that ever-occuring “What do you plan to do in the future?” question, in case you do not know the answer already, just know that it’s okay. Keep your options open, always. Do not settle and do not let yourself be brought down. Look for what makes you happy and fulfilled, and not for what others expect you to do. One day, you will have figured it all out. For now, just enjoy what the present has to offer, and let the future be something you build without any fears or worries, but rather with your own efforts, dreams and hopes. And yes, any dream can be made possible.</p><p><br></p><p>Before going to explore what is out there, make sure you know what lies within yourself well enough first!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-h1"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>“You don't have to know where you're going to get exactly where you need to go.”&nbsp;</blockquote><blockquote>― Marilyn A. Hepburn</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h2"
+        },
+        {
           "_name": "footer1",
           "_params": {
             "paddingTop": 2,
@@ -17409,7 +17461,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 1,
@@ -17451,7 +17503,7 @@
             }
           },
           "title": "\"And What About the Future...\"",
-          "text": "Media block with animated text background. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ducimus reiciendis quaerat architecto. Molestias enim sequi, et alias ipsam voluptate!",
+          "text": "By: Ilinca Maria-Manda",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
