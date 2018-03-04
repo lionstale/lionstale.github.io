@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "page55.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -18110,7 +18110,7 @@
     },
     "page55.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
         "order": 27
       },
