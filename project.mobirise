@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page27.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -8937,7 +8937,7 @@
     },
     "page27.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
         "order": 17
       },
