@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page55.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -660,7 +660,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -677,9 +677,9 @@
               "size": 250
             }
           },
-          "title": "Unspoken Stresses <br>of the IB",
-          "text": "The stresses nobody tells you about.<br><br>By: Ceola Daly",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "And What About <br>the Future?",
+          "text": "An article on finding your way<br><br>By: Ilinca Maria-Manda",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -700,7 +700,7 @@
             "paddingBottom": 4,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -728,18 +728,18 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page24.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/uk-1170x600.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1438x1080.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Applying to the United Kingdom",
+                "title": "Unspoken Stresses of the IB",
                 "showText": true,
-                "text": "Advice on how to apply to universities in the U.K. ",
+                "text": "An article on the stresses of the IB that no one talks about and how to handle them ",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -4891,7 +4891,7 @@
             }
           },
           "title": "Interview With the New Head of School",
-          "text": "Everything you'd like to know about our new head of school.",
+          "text": "Everything you'd like to know about our new head of school.<br><br>Written By: Aimee Dastin-van Rijn",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -5063,7 +5063,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x797.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5072,13 +5072,13 @@
               "title": ""
             }
           },
-          "title1": "Reading Suggestions for the Cold Season",
-          "subtitle1": "Written By: Ilinca Maria Manda",
-          "caption1": "Book recommendations for this Winter.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Christianity and the LGBTQ+ Community",
+          "subtitle1": "Written By: Miriam Laanemäe",
+          "caption1": "How the two relate and how to retain your faith while being <br>open-minded.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page55.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/opening-810x540-800x533.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5087,13 +5087,13 @@
               "title": ""
             }
           },
-          "title2": "THIMUN",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "The Hague International Model United Nations: An Incredible Experience<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page49.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "And What About <br>the Future?",
+          "subtitle2": "Written By: Ilinca Maria-Manda",
+          "caption2": "An article on finding your way<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"page52.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc00119-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x801.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5102,10 +5102,10 @@
               "title": ""
             }
           },
-          "title3": "Obverse Art Show",
-          "subtitle3": "Written By: Aimee Dastin-van Rijn",
-          "caption3": "An article about the Obverse Art Show and the artists' inspiration.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page47.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "The Unspoken Stresses <br>of the IB",
+          "subtitle3": "Written By: Ceola Daly",
+          "caption3": "An article on the stresses of the IB that no one talks about and how to handle them<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-600x311.png",
@@ -9085,7 +9085,7 @@
             "overlayColor": "#91bdae",
             "overlayOpacity": "1"
           },
-          "title": "What Superhero Are You Based On Your Star Sign?",
+          "title": "What Color is Your <br>Star Sign's Aura?",
           "text": "<p>These horoscopes are a group effort.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -9205,16 +9205,16 @@
           },
           "title1": "Capricorn <br>(December 22nd - January 19th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Antman<br>",
+          "caption1": "Pastel Blue<br>",
           "title2": "Aquarius<br>(January 20th - February 18th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Captain America",
+          "caption2": "Torquoise",
           "title3": "Pisces<br>(February 19th - March 20th)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Spiderman",
+          "caption3": "Green",
           "title4": "Aries<br>(March 21st - April 19th)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Aquaman<br>",
+          "caption4": "Red<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9335,16 +9335,16 @@
           },
           "title1": "Taurus<br>(April 20th - May 20th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Superman<br>",
+          "caption1": "Pink<br>",
           "title2": "Gemini<br>(May 21st - June 20th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Iron Man<br>",
+          "caption2": "Yellow<br>",
           "title3": "Cancer<br>(June 21st - July 22nd)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Black Widow",
+          "caption3": "Neon Pink",
           "title4": "Leo<br>(July 23rd - August 22nd)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Wonderwoman<br>",
+          "caption4": "Orange<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9465,16 +9465,16 @@
           },
           "title1": "Virgo<br>(August 23rd - September 22nd)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Hawkeye<br>",
+          "caption1": "Navy Blue<br>",
           "title2": "Libra<br>(September 23rd - October 22nd)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Robin<br>",
+          "caption2": "Purple<br>",
           "title3": "Scorpio<br>(October 23rd - November 21st)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Batman<br>",
+          "caption3": "Teal<br>",
           "title4": "Sagittarius<br>(November 22nd - December 21st)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The Hulk",
+          "caption4": "White",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -17426,7 +17426,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
@@ -18276,7 +18276,7 @@
             }
           },
           "title": "Christianity and the LGBTQ+ Community",
-          "text": "How the two relate and how to retain <br>your faith while being open-minded.",
+          "text": "How the two relate and how to retain <br>your faith while being open-minded.<br><br>Written By:&nbsp;Miriam Laanemäe",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
