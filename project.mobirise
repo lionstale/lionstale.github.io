@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page56.html",
+    "currentPage": "Archives",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
+        "#2e2e2e",
+        "#100c0c",
         "#f40a59",
         "#0af4bf",
         "#bd1cfa",
-        "#00ffa4",
-        "#0e2d22",
-        "#f75d00",
-        "#ec1c43"
+        "#00ffa4"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 654,
+    "uniqCompNum": 689,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -661,7 +661,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -678,9 +678,9 @@
               "size": 250
             }
           },
-          "title": "And What About <br>the Future?",
-          "text": "An article on finding your way<br><br>By: Ilinca Maria-Manda",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Reading Suggestions for the Spring and Summer Season",
+          "text": "A great list of books to read this spring and summer!<br><br>By: Ilinca Maria-Manda",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page56.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -701,18 +701,18 @@
             "paddingBottom": 4,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-18-1620x1080.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Reading Suggestions for the Cold Season",
+                "title": "And What About the Future?",
                 "showText": true,
-                "text": "Book recommendations for this Winter.",
+                "text": "An article on finding your way",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page36.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -729,7 +729,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page24.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1438x1080.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -744,17 +744,17 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1200x761.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-17-1620x1080.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Applying to US Universities",
+                "title": "An Interview With the <br>New Head of School",
                 "showText": true,
-                "text": "Advice on how to apply to universities in the US",
+                "text": "Everything you'd like to know about our new head of school.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -2297,14 +2297,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-8267-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media5": {
@@ -2332,9 +2331,9 @@
           "title3": "Reading Suggestions for the Spring and Summer Season",
           "subtitle3": "Written By: Ilinca Maria-Manda",
           "caption3": "A great list of books to read this spring and summer season!",
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :)",
+          "title4": "Fashion Shoot",
+          "subtitle4": "Written By: Aimee Dastin-van Rijn",
+          "caption4": "St. John's First Student-Designed Fashion Shoot",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2344,7 +2343,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page55.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page52.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page56.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page59.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -3658,7 +3657,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -3904,7 +3903,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -4690,7 +4689,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc00119-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-8267-1400x931.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4707,9 +4706,9 @@
               "size": 250
             }
           },
-          "title": "Obverse Art Show",
-          "text": "An article about the Obverse Art Show and the artists' inspiration.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "St. John's <br>Fashion Shoot",
+          "text": "St. John's First Student-Designed Fashion Shoot",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page59.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_anchor": "header2-2z"
         },
         {
@@ -4748,7 +4747,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/byebyebirdie-1400x818.jpg",
+              "src": "@PROJECT_PATH@/assets/images/art-show-1-400x300.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4759,7 +4758,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture1-600x471.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4798,9 +4797,9 @@
           "title1": "Winter Art Vernissage",
           "subtitle1": "Written By: Aimee Dastin-van Rijn",
           "caption1": "An article about the Winter Art Vernissage, <br>reactions to it, and inspiration for the artists.",
-          "title2": "Bye Bye Birdie",
+          "title2": "Obverse Art Show",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "This article gives an overview of the plot and characters of this year's musical.",
+          "caption2": "An article about the Obverse Art Show and the artists' inspiration.",
           "title3": "\"Ship of Fools\" Exhibition",
           "subtitle3": "Written By: Anna Hilton-Ibold",
           "caption3": "An article about the featured artist, Leon De Bliquy, at the school's very own Greene Gallery.",
@@ -4814,7 +4813,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page21.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page47.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page32.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page28.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4873,7 +4872,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-8267-1400x931.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4890,9 +4889,9 @@
               "size": 250
             }
           },
-          "title": "Book Recommendations <br>for the Warm&nbsp;Seasons",
-          "text": "A great list of books to read this spring and summer!<br><br>Written By: Ilinca Maria-Manda",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page56.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "St. John's Fashion Shoot",
+          "text": "St. John's First Student-Designed Fashion Shoot<br><br>Written By: Aimee Dastin-van Rijn",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page59.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -5177,7 +5176,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -5837,7 +5836,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -6266,7 +6265,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -6887,7 +6886,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 55
+        "order": 57
       },
       "components": [
         {
@@ -7079,7 +7078,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -7373,7 +7372,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -7606,7 +7605,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -7962,7 +7961,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 53
+        "order": 55
       },
       "components": [
         {
@@ -8154,7 +8153,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 54
+        "order": 56
       },
       "components": [
         {
@@ -8674,7 +8673,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -9085,7 +9084,7 @@
             "overlayColor": "#91bdae",
             "overlayOpacity": "1"
           },
-          "title": "What Color is Your <br>Star Sign's Aura?",
+          "title": "Where Should Your Star <br>Sign Travel Next?",
           "text": "<p>These horoscopes are a group effort.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -9205,16 +9204,16 @@
           },
           "title1": "Capricorn <br>(December 22nd - January 19th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Pastel Blue<br>",
+          "caption1": "Stockholm<br>",
           "title2": "Aquarius<br>(January 20th - February 18th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Torquoise",
+          "caption2": "Budapest",
           "title3": "Pisces<br>(February 19th - March 20th)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Green",
+          "caption3": "Bora Bora",
           "title4": "Aries<br>(March 21st - April 19th)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Red<br>",
+          "caption4": "Amsterdam<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9335,16 +9334,16 @@
           },
           "title1": "Taurus<br>(April 20th - May 20th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Pink<br>",
+          "caption1": "Brussels (sorry)<br>",
           "title2": "Gemini<br>(May 21st - June 20th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Yellow<br>",
+          "caption2": "Vienna<br>",
           "title3": "Cancer<br>(June 21st - July 22nd)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Neon Pink",
+          "caption3": "Moscow ",
           "title4": "Leo<br>(July 23rd - August 22nd)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Orange<br>",
+          "caption4": "Miami<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9465,16 +9464,16 @@
           },
           "title1": "Virgo<br>(August 23rd - September 22nd)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Navy Blue<br>",
+          "caption1": "Milan<br>",
           "title2": "Libra<br>(September 23rd - October 22nd)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Purple<br>",
+          "caption2": "New York<br>",
           "title3": "Scorpio<br>(October 23rd - November 21st)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Teal<br>",
+          "caption3": "London<br>",
           "title4": "Sagittarius<br>(November 22nd - December 21st)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "White",
+          "caption4": "Venice",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -10164,7 +10163,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -10389,7 +10388,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -11073,7 +11072,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -11457,7 +11456,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -15287,7 +15286,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 51
+        "order": 53
       },
       "components": [
         {
@@ -15540,6 +15539,58 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#91bdae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x932.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Which IB Subject Were You Destined<br>to Take?",
+          "text": "Where Should Your Destiny Be Taking You?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page58.html\" data-toolbar=\"-mbrBtnMove\">Take the Quiz</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
@@ -15758,7 +15809,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -16464,7 +16515,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -16695,7 +16746,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -17026,7 +17077,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 52
+        "order": 54
       },
       "components": [
         {
@@ -17222,7 +17273,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -17416,7 +17467,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -19503,7 +19554,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -19694,6 +19745,936 @@
           ],
           "_name": "content1",
           "_anchor": "content1-i4"
+        }
+      ]
+    },
+    "page59.html": {
+      "settings": {
+        "meta_descr": "St. John's First Student-Designed Fashion Shoot\n",
+        "title": "Fashion Show",
+        "order": 32
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-7640-2000x1330.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#100c0c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "St. John's Fashion Shoot",
+          "text": "We all know that St. John's has many talented artists, but our fashion designers have yet to be discovered. Here is the result of St. John's first <br>student-designed fashion shoot.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#41a85f"
+            }
+          },
+          "_anchor": "header1-iq"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "1"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/marie-1400x2106.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Marie Wuyts",
+          "text": "Marie began wishing to pursue fashion at the age of 5 or 6. She used to design clothing for her Barbies, a small step towards the amazing clothes she is now designing. She continued on this path, making bags out of outgrown pairs of pants. Later in childhood, Marie decided she would like to be a neurosurgeon, which lasted for a few years, but, about a year ago, her passion for fashion resurfaced.<br><br>Marie’s goal for her fashion career would be to be like Yves Saint Laurent, who started from nothing, was later hired by Dior, and ended up founding his own fashion company. As a little kid, Marie was amazed when she saw her mother’s bags designed by him and visited the museum in Paris featuring his work, further inspiring her. She is pursuing her goal of founding her own fashion company through currently studying IB Business.&nbsp;<br><br>Marie’s process is not like every other fashion designer. Just like her young self, Marie’s clothes are made out of other clothing that is no longer being worn. She asks others if they have any clothes they are no longer using and searches vintage clothing stores for cheap clothing which suits what she needs. Once she finds these, she unstitches them and begins to create something new. \n<br>\n<br>Whenever Marie gets an idea, she draws it, but it never turns out how she originally planned. Through the process, she feels how it is going while actually making it and does whatever feels right in the moment. From Barbies to models, Marie had begun her journey towards changing the world of fashion, so, in ten years we should all be searching the racks for the latest Marie Wuyts design. &nbsp;<br> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-is"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "6",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7913-2000x3008.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7913-2000x3008-800x1203.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8356-2000x1974.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8356-2000x1974-800x790.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8267-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8267-2000x1330-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-ic"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-7640-1400x931.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-id"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8113-2000x3008.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8113-2000x3008-800x1203.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8149-2000x3923.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8149-2000x3923-800x1569.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8218-2000x4249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8218-2000x4249-800x1700.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-if"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-7656-1400x2863.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-ig"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8218-2000x4249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8218-2000x4249-800x1700.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8257-2000x3008.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8257-2000x3008-800x1203.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-ih"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "1"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-8225-1400x2106.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Manya Anand",
+          "text": "Since the age of 5, when she loved poufy dresses and shopping, Manya has wanted to be a fashion designer. She used to walk through the racks of clothing with an amazed appreciation, dreaming of the days when she could create her own designs. As she grew up, she drew many designs, but never actually made them come to life by making them out of real fabric. Here at St. John’s, she and a friend, Helen Sietses, began going to stores and looking online for the type of clothing they wanted to create. They found that spring colors, bright and floral, were the look they wanted to go for. \n<br>\n<br>Manya would design the clothing and then both she and Helen would begin to sew by hand. After that, they would finish off the outfits using Helen’s sewing machines. They made four dresses, two of which were casual and two for going out.\n<br>\n<br>Manya highly encourages more people to participate in the fashion show next year for this amazing experience.&nbsp;<br> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-iu"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8505-2000x4060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8505-2000x4060-800x1624.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8552-2000x4349.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8552-2000x4349-800x1740.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-iv"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-8568-1400x2917.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-ik"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#2e2e2e",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8565-2000x3008.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8565-2000x3008-800x1203.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8576-2000x4123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8576-2000x4123-800x1649.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-il"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "",
+          "meta": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Article Written and Designed by Aimee Dastin-van Rijn</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-in"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "title": "Featured Models",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-iy"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p>Allegra Nicoletti</p><p>Maja Glavlin</p>",
+          "text2": "<p>Anna Hilton Ibold</p><p>Grace Read</p>",
+          "text3": "<p>Valentine Wuyts</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-iw",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-io"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-ip"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>Next year, in the new visual art building, there will be a textile room where more students can create amazing </p><p>fashion like this. We can't wait to see what new up and coming designers next year will bring!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-iz",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-ir",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2e2e2e"
+            }
+          }
+        }
+      ]
+    },
+    "page58.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "What IB Subject Were You Destined to Take?",
+        "order": 52
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-j0"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-j1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Which IB Subject Were You Destined<br>to Take?",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-j2"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n\n{JS_CODE_2}\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">How Would You Like to Be Described?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"11\" onclick=\"check(this.id);\">\n                    <label for=\"11\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Caring</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"12\" onclick=\"check(this.id);\">\n                    <label for=\"12\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Sassy</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"13\" onclick=\"check(this.id);\">\n                    <label for=\"13\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Determined</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"14\" onclick=\"check(this.id);\">\n                    <label for=\"14\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Funny</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"15\" onclick=\"check(this.id);\">\n                    <label for=\"15\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Smart</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"16\" onclick=\"check(this.id);\">\n                    <label for=\"16\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Reliable</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">What's Your Favorite Hobby?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"21\" onclick=\"check(this.id);\">\n                    <label for=\"21\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Learning Random Facts</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"22\" onclick=\"check(this.id);\">\n                    <label for=\"22\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Exercise</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"23\" onclick=\"check(this.id);\">\n                    <label for=\"23\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Cooking</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"24\" onclick=\"check(this.id);\">\n                    <label for=\"24\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Something Artistic</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"25\" onclick=\"check(this.id);\">\n                    <label for=\"25\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Doing Puzzles</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"26\" onclick=\"check(this.id);\">\n                    <label for=\"26\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Reading</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Which Looks Best?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"31\" onclick=\"check(this.id);\">\n                    <label for=\"31\">\n                    <img class=\"image-answer\" src=\"https://www.rd.com/wp-content/uploads/2017/07/01-Foods-Queen-Elizabeth-II-Would-Never-Ever-Eat-shutterstock_580936888-1024x683.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"32\" onclick=\"check(this.id);\">\n                    <label for=\"32\">\n                    <img class=\"image-answer\" src=\"https://www.rd.com/wp-content/uploads/2018/01/09_Fast_Foods-You-Should-Never-Eat-if-You-Want-to-Live-a-Long-Life_583485004_Nitr-760x506.jpg\"></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"33\" onclick=\"check(this.id);\">\n                    <label for=\"33\">\n                    <img class=\"image-answer\" src=\"https://del.h-cdn.co/assets/16/32/980x490/landscape-1470763907-jack-box-tacos.jpg\"></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"34\" onclick=\"check(this.id);\">\n                    <label for=\"34\">\n                    <img class=\"image-answer\" src=\"http://pezeshkin.ir/wp-content/uploads/2017/06/iran-watermelon.jpg\"></label></div></th>\n            </tr>\n            <tr>\n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"35\" onclick=\"check(this.id);\">\n                    <label for=\"35\">\n                    <img class=\"image-answer\" src=\"https://www.shape.com/sites/shape.com/files/styles/story_detail/public/story/macaroons_0.jpg?itok=vg0gE31s\"></label></div></th>   \n             <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"36\" onclick=\"check(this.id);\">\n                    <label for=\"36\">\n                    <img class=\"image-answer\" src=\"http://d2gxybgqxxp09o.cloudfront.net/wp-content/uploads/2015/09/pancakes.jpg\"></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">Where Are You Happiest?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"41\" onclick=\"check(this.id);\">\n                    <label for=\"41\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Beach</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"42\" onclick=\"check(this.id);\">\n                    <label for=\"42\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">City</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"43\" onclick=\"check(this.id);\">\n                    <label for=\"43\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Your Bed</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"44\" onclick=\"check(this.id);\">\n                    <label for=\"44\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Forest</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"45\" onclick=\"check(this.id);\">\n                    <label for=\"45\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Pool</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"46\" onclick=\"check(this.id);\">\n                    <label for=\"46\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">At a Mall</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div class=\"header-container\">\n    <h1 class=\"header-text\">How Do You Spend a Friday Night?</h1>\n</div>\n\n<form>\n<div class=\"picture-question-container\">\n    <table style=\"width: 40%\">\n        <tbody>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"51\" onclick=\"check(this.id);\">\n                    <label for=\"51\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">With Your Family</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"52\" onclick=\"check(this.id);\">\n                    <label for=\"52\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Out With Friends</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"53\" onclick=\"check(this.id);\">\n                    <label for=\"53\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Starting Your Homework</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"54\" onclick=\"check(this.id);\">\n                    <label for=\"54\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Watching a Movie</h1></div></label></div></th>\n            </tr>\n            <tr>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"55\" onclick=\"check(this.id);\">\n                    <label for=\"55\">\n                        <div class=\"text-container\"><h1 class=\"text-answer\">Sleeping</h1></div></label></div></th>\n                <th><div class=\"picture-container\">\n                    <input type=\"checkbox\" class=\"image-checkbox\" id=\"56\" onclick=\"check(this.id);\">\n                    <label for=\"56\">\n                    <div class=\"text-container\"><h1 class=\"text-answer\">Doing Something Creative</h1></div></label></div></th>\n            </tr>\n    </tbody>\n    </table>\n</div>\n</form>\n\n<div id=\"answer-container\" hidden=\"\">\n    <div id=\"result-container\">\n        <h1 id=\"title-text\"></h1>\n        <h5 id=\"desc-text\"></h5>\n    </div>\n</div>",
+          "_customCSS": ".header-container {\n    background-color: #174034; \n    height: 30vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.header-text {\n  color: white; \n    font-weight: bold;\n    font-size: 400%;\n    width: 50%;\n    text-align: center;\n}\n\n#answer-container {\n    background-color: #174034; \n    height: 50vh;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n#result-container {\n    margin: auto; \n    width: 50%;\n}\n\n#title-text {\n  color: white; \n    font-weight: bold\n}\n\n#desc-text {\n  color: white; \n}\n\n.text-question-container {\n  height: auto;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.text-answer {\n    color: white;\n    font-weight: bold;\n    text-align: center;\n  -moz-transition: all 0.3s;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n.text-container {\n  width: 100%;\n  height: 100%;\n  background-color: #174034;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.image-checkbox {\n    display: none;\n}\n\n.image-checkbox + label {\n    display: block;\n    position: relative;\n    width: 100%;\n    height: 100%;\n    opacity: 1;\n    cursor: pointer;\n}\n\n.picture-question-container {\n    padding: 10vh 0 10vh 0;\n  height: auto;\n  background-color: #91bdae;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.picture-container {\n    width: 20vw;\n    height: 25vh;\n    margin: .5vw .5vw;\n    overflow: hidden;\n    background: white;\n}\n\n.image-answer {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n}\n\n.image-checkbox:checked + label:hover {\n    -moz-transition: ease 0.3s ;\n  -webkit-transition: ease 0.3s;\n  transition: ease 0.3s;\n}\n\n.image-checkbox:not(:checked):not(.no-hover) + label:hover {\n  -moz-transform: scale(1.1);\n  -webkit-transform: scale(1.1);\n  transform: scale(1.1);\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"assets/web/assets/jquery/jquery.min.js\"></script>",
+            "<script>\n    function check(id) {\n        document.getElementById(id).checked = true;\n        document.getElementById(id).nextElementSibling.style.opacity = 1;\n        var i = 1;\n        while (document.getElementById(Math.floor(id/10) + \"\" + i) != null) {\n            if (i != id % 10) {\n                document.getElementById(Math.floor(id/10) + \"\" + i).checked = false;\n                document.getElementById(Math.floor(id/10) + \"\" + i).nextElementSibling.style.opacity = 0.7;\n        \t}\n            i++;\n        }\n        var question = 1;\n        var allAnswered = true;\n        while (document.getElementById(question + \"\" + 1) != null && allAnswered) {\n            var index = 1;\n            var checked = false;\n            while (document.getElementById(question + \"\" + index) != null) {\n                checked = checked || document.getElementById(question + \"\" + index).checked;\n                index++;\n            }\n            allAnswered = allAnswered && checked;\n            question++;\n        }\n        if (allAnswered) {\n            complete();\n        }\n    }\n</script>",
+            "<script>\n    function Result(title, description, answers) {\n        this.title = title;\n        this.description = description;\n        this.count = 0;\n        this.answers = answers;\n    }\n    \n    function complete() {\n        var results = [\n            new Result(\"Philosophy\", \"You were destined to spend your time in the IB contemplating who we are, the choices we make, and probably why most philosophers were obsessed with sexual intercourse. If you're not taking this class, you're not living your best possible life.\", [11, 14, 21, 26, 32, 34, 43, 44, 51, 54]),\n            new Result(\"Chemistry\", \"You were destined to spend your time in the IB understanding the small particles that make up our Earth, the forces that move the world, and probably how to successfully cover up a murder using chemicals. If you're not taking this class, you're not living your best possible life.\", [15, 16, 23, 25, 31, 34, 45, 46, 51, 53]),\n            new Result(\"Math Higher Level\", \"Whether or not you think you are good at math, you were destined to venture where few dare to go: into the dark realm that is the world of higher level math. Derivatives and binomial expressions are for you. If you're not taking this class, you're not living your best possible life.\", [13, 16, 21, 22, 35, 36, 44, 45, 46, 53]),\n            new Result(\"English Literature\", \"It's true, you often hear that Language and Literature is the best because you get to watch movies, but you were destined for the magical world of poetry, novels, and other great works of literature. Edgar Allen Poe would be proud. If you're not taking this class, you're not living your best possible life.\", [11, 13, 21, 26, 34, 36, 41, 46, 51, 53]),\n            new Result(\"Theater\", \"You were destined to be in Theater, learning about the great practitioners such as Boal and how to get someone off a bench without touching them in every possible way. If you have a hard time concentrating all day, Theater is where you were destined to find your calm. If you're not taking this class, you're not living your best possible life.\", [12, 14, 22, 24, 35, 44, 45, 46, 52, 54]),\n            new Result(\"Spanish AB\", \"Yes, you read that right. You were destined to be in beginner Spanish. Are you a fluent Spanish speaker? Do you speak no spanish? Is tortilla espagnola and patatas bravas as far as your knowledge of this language goes? No matter which of these applies to you, this was the class you were meant for. If you're not taking this class, you're not living your best possible life.\", [12, 15, 22, 25, 31, 33, 41, 42, 52, 56]),\n            new Result(\"Economics\", \"You may have heard that Econ is a hard class, but you were meant to be understanding how economies change and the opportunity cost of taking this quiz. Note: People who take this quiz more than once will not experience diminishing marginal utility - that's a joke you'll only get if you're fulfilling your destiny by being in Econ. If you're not taking this class, you're not living your best possible life.\", [13, 15, 16, 23, 33, 35, 42, 45, 51, 53]),\n            new Result(\"Physics\", \"Though often overlooked, Physics is an important science. You should understand why throwing your textbook across the room will inevitably end up with it on the floor: gravity. You should be learning more fun facts like this once you fulfill your destiny. If you're not taking this class, you're not living your best possible life.\", [13, 15, 16, 22, 25, 34, 42, 43, 53, 54]),\n            new Result(\"Art\", \"You may not think you have much artistic talent, but that is where you are wrong. You have much talent, it just remains undiscovered. Ever wanted to spend hours drawing a bowl of fruit? It's what you were meant to do. If you're not taking this class, you're not living your best possible life.\", [11, 14, 23, 24, 31, 35, 41, 44, 54, 56]),\n            new Result(\"German\", \"It doesn't matter what level you take, but you were destined to take IB German. You were meant to learn to say words like verfremdungseffekt and schmetterling. If you're not taking this class, you're not living your best possible life.\", [12, 14, 22, 26, 32, 36, 42, 43, 55, 56])\n        ];\n        var question = 1;\n        while (document.getElementById(question + \"\" + 1) != null) {\n            var index = 1;\n            while (document.getElementById(question + \"\" + index) != null) {\n                for (var i = 0; i < results.length; i++) {\n                    document.getElementById(question + \"\" + index).className += ' no-hover';\n                    document.getElementById(question + \"\" + index).removeAttribute('onclick');\n                    if (document.getElementById(question + \"\" + index).checked && results[i].answers.includes(parseInt(question + \"\" + index))) {\n                        console.log(\"called\");\n                        results[i].count++;\n                    }\n                }\n                index++;\n            }\n            question++;\n        }\n        results.sort(function(a, b){return b.count-a.count});\n        var maxes = [];\n        var i = 0;\n        while (results[i].count == results[0].count) {\n            maxes.push(results[i]);\n            i++;\n        }\n        var max = maxes[Math.floor(Math.random() * maxes.length)];\n        document.getElementById('title-text').innerHTML = max.title;\n        document.getElementById('desc-text').innerHTML = max.description;\n        document.getElementById('answer-container').removeAttribute('hidden');\n        window.scrollTo(0,document.body.scrollHeight);\n    }\n</script>"
+          ],
+          "_anchor": "custom-html-j3"
         }
       ]
     }
