@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About",
+    "currentPage": "page59.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -19916,30 +19916,6 @@
           "_anchor": "gallery4-ic"
         },
         {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-7640-1400x931.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-id"
-        },
-        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": false,
@@ -20005,7 +19981,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-7656-1400x2863.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-7640-1400x931.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -20020,7 +19996,7 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-ig"
+          "_anchor": "image1-id"
         },
         {
           "_inherit": "gallery1",
