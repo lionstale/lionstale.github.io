@@ -5936,3 +5936,92 @@ h6,
 #menu-jv .close-icon::after {
   background-color: #ffffff;
 }
+#menu-kj .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-kj .navbar-caption {
+  color: #ffffff;
+}
+#menu-kj .navbar-toggler {
+  color: #ffffff;
+}
+#menu-kj .link,
+#menu-kj .dropdown-item {
+  color: #ffffff;
+}
+#menu-kj .link {
+  font-size: 0.75rem;
+}
+#menu-kj .dropdown-item,
+#menu-kj .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-kj .link:hover,
+#menu-kj .dropdown-item:hover,
+#menu-kj .link:focus,
+#menu-kj .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-kj .link[aria-expanded="true"],
+#menu-kj .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-kj .nav-dropdown-sm .link:focus,
+#menu-kj .nav-dropdown-sm .link:hover,
+#menu-kj .nav-dropdown-sm .dropdown-item:focus,
+#menu-kj .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-kj .navbar,
+#menu-kj .nav-dropdown-sm,
+#menu-kj .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-kj .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-kj .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-kj .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-kj .bg-color.transparent.opened .link:hover,
+#menu-kj .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-kj .link[aria-expanded="true"],
+#menu-kj .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-kj.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-kj .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-kj .close-icon::before,
+#menu-kj .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-kj .link:hover,
+#menu-kj .link:focus {
+  color: #91bdae;
+}
+#menu-kj .dropdown-item:hover::before,
+#menu-kj .dropdown-item:focus::before {
+  background: #91bdae;
+}
+#menu-kj .dropdown-item:hover,
+#menu-kj .dropdown-item:focus {
+  color: #ffffff;
+}
+#msg-box8-kl .mbr-section-title,
+#msg-box8-kl p {
+  color: #fff;
+}
+#msg-box8-kl .lead P {
+  color: #ffffff;
+}
+#msg-box8-kl .mbr-section-title {
+  color: #ffffff;
+}
