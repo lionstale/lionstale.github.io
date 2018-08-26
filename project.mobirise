@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "page62.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 707,
+    "uniqCompNum": 735,
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1124,7 +1124,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -1345,7 +1345,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17795752-1803266223333691-2774230574149882408-n-960x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/23472988-1916582168590708-8497006839715032733-n-960x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1362,119 +1362,14 @@
               "size": 0
             }
           },
-          "title": "Andreea Samareanu",
-          "text": "Andreea is a creator for the paper, as well as the head of the Arts Section.<br><br>Articles Written:<br>- Daydream Nation: A Photo Series",
+          "title": "Ilinca Maria-Manda",
+          "text": "Ilinca is a writer for the paper and head of the Opinion Section for The Lion's Tale.<br><br>Articles Written:<br>- St. John's for a Newcomer<br>- Reading Suggestions for the Cold Season<br>- And What About the Future?<br>- Reading Suggestions for the Summer Season<br>- University Choice - A Leap of Faith<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-ag"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "20",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21034899-1212070702230938-1967859116-o-1000x1334.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Eva Morris",
-          "text": "Eva is a writer for the paper, as well as the head of the Opinion Section.<br><br>Articles Written:<br>- Living the Dream?<br>- Time to Grow Up Mr. Kim Jong Un",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-55"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "20",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/21740801-1973311009592967-3468470554414808778-o-1400x1866.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Emma McDonald",
-          "text": "Emma is a writer for the paper, as well as the head of the Events Section.<br><br>Articles Written:<br>- CAS Fair",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-ae"
+          "_anchor": "msg-box5-db"
         },
         {
           "_params": {
@@ -1527,6 +1422,110 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-af"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/17795752-1803266223333691-2774230574149882408-n-960x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Andreea Samareanu",
+          "text": "Andreea is a creator for the paper, as well as the head of the Arts Section.<br><br>Articles Written:<br>- Daydream Nation: A Photo Series",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ag"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/21740801-1973311009592967-3468470554414808778-o-1400x1866.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Emma McDonald",
+          "text": "Emma is a writer for the paper, as well as the head of the Events Section.<br><br>Articles Written:<br>- CAS Fair",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ae"
         },
         {
           "_params": {
@@ -1632,112 +1631,6 @@
           "title": "Shahriar Hossain",
           "text": "Shahriar is a writer for the paper, as well as the head of photography for the paper.&nbsp;<br><br>Articles Written: <br>- Taking the Perfect Picture<br><br>Articles Photographed For:<br>- CAS Fair",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1a",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "20",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/15252472-1023759337751204-9170983574434501323-o-1365x1365.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Ceola Daly",
-          "text": "Ceola is a writer for the paper.<br><br>Articles Written:<br>- Lucky to be Lions<br>- Some Horoscopes<br>- Unsoken Stresses of the IB",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "20",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-640x1136.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Nathaniel Bentley",
-          "text": "Nat is on the paper's board.<br><br>Articles Written:<br>Coming Soon",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-56"
         },
         {
           "_params": {
@@ -1869,7 +1762,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/23472988-1916582168590708-8497006839715032733-n-960x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16807801-370308456674317-1031270112538580623-n-335x335.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1886,14 +1779,66 @@
               "size": 0
             }
           },
-          "title": "Ilinca Maria-Manda",
-          "text": "Ilinca is a writer for the paper.<br><br>Articles Written:<br>- St. John's for a Newcomer<br>- Reading Suggestions for the Cold Season<br>- And What About the Future?<br>- Reading Suggestions for the Summer Season",
+          "title": "Ashley Webster",
+          "text": "Julia is a horoscope writer for the paper.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-db"
+          "_anchor": "msg-box5-jt"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/16807801-370308456674317-1031270112538580623-n-335x335.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Ellie Smith",
+          "text": "Julia is a horoscope writer for the paper.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ju"
         }
       ]
     },
@@ -1901,7 +1846,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2202,7 +2147,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2276,7 +2221,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x414.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2326,9 +2271,9 @@
           "title1": "IB Seniors' Final Art Show",
           "subtitle1": "Written By: Aimee Dastin-van Rijn",
           "caption1": "Our IB Art seniors presented their last show on April 20th and auctioned some of their work for the Rahula Trust.",
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :)",
+          "title2": "University Choice - A Leap of Faith",
+          "subtitle2": "Written By: Ilinca Maria Manda",
+          "caption2": "An IB student reflects on university and plans for the future.",
           "title3": "Coming Soon",
           "subtitle3": "Who Will Write Next?",
           "caption3": "More articles being written... literary genius takes time. :)",
@@ -2342,7 +2287,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page60.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page61.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2452,8 +2397,8 @@
             }
           },
           "title1": "Christianity and the <br>LGBTQ+ Community",
-          "subtitle1": "",
-          "caption1": "Written By: Miriam Laanemäe",
+          "subtitle1": "Written By: Miriam Laanemäe",
+          "caption1": "An article on the relationship between christianity and the LGBTQ+ Community.",
           "title2": "And What About the Future?",
           "subtitle2": "Written By: Ilinca Maria-Manda",
           "caption2": "Where are we going and how will we get there?",
@@ -2580,8 +2525,8 @@
             }
           },
           "title1": "Unspoken Stresses of the IB",
-          "subtitle1": "",
-          "caption1": "An article by <b>Ceola Daly</b> on the stresses of the IB that no one talks about and how to handle them",
+          "subtitle1": "Written by: Ceola Daly",
+          "caption1": "An article on&nbsp;the stresses of the IB that no one talks about and how to handle them",
           "title2": "Obverse Art Show",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
           "caption2": "An article about the Obverse Art Show and the artists' inspiration.",
@@ -2708,7 +2653,7 @@
             }
           },
           "title1": "Reading Suggestions for the Cold Season",
-          "subtitle1": "",
+          "subtitle1": "Written By: Ilinca Maria Manda",
           "caption1": "Book recommendations by <b>Ilinca Maria Manda</b> for this Winter.",
           "title2": "Winter Art Vernissage",
           "subtitle2": "Written By: Aimee Dastin-van Rijn",
@@ -3095,7 +3040,7 @@
             }
           },
           "title1": "Why Nice Guys Finish Last<br>",
-          "subtitle1": "",
+          "subtitle1": "Written By: Unknown",
           "caption1": "An interpretation of the statement \"Nice guys finish last.\"",
           "title2": "Doing Two Sciences at Higher Level in the IB",
           "subtitle2": "Written By: Dominic Gray",
@@ -3519,7 +3464,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3786,7 +3731,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -4032,7 +3977,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 45
+        "order": 47
       },
       "components": [
         {
@@ -4674,7 +4619,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -4973,7 +4918,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -5206,7 +5151,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page55.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc05583-1-400x300.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5215,10 +5160,10 @@
               "title": ""
             }
           },
-          "title2": "IB Seniors' Final Art Show",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn",
-          "caption2": "Our IB Art seniors presented their last show on April 20th and auctioned some of their work for the Rahula Trust<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page60.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "University Choice - A Leap of Faith",
+          "subtitle2": "Written By: Ilinca Maria-Manda",
+          "caption2": "An IB student reflects on university and plans for the future.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"page61.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1200x801.jpg",
@@ -5236,7 +5181,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bodyimage-feat-600x311.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x369.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5245,10 +5190,10 @@
               "title": ""
             }
           },
-          "title4": "The Downside of the Fat-Acceptance Movement:",
-          "subtitle4": "Written By: Camille Kummer",
-          "caption4": "A Reflection on the Outlook of Skinny People in Today’s Society.",
-          "button4": "<a data-app-btn=\"true\" href=\"page42.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Maitland Cottage Hospital Trip Travel Blog",
+          "subtitle4": "Written By: Juliette Smeys",
+          "caption4": "A travel blog about the recent high school summer trip to South Africa to provide assistance for the Maitland Cottage Hospital.",
+          "button4": "<a data-app-btn=\"true\" href=\"page62.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -5305,7 +5250,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -5965,7 +5910,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -6244,7 +6189,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -6394,7 +6339,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -7015,7 +6960,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 58
+        "order": 60
       },
       "components": [
         {
@@ -7216,7 +7161,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -7510,7 +7455,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -7743,7 +7688,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -8099,7 +8044,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 56
+        "order": 58
       },
       "components": [
         {
@@ -8291,7 +8236,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 57
+        "order": 59
       },
       "components": [
         {
@@ -8565,7 +8510,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -8811,7 +8756,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 44
+        "order": 46
       },
       "components": [
         {
@@ -9076,7 +9021,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -9646,7 +9591,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -10301,7 +10246,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 48
+        "order": 50
       },
       "components": [
         {
@@ -10526,7 +10471,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -10871,7 +10816,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -11210,7 +11155,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 50
+        "order": 52
       },
       "components": [
         {
@@ -11402,7 +11347,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -11594,7 +11539,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 46
+        "order": 48
       },
       "components": [
         {
@@ -12009,7 +11954,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -12136,7 +12081,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -13449,7 +13394,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -13738,7 +13683,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -14403,7 +14348,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -14682,7 +14627,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -14907,7 +14852,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -15100,7 +15045,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -15424,7 +15369,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 54
+        "order": 56
       },
       "components": [
         {
@@ -15620,7 +15565,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -15947,7 +15892,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 52
+        "order": 54
       },
       "components": [
         {
@@ -16143,7 +16088,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -16275,7 +16220,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -16653,7 +16598,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 49
+        "order": 51
       },
       "components": [
         {
@@ -16884,7 +16829,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 47
+        "order": 49
       },
       "components": [
         {
@@ -17215,7 +17160,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 55
+        "order": 57
       },
       "components": [
         {
@@ -17411,7 +17356,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -17605,7 +17550,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 51
+        "order": 53
       },
       "components": [
         {
@@ -17843,7 +17788,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -18093,7 +18038,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -18310,7 +18255,7 @@
       "settings": {
         "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -18501,7 +18446,7 @@
       "settings": {
         "title": "Book Recommendations Summer",
         "meta_descr": "A great list of book to read this spring and summer season.",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -19701,7 +19646,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -19899,7 +19844,7 @@
       "settings": {
         "meta_descr": "St. John's First Student-Designed Fashion Shoot\n",
         "title": "Fashion Show",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -20621,7 +20566,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 53
+        "order": 55
       },
       "components": [
         {
@@ -20814,7 +20759,7 @@
       "settings": {
         "meta_descr": "IB Senior Final Art Show",
         "title": "Final Senior Art Show",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -21244,6 +21189,966 @@
           ],
           "_name": "content1",
           "_anchor": "content1-jj"
+        }
+      ]
+    },
+    "page61.html": {
+      "settings": {
+        "meta_descr": "University Choices - A Leap of Faith",
+        "title": "Leap of Faith",
+        "order": 39
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-jn"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1310.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Mhairi McFarlane",
+              "authorBio": "User",
+              "text": "<p>“University's like this little world, a bubble of time separate from everything before and everything after.”&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "testimonials4-js"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-jo"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x954.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "University Choices -\n<div>A Leap of Faith\n</div>",
+          "text": "By: Ilinca Maria Manda",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-jp"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1404.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Søren Kierkegaard",
+              "authorBio": "User",
+              "text": "<p>“Leap of faith – yes, but only after reflection”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-jq",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Having finished our first year of the IB, which proved to be a hectic and challenging but also unforgettable time, we have all started to look further into the great unknown that lies beyond the familiarity of high-school. Indeed, the time has come for us all to contemplate the future, which approaches us at a fast pace. In senior year, we will have to make a few important choices regarding our lives, and these choices seem, at first, both exciting and scary. By the end of Senior year, we will be expected to know, at least with some degree of certainty, the direction we will be heading towards. Therefore, the time has come for us to take charge of our lives, both as the writers and the main characters of our stories.\r</p><p><br></p><p>It all started when the counselors and various people around us began launching our thoughts towards the “post-highschool plans” topic. At the time, some of us were confused. We didn’t really know how, when and where to look for our destinies. It seemed just a bit too soon, as we were still trying to figure out high school and all the stuff coming with it. The main difficulty was the multitude of options we were confronted with. After looking at a list of Universities and eventually picking some after a long time of thinking and comparing, you then need to find the right course. And what is even the “right” course? There are way too many and, at the same time, way too few to choose from. Then, there is, of course, the idea of having to leave and start a whole new chapter of your life in a completely new place with completely new people. Sometimes, even the thought of IB exams seemed less scary!\r</p><p><br></p><p>So, we were headed into our final exams at the end of Grade 11 and then into the summer dreading the impending thought of having to find out what and where to study after high school (as well as a big list of assessments to get done). As we have been strongly advised to start our university/course seeking quest as soon as possible, I have decided to actually go visit some universities to get a better idea of what it means to study there. A strange curiosity and sense of wonder pushed me towards this experience.\r</p><p><br></p><p>It felt like the start of a long, exciting journey, with the destination still unknown. It also felt like the start of an experience outside of my comfort zone, the familiarity of high school, and the life I built around it. Something about London, my first and most important stop on this journey, seemed to hold a promise, saying, “anything is possible”. Nothing felt quite the same before, so I began to hope.\r</p><p><br></p><p>However, the essential part was seeing the Universities and experiencing them, talking to people, and asking a lot of questions about anything and everything. Each visit was charged with different vibes and had its own particularities, but, it is of great importance to pay attention to them fully. The most wonderful things in life reveal themselves unexpectedly and, although it may sound funny, it matters a lot for something to feel right (especially when it comes to what you wish to pursue in life).\r</p><p><br></p><p>The three Colleges that I have seen, as much as it is possible to see in a few hours’ time, had different things to offer and all were great in their own ways: one had an amazing, old library, unlike any I have seen before, while another seemed to promise a relaxed student/campus life. One had a fascinating interiour and exteriour design and was accompanied by a splendid location, while another had very appealing course presentations and many friendly faces around. It may not seem like much, but details do matter, and registering all these particularities enables us to decide, or at least get some more direction. What lacks in one place will surely appear in another, if one has the patience and will to explore all possibilities. Visiting a school allows us to picture ourselves getting in, actually studying there for years, making friends, and all the rest. It is also a matter of looking closely at courses and everything about them, while of course looking closely at ourselves to find what we truly need. In my case, talking to people who study there was essential, because it is showed what it is like from a student’s perspective.\r</p><p>Even if you don’t yet know the course or the place, it is important to go and experience it. Who knows what will come out of it? You may go without any clue about anything and return with both a new direction and sense of purpose that will give you the motivation for the final year of highschool.\r</p><p><br></p><p>From what I have gathered, university life will be very different from high school. It is one’s beginning in life and, with all its struggles, an unforgettable experience, no matter where it happens. Many people say it is the best time of your life, so we need to try our best to make this true through making the right choices. And, as many of us may agree, if you are not yet sure (and who really is?), it may be good to take a leap of faith, embrace the unknown and hope for the best, for the best is yet to come!\r</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-jr"
+        }
+      ]
+    },
+    "page62.html": {
+      "settings": {
+        "meta_descr": "This is a travel blog discussing the trip.",
+        "title": "Maitland Cottage Home Trip",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1181.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Maitland Cottage Hospital Trip Travel Blog",
+          "text": "Written By:&nbsp;Juliette Smeys",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-jx"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>17th + 18th June</p><p><br></p><p>\n</p><p>After a very early arrival at the airport, a cancelled flight, a rebooking over Doha, and more than a day without sleep, we finally safely arrived in Cape town Monday afternoon! We immediately rushed to the hospital, which was walking distance from the hostel, to meet Julie, the person responsible for Maitland.  The tour around the boys' and girls’ wards was an eye-opener.  All of a sudden our status changed - we were no longer regular teenagers, NO, we had become AUNTIES in a mere couple of seconds. \"Auntie, auntie, auntie come here,\" is all we could hear. This first encounter with these cute and kind patients was very touching.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-jy"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-jv"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture3-479x300.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture3-479x300-479x300.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture4-485x364.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture4-485x364-485x364.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-k2"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>20th \nof June</p><p><br></p><p>\n</p><p>Today, the group was split into two. We, however, all did the same activities but at different times. The first activity consisted of going to the hospital where we unpacked all the donated clothes while at the same time sorting them by age group.  The brand-new aunties also entertained their brand-new cousins and nephews by making puzzles, building houses with legos, and showing them how to create even more creative and brighter art work.  The second activity was either a scooter (more like a step) tour for daredevils or a cable ride to the top of Table Mountain.  The mountain wasn’t wearing its blanket today. :) The scooter tour offered a very nice view of the valley and surrounding fauna.  The hike on top of Table Mountain offered an even a better view of the surrounding area. :) The bright blue sky made sure that all pictures were simply perfect. :)\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k3"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "5",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture5-354x266.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture5-354x266-354x266.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture6-210x212.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture6-210x212-210x212.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture7-366x275.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture7-366x275-366x275.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture8-237x314.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture8-237x314-237x314.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture9-306x408.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture9-306x408-306x408.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-k4"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>21st \nof June</p><p><br></p><p>\n</p><p>Today we spent a long time in the hospital playing with the kids and continuing to meet new ones. They are all very different, which makes it nice to circulate around the ward. Unfortunately, though, there was chickenpox running around the girls’ ward, which limited us to the boys’ ward only. Something I noticed the kids particularly like doing is listening to music on our phones, because this is something they don’t have access to on a regular basis. We spent the rest of the day visiting Bo Kaap, which is known as the Malay Quarter.  It is situated on the slopes of Signal Hill above the city center.  The area is known for its brightly coloured homes, cobble stoned streets and… St. John's models enjoying unique Instagram moments.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k5"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture10-377x249.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture10-377x249-377x249.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture11-358x266.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture11-358x266-358x266.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture13-218x291.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture13-218x291-218x291.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-k6"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>22nd\n of June</p><p><br></p><p>\n</p><p>Today we once again went inside the hospital itself and played with the kids, and yes, even after seeing us so many days in a row, they still didn’t seem tired of us. I also conducted some interviews with different staff members to get more insight on the Hospital itself (these will be made available soon.) Today we unpacked some more suitcases and yet again tried to find new, exciting ways to entertain the kids. The other part of the day was quite busy; we visited the Cape Town aquarium, containing sea life from both the Atlantic and Indian oceans. Of course, our St. Johns boys had a blast :). They identified completely with the clown fishes, or Nemos.  Luckily the aquarium had a fixed closing time or they would still be sitting or swimming amongst those beautiful black and orange striped gems of the Indian Ocean :). We also visited the Zeitz museum, known for its contemporary African art, and we had dinner at the beautiful V-A waterfront. \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k7"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture14-214x285.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture14-214x285-214x285.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture15-208x275.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture15-208x275-208x275.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture16-189x337.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture16-189x337-189x337.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture17-535x245.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture17-535x245-535x245.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-k8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>23rd \nof June</p><p>\n</p><p>Today, we had a historical tour around the city of Cape Town, and learned more about the government functions in this country. We were supposed to visit Robben Island, but due to stormy weather conditions were not able to take the boat to the island, so the tour was cancelled. Instead of this tour, we drove to some of South Africa’s most beautiful beaches and went to the Biscuit Mill. The Biscuit mill was originally a cookies factory. At the Biscuit Mill, both the boys and girls had a blast: the food was terrific and the shops were splendid :).</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k9"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture18-212x216.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture18-212x216-212x216.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture19-249x331.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture19-249x331-249x331.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture20-264x327.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture20-264x327-264x327.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-ka"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>24th of June</p><p><br></p><p>\n</p><p>\n</p><p>This morning we had a 2-hour street art tour in Salt River, part of Woodstock. Street art has played a major part in transforming the area into a safe and vibrant community, while adding to its lively, creative character. The majority of the art on display in the streets of Woodstock has some type of transformative message, from nature conservation (saving water) to social justice, and general flourishing of the community. Our St. John’s boys understood the message very well. The minute they saw boys playing soccer in the street, they wanted to teach the kids some new skills. What started as a class soon turned into a soccer game. Guess what, St. John's won and the local boys were in awe of the St. John’s Courtois, Kompany, Lukaku and Hazard. :) In the afternoon, we visited the Cheetah outreach centre, which was a nice opportunity to not only pet the animals, but also learn more about South African wildlife, and the different measures put into place to try and preserve it as well as possible. \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-kb"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture21-397x239.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture21-397x239-397x239.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture22-364x272.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture22-364x272-364x272.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture23-325x310.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture23-325x310-325x310.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture24-341x222.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture24-341x222-341x222.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-kc"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>25th\n of June</p><p><br></p><p>\n</p><p>Today was our last day in beautiful South Africa.  We said goodbye to the patients and nurses whose company we had cherished the past week.  This week proved to be an amazing experience which transformed us all.  We also said goodbye to Tiger`s Milk, my personal favourite restaurant of the week, and of course we said thank you, dankie, merci to Mrs. Demyttenaere, Mrs. Bompas, Mrs. Sietses and Mrs Weber, Freyja's mom. Without them, this trip would not have been possible at all!\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-kd"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-jw"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "5",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture1-268x400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture1-268x400-268x400.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/picture2-375x293.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture2-375x293-375x293.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-k0"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>19th\n of June</p><p><br></p><p>\n</p><p>Early wake up, but definitely worth it! Today we visited the Reddam school, which, like St John’s, is also managed by the Inspired group. The school is located near the foot of one of the mountains surrounding the valley and has a beautiful view. It is at least twice as big as our school, yet the classes remain quite small. We had the opportunity to sit in on some math, sciences and Afrikaans classes, which I personally found very interesting. :) Something we all found less interesting was the early school starting time: 7:45 am! :( In the afternoon we went zip lining in Constantia, something which everyone found very exciting.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k1"
         }
       ]
     }
