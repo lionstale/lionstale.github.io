@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page64.html",
+    "currentPage": "index.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -4946,7 +4946,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6001.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4965,7 +4965,7 @@
           },
           "title": "2018-2019 Guide to St. John's",
           "text": "Everything you need to know about teachers, clubs, and places on campus.<br><br>Written By: Aimee Dastin-van Rijn",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page63.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page64.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
