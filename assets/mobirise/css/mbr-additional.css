@@ -6041,6 +6041,17 @@ h6,
 #msg-box7-kp .lead p {
   color: #fff;
 }
+#header3-kr .mbr-section-title,
+#header3-kr .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box7-ku .mbr-section-title,
+#msg-box7-ku .lead p {
+  color: #fff;
+}
+#msg-box7-ku P {
+  text-align: right;
+}
 #menu-kn .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -6151,16 +6162,5 @@ h6,
   color: #fff;
 }
 #msg-box7-l3 P {
-  text-align: right;
-}
-#header3-kr .mbr-section-title,
-#header3-kr .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box7-ku .mbr-section-title,
-#msg-box7-ku .lead p {
-  color: #fff;
-}
-#msg-box7-ku P {
   text-align: right;
 }

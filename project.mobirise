@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page65.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -3324,7 +3324,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6007.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -22605,6 +22605,113 @@
           "_anchor": "msg-box7-kp"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>In November of last year, I started playing guitar again. I was walking down the street, someone punched me really hard (in the head, mind you), and I, being the pacifist that I am, continued on my way to the store. But then something weird happened. Over the next few days, I started to gradually entertain the thought of playing the guitar. Eventually, after mounting cerebral pressure, I decided to pick one up and have a go at it. None of that is true, but hopefully it caught your attention, and made you aware of the dangers of hitting your head too hard (of which I am all too aware).</p><p><br></p><p>  \n</p><p>\n</p><p>I had taken up drumming in the past few years, and having found out that the cool new kid played guitar, I went to jam with him in the music room a few times. Naturally, it was pretty rad, so we got a star pianist/drummer involved (also a cool kid, mind you), and our sessions happened more frequently.</p><p><br></p><p> \n</p><p>\n</p><p>I’d played guitar for a few years when I was in elementary school, but ultimately let it go.  I’d first done a drum lesson, but soon dropped it because of my parents. 7-year-old me didn’t realize it wasn’t the lesson that was so expensive, but actually the drum set, until 17-year-old me looked at what a drum set costs. Anyways, it’s a good thing I switched to guitar, because I saved my parents a bit of money with my lazy, unmotivated attitude.</p><p><br></p><p> \n</p><p>\n</p><p>I’m writing this to shed light on my experience in learning to play the guitar using YouTube and guitar tab websites. I’m not saying guitar is for everyone, but for those who are motivated to play the riffs from their favorite album or impress girls with Wonderwall, it isn’t that much of a commitment. I’m no expert guitarist. This summer I went to a 3-day guitar camp, and it turns out I’m not quite as excellent as my mom says I am. But I still think that there’s a few tips I can pass on to beginner/intermediate guitarists that they might find helpful. \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-kq"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Tip #1: Strings",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-kr"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-ku"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>String gauge is how thick the strings are. The higher the gauge, the fatter the string. The fatter the strings, the better the tone. In more simple terms, for beginners like us, the higher the string gauge, the more shredded your hands will be. Not in a weird muscly way. More like you’ll rip your skin off slowly. Evidently, it really hurts. Stevie Ray Vaughan could play 13 gauge strings. You probably can’t. Oh, you say you can? That’s what I said, too. It hurt pretty bad, my tone wasn’t better, and I went from bad to worse. Turns out a bending vibrato isn’t that hard when you put on strings that match your playing ability. Also, people don’t know what string gauges are, and therefore won’t be at all impressed. Don’t limit yourself. Don’t be a wise guy like me and put on higher gauge strings.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ks"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -22762,7 +22869,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -22856,7 +22963,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -22950,7 +23057,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -23006,113 +23113,6 @@
           },
           "text": "St. John's International School",
           "_anchor": "footer1-ko"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>In November of last year, I started playing guitar again. I was walking down the street, someone punched me really hard (in the head, mind you), and I, being the pacifist that I am, continued on my way to the store. But then something weird happened. Over the next few days, I started to gradually entertain the thought of playing the guitar. Eventually, after mounting cerebral pressure, I decided to pick one up and have a go at it. None of that is true, but hopefully it caught your attention, and made you aware of the dangers of hitting your head too hard (of which I am all too aware).</p><p><br></p><p>  \n</p><p>\n</p><p>I had taken up drumming in the past few years, and having found out that the cool new kid played guitar, I went to jam with him in the music room a few times. Naturally, it was pretty rad, so we got a star pianist/drummer involved (also a cool kid, mind you), and our sessions happened more frequently.</p><p><br></p><p> \n</p><p>\n</p><p>I’d played guitar for a few years when I was in elementary school, but ultimately let it go.  I’d first done a drum lesson, but soon dropped it because of my parents. 7-year-old me didn’t realize it wasn’t the lesson that was so expensive, but actually the drum set, until 17-year-old me looked at what a drum set costs. Anyways, it’s a good thing I switched to guitar, because I saved my parents a bit of money with my lazy, unmotivated attitude.</p><p><br></p><p> \n</p><p>\n</p><p>I’m writing this to shed light on my experience in learning to play the guitar using YouTube and guitar tab websites. I’m not saying guitar is for everyone, but for those who are motivated to play the riffs from their favorite album or impress girls with Wonderwall, it isn’t that much of a commitment. I’m no expert guitarist. This summer I went to a 3-day guitar camp, and it turns out I’m not quite as excellent as my mom says I am. But I still think that there’s a few tips I can pass on to beginner/intermediate guitarists that they might find helpful. \n</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kq"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Tip #1: Strings",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-kr"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "70",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.6"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-ku"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>String gauge is how thick the strings are. The higher the gauge, the fatter the string. The fatter the strings, the better the tone. In more simple terms, for beginners like us, the higher the string gauge, the more shredded your hands will be. Not in a weird muscly way. More like you’ll rip your skin off slowly. Evidently, it really hurts. Stevie Ray Vaughan could play 13 gauge strings. You probably can’t. Oh, you say you can? That’s what I said, too. It hurt pretty bad, my tone wasn’t better, and I went from bad to worse. Turns out a bending vibrato isn’t that hard when you put on strings that match your playing ability. Also, people don’t know what string gauges are, and therefore won’t be at all impressed. Don’t limit yourself. Don’t be a wise guy like me and put on higher gauge strings.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ks"
         }
       ]
     }
