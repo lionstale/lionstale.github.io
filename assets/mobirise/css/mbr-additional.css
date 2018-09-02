@@ -6045,12 +6045,9 @@ h6,
 #header3-kr .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box7-ku .mbr-section-title,
-#msg-box7-ku .lead p {
+#msg-box7-la .mbr-section-title,
+#msg-box7-la .lead p {
   color: #fff;
-}
-#msg-box7-ku P {
-  text-align: right;
 }
 #menu-kn .hide-buttons .nav-btn {
   display: none !important;
@@ -6135,13 +6132,6 @@ h6,
 #header3-kv .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box7-kx .mbr-section-title,
-#msg-box7-kx .lead p {
-  color: #fff;
-}
-#msg-box7-kx P {
-  text-align: right;
-}
 #header3-kz .mbr-section-title,
 #header3-kz .mbr-section-subtitle {
   text-align: center;
@@ -6156,11 +6146,4 @@ h6,
 #header3-l1 .mbr-section-title,
 #header3-l1 .mbr-section-subtitle {
   text-align: center;
-}
-#msg-box7-l3 .mbr-section-title,
-#msg-box7-l3 .lead p {
-  color: #fff;
-}
-#msg-box7-l3 P {
-  text-align: right;
 }
