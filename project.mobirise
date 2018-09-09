@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page65.html",
+    "currentPage": "About",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 767,
+    "uniqCompNum": 772,
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -806,7 +806,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x870.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x428.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -850,9 +850,9 @@
           "title1": "Horoscopes",
           "subtitle1": "A Combined Effort",
           "caption1": "Our latest group-written horoscopes.",
-          "title2": "St. John's A-Z Guide to the Holidays",
-          "subtitle2": "Written By: Aimee Dastin-van Rijn<br>",
-          "caption2": "",
+          "title2": "St. John's Memes",
+          "subtitle2": "A Combined Effort",
+          "caption2": "St. John's Newest Memes",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -866,7 +866,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page41.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page63.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1071,16 +1071,19 @@
           "button2": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title3": "Coming Soon",
-          "subtitle3": "Who Will Write Next?",
-          "caption3": "More articles being written... literary genius takes time. :)",
-          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "St. John's A-Z Guide <br>to the Holidays",
+          "subtitle3": "Written By: Aimee Dastin-van Rijn",
+          "caption3": "Everything you need for Christmastime at STJ.",
+          "button3": "<a data-app-btn=\"true\" href=\"page41.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
@@ -1124,7 +1127,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -1629,7 +1632,7 @@
             }
           },
           "title": "Shahriar Hossain",
-          "text": "Shahriar is a writer for the paper, as well as the head of photography for the paper.&nbsp;<br><br>Articles Written: <br>- Taking the Perfect Picture<br><br>Articles Photographed For:<br>- CAS Fair",
+          "text": "Shahriar is a writer for the paper, as well as the head of photography for the paper and our resident meme connoisseur.&nbsp;<br><br>Articles Written: <br>- Taking the Perfect Picture<br><br>Articles Photographed For:<br>- CAS Fair",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1898,7 +1901,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2199,7 +2202,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -3324,7 +3327,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x60010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3644,7 +3647,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -4799,7 +4802,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -5098,7 +5101,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -6369,7 +6372,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -9201,7 +9204,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 18
+        "order": 11
       },
       "components": [
         {
@@ -12134,7 +12137,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -15032,7 +15035,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -15745,7 +15748,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -17968,7 +17971,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -18218,7 +18221,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -23059,6 +23062,260 @@
           },
           "text": "St. John's International School",
           "_anchor": "footer1-ko"
+        }
+      ]
+    },
+    "page63.html": {
+      "settings": {
+        "meta_descr": "Here is our page of memes created by STJ students.\n",
+        "title": "Memes",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-lb"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-lc"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/41192013-242741969721548-87643849966485504-n-600x767.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Creator: Shahriar Hossain",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "Coming Soon",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Coming Soon",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Coming Soon",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-lf"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "STJ MEMES",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-ld"
         }
       ]
     }
