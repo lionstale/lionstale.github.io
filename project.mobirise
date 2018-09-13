@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page64.html",
+    "currentPage": "index.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 772,
+    "uniqCompNum": 784,
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1127,7 +1127,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -1901,7 +1901,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -2202,7 +2202,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -3327,7 +3327,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6009.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3647,7 +3647,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3914,7 +3914,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -4160,7 +4160,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -4802,7 +4802,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -5101,7 +5101,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5349,7 +5349,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page61.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x801.jpg",
+              "src": "@PROJECT_PATH@/assets/images/official-portrait-amb-gidwitz-s-cleared-by-amb-0711-600x725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5358,10 +5358,10 @@
               "title": ""
             }
           },
-          "title3": "The Unspoken Stresses <br>of the IB",
-          "subtitle3": "Written By: Ceola Daly",
-          "caption3": "An article on the stresses of the IB that no one talks about and how to handle them<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Interview with New US Ambassador",
+          "subtitle3": "Written By: Aimee Dastin-van Rijn",
+          "caption3": "An interview with the new US ambassador about his journey to where he is today and what he hopes for his future work in Belgium.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page66.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x369.jpg",
@@ -5433,7 +5433,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -6093,7 +6093,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -6372,7 +6372,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -6522,7 +6522,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -7143,7 +7143,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -7344,7 +7344,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -7638,7 +7638,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -7871,7 +7871,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -8227,7 +8227,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -8419,7 +8419,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -8693,7 +8693,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -8939,7 +8939,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -9204,7 +9204,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -9774,7 +9774,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -10429,7 +10429,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -10654,7 +10654,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -10999,7 +10999,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -11338,7 +11338,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -11530,7 +11530,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -11722,7 +11722,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -12137,7 +12137,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -12264,7 +12264,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -13577,7 +13577,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -13866,7 +13866,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -14531,7 +14531,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -14810,7 +14810,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -15035,7 +15035,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -15228,7 +15228,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -15552,7 +15552,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 58
+        "order": 59
       },
       "components": [
         {
@@ -15748,7 +15748,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -16075,7 +16075,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 56
+        "order": 57
       },
       "components": [
         {
@@ -16271,7 +16271,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -16403,7 +16403,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -16781,7 +16781,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -17012,7 +17012,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -17343,7 +17343,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 59
+        "order": 60
       },
       "components": [
         {
@@ -17539,7 +17539,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -17733,7 +17733,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -17971,7 +17971,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -18221,7 +18221,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -18438,7 +18438,7 @@
       "settings": {
         "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -18629,7 +18629,7 @@
       "settings": {
         "title": "Book Recommendations Summer",
         "meta_descr": "A great list of book to read this spring and summer season.",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -19829,7 +19829,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -20027,7 +20027,7 @@
       "settings": {
         "meta_descr": "St. John's First Student-Designed Fashion Shoot\n",
         "title": "Fashion Show",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -20749,7 +20749,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -20942,7 +20942,7 @@
       "settings": {
         "meta_descr": "IB Senior Final Art Show",
         "title": "Final Senior Art Show",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -21379,7 +21379,7 @@
       "settings": {
         "meta_descr": "University Choices - A Leap of Faith",
         "title": "Leap of Faith",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -21640,7 +21640,7 @@
       "settings": {
         "meta_descr": "This is a travel blog discussing the trip.",
         "title": "Maitland Cottage Home Trip",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -22339,7 +22339,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -22546,7 +22546,7 @@
       "settings": {
         "meta_descr": "Isaiah Lowney's Tips for the Amateur Guitarist",
         "title": "Informal Tips for the Beginner/Intermediate Guitarist ",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -23069,7 +23069,7 @@
       "settings": {
         "meta_descr": "Here is our page of memes created by STJ students.\n",
         "title": "Memes",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -23249,7 +23249,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop7.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23265,7 +23265,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man8.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23316,6 +23316,292 @@
           ],
           "_name": "features3",
           "_anchor": "features3-lf"
+        }
+      ]
+    },
+    "page66.html": {
+      "settings": {
+        "meta_descr": "An interview with the new American Ambassador.",
+        "title": "Ambassador Interview",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/official-portrait-amb-gidwitz-s-cleared-by-amb-0711-1000x1208.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Ambassador Interview",
+          "text": "An interview with the new US ambassador about his journey to where he is today and what he hopes for his future work in Belgium.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-li"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Ronald Gidwitz, the newly appointed US Ambassador to Belgium, not only has a background in politics but has exceptionally interesting experience in many other areas of work. He began his career path by completing his bachelor’s degree at Brown University on a nice Friday in May. Following his graduation, he drove in a “wreck of a Chevrolet” all the way to Chicago to begin his first job just 3 days after officially completing his school career. He stayed at the first job with a finance company for a year before continuing on to a training program at Helene Curtis. There, he had a range of responsibilities, including being the first worker in at 5:30 AM to turn on the vats for production. By 10 AM, the fumes from all the alcohols needed to produce the beauty products would fill the air. Ambassador Gidwitz laughed as he told this story, musing about how long it took him to realize the fumes were making him a little drunk.&nbsp;</p><p><br></p><p>He eventually had a “meteoric rise” to becoming President of the $100 million sales company, which he turned into a $1.5 billion company in 17 years. This increase in sales was due to new product development such as the Suave line and another beauty product line which eventually became Dove. When he sold the company, it was ranked 29th overall vis a vis its competitors in the market. The way this small company had become so relevant was through gaining a greater understanding of the market such as how “39% of people bought the shampoo simply because of the smell”. In 1996, Ambassador Gidwitz sold Helene Curtis to Unilever, making it part of a $5 billion Anglo-Dutch company.&nbsp;</p><p><br></p><p>As he did not want to go overseas to continue working for the company, he delved deeper into charitable and political sectors instead. He has had an interest in politics since he was young and his first political job was as an intern to Senator Paul Douglas in 1966. He went on to work on a wide range of campaigns. He was involved in politics at the same time as business throughout his career and drew from both areas to become successful. In fact, he says that he “learned more about market research in politics than he ever did in business” through listening to pollsters on campaigns, some of whom he later brought into his business. His work at non-profits also taught him skills such as accounting, as they allow one to “experiment with other people’s resources” and try things out in order to help the non profit’s cause. He often encouraged other people in his companies to try their hand at new areas of work in the same fashion.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-lj"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Comedy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-lg"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>What are some changes he hopes to make in the relations between Belgium and the US? Does he have specific priorities?</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-lk"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Ambassador Gidwitz believes that the relationship between the US and Belgium is already very close. He is still learning about how it works, though, and plans to use his skills and years of experience to be successful in his work in Belgium. So far, he has met with government leaders and plans to meet with non-government leaders in the coming weeks. He says that in the coming weeks, he will be “fact finding” to see how his interests go with priorities for strengthening the relationship between Belgium and the US.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ll"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>How does he think his work with philanthropic organisations will translate into his activities here in Belgium?</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-lm"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>In his work with philanthropic organizations, Ambassador Gidwitz has specialized in education and helping disadvantaged young people. He believes this work could be applicable to disaffected parts of the populations here in Belgium. With his work with the Boys and Girls Club of America, they helped young people develop leadership skills, community participation, and success in school. Out of their 16 million alumni, 54-57% say that the Boys and Girls Club of America “saved their life”, and the Ambassador hopes to be able to make such a positive impact here in Belgium as well.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ln"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>What is one thing the Ambassador would like people to know about him?</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-lo"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Ambassador Gidwitz came to Belgium because he wanted to serve his country in a different way. While he’s served the US in the sectors of business, sales, philanthropy, and others, he feels this is a chance to do something different. He believes this is a learning experience where he will have a chance to apply his skills to a new area, and he seems exceptionally capable to do so.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-lp"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Do you prefer books or TV?&nbsp;</p><p><br></p><p><br></p><p>What’s your favorite book?</p><p><br></p><p>What’s the last book you read?&nbsp;</p><p><br></p><p>What’s your favorite movie?&nbsp;</p><p><br></p><p>What’s your favorite type of music?</p><p><br></p><p>What do you do in your spare time?</p><p><br></p><p>What’s your pet peeve?</p><p><br></p><p>What extracurriculars did you do in high school?And in University?</p><p><br></p><p><br></p><p><br></p><p>What was your undergraduate major? &nbsp;</p><p><br></p><p>Were you rooting for Belgium to win the world cup?&nbsp;</p>",
+          "text2": "<p>I much prefer books that I mostly borrow from the Chicago Public Library which I can read on my IPAD.  I watch very little television.</p><p><br></p><p>The Years of Lyndon Johnson  by Robert Caro</p><p><br></p><p>ISIS by MIchael Weiss &amp; Hassan Hassan</p><p><br></p><p>&nbsp;SAVING PRIVATE RYAN</p><p><br></p><p>COUNTRY &amp; WESTERN, CLASSICAL</p><p><br></p><p>GOLF, READ, TRAVEL &amp; SPEND TIME WITH FAMILY</p><p><br></p><p>PEOPLE BEING LATE TO MEETINGS</p><p><br></p><p>TENNIS, SWIMMING, CROSS COUNTRY &amp; SOCCER in high school</p><p>SOCCER &amp; STUDYING &amp; HANGING OUT WITH FRIENDS (A LOT) in college</p><p><br></p><p>ECONOMICS</p><p><br></p><p>I was all in for BELGIUM of course!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-lr"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-lh"
         }
       ]
     }
