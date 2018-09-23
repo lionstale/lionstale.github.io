@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Archives",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Comedy",
         "meta_descr": "Website Maker Description",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -1127,7 +1127,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -1901,7 +1901,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -2202,7 +2202,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -2276,7 +2276,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/official-portrait-amb-gidwitz-s-cleared-by-amb-0711-1000x1208.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2326,9 +2326,9 @@
           "title1": "Informal Tips for the Beginner/Intermediate Guitarist&nbsp;",
           "subtitle1": "Written By: Isaiah Lowney",
           "caption1": "Isaiah's tips for the amateur guitarist",
-          "title2": "Coming Soon",
-          "subtitle2": "Who Will Write Next?",
-          "caption2": "More articles being written... literary genius takes time. :)",
+          "title2": "Interview with New US Ambassador",
+          "subtitle2": "Written By: Aimee Dastin-van Rijn",
+          "caption2": "An interview with the new US ambassador about his journey to where he is today and what he hopes for his future work in Belgium.",
           "title3": "Coming Soon",
           "subtitle3": "Who Will Write Next?",
           "caption3": "More articles being written... literary genius takes time. :)",
@@ -2342,7 +2342,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page65.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page66.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3327,7 +3327,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6009.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3647,7 +3647,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -4802,7 +4802,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -5101,7 +5101,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -6372,7 +6372,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -9204,7 +9204,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -12137,7 +12137,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -15035,7 +15035,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -15748,7 +15748,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -17971,7 +17971,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -18221,7 +18221,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -23069,7 +23069,7 @@
       "settings": {
         "meta_descr": "Here is our page of memes created by STJ students.\n",
         "title": "Memes",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -23249,7 +23249,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop10.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23265,7 +23265,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23323,7 +23323,7 @@
       "settings": {
         "meta_descr": "An interview with the new American Ambassador.",
         "title": "Ambassador Interview",
-        "order": 1
+        "order": 19
       },
       "components": [
         {
