@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "page27.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -3327,7 +3327,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6003.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -9350,7 +9350,7 @@
             "overlayColor": "#91bdae",
             "overlayOpacity": "1"
           },
-          "title": "Where Should Your Star <br>Sign Travel Next?",
+          "title": "What Music Genre is Your <br>Star Sign?",
           "text": "<p>These horoscopes are a group effort.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -9470,16 +9470,16 @@
           },
           "title1": "Capricorn <br>(December 22nd - January 19th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Stockholm<br>",
+          "caption1": "R&amp;B<br>",
           "title2": "Aquarius<br>(January 20th - February 18th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Budapest",
+          "caption2": "Jazz",
           "title3": "Pisces<br>(February 19th - March 20th)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Bora Bora",
+          "caption3": "Reggae",
           "title4": "Aries<br>(March 21st - April 19th)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Amsterdam<br>",
+          "caption4": "Heavy Metal<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9600,16 +9600,16 @@
           },
           "title1": "Taurus<br>(April 20th - May 20th)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Brussels (sorry)<br>",
+          "caption1": "Pop<br>",
           "title2": "Gemini<br>(May 21st - June 20th)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Vienna<br>",
+          "caption2": "Rock<br>",
           "title3": "Cancer<br>(June 21st - July 22nd)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Moscow ",
+          "caption3": "Electronic",
           "title4": "Leo<br>(July 23rd - August 22nd)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Miami<br>",
+          "caption4": "Country<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9730,16 +9730,16 @@
           },
           "title1": "Virgo<br>(August 23rd - September 22nd)",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Milan<br>",
+          "caption1": "Rap<br>",
           "title2": "Libra<br>(September 23rd - October 22nd)",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "New York<br>",
+          "caption2": "Indie<br>",
           "title3": "Scorpio<br>(October 23rd - November 21st)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "London<br>",
+          "caption3": "Punk<br>",
           "title4": "Sagittarius<br>(November 22nd - December 21st)",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Venice",
+          "caption4": "Alternative",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -23249,7 +23249,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23265,7 +23265,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man5.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
