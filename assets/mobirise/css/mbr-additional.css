@@ -6431,3 +6431,112 @@ h6,
 #menu-lx .close-icon::after {
   background-color: #ffffff;
 }
+
+#msg-box8-m1 .mbr-section-title,
+#msg-box8-m1 p {
+  color: #fff;
+}
+#msg-box7-m4 .mbr-section-title,
+#msg-box7-m4 .lead p {
+  color: #fff;
+}
+#msg-box7-m4 P {
+  text-align: right;
+}
+#msg-box7-m8 .mbr-section-title,
+#msg-box7-m8 .lead p {
+  color: #fff;
+}
+#msg-box7-m9 .mbr-section-title,
+#msg-box7-m9 .lead p {
+  color: #fff;
+}
+#msg-box7-mm .mbr-section-title,
+#msg-box7-mm .lead p {
+  color: #fff;
+}
+#msg-box7-mm P {
+  text-align: right;
+}
+#msg-box7-mo .mbr-section-title,
+#msg-box7-mo .lead p {
+  color: #fff;
+}
+#msg-box7-mo P {
+  text-align: right;
+}
+#header3-md .mbr-section-title,
+#header3-md .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-md .mbr-section-subtitle P {
+  font-family: 'Oxygen', sans-serif;
+  color: #eab4b2;
+}
+#menu-me .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-me .navbar-caption {
+  color: #ffffff;
+}
+#menu-me .navbar-toggler {
+  color: #ffffff;
+}
+#menu-me .link,
+#menu-me .dropdown-item {
+  color: #ffffff;
+}
+#menu-me .link {
+  font-size: 0.75rem;
+}
+#menu-me .dropdown-item,
+#menu-me .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-me .link:hover,
+#menu-me .dropdown-item:hover,
+#menu-me .link:focus,
+#menu-me .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-me .link[aria-expanded="true"],
+#menu-me .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-me .nav-dropdown-sm .link:focus,
+#menu-me .nav-dropdown-sm .link:hover,
+#menu-me .nav-dropdown-sm .dropdown-item:focus,
+#menu-me .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-me .navbar,
+#menu-me .nav-dropdown-sm,
+#menu-me .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-me .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-me .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-me .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-me .bg-color.transparent.opened .link:hover,
+#menu-me .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-me .link[aria-expanded="true"],
+#menu-me .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-me.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-me .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-me .close-icon::before,
+#menu-me .close-icon::after {
+  background-color: #ffffff;
+}
