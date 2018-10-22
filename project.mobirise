@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page70.html",
+    "currentPage": "Comedy",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -1026,12 +1026,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Weekly Story Episode",
-          "text": "<p><span style=\"font-size: 1.07rem;\">Click here to find chapters of a story written weekly by an STJ Student.</span><br></p>",
+          "title": "Podcasts",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Click here for Isaiah Lowney's AnotherThingComing podcast series</span><br></p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page70.html\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-ls"
         },
@@ -3362,7 +3362,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -23299,7 +23299,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop7.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23315,7 +23315,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man5.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man8.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
