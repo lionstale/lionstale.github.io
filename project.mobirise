@@ -1027,7 +1027,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Podcasts",
-          "text": "<p><span style=\"font-size: 1.07rem;\">Click here for Isaiah Lowney's AnotherThingComing podcast series</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Click here for Isaiah Lowney's OtherThingComing podcast series</span><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -3362,7 +3362,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6009.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x60012.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -23299,7 +23299,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop10.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop13.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23315,7 +23315,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
