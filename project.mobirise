@@ -3362,7 +3362,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6009.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -23299,7 +23299,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop7.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23315,7 +23315,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man8.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
