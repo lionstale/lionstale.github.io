@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Comedy",
+    "currentPage": "page67.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 821,
+    "uniqCompNum": 829,
     "versionPublish": "4.8.6",
     "favicon": "",
     "noImageResize": "",
@@ -3362,7 +3362,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x60012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7178,7 +7178,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -8454,7 +8454,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -22389,7 +22389,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -23299,7 +23299,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23315,7 +23315,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23802,6 +23802,58 @@
           ],
           "_name": "header1",
           "_anchor": "header1-lv"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-8-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Working Out and the Theory of Active Rest",
+          "text": "A quick guide to working out.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page71.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-n0"
         },
         {
           "_params": {
@@ -25259,6 +25311,243 @@
           ],
           "_name": "soundcloud1",
           "_anchor": "soundcloud1-ms"
+        }
+      ]
+    },
+    "page71.html": {
+      "settings": {
+        "meta_descr": "A Quick Guide to Working Out",
+        "title": "Working Out for Dummies",
+        "order": 66
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-mt"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-mu"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Working Out and the Theory of Active Rest \"For Dummies\"",
+          "text": "Episode 1 of the Miscellaneous section of our \"For Dummies\" series",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-mv"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Today’s episode covers the basics of working out and active rest. The dummies whom this episode targets, however, are not those who made working out their priority of the year on January 1, 2018, and proceeded to work out once this year. I’m not writing this to persuade you to work out. I could sell you a couple of facts about how it only takes 21 days to create a habit, the energizing effect of working out (citing some university research paper), comparing it to a coffee, or the long-term health benefits of a regular workout routine, but I won’t go into that (technically I sort of just did). I maintain that personal activities can only be fulfilling with an adequate amount of intrinsic motivation. It tends to be really hard to do anything you don’t like properly. No one can force you to do something well or effectively, and you sure as hell can’t trick yourself. That being said, let’s discuss working out.</p><p><br></p><p> \n</p><p>\n</p><p>I work out about 5 days a week, discounting cardio and such. As a runner, I’ve never been totally sold on heavy weights, dumbbell curls, and workout machines in general. Frankly, I’m not crazy about gyms at all, between the aesthetic, olfactory, auditory, and social experiences involved. I’m not going to fully break down that statement because it’d be overly judgmental, but I’ll just say that I’d rather be running through a forest or meadow while listening to my footsteps than seeing metal and mirrors while listening to someone’s crazy breathing. Nevertheless, I can’t see in the dark and I like to punctuate my day with some good old physical effort, so the gym tends to be my best option before school.</p><p><br></p><p> \n</p><p>\n</p><p>A crucial thing to know in order to be the best physical master (in my book), is the two types of workouts. These are cardiovascular workouts and strength workouts. The cardiovascular workout generally involves an elevated heart rate for a continuous period of time, during which your body works mainly your slow-twitch muscles while the strength workout typically involves focusing on one or few muscles groups, and doing sets of repetitions which target your fast-twitch muscle groups. Cardiovascular activities tend to be much more interesting to me, but I could probably find a plethora of people who disagree with me. I won’t be going into the details of cardiovascular activities, because they’re really, really straightforward. I really mean that. Run away from your house for 5 songs, then run back, listening to the same, or different songs. Replace with podcasts, audiobooks, or perhaps the torture of your running watch and natural surroundings, and repeat. I think a good mix between cardiovascular and strength training is ideal for well-rounded physical shape.</p><p><br></p><p>\n</p><p>A list of cardiovascular activities is listed below:\n</p><p>\n</p><p>-\tRunning\n</p><p>-\tBiking\n</p><p>-\tSwimming \n</p><p>-\tRowing\n</p><p>-\tJump roping (don’t judge till you try it)\n</p><p>&nbsp;\n</p><p>\n</p><p>A less crucial but still useful concept to understand is the volume versus tone tradeoff. The main gist is that many repeats of a relatively light load will increase your muscular quality and tone, while few repeats of a relatively heavy load will increase your muscular volume (aka jacked, big, swole, buff). Featured below is 8x Mr. Olympia champion, Ronnie Coleman (and no, I didn’t go on flexonline.com, it was google images). What did he do mostly? If you guessed volume, you’re probably correct, but to be honest I’m not too sure. You get the point.\n</p><p> \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-mw"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/picture1-575x858.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-my"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Now that my scientific and experiential credibility has been more or less established, I’ll jump straight in. The most important thing to understand about working out is that you don’t need anything specific, other than your body, to get a proper workout in. I tend to go with planking, pushup, and sit-up variations, as well as lunges, dips, and pull-ups. Below is a brief list of exercises which you can do without weights, and a few of their endless variations. I’ll separate them into general body areas, and you’ll see why in a second.\n</p><p>\n</p><p><br></p><p><b>Upper Body/Core\n</b></p><p>-\tPushups\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o Standard, wide stance pushups\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tDiamond pushups\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tTriceps pushups\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tOne-handed pushups\n</p><p>-\tPlanks\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tRegular planks\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tSide planks\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tBack planks\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tPushup plank variations\n</p><p>-\tSit-Ups/Crunches\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tElevated crunches\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tDiagonal sit-ups\n</p><p>-\tLeg raises</p><p><br></p><p>\n</p><p>\n</p><p><b>Lower Body/Legs\n</b></p><p>-\tSquats\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tRegular squats\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tOne-legged squats\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tJump squats\n</p><p>-\tCalf Raises\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o\tOne-legged calf raises\n</p><p>-\tWall sits</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>The second most important thing to know about working out, is that it can be done effectively in a really short period of time. How so? Well, the less you rest, the less time you have to recover. If you have no time to recover, you’ll fatigue more quickly. For example, if I planked for 8 minutes, I’d have a very taxing workout, and, whether I actually succeeded at making it the 8 minutes or not, it’d be a very short workout. In the more practical sense, instead of waiting a minute between sit-up sets, I might wait half a minute, finishing the workout faster. By ‘finishing the workout faster’ I basically mean reaching a certain level of tiredness, fatigue, exhaustion, etc. You’re the judge. So try and experiment with shortening your rest, and see how it accelerates the rate of fatigue throughout your workout.</p><p><br></p><p> \n</p><p>\n</p><p>The second point links into what I’ve come to describe as the ‘Theory of Active Rest.’ The theory of active rest states that a strength workout which targets a specific muscle group, can be made more efficient by including the exertion of non-target muscle groups during rest periods. To put it less idiotically, active rest is working out your legs when you’re resting your arms, and vice versa. I’ll give an example of this in terms of what I do regularly when I have a time constraint and the will to get tired.</p><p><br></p><p> \n</p><p>\n</p><p>I’ve had an on-and off goal of doing 100 push-ups per day with a few friends of mine, which led to the synthesis of a workout in which I aim to complete 100 push-ups, dividing them up in any way that I want. Examples include:</p><p><br></p><p>\n</p><p>\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-\t4x25 push-ups\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-\t5x20 push-ups\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-\t2x20 standard push-ups + 3x10 triceps push-ups + 3x10 diamond push-ups</p><p><br></p><p>\n</p><p>\n</p><p>With a goal in place, I then execute the sets of pushups. However, in between my sets, I put my other muscle groups to use! I choose between sit-ups, calf raises, squats, or anything that doesn’t include the arms, and I do that for about a minute. Then I go back to my next pushup set and carry on. What’s really good about this method of working out is that not only can you be efficient in exercising different muscle groups while keeping a main focus, but you can also adapt to your own progression. The passing time as you transfer between exercises adds up! If you go from pushups to squats to pushups to sit-ups, with no rest in between, you’ll be pretty tired! There is also lots of room for experimentation. You can set two goals, like 100 pushups and 100 sit-ups, or change your sets, like trying to do 3x30 and 1x10 pushups. As you progress, you can spend the same amount of time doing more repeats, or less time doing the identical workout. You can incorporate weights, do harder exercises, or try any variety of ways to make the workout more difficult, whether you’re increasing time or intensity. Either way, you’re winning.</p><p><br></p><p>\n</p><p>\n</p><p>That’s just how I implement active rest into my workouts. The main idea here is creativity, efficiency, and doing your thing. It’s up to you to decide on what you want to do during your workout. You can even implement cardio, like jump roping, or stretching, into your sets. Anything goes, so revel in the chaos of infinite possibility.</p><p><br></p><p> \n</p><p>\n</p><p>I hope that this episode was informative enough, and that you go out and have fun with working out. When the going gets tough, remember why you’re working out, and maybe what you’d be doing otherwise. I’d like to conclude by stressing that I am in no way scientifically qualified to give the sort of advice that I’ve just given. I think it’s okay though, because I stressed a non-weight related workout regime. So, I encourage you to get out there and push yourself, working the muscle groups you so desire, and don’t forget to warm up!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-mz"
         }
       ]
     }
