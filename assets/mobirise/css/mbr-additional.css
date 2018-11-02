@@ -1126,6 +1126,18 @@ h6,
 #msg-box8-1m p {
   color: #fff;
 }
+#features1-nh .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #91bdae;
+}
+#features1-nh .mbr-cards-col:nth-child(odd) .card-title {
+  color: #174034;
+}
+#features1-nh .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #174034;
+}
+#features1-nh .mbr-cards-col:nth-child(odd) .card-text {
+  color: #174034;
+}
 #features1-l6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #91bdae;
 }
@@ -6686,4 +6698,83 @@ h6,
 }
 #msg-box7-my P {
   text-align: right;
+}
+#menu-n1 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-n1 .navbar-caption {
+  color: #ffffff;
+}
+#menu-n1 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-n1 .link,
+#menu-n1 .dropdown-item {
+  color: #ffffff;
+}
+#menu-n1 .link {
+  font-size: 0.75rem;
+}
+#menu-n1 .dropdown-item,
+#menu-n1 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-n1 .link:hover,
+#menu-n1 .dropdown-item:hover,
+#menu-n1 .link:focus,
+#menu-n1 .dropdown-item:focus {
+  color: #91bdae;
+}
+#menu-n1 .link[aria-expanded="true"],
+#menu-n1 .dropdown-menu {
+  background: #0a1a16;
+}
+#menu-n1 .nav-dropdown-sm .link:focus,
+#menu-n1 .nav-dropdown-sm .link:hover,
+#menu-n1 .nav-dropdown-sm .dropdown-item:focus,
+#menu-n1 .nav-dropdown-sm .dropdown-item:hover {
+  background: #13352b!important;
+}
+#menu-n1 .navbar,
+#menu-n1 .nav-dropdown-sm,
+#menu-n1 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-n1 .nav-dropdown-sm .dropdown-menu {
+  background: #174034;
+}
+#menu-n1 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-n1 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-n1 .bg-color.transparent.opened .link:hover,
+#menu-n1 .bg-color.transparent.opened .link:focus {
+  color: #91bdae;
+}
+#menu-n1 .link[aria-expanded="true"],
+#menu-n1 .dropdown-item[aria-expanded="true"] {
+  color: #91bdae!important;
+}
+#menu-n1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-n1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-n1 .close-icon::before,
+#menu-n1 .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box7-n5 .mbr-section-title,
+#msg-box7-n5 .lead p {
+  color: #fff;
+}
+#msg-box7-n8 .mbr-section-title,
+#msg-box7-n8 .lead p {
+  color: #fff;
+}
+#msg-box7-nb .mbr-section-title,
+#msg-box7-nb .lead p {
+  color: #fff;
 }
