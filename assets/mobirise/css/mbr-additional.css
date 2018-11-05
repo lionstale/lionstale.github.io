@@ -6778,6 +6778,12 @@ h6,
 #msg-box7-nb .lead p {
   color: #fff;
 }
+#header1-nk .mbr-section-title {
+  color: #ffffff;
+}
+#header1-nk .mbr-section-lead {
+  color: #ffffff;
+}
 #menu-ni .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -6844,10 +6850,4 @@ h6,
 #menu-ni .close-icon::before,
 #menu-ni .close-icon::after {
   background-color: #ffffff;
-}
-#header1-nk .mbr-section-title {
-  color: #ffffff;
-}
-#header1-nk .mbr-section-lead {
-  color: #ffffff;
 }
