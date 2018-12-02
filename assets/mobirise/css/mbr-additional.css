@@ -6552,6 +6552,12 @@ h6,
 #menu-me .close-icon::after {
   background-color: #ffffff;
 }
+#header1-mr .mbr-section-title {
+  color: #b8312f;
+}
+#header1-mr .mbr-section-lead {
+  color: #ffffff;
+}
 #menu-mp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -6618,12 +6624,6 @@ h6,
 #menu-mp .close-icon::before,
 #menu-mp .close-icon::after {
   background-color: #ffffff;
-}
-#header1-mr .mbr-section-title {
-  color: #b8312f;
-}
-#header1-mr .mbr-section-lead {
-  color: #ffffff;
 }
 #menu-mt .hide-buttons .nav-btn {
   display: none !important;
