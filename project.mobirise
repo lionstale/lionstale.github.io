@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page74.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -3490,7 +3490,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6003.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -23415,7 +23415,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23431,7 +23431,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man5.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -26796,7 +26796,7 @@
     },
     "page74.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "A beautiful collection of art work by a great number of St. John's students.",
         "title": "Winter Art Show",
         "order": 1
       },
