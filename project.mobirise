@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page74.html",
+    "currentPage": "index.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -21,18 +21,18 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#174034",
         "#5196de",
         "#cacae5",
         "#2e2e2e",
         "#eab4b2",
         "#e7d6aa",
-        "#e2c89d",
-        "#5e5546"
+        "#e2c89d"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 897,
-    "versionPublish": "4.8.6",
+    "uniqCompNum": 937,
+    "versionPublish": "4.8.10",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112402344-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112402344-1');\r\n</script>\r\n",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 11
+        "order": 15
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 16
+        "order": 20
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 18
+        "order": 22
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Entertainment",
         "meta_descr": "Website Maker Description",
-        "order": 12
+        "order": 16
       },
       "components": [
         {
@@ -1162,7 +1162,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 20
+        "order": 24
       },
       "components": [
         {
@@ -1936,7 +1936,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 17
+        "order": 21
       },
       "components": [
         {
@@ -2237,7 +2237,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 21
+        "order": 25
       },
       "components": [
         {
@@ -3490,7 +3490,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3810,7 +3810,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 4
+        "order": 8
       },
       "components": [
         {
@@ -4077,7 +4077,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 50
+        "order": 54
       },
       "components": [
         {
@@ -4323,7 +4323,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 57
+        "order": 61
       },
       "components": [
         {
@@ -4965,7 +4965,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 15
+        "order": 19
       },
       "components": [
         {
@@ -5264,7 +5264,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 10
       },
       "components": [
         {
@@ -5292,7 +5292,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-4610-1242x1078.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-10-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -5309,9 +5309,9 @@
               "size": 250
             }
           },
-          "title": "The Summer I Discovered James Dean",
-          "text": "A photo journey created by a senior about her travels this summer<br><br>By: Debora Bruno",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page69.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Valentine's Day <br>Story Countdown",
+          "text": "Every week or two, we will post a story or a few <br>of how a teacher met their spouse in bistro or alehouse <br>bringing Valentine's Day magic and the love without which life would be tragic.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page75.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -5596,7 +5596,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 54
+        "order": 58
       },
       "components": [
         {
@@ -6256,7 +6256,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 48
+        "order": 52
       },
       "components": [
         {
@@ -6535,7 +6535,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 7
+        "order": 11
       },
       "components": [
         {
@@ -6685,7 +6685,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 52
+        "order": 56
       },
       "components": [
         {
@@ -7306,7 +7306,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 71
+        "order": 76
       },
       "components": [
         {
@@ -7507,7 +7507,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 55
+        "order": 59
       },
       "components": [
         {
@@ -7801,7 +7801,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 53
+        "order": 57
       },
       "components": [
         {
@@ -8034,7 +8034,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 42
+        "order": 46
       },
       "components": [
         {
@@ -8390,7 +8390,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 68
+        "order": 72
       },
       "components": [
         {
@@ -8582,7 +8582,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 70
+        "order": 75
       },
       "components": [
         {
@@ -8856,7 +8856,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 32
+        "order": 36
       },
       "components": [
         {
@@ -9102,7 +9102,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 56
+        "order": 60
       },
       "components": [
         {
@@ -9367,7 +9367,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 13
+        "order": 17
       },
       "components": [
         {
@@ -9937,7 +9937,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 23
+        "order": 27
       },
       "components": [
         {
@@ -10595,7 +10595,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 60
+        "order": 64
       },
       "components": [
         {
@@ -10820,7 +10820,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 46
+        "order": 50
       },
       "components": [
         {
@@ -11165,7 +11165,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 28
       },
       "components": [
         {
@@ -11504,7 +11504,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 62
+        "order": 66
       },
       "components": [
         {
@@ -11696,7 +11696,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 31
+        "order": 35
       },
       "components": [
         {
@@ -11888,7 +11888,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 58
+        "order": 62
       },
       "components": [
         {
@@ -12303,7 +12303,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 5
+        "order": 9
       },
       "components": [
         {
@@ -12430,7 +12430,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 29
+        "order": 33
       },
       "components": [
         {
@@ -13743,7 +13743,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 39
       },
       "components": [
         {
@@ -14032,7 +14032,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 25
+        "order": 29
       },
       "components": [
         {
@@ -14697,7 +14697,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 37
+        "order": 41
       },
       "components": [
         {
@@ -14976,7 +14976,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 27
+        "order": 31
       },
       "components": [
         {
@@ -15201,7 +15201,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 3
+        "order": 7
       },
       "components": [
         {
@@ -15394,7 +15394,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 38
+        "order": 42
       },
       "components": [
         {
@@ -15718,7 +15718,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 66
+        "order": 70
       },
       "components": [
         {
@@ -15914,7 +15914,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 8
+        "order": 12
       },
       "components": [
         {
@@ -16241,7 +16241,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 64
+        "order": 68
       },
       "components": [
         {
@@ -16437,7 +16437,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 33
+        "order": 37
       },
       "components": [
         {
@@ -16569,7 +16569,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 26
+        "order": 30
       },
       "components": [
         {
@@ -16947,7 +16947,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 61
+        "order": 65
       },
       "components": [
         {
@@ -17178,7 +17178,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 59
+        "order": 63
       },
       "components": [
         {
@@ -17509,7 +17509,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 67
+        "order": 71
       },
       "components": [
         {
@@ -17705,7 +17705,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 44
+        "order": 48
       },
       "components": [
         {
@@ -17899,7 +17899,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 63
+        "order": 67
       },
       "components": [
         {
@@ -18137,7 +18137,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 9
+        "order": 13
       },
       "components": [
         {
@@ -18387,7 +18387,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 10
+        "order": 14
       },
       "components": [
         {
@@ -18604,7 +18604,7 @@
       "settings": {
         "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
-        "order": 34
+        "order": 38
       },
       "components": [
         {
@@ -18795,7 +18795,7 @@
       "settings": {
         "title": "Book Recommendations Summer",
         "meta_descr": "A great list of book to read this spring and summer season.",
-        "order": 30
+        "order": 34
       },
       "components": [
         {
@@ -19995,7 +19995,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 45
+        "order": 49
       },
       "components": [
         {
@@ -20193,7 +20193,7 @@
       "settings": {
         "meta_descr": "St. John's First Student-Designed Fashion Shoot\n",
         "title": "Fashion Show",
-        "order": 39
+        "order": 43
       },
       "components": [
         {
@@ -20915,7 +20915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 65
+        "order": 69
       },
       "components": [
         {
@@ -21108,7 +21108,7 @@
       "settings": {
         "meta_descr": "IB Senior Final Art Show",
         "title": "Final Senior Art Show",
-        "order": 40
+        "order": 44
       },
       "components": [
         {
@@ -21545,7 +21545,7 @@
       "settings": {
         "meta_descr": "University Choices - A Leap of Faith",
         "title": "Leap of Faith",
-        "order": 47
+        "order": 51
       },
       "components": [
         {
@@ -21806,7 +21806,7 @@
       "settings": {
         "meta_descr": "This is a travel blog discussing the trip.",
         "title": "Maitland Cottage Home Trip",
-        "order": 51
+        "order": 55
       },
       "components": [
         {
@@ -22505,7 +22505,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 72
+        "order": 77
       },
       "components": [
         {
@@ -22712,7 +22712,7 @@
       "settings": {
         "meta_descr": "Isaiah Lowney's Tips for the Amateur Guitarist",
         "title": "Informal Tips for the Beginner/Intermediate Guitarist ",
-        "order": 43
+        "order": 47
       },
       "components": [
         {
@@ -23235,7 +23235,7 @@
       "settings": {
         "meta_descr": "Here is our page of memes created by STJ students.\n",
         "title": "Memes",
-        "order": 14
+        "order": 18
       },
       "components": [
         {
@@ -23415,7 +23415,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23431,7 +23431,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man5.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23489,7 +23489,7 @@
       "settings": {
         "meta_descr": "An interview with the new American Ambassador.",
         "title": "Ambassador Interview",
-        "order": 22
+        "order": 26
       },
       "components": [
         {
@@ -23775,7 +23775,7 @@
       "settings": {
         "meta_descr": "This is a series of article \"episodes\" explaining complicated concepts in uncomplicated ways.",
         "title": "\"For Dummies\" Series",
-        "order": 19
+        "order": 23
       },
       "components": [
         {
@@ -24029,7 +24029,7 @@
       "settings": {
         "meta_descr": "A simple and entertaining explanation of fiscal policy by Isaiah Lowney. ",
         "title": "Fiscal Policy for Dummies",
-        "order": 41
+        "order": 45
       },
       "components": [
         {
@@ -24192,7 +24192,7 @@
       "settings": {
         "meta_descr": "A photo journey created by a senior about her travels this summer",
         "title": "Debora's Photos",
-        "order": 36
+        "order": 40
       },
       "components": [
         {
@@ -25257,7 +25257,7 @@
       "settings": {
         "meta_descr": "Our Lion's Tale Podcasts",
         "title": "Podcasts",
-        "order": 2
+        "order": 6
       },
       "components": [
         {
@@ -25453,7 +25453,7 @@
       "settings": {
         "meta_descr": "A Quick Guide to Working Out",
         "title": "Working Out for Dummies",
-        "order": 69
+        "order": 74
       },
       "components": [
         {
@@ -25690,7 +25690,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "London Calling",
-        "order": 49
+        "order": 53
       },
       "components": [
         {
@@ -26309,7 +26309,7 @@
       "settings": {
         "meta_descr": "The first art show of the year.",
         "title": "Art Show 2018 #1",
-        "order": 28
+        "order": 32
       },
       "components": [
         {
@@ -26798,7 +26798,7 @@
       "settings": {
         "meta_descr": "A beautiful collection of art work by a great number of St. John's students.",
         "title": "Winter Art Show",
-        "order": 1
+        "order": 73
       },
       "components": [
         {
@@ -27677,6 +27677,1313 @@
           ],
           "_name": "content1",
           "_anchor": "content1-oo"
+        }
+      ]
+    },
+    "page75.html": {
+      "settings": {
+        "meta_descr": "Stories of how STJ teachers met their spouses",
+        "title": "Valentine's Day Love Stories",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/reWDbgfdNrU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/reWDbgfdNrU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Valentines' Day <br>Story Countdown",
+          "text": "Every week or two, we will post a story or a few <br>of how a teacher met their spouse in bistro or alehouse&nbsp;<br>bringing Valentine's Day magic and the love without which life would be tragic.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-oz"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-ox"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-10-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "International Romances",
+          "text": "Stories of long distance and celebrating culture.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page76.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-p0"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-oy"
+        }
+      ]
+    },
+    "page76.html": {
+      "settings": {
+        "meta_descr": "Stories of long distance and celebrating culture.",
+        "title": "International Romances",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "International Romances",
+          "text": "Stories of long distance and celebrating culture.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-p3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mr. Prowse",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p4"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“My wife walked into a lecture hall, late, a couple of weeks into a semester in Finland. I was on an exchange and she was doing Erasmus, and my immediate impression was, “wow, when that girl is embarrassed, she really blushes.” And yeah, we were studying together. I was otherwise attached at the time, but that didn’t prevent us – my now-wife and I – having some interactions. She had friends over for cups of tea at her place that she was sharing with other University students. A couple of times, when she had these tea parties, no one else hung around to help clean up the dishes, so I did, and we got to know each other and that was nice. We even played a game of tennis one time. And then I went back to Australia and really that was all the contact we had. And I left thinking she was a really nice girl. I came home and my other attachment – that relationship – it wrapped up. I got the nerve to get back in touch with my now-wife 18 months later. Fortunately, I hadn’t lost the note paper with her email written on it, and even more fortunately she hadn’t changed email addresses. We’ve talked at length about how important that little piece of paper has been to our intervening years. I eventually came over to visit under the pretense of “meeting other friends in Europe,” but really just to spend time with her. She later came out to Australia, and then I moved over here, and we got married soon after. \r</p><p>I’ve glossed over some of the more shameful parts. Perhaps I ought to have gotten in touch with her a long time earlier – I just couldn’t bring myself to imagine that that kind of girl would sustain a long-distance relationship with a bloke like me. But eventually I mustered the courage and I’m terribly glad I did. I thank my lucky stars every day that she was silly enough to say yes.”\r</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p5"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-p1"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Dr. Castillo",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p6"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“I had an Italian friend, a female friend – Morena. She was a very lively person, who from time to time had friends over. She would organize drinks in different cafés in Leuven. I also had another friend – John – from Ireland. He also had a good number of friends, and organized drinks in cafés from time to time. One day, Morena was invited to drinks by one of John’s friends, and I was invited by John. Morena brought along another friend of hers whose name was Veronique. We all got together, a huge group, probably about 20 people, in the café called Todos in Leuven which produced many different kinds of beer. Anyway, it was there, having a drink with this diverse group of people, where I met my wife for the first time. I remember we were having a big discussion – in those days people always had discussions about issues present in the international student community or in the city. The funny part of the conversation was that everybody was speaking their own language – Flemish, Portuguese, French, Italian – it was always a mixture of languages. The topic at that moment was integration, and whether international students should integrate and to what extent – and in that broad discussion, I had an exchange of ideas with Veronique. She was Flemish, defending her culture, and I was international, defending my community. And ever since, here we are. We’ve already been together for 18 years.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mr. van Rijn",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“I met my wife in the spring of 1986 in a Parisian “bistro” which is French for a bar. I was doing an internship with the gas and oil company, Shell, and my wife was doing a semester abroad. We met through Michele’s college buddy because I wanted to get a scholarship at the university Michele was going to. That weekend, we chatted each other up at a birthday party and continued the night at a dance club. That’s sort of the gist of it. We traveled together for 6 weeks through Europe. She went back to California; I went back to the Netherlands, but we wrote every day. We traveled together across the United States, as well. The rest is history. We’re obviously from two different continents, and just happened to be in the same place at the same time. It wasn’t until two years after we met that we got married. We’ve been married for 30 years. Most of your parents are newlyweds compared to us.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Edited By: Aimee Dastin-van Rijn",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-q0"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-p2"
+        }
+      ]
+    },
+    "page77.html": {
+      "settings": {
+        "meta_descr": "Where better to fall in love than on the job?",
+        "title": "Workplace Romance",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Workplace Romance",
+          "text": "Where better to fall in love than on the job?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-pc",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-lead": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-pa"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-pb"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mr. Diedrich",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pd"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“I met Joan Farrell at the beginning of the 2015-2016 school year. She came to St Johns from Ireland on a one-year maternity contract, filling in for Ms. Borgmastars. Although she enjoyed her life teaching in Ireland, she had gotten to a point in her career where she was ready for an adventure, or at the very least, something new. She went to a jobs fair and was offered positions in China and Kazakhstan, in addition to Belgium. Wanting not to go too far from home, thankfully, she chose the latter.\n</p><p><br></p><p>Joan claims that when we first met in the St. John’s cafeteria it was love at first sight for her. For me, just having recently divorced and moved into an apartment on my own, I suppose I wasn’t in the same head-space of looking for love. I did notice she had many rings on her fingers, so I assumed she was married. For the first two months or so of the year, we really didn’t chat much or hang out at all. I was completely oblivious to the fact that she liked me. \n</p><p><br></p><p>In an effort to grab my attention, Joan threw a little party at her apartment, to which she invited a number of our colleagues. She made sure to invite Mr. Prowse, who, at the time, I was carpooling with to and from Leuven where I live.  We had tapas and played Cards Against Humanity. At a certain point in the evening, it became evident that Joan was a lot more interested in me than our other colleagues and after kissing me out on her balcony, asked me if I wanted to go on a date. I said sure. When it came to actually setting the date, I said, “Let’s play it by ear.” And then I sort of forgot to actually set the date.\n</p><p><br></p><p>A week went by and Joan was really regretting having revealed her amorous intentions as I seemed to be blowing her off. In my defense, there was a serious refugee crisis going on at the time and I had small Afghani family living with me, so I was a bit distracted. Anyway, a mutual friend asked me at the end of the week if I ever went out on the date with Joan and scolded me when I said I had neglected to set it. I finally went up to her, quite sheepish, and asked her out to dinner to her great relief. One date led to the next, and we very quickly realized how well we interacted and how much we had in common. We fell in love and I’m happy to say that every day I love her even more than the last. I went from the world’s biggest sceptic about love to a believer in soul mates within an incredibly short span of time. Our story is living proof that just about anything can happen with love.”\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-pe"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Coach Anthony",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pf"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“I met my wife when we were both working at Imperial College in London. I was coordinating all the sports activities for the students and staff. She was a swimming coach and was working on our campus, using our facilities for an external company. That was when she and I first started talking and then she started working with some of our elite athletes at the university. Suddenly, I started to take more of an interest in swimming – I was spending a lot more time at the sports swimming pool, trying to ‘woo’ her. What’s it called? When you’re in that period of trying to impress somebody?”\n</p><p><br></p><p>[Eli]: Chase?\n</p><p><br></p><p>“Not the modern word, the formal word… Courting!”\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-pg"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Edited By: Aimee Dastin-van Rijn",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-pz"
+        }
+      ]
+    },
+    "page78.html": {
+      "settings": {
+        "meta_descr": "Sometimes the universe seems to know best ",
+        "title": "Lucky Coincidences",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lucky Coincidences",
+          "text": "Sometimes the Universe Seems to Know Best&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-pj",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mme. Froidcoeur",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pk"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-ph"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“When I came back from the states, I went to Louvain la Neuve University to do a masters in international relations. I had a few friends. We were all a little bit older than the kids who were at school. One evening this one friend said, ‘let’s all go to the movies!’. I said okay. I get to the movie theatre, and she’s not there, but there are two other people that I recognize from class – this is before cell phones and all that. I think “okay, well, she’s not there.” But then we start talking, ‘Are you here to meet Isabelle?”, “Yes!”, “And you?”, “Yes!”. And so we ended up going into the movie – Isabelle never showed up. After the movie, we went to go look for our mutual friend, and we found out that she had had a fight with her boyfriend, and that’s why she hadn’t shown up. But we thought, “Hey, we’re having a good time, let’s all go out.” So we all went to a bar, and I started talking to these two people, a girl and a guy. Immediately, I thought, “This guy’s really nice, I really like this guy!” He had grown up in the states, he had this parallel story – similar culture, similar things. And as the evening was progressing, I was meeting his brothers, because he’s got 5 brothers, so they kept coming into the bar. And I was like “woah, what a crazy family.” Later on, I thought, “Hm I really, really like this guy.” A few days later, I get home, and my mom says, “This guy Laurent called for you.” I’m like, “Laurent? Are you sure it was Laurent?” – because it was the brother that called for me! I didn’t call him back. Eventually, my husband and I started going out, even though the first one that called to ask me out was another one of the brothers.</p><p><br></p><p> \n</p><p>\n</p><p>And the fun story is that the other girl that was with us at the movie theatre, ended up being Zoe’s godmother. The two people that I met, perchance, at that movie theatre, ended up being very important people in my life!”\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-pl"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Dr. Hausdorff",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pm"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“I met my husband in college. We were both at a small liberal arts college in Minnesota. I was choreographing a piece that had a number of couples in it, and I needed male dancers. He was taking a dance class for PE credit. He volunteered to do the dance. At the time, I was a sophomore and he was a junior. We were friendly but weren’t dating; we ran in different circles. He was a scientist, spent a lot of time in the lab… and I was in the dance studio most of the time, or the English classroom. Our worlds crossed at college parties at political rallies. And so we were friends, but not particularly close friends in college. About 4 years after I graduated, I was living in New York city and working in a school. He was doing a PHD down at John Hopkins University and working in DC. Some friends and I were going on a ski trip, and we were inviting other people to come along. Then, one of our mutual friends said, “I’m going to invite Bill! You remember him! You guys are really going to hit it off!” – And we did. So, this group of about 8 or so of us went on the ski trip, and we spent the weekend having a good time together. Then, him being in Washington and me being in New York, we started talking on the phone in the evenings and seeing each other on the weekends. Eventually I moved to Washington, and there you go!”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-pn"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Edited By: Aimee Dastin-van Rijn",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-px"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-pi"
+        }
+      ]
+    },
+    "page79.html": {
+      "settings": {
+        "meta_descr": "Happy Valentine's Day!",
+        "title": "Final Touches",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Final Touches",
+          "text": "Happy Valentine's Day!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-pq",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            },
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Martine",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pr"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-po"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“We met at the disco… Well, he was playing basketball, and I used to go to games because my father was a referee. That’s how I got to meet him. And you know… at the disco – you start to dance together, you see where it all leads, and voilà! – 37 years. So yeah, that’s the story, nothing much to it.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ps"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mme. Ruscher",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pt"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“Well, it’s very simple. For my first job I was living in Strasbourg in France. One of my brothers already lived in Brussels – he went there for his studies and basically never left. At his job, there was this Finnish-Italian guy who he met and they got along very well. One weekend, I went to visit my brother because there was a jazz festival in Brussels. I had already been the year before and really enjoyed it. I had said, ‘Next year, I’m going to be back’, and I was. My brother and his girlfriend invited my future husband to join us for the first night. I was coming by train from France and they picked me up at the station. Well, he was there. And it was le ‘coup-de-foudre’. We were together that same weekend, and he asked me to marry him a week later.”</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-pu"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mr. Jones",
+          "meta": "Interviewed By Andreea Samareanu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-pv"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“It would have been one October – or was it November? – some thirty years ago. We were walking down the street and the leaves were falling – oak leaves, tea leaves, leaves the colour of faded pages from well-thumbed paperbacks whispering of a previous century. We had just been to Marcel’s, a charming little café near the World’s End, to have tea and some of those delightful little cakes with the French sounding name.\n</p><p>&nbsp;\n</p><p>The street lights were humming out into the darkness although I didn’t recognise the tune. There was also a stir and bustle high up above our heads somewhere in the Crab Nebula. Out of the corner of my eye, I saw the pavement begin to rise in the direction of the sky and then I realised that they must be building an overpass.\n</p><p>&nbsp;\n</p><p>My heart beat like a Kenwood Chefette Handmixer as her face came close to mine. She was white in the moonlight and resembled the Venus de Milo only with more clothes and a full complement of arms. I knew that when I kissed her, I would no longer be able to romp in my bedroom playing air guitar to Dark Side of the Moon. So, I waited to strike a fork against a tin of Carnation milk, but there were none to be found.\n</p><p>&nbsp;\n</p><p>My lips parted like an IB student beginning their Individual Oral at the green light winking from the mp3 recorder across the table. But they made no sound and what I had almost remembered was uncommunicable … forever …\n</p><p>&nbsp;\n</p><p>(Thomas Parke d’Invilliers)”\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-pw"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Edited By: Aimee Dastin-van Rijn",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-py"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-pp"
         }
       ]
     }
