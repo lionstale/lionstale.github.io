@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Archives",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 937,
+    "uniqCompNum": 945,
     "versionPublish": "4.8.10",
     "favicon": "",
     "noImageResize": "",
@@ -2333,7 +2333,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x375.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-5267-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2367,9 +2367,9 @@
           "title3": "Quilters' Community <br>Art Show",
           "subtitle3": "Written By: Aimee Dastin-van Rijn",
           "caption3": "A beautiful presentation of a variety of quilts - a combination of community, history, and love all in artistically designed fabric.",
-          "title4": "Coming Soon",
-          "subtitle4": "Who Will Write Next?",
-          "caption4": "More articles being written... literary genius takes time. :)",
+          "title4": "IB Visual Art Winter&nbsp;<div>Show and MHS Art and&nbsp;</div><div>Design Showcase</div>",
+          "subtitle4": "Written By: Aimee Dastin-van Rijn",
+          "caption4": "A beautiful collection of artwork by a great number of St, John's Students.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2379,7 +2379,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page72.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page71.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page73.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page74.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -3490,7 +3490,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4077,7 +4077,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -4323,7 +4323,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -5527,7 +5527,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page74.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x369.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5536,10 +5536,10 @@
               "title": ""
             }
           },
-          "title4": "Maitland Cottage Hospital Trip Travel Blog",
-          "subtitle4": "Written By: Juliette Smeys",
-          "caption4": "A travel blog about the recent high school summer trip to South Africa to provide assistance for the Maitland Cottage Hospital.",
-          "button4": "<a data-app-btn=\"true\" href=\"page62.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "The Nature and History of Central Banking",
+          "subtitle4": "Written By: Isaiah Lowney",
+          "caption4": "A (not so) breif history of Central Banking.",
+          "button4": "<a data-app-btn=\"true\" href=\"page80.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -5596,7 +5596,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 58
+        "order": 59
       },
       "components": [
         {
@@ -6256,7 +6256,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -6685,7 +6685,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 56
+        "order": 57
       },
       "components": [
         {
@@ -7306,7 +7306,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 76
+        "order": 77
       },
       "components": [
         {
@@ -7507,7 +7507,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 59
+        "order": 60
       },
       "components": [
         {
@@ -7801,7 +7801,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -8390,7 +8390,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 72
+        "order": 73
       },
       "components": [
         {
@@ -8582,7 +8582,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 75
+        "order": 76
       },
       "components": [
         {
@@ -9102,7 +9102,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -10595,7 +10595,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -10820,7 +10820,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -11504,7 +11504,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -11888,7 +11888,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -15718,7 +15718,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 70
+        "order": 71
       },
       "components": [
         {
@@ -16241,7 +16241,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -16947,7 +16947,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -17178,7 +17178,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -17509,7 +17509,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 71
+        "order": 72
       },
       "components": [
         {
@@ -17705,7 +17705,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -17899,7 +17899,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -19995,7 +19995,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -20915,7 +20915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 69
+        "order": 70
       },
       "components": [
         {
@@ -21545,7 +21545,7 @@
       "settings": {
         "meta_descr": "University Choices - A Leap of Faith",
         "title": "Leap of Faith",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -21806,7 +21806,7 @@
       "settings": {
         "meta_descr": "This is a travel blog discussing the trip.",
         "title": "Maitland Cottage Home Trip",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -22505,7 +22505,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 77
+        "order": 78
       },
       "components": [
         {
@@ -22712,7 +22712,7 @@
       "settings": {
         "meta_descr": "Isaiah Lowney's Tips for the Amateur Guitarist",
         "title": "Informal Tips for the Beginner/Intermediate Guitarist ",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -23415,7 +23415,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23431,7 +23431,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man5.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -25453,7 +25453,7 @@
       "settings": {
         "meta_descr": "A Quick Guide to Working Out",
         "title": "Working Out for Dummies",
-        "order": 74
+        "order": 75
       },
       "components": [
         {
@@ -25690,7 +25690,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "London Calling",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -26798,7 +26798,7 @@
       "settings": {
         "meta_descr": "A beautiful collection of art work by a great number of St. John's students.",
         "title": "Winter Art Show",
-        "order": 73
+        "order": 74
       },
       "components": [
         {
@@ -27819,6 +27819,58 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x930.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Workplace Romance",
+          "text": "Where better to fall in love than on the job?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page77.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-q1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
@@ -28339,7 +28391,7 @@
             "bgColor": "#fff"
           },
           "title": "Mr. Diedrich",
-          "meta": "Interviewed By Andreea Samareanu",
+          "meta": "Interviewed By Ilinca Maria-Manda",
           "_tags": [
             "Theme"
           ],
@@ -28984,6 +29036,181 @@
           },
           "text": "St. John's International School",
           "_anchor": "footer1-pp"
+        }
+      ]
+    },
+    "page80.html": {
+      "settings": {
+        "meta_descr": "A (not so) brief history of central banking. ",
+        "title": "History and Nature of Central Banking",
+        "order": 47
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-q2"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-q3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q6"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "THE NATURE AND HISTORY OF <br>CENTRAL BANKING",
+          "text": "Written By: Isaiah Lowney",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-q8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<div>Over the winter break, I was introduced to the Buddhist concept of interbeing. This term encompasses the belief that we cannot survive absolutely alone. All that we have and consume is the product of na-ture and society. The standard of living which we now take for granted is the product of a long history of societal progression and the development of our natural world – the biosphere.</div><div><br></div><div> \n</div><div>Interbeing is about learning to appreciate the past and present forces which have given most of us the privilege of such an extraordinary standard of living. One way to acknowledge the refinement of the natural world and human civilization, is to expose one of the myriad of histories which have contributed to the standard of living of these modern times. I think the historical aspect is important because it allows us to understand the refinement which comes with time, and which is present in all perceivable things from the universe to rocks to mathematics . . . to central banks.</div><div><br></div><div>\n</div><div>This is a (sort of) brief history of central banking (with emphasis on the Federal Reserve), a simplified account of its purpose in society, and where it stands today.</div><div>________________________________________________________________________________________________________________________________________________________</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>You might recently have heard about the effect of Trump’s negative comments on Jerome Powell’s Fed policymaking on U.S. financial markets. Perhaps you’ve seen headlines about the interest rate de-cisions of Janet Yellen and Mario Draghi, or politicians criticizing ‘quantitative easing’. In the past decade, you might have heard of the serious allegations held against Alan Greenspan about the failure to foresee the Financial Crisis (2007-2008), an explosive end to the Great Moderation period (1986-2006). Maybe you’re unfamiliar with these names and terms. Regardless, I believe that central banking and monetary policy is worth understanding. It’s a bit like getting the chance to meet your guardian angel, or, for the atheists and young scholars among us, having the chance to buy a beer for Sal Khan (if you don’t know Sal Khan, you were in high school before 2007).</div><div><br></div><div>\n</div><div>I aim to strip away the negativity which accompanies these times of economic and political uncertainty, and hopefully, the lack of clarity which accompanies the technical jargon involved, to describe the history and nature of central banks.</div><div><br></div><div>\n</div><div>Before explaining what central bankers actually do, it’s important to differentiate between central banks and commercial banks, as well as establish what interest rates are. I recently mentioned to my sister that I’m interested in a career in central banking, and her reaction was understandably negative. Understandably, because we’d just watched The Big Short, and because she, like many others, assumed that a central banker is the kind of person who is like the boys in that film (if you haven’t seen The Big Short, I’d highly recommend it for its humor, acting, and accurate depiction of the nonsense in commercial banking up until 2008).</div><div><br></div><div>\n</div><div>In simple terms, a commercial bank is a bank which lends money to individuals and firms, manages their savings, and purchases and manages assets, such as homes, stocks, and bonds (Examples of commercial banks include Wells Fargo, BNP Paribas, ING, and Barclays). Most importantly, commercial banks are private, for-profit institutions. However, they don’t just have reserves of money. They own assets, such as stocks, bonds, and houses. An asset is a non-monetary item of value which can change over time, such as houses, stocks, and bonds. The reserves of money and assets which banks own are their reserves. This is an important concept to understand in order to comprehend the strains of financial panics and crises. The profits of commercial banks come from their ability to use depositor’s money for loans. They charge a higher interest rate for loans than for savings, and therein lie the profits. This leads me to my next two definitions, reserve requirements and loans. It should be noted that there are other types of banks, such as investment banks (JP Morgan, Goldman Sachs, Citi-bank), but I won’t go into any of these in detail, because they don’t really relate to average Joes like us. The point is, they all make profits.</div><div><br></div><div>\n</div><div>Loaning depositors’ money seems very risky because it is. If a bank loaned all of its deposits out, and for whatever reason, everyone came back to the bank to take all of their money out, the bank would default (this is known as a bank run). That’s bankruptcy. So, central banks eventually decided to set what’s known as a reserve requirement, which is the minimum percentage of a bank’s total ‘deposit liabilities’ that it must hold at all times. Currently, this is 10% in the US, 1% in the EU, 17% in China, and 4% in Russia. Countries like Britain, Australia, Canada, and Sweden, don’t have reserve requirements, and instead have capital requirements. This is the same as reserve requirements, except that it is a minimum percentage in risk-weighted assets, which are assets which are weighted by their riskiness (e.g. Penny stocks and commodity-backed bonds are wildly risky, whereas an inflation-adjusted US Treasury bond is probably the safest thing money can buy; this is weighted somehow). Most countries, except China, don’t change these often, because if they raised the requirements, banks with small excess reserves could quickly have solvency (defined later) issues.</div><div><br></div><div><span style=\"font-size: 1.07rem;\">Interest rates can be defined as the cost of borrowing and the return on savings. When we borrow money from commercial banks, we’re expected to pay it back to the bank over time. But because banks are for profit institutions, they expect to receive a percentage of the loan back in addition to the original amount to be repaid – the cost of borrowing. When we put our money in savings accounts, a percentage of the sum of money in the account is added periodically – the return on savings. These percentages are the interest rates. Typically, the interest rates for borrowing are higher than the interest on savings, and therein lie the profits for commercial banks.</span></div><div><br></div><div>It may seem strange that money is just put into our bank accounts randomly, based on some number. The reason has to do with incentives. This is the influence of the central bank over our actions. As I’ll explain later, interest rates are determined by central banks. If interest rates were 100%, or some other crazy number, we’d all have our money in savings accounts, getting phenomenal returns, rather than being out spending it on random junk. After a year or two, we’d have a pretty good stack of cash. Interest rates at 100% would a) never happen, and b) cause a total catastrophe, but the example works. Interest rates in the double digits tend to be rare (they’ll be discussed later, along with Paul Volcker)<b>1</b>.</div><div><br></div><div><b>1 For further reading on this, look up Paul Volcker. As Chairman of the Federal Reserve, he brought about double-digit interest rates (the federal funds rate surpassed 20%), essentially engineering a reces-sion, to successfully end the high inflation of the 1970s.&nbsp;</b></div><div><br></div><div> \n</div><div>The modern central bank is a financial institution responsible for helping out consumers. Consumers are people, like you and me, who buy goods and services, take out loans, and keep our money in savings accounts. Central bankers maintain our wellbeing by changing interest rates and influencing the monetary base to keep our inflation, aka our purchasing power, at an optimal level.  The monetary base is essentially the sum of money in our pockets, on our credit cards, in our bank accounts, and in commercial banks’ reserves. It’s the money in circulation.</div><div><br></div><div>\n</div><div>The Sveriges Riksbank, started in 1688, is widely recognized as the first central bank. Its function was to manage Sweden’s gold reserves, provide lending assistance to banks, and purchase government debt. It was the successor to the Stockholms Banco, which, being the first institution to print bank-notes, went bankrupt after issuing too many loans without collateral (insurance on a loan, lowering the risk for the lender. If you stop paying your mortgage, the collateral is the house, which the bank takes back (foreclosure)). While irrelevant, it’s worth noting that the founder of the Stockholms Banco, Jo-han Palmstruck, was sentenced to death after the bankruptcy, although he was later granted clemency.</div><div><br></div><div> \n</div><div>Six years later, in 1694, the Bank of England was created (originally called the Governor and Company of the Bank of England). Similarly, to the Sveriges Riksbank, the Bank of England was chartered as a joint stock bank, which means that it had shareholders, and therefore made profits. While there was an altruistic aspect to their operations — buying the government’s debt, facilitating government transactions, and maintaining the gold standard — they were far from the public-serving institutions which we have today.</div><div><br></div><div> \n</div><div>Early central banks had large financial reserves, and had far-reaching influence, as opposed to local commercial banks. Thus, central banks began to make loans to commercial banks. Alongside loans in times of economic stability, they also provided emergency funds in times of financial panic, as long as the borrowing bank was a “solvent financial institution,” which basically means that their debts didn’t outweigh their credits (they weren’t bankrupt). This concept of a bank for banks is vitally important in understanding the history and use of central banks. When firms fail, they’re bailed out by banks, and when banks fail, they’re bailed out by central banks. <i>Or not</i>.</div><div><br></div><div>  \n</div><div>To clarify this, the definition, causes, and effects of financial panics must first be understood. A financial crisis or panic is an event in which asset risk rises substantially (stocks and bonds go bad), and the demand for liquidity surges (becomes extremely high). Liquidity (I know, the definitions are snowballing), is basically cold, hard cash. When liquidity demand rises, more people want their money taken out of banks, and in their pockets.</div><div><br></div><div> \n</div><div>Extreme demand for liquidity can arise from many situations, such as bad harvests, bad rumors (think expectations), a popular bank failing, or other events which either undermine confidence in banks, or cause people’s incomes to fall in such fashion that they require loans. If there is such high demand for liquidity that commercial banks cannot cover it with their available reserves, they have to force borrowers to pay back their loans more quickly, and if borrowers don’t have the money to pay the banks back, they’ll need loans! This would put even more pressure on the banks, which are already in an understandably strained state. The vicious cycle continues, and can be hard to break. As you can see, financial panics are basically when the banking system spirals out of control. Even when solvent finan-cial institutions are involved, things can quickly get out of hand.</div><div><br></div><div> \n</div><div>The Bank of England struggled, at first, to juggle its priorities. It became a problem when financial panics occurred, and banks needed loans. This was because their main preoccupation was in maintaining the gold standard. Explaining how the gold standard was maintained isn’t critical to this essay, but it should be understood that, when financial panics occurred, the Bank of England would neglect the huge demand for liquidity, in favor of maintaining the stability of the pound.</div><div><br></div><div> \n</div><div>What they could have done was make emergency loans to commercial banks, so that they could avoid selling off assets and maintain solvency. They would therefore fulfill the demands for liquidity without destroying themselves, to put it crudely. A central bank can thus prevent the banking system of an economy from collapsing by being the lender of last resort.</div><div><br></div><div> \n</div><div>The Bank of England’s failure to deal with the severe financial panics of 1825, 1837, 1847, and 1857 led to a widespread call for its reform. And so, the Bank adopted the “Responsibility Doctrine,” in which it prioritized public welfare over private, for-profit ventures. It acted as the lender of last resort in the financial panic of 1866. From there on out, it was smooth sailing for the Bank of England, and there wasn’t another financial crisis until 2008.</div><div><br></div><div>\n</div><div>While the story of the Bank of England seems rocky, the story of central banking in the United States is perhaps more complicated. Until recently, the US public has had a longstanding distrust of regulatory financial institutions. In 1791, after years of strong economic growth, the U.S. government chartered the First Bank of the United States. Alexander Hamilton, who joins Jesus (and perhaps bests him) as one who rose to fame during life and posthumously, was one of the main proponents of the bank. The American central bank struggled to regulate the credit conditions in the US, due to its vast geograph-ical expanse, in which banks were prevented from branching across state lines. This difficulty is well explained by the following quote;</div><div><i><br></i></div><div><i>“Somewhat less than a hundred banks in England occupy the banking field with several thousand branches. Credit, therefore, is highly fluid. If the Bank of England increases its loans in London, the other banks are then in better position to meet further require-ments, whether in London or at their provincial branches. In the United States branch banking is generally prohibited. Each bank engages in local business alone… Loans made by a central bank in New York or Chicago would have no influence whatever upon the available lending resources in Massachusetts or in Iowa.”</i></div><div><i><br></i></div><div><i><b>—\tO.M.W. Sprague, Central Banks (1909)</b></i></div><div><br></div><div>\n</div><div>The geographical expanse of the U.S. and the general wariness of lenders at the time made it very difficult for the Bank to appease the nation, and its position as independent of the government, which imaginably would grant credibility, only fostered mistrust and a total lack of political support. The Bank’s charter was not renewed, and it was terminated in 1811.</div><div><br></div><div> \n</div><div>While the apolitical standing of central banks would seemingly grant them credibility as a regulatory institution consisting solely of technocrats, its position of independence of the government in the late 18th and early 19th century led to widespread public mistrust, and eventually, a total lack of support. The Westerners (the current Midwest) had high demand for cheap loans, the Northerners disagreed with the bank in its occasional actions to constrain the monetary base, and the Southerners were generally highly skeptical of the bank. The total lack of support was felt by the American government, who had their own personal stakes in the matter. In 1811, the bank’s charter was not renewed, and it was terminated.</div><div><br></div><div> \n</div><div>In 1816, the Second Bank of the United States was formed, for similar reasons, to no avail. Andrew Jackson, the president at the time, was an adamant critic of the bank, and forcefully vetoed the renewal of its charter, which expired in 1836. Commercial banks took advantage of this, and began a gradual, yet wild, loaning spree. In 1830, they loaned 200 million dollars, and in 1838, they loaned 525 million dollars. What exactly happened doesn’t really need to be described in detail, but the US Treasury made a couple bad moves, and the completely overstimulated American economy came crashing down, at the cost of thousands of livelihoods. In New York, 150 businesses went bankrupt within three weeks, and two months later, losses in the city totaled at just under 100 million dollars. It took nearly a decade for the US economy to get back together, and that’s neglecting the toll on individuals. Financial panics reoccurred in 1857, 1873, 1893 and 1907 (where gross national product fell twice as far as it did in 2008-2009 recession), wreaking havoc on the US’s economy and financial system.</div><div><br></div><div>\n</div><div>That was the last straw, and the Federal Reserve Act was signed in 1913. At first, it seemed that their fate would resemble the first two US central banks. The Federal Reserve expanded the money supply greatly in the lead up to 1929, and then abruptly contracted it, causing the Great Recession. They proceeded to continue contracting the money supply in the following years, further deepening the global recession which had already reached epic proportions.</div><div><br></div><div> \n</div><div>While the Federal Reserve straightened their policies in the mid 20th century, the credibility they have today is, in great part, due to the actions of Paul Volcker, who was the Federal Reserve Chairman from 1979 to 1987 (He’s also over 2 meters tall!). He technically engineered a recession by raising the federal funds rate to over 20% in order to break the high and persistent inflation of the 1970s, which was eroding the savings of Americans, and greatly disincentivizing lenders. The positive effect, despite the recession, is that it convinced the American public of the Federal Reserve’s full commitment to control-ling inflation. Paul Volcker later served as Chair of the President’s Economic Recovery Advisory board from 2009 to 2011.</div><div><br></div><div>  \n</div><div>The evolution and development of not only American financial regulation, but that of the world, is best described by Jerome Powell, the current Chairmen of the Federal Reserve Board of Governors and the Federal Open Market Committee.</div><div><br></div><div><i>“…it is important to understand that history in both advanced and emerging economies across the world has consistently demonstrated the need for a central bank, and both the existence and the structure of the Federal Reserve are products of that historical experience.”</i></div><div><i><br></i></div><div><i><b>— Jerome Powell, America’s Central Bank: The History and Structure of the Federal Reserve (2017)</b></i></div><div><br></div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>As for Europe, Napoleon’s Banque de France, originally created in 1800 to combat hyperinflation and to fund his wars, survived. It was a key player in the genesis and regulation of the Latin Monetary Un-ion (1865-1927), which involved France, Belgium, Italy, and Switzerland, before including Greece (1867), Algeria, Peru, Venezuela, Finland, Serbia, and Bulgaria, all of whom were enticed by the idea of bimetallism, a valuation of currency based on gold and silver. When gold and silver prices started, inevitably, to fluctuate separately, the union disbanded (according to a European Review of Economic History, the LMU didn’t really affect trade in any meaningful way except from 1865-1874).</div><div><br></div><div>\n</div><div>In 1979, after Chairman Mao checked out for the last time, the People’s Bank of China, which served as the country’s commercial and central bank since 1948, was relieved of its commercial banking du-ties, and in 1983, it became a full-on central bank (although it would only gain full independence in 1995). The bank was quite backwards and ineffective until 2003, when the Tenth National People’s Congress granted it more freedom in its use of monetary policy to safeguard and regulate the nation’s financial system. The bank has, interestingly enough, used the reserve requirement as a means to regulate the nation’s monetary base, as opposed to the more popular method of open market operations (OMO’s: selling bonds to reduce the money supply, buying bonds to inject money into the economy). Recently, the bank has cut reserve requirements to stay afloat in the deteriorating trade tensions with the US.</div><div><br></div><div> \n</div><div>The European Central Bank, the successor of the European Monetary Institute, was established in June of 1998, with the task of regulating the Eurozone financial system as a part of the second stage of the European Economic and Monetary Union. The third stage, the induction of the Euro, occurred in January of 1999, and set the train rolling for the ECB. Today, 10 years after the financial crisis, the ECB’s interbank interest rate, dubbed EURIBOR, was last marked at -0.31% (Nov. 2018), and the 10-year spot rate was last recorded at 0.32% (Dec. 2018). The bank struggles with the inherent issues of such a large monetary union, in which, naturally, there is a range of economic growth, unemployment, inflation, and debt situations. A major worry, in my view, is that the ECB will be unable to raise interest rates to a high enough level before the next recession. By raising rates too fast, they risk encourag-ing people to put their money in savings, and stop investing and taking loans. By raising rates too slowly, they risk having no room to drop them in a recession scenario. Even if the US stock market tanks, it’s unlikely that we’ll have the same global meltdown that we had in 2008 (although I really have no idea what the global possession of risky US securities looks like).</div><div><br></div><div>\n</div><div>As Angela Duckworth recently wrote, “Necessity is the mother of adaptation.” I think Jay Powell would agree with that. After all, following the last global recession, central bankers came up with what’s known as ‘Quantitative Easing.’ QE is an asset purchasing program on a monumental scale. The Federal Reserve, the ECB, and other central banks undertook this measure. To illustrate the size of their spending, the Federal Reserve’s total asset worth went from 900 billion dollars in 2008, to 4.5 trillion dollars in 2015. “The ECB has spent 2.6 trillion euros ($3 trillion) over almost four years, buy-ing up mostly government but also corporate debt, asset-backed securities and covered bonds — at a pace of 1.3 million euros a minute.” (Reuters). You could say that it worked. US employment has risen every month since 2011, and US quarterly growth has been strong and positive since 2014, rising to an impressive 4.2% in the second quarter of 2018, despite growing trade uncertainty and interest rate hikes from the Federal Reserve.</div><div><br></div><div>\n</div><div>If central bankers reached nil-level interest rates and still found a solution to nurture the world economy back to health, then there’s certainly reason to have faith. I myself find it a comforting thought that despite the current political turmoil of the world (a blanket statement, but look at the happenings in France, the US, Britain, Russia-Ukraine, Venezuela, Brazil, China, Hungary, Saudi Arabia, Poland, and others, and judge for yourself), we have, in almost every country, an altruistic financial regulatory institution whose governing technocrats seek to ensure our welfare, financial security, and the stability of our nations. Central banking has come a long way, let’s not forget that.</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div><b>Works Consulted (excluding data and other references):\n</b></div><div>-\tGordo, Michael B. “A Brief History of Central Banks.” Federal Reserve Bank of Cleveland Re-search Department. December 2007. Web. https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2007-economic-commentaries/ec-20071201-a-brief-history-of-central-banks.aspx. Accessed January 5, 2019. \n</div><div>\n</div><div>-\tMaster Historians. “The financial panic of 1837.” The Great Republic, Vol. III. Chapter 24, ed-ited by Hubert H. Bancroft. 1902. Web. http://www.publicbookshelf.com/public_html/The_Great_Republic_By_the_Master_Historians_Vol_III/thepanic_ce.html. Accessed January 5, 2019. \n</div><div>\n</div><div>-\tPowell, Jerome. “America’s Central Bank: The History and Structure of the Federal Reserve.” West Virginia University College of Business and Economics Distinguished Speaker Series. March 30, 2017. Web.  https://www.bis.org/review/r170330d.htm.  Accessed January 5, 2019. \n</div><div>\n</div><div>-\tSprague, O.M.W. “Central Banking.” American Economic Association Quarterly, 3rd Series, Vol. 10, No. 1, Papers and Discussions of the Twenty-First Annual Meeting. Atlantic City, N.J., pp. 359-369. December 28-31, 1908 (Apr. 1909). Web. https://www.jstor.org/stable/2635439. Ac-cessed January 5, 2019.</div><div><br></div><div> \n</div><div>\n</div><div><b>Further Reading:\n</b></div><div>-\tReserve requirement’s effect on the monetary base (money creation): https://www.investopedia.com/terms/m/multipliereffect.asp\n</div><div>\n</div><div>-\tOn the Panic of 1907: https://www.federalreservehistory.org/essays/panic_of_1907 - footnote16</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q5"
         }
       ]
     }
