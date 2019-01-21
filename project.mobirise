@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Archives",
+    "currentPage": "About",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 945,
+    "uniqCompNum": 946,
     "versionPublish": "4.8.10",
     "favicon": "",
     "noImageResize": "",
@@ -1354,7 +1354,7 @@
             }
           },
           "title": "Aimee Dastin-van Rijn",
-          "text": "Aimee is the founder and website designer of The Lion's Tale. She is also a writer for the paper, the quiz maker, as well as the Editor in Chief.&nbsp;<br><br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation<br>- Bye Bye Birdie<br>- Green and White Day<br>- The True Story of Conrad Birdie<br>- Winter Art Vernissage<br>- A-Z Guide to St. John's for the Holidays<br>- Obverse Art Show<br>- THIMUN<br>- Interview With the New Head of School<br>- St. John's Fashion Shoot<br>- IB Seniors' Final Art Show<br>- The 2018-2019 Guide to St, John's<br>- Interview with the New US Ambassador",
+          "text": "Aimee is the founder and website designer of The Lion's Tale. She is also a writer for the paper, the quiz maker, as well as the Editor in Chief.&nbsp;<br><br>Articles Written:<br>- The 2017-2018 Guide to St. John's<br>- My Icelandic Boyfriend<br>- High School New Student Orientation<br>- Bye Bye Birdie<br>- Green and White Day<br>- The True Story of Conrad Birdie<br>- Winter Art Vernissage<br>- A-Z Guide to St. John's for the Holidays<br>- Obverse Art Show<br>- THIMUN<br>- Interview With the New Head of School<br>- St. John's Fashion Shoot<br>- IB Seniors' Final Art Show<br>- The 2018-2019 Guide to St, John's<br>- Interview with the New US Ambassador<br>- MHS Winter Art Show",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1401,7 +1401,7 @@
             }
           },
           "title": "Ilinca Maria-Manda",
-          "text": "Ilinca is a writer for the paper and head of the Opinion Section for The Lion's Tale.<br><br>Articles Written:<br>- St. John's for a Newcomer<br>- Reading Suggestions for the Cold Season<br>- And What About the Future?<br>- Reading Suggestions for the Summer Season<br>- University Choice - A Leap of Faith<br>- \"London Calling... Yes, I Was There, Too.\"",
+          "text": "Ilinca is a writer for the paper and head of the Opinion Section for The Lion's Tale.<br><br>Articles Written:<br>- St. John's for a Newcomer<br>- Reading Suggestions for the Cold Season<br>- And What About the Future?<br>- Reading Suggestions for the Summer Season<br>- University Choice - A Leap of Faith<br>- \"London Calling... Yes, I Was There, Too.\"<br>- Workplace Romance",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1453,7 +1453,7 @@
             }
           },
           "title": "Isaiah Lowney",
-          "text": "Isaiah is a writer for the Lion's Tale.<br><br>Articles Written:<br>- Kayla Smith: A Teen Runner’s Life<br>- Informal Tips for the Beginner/Intermediate Guitarist<br>- Fiscal Policy \"For Dummies\"<br>- Working Out and the Theory of Active Rest \"For Dummies\" ",
+          "text": "Isaiah is a writer for the Lion's Tale.<br><br>Articles Written:<br>- Kayla Smith: A Teen Runner’s Life<br>- Informal Tips for the Beginner/Intermediate Guitarist<br>- Fiscal Policy \"For Dummies\"<br>- Working Out and the Theory of Active Rest \"For Dummies\"<br>- The History and Nature of Central Banking ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1609,7 +1609,7 @@
             }
           },
           "title": "Andreea Samareanu",
-          "text": "Andreea is a creator for the paper, as well as the head of the Arts Section.<br><br>Articles Written:<br>- Daydream Nation: A Photo Series",
+          "text": "Andreea is a creator for the paper, as well as the head of the Arts Section.<br><br>Articles Written:<br>- Daydream Nation: A Photo Series<br>- International Romances<br>- Workplace Romance",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2273,6 +2273,134 @@
           "title": "Archives",
           "text": "<p>Below are all past and present articles.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#91bdae",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-7-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-8-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x375.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "International Romances",
+          "subtitle1": "Written By: Andreea Samareanu",
+          "caption1": "Stories of long distance and celebrating culture.",
+          "title2": "Workplace Romance",
+          "subtitle2": "Written By: Ilinca Maria Manda and Andreea Samareanu",
+          "caption2": "Where better to fall in love than on the job?",
+          "title3": "The Nature and History of Central Banking",
+          "subtitle3": "Written By: Isaiah Lowney",
+          "caption3": "A (not so) brief history of central banking.",
+          "title4": "Coming Soon",
+          "subtitle4": "Who Will Write Next?",
+          "caption4": "More articles being written... literary genius takes time. :)",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page76.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page77.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page80.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#91bdae"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#174034"
+            }
+          },
+          "_anchor": "features1-q9"
         },
         {
           "_params": {
@@ -3490,7 +3618,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stj-lions-circle-600x6003.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5538,7 +5666,7 @@
           },
           "title4": "The Nature and History of Central Banking",
           "subtitle4": "Written By: Isaiah Lowney",
-          "caption4": "A (not so) breif history of Central Banking.",
+          "caption4": "A (not so) brief history of Central Banking.",
           "button4": "<a data-app-btn=\"true\" href=\"page80.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -23415,7 +23543,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -23431,7 +23559,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man5.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true

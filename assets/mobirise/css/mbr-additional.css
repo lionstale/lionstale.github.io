@@ -1126,6 +1126,18 @@ h6,
 #msg-box8-1m p {
   color: #fff;
 }
+#features1-q9 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #91bdae;
+}
+#features1-q9 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #174034;
+}
+#features1-q9 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #174034;
+}
+#features1-q9 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #174034;
+}
 #features1-nh .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #91bdae;
 }
