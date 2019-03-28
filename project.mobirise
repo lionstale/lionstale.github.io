@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Miscellaneous",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -703,17 +703,17 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-18-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "And What About the Future?",
+                "title": "Valentine's Day Love Stories",
                 "showText": true,
-                "text": "An article on finding your way",
+                "text": "Tales of how teachers met their spouses",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page75.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
