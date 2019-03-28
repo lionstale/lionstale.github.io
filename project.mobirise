@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page75.html",
+    "currentPage": "index.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,8 +31,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 978,
-    "versionPublish": "4.9.2",
+    "uniqCompNum": 982,
+    "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112402344-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112402344-1');\r\n</script>\r\n",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Entertainment",
         "meta_descr": "Website Maker Description",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -1162,7 +1162,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -1936,7 +1936,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -2237,7 +2237,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -3938,7 +3938,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4205,7 +4205,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 56
+        "order": 57
       },
       "components": [
         {
@@ -4451,7 +4451,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -5093,7 +5093,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5392,7 +5392,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -5420,7 +5420,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-10-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/green-book-2018-still-1-1296x864.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -5437,9 +5437,9 @@
               "size": 250
             }
           },
-          "title": "Valentine's Day <br>Story Countdown",
-          "text": "Every week or two, we will post a story or a few <br>of how a teacher met their spouse in bistro or alehouse <br>bringing Valentine's Day magic and the love without which life would be tragic.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page75.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Movie Review: Green Book",
+          "text": "By: George Hak",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page84.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -5724,7 +5724,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -6384,7 +6384,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -6663,7 +6663,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -6813,7 +6813,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 58
+        "order": 59
       },
       "components": [
         {
@@ -7434,7 +7434,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 80
+        "order": 81
       },
       "components": [
         {
@@ -7635,7 +7635,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -7929,7 +7929,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 59
+        "order": 60
       },
       "components": [
         {
@@ -8162,7 +8162,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -8518,7 +8518,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 75
+        "order": 76
       },
       "components": [
         {
@@ -8710,7 +8710,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 79
+        "order": 80
       },
       "components": [
         {
@@ -8984,7 +8984,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -9230,7 +9230,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -9495,7 +9495,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -10065,7 +10065,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -10723,7 +10723,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -10948,7 +10948,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -11293,7 +11293,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -11632,7 +11632,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -11824,7 +11824,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -12016,7 +12016,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -12431,7 +12431,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -12558,7 +12558,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -13871,7 +13871,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -14160,7 +14160,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -14825,7 +14825,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -15104,7 +15104,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -15329,7 +15329,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -15522,7 +15522,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -15846,7 +15846,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 73
+        "order": 74
       },
       "components": [
         {
@@ -16042,7 +16042,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -16369,7 +16369,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 71
+        "order": 72
       },
       "components": [
         {
@@ -16565,7 +16565,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -16697,7 +16697,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -17075,7 +17075,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -17306,7 +17306,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -17637,7 +17637,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 74
+        "order": 75
       },
       "components": [
         {
@@ -17833,7 +17833,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -18027,7 +18027,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 70
+        "order": 71
       },
       "components": [
         {
@@ -18265,7 +18265,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -18515,7 +18515,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -18732,7 +18732,7 @@
       "settings": {
         "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -18923,7 +18923,7 @@
       "settings": {
         "title": "Book Recommendations Summer",
         "meta_descr": "A great list of book to read this spring and summer season.",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -20123,7 +20123,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -20321,7 +20321,7 @@
       "settings": {
         "meta_descr": "St. John's First Student-Designed Fashion Shoot\n",
         "title": "Fashion Show",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -21043,7 +21043,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 72
+        "order": 73
       },
       "components": [
         {
@@ -21236,7 +21236,7 @@
       "settings": {
         "meta_descr": "IB Senior Final Art Show",
         "title": "Final Senior Art Show",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -21673,7 +21673,7 @@
       "settings": {
         "meta_descr": "University Choices - A Leap of Faith",
         "title": "Leap of Faith",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -21934,7 +21934,7 @@
       "settings": {
         "meta_descr": "This is a travel blog discussing the trip.",
         "title": "Maitland Cottage Home Trip",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -22633,7 +22633,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 81
+        "order": 82
       },
       "components": [
         {
@@ -22840,7 +22840,7 @@
       "settings": {
         "meta_descr": "Isaiah Lowney's Tips for the Amateur Guitarist",
         "title": "Informal Tips for the Beginner/Intermediate Guitarist ",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -23363,7 +23363,7 @@
       "settings": {
         "meta_descr": "Here is our page of memes created by STJ students.\n",
         "title": "Memes",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -23617,7 +23617,7 @@
       "settings": {
         "meta_descr": "An interview with the new American Ambassador.",
         "title": "Ambassador Interview",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -23903,7 +23903,7 @@
       "settings": {
         "meta_descr": "This is a series of article \"episodes\" explaining complicated concepts in uncomplicated ways.",
         "title": "\"For Dummies\" Series",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -24157,7 +24157,7 @@
       "settings": {
         "meta_descr": "A simple and entertaining explanation of fiscal policy by Isaiah Lowney. ",
         "title": "Fiscal Policy for Dummies",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -24320,7 +24320,7 @@
       "settings": {
         "meta_descr": "A photo journey created by a senior about her travels this summer",
         "title": "Debora's Photos",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -25385,7 +25385,7 @@
       "settings": {
         "meta_descr": "Our Lion's Tale Podcasts",
         "title": "Podcasts",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -25581,7 +25581,7 @@
       "settings": {
         "meta_descr": "A Quick Guide to Working Out",
         "title": "Working Out for Dummies",
-        "order": 77
+        "order": 78
       },
       "components": [
         {
@@ -25818,7 +25818,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "London Calling",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -26437,7 +26437,7 @@
       "settings": {
         "meta_descr": "The first art show of the year.",
         "title": "Art Show 2018 #1",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -26926,7 +26926,7 @@
       "settings": {
         "meta_descr": "A beautiful collection of art work by a great number of St. John's students.",
         "title": "Winter Art Show",
-        "order": 76
+        "order": 77
       },
       "components": [
         {
@@ -27812,7 +27812,7 @@
       "settings": {
         "meta_descr": "Stories of how STJ teachers met their spouses",
         "title": "Valentine's Day Love Stories",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -28173,7 +28173,7 @@
       "settings": {
         "meta_descr": "Stories of long distance and celebrating culture.",
         "title": "International Romances",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -28459,7 +28459,7 @@
       "settings": {
         "meta_descr": "Where better to fall in love than on the job?",
         "title": "Workplace Romance",
-        "order": 78
+        "order": 79
       },
       "components": [
         {
@@ -28720,7 +28720,7 @@
       "settings": {
         "meta_descr": " Sometimes the universe seems to know best",
         "title": "Lucky Coincidences",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -28981,7 +28981,7 @@
       "settings": {
         "meta_descr": "Happy Valentine's Day!",
         "title": "Final Touches",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -29275,7 +29275,7 @@
       "settings": {
         "meta_descr": "A (not so) brief history of central banking. ",
         "title": "History and Nature of Central Banking",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -29450,7 +29450,7 @@
       "settings": {
         "meta_descr": "The controversy of Amazon's minimum wage raise.",
         "title": "Waging War on Amazon's Wages",
-        "order": 69
+        "order": 70
       },
       "components": [
         {
@@ -29657,7 +29657,7 @@
       "settings": {
         "meta_descr": "Painting the Fugitive Image Art Show",
         "title": "Mr. Mitchell Art Show",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -30092,7 +30092,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Climate Change March Article",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -30383,6 +30383,173 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://riseforclimate.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Rise For Climate</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-r4"
+        }
+      ]
+    },
+    "page84.html": {
+      "settings": {
+        "meta_descr": "A Movie Review for Green Book",
+        "title": "Green Book Movie Review",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-r6"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-r7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/green-book-2018-still-1296x864.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br><br><br><br><br>Green Book Movie Review",
+          "text": "By: George Hak",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-r8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Peter Farrelly’s, “The Green Book,” is an exciting movie about identity and courage. The movie tells the tale of Dr. Don Shirley, a homosexual African American played by Mahershala Ali, and his musical tour of the American South in the 1960s. Dr. Shirley is accompanied by Tony Lip, played by Viggo Mortensen, an Italian mobster who drives Dr. Shirley to the various locations on his tour.</p><p><br></p><p> \n</p><p>\n</p><p>The first positive aspect of the film was the acting. The terrific performance by Mahershala Ali elevates this movie to a film of high-quality. Ali is able to express many different and complex emotions throughout the movie, especially during the scene between him and Viggo Mortensen (his co-star with whom he has great chemistry) in the rain. The second positive aspect of the film is the music and sound. The movie employs many great songs from African-American musicians (Chubby Chace, Little Richard, and Aretha Franklin) in the 1960s (Slow Twistin’, Lucille, and Won’t Be Long). Not only does the music fit the setting, but it also juxtaposes Mahershala Ali’s character and his refusal to play popular music with other prevalent musicians of the 1960s who embraced it.</p><p><br></p><p> \n</p><p>\n</p><p>The first negative aspect of the film is the ending. The ending is quite “Hollywood” and is untrue to certain characters’ natures. The only characters who truly evolve during the film are Viggo Mortensen’s character and Mahershala Ali’s character. Thus, it seems quite unnatural for minor characters in the film to have the same change in personality as Mortensen's character, which ultimately negatively affects the film’s ending. The second negative aspect is the method in which the main message of the story is presented. Although the main message of the story, which I won’t spoil in the review, is poetic and socially relevant, the method used by the storytellers to transmit the message was not carried out well. Like the director Spike Lee pointed out, the idea that it takes a racist white Italian man to educate an African-American man about his own culture is ridiculous.</p><p><br></p><p> \n</p><p>\n</p><p>Ultimately, the Green Book is a very enjoyable film with great performances from Mahershala Ali and Viggo Mortensen, and a great selection of music. Although there are some negative aspects, such as the ending and the method used to transmit the main message of the story, the movie is still very good and I highly recommend watching it. \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r9"
         }
       ]
     }
