@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Miscellaneous",
+    "currentPage": "index.html",
     "name": "My Site-clone",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 982,
+    "uniqCompNum": 987,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 16
+        "order": 14
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 21
+        "order": 19
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 23
+        "order": 21
       },
       "components": [
         {
@@ -702,7 +702,7 @@
             "paddingBottom": 4,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -744,18 +744,18 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-17-1620x1080.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "An Interview With the <br>New Head of School",
+                "title": "The Nature and History of Central Banking",
                 "showText": true,
-                "text": "Everything you'd like to know about our new head of school.",
+                "text": "A (not so) brief history of central banking by Isaiah Lowney.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page80.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
             ]
           },
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Entertainment",
         "meta_descr": "Website Maker Description",
-        "order": 17
+        "order": 15
       },
       "components": [
         {
@@ -1162,7 +1162,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 25
+        "order": 23
       },
       "components": [
         {
@@ -1936,7 +1936,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 22
+        "order": 20
       },
       "components": [
         {
@@ -2237,7 +2237,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 26
+        "order": 24
       },
       "components": [
         {
@@ -2273,6 +2273,134 @@
           "title": "Archives",
           "text": "<p>Below are all past and present articles.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#91bdae",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-9-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x543.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x375.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Green Book Movie Review",
+          "subtitle1": "Written By: George Hak",
+          "caption1": "A review of the popular movie released this year.",
+          "title2": "Waging War on Amazon's Wages",
+          "subtitle2": "Written By: Aimee Dastin-van Rijn",
+          "caption2": "The controversy of Amazon's minimum wage raise.",
+          "title3": "Coming Soon",
+          "subtitle3": "Who Will Write Next?",
+          "caption3": "More articles being written... literary genius takes time. :)",
+          "title4": "Coming Soon",
+          "subtitle4": "Who Will Write Next?",
+          "caption4": "More articles being written... literary genius takes time. :)",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page84.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page81.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#91bdae"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#174034"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#174034"
+            }
+          },
+          "_anchor": "features1-ra"
         },
         {
           "_params": {
@@ -3938,7 +4066,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -4205,7 +4333,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -4451,7 +4579,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -5093,7 +5221,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 20
+        "order": 18
       },
       "components": [
         {
@@ -5392,7 +5520,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 9
       },
       "components": [
         {
@@ -5420,7 +5548,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/green-book-2018-still-1-1296x864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-12-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -5437,9 +5565,9 @@
               "size": 250
             }
           },
-          "title": "Movie Review: Green Book",
-          "text": "By: George Hak",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page84.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "End of senior year: are we really leaving highschool?",
+          "text": "By: Ilinca Maria Manda",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page85.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -5625,7 +5753,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page83.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6-600x450.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-9-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5634,13 +5762,13 @@
               "title": ""
             }
           },
-          "title2": "‘London calling<div>…yes, I was there, too’</div>",
-          "subtitle2": "Written By: Ilinca Maria-Manda",
-          "caption2": "A London photo series<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page72.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Green Book Movie Review",
+          "subtitle2": "Written By: George Hak",
+          "caption2": "Is it worth watching?<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"page84.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-5501-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x543.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5649,10 +5777,10 @@
               "title": ""
             }
           },
-          "title3": "Painting the <br>Fugitive Image",
+          "title3": "Waging War on Amazon's Wages",
           "subtitle3": "Written By: Aimee Dastin-van Rijn",
-          "caption3": "Time, Memory, and Imagination<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page82.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "The controversy of Amazon's minimum wage raise.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page81.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x450.jpg",
@@ -5724,7 +5852,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -6384,7 +6512,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -6663,7 +6791,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 12
+        "order": 10
       },
       "components": [
         {
@@ -6813,7 +6941,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 59
+        "order": 60
       },
       "components": [
         {
@@ -7434,7 +7562,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 81
+        "order": 82
       },
       "components": [
         {
@@ -7635,7 +7763,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -7929,7 +8057,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -8518,7 +8646,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 76
+        "order": 77
       },
       "components": [
         {
@@ -8710,7 +8838,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 80
+        "order": 81
       },
       "components": [
         {
@@ -8984,7 +9112,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 37
+        "order": 36
       },
       "components": [
         {
@@ -9230,7 +9358,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -9495,7 +9623,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 18
+        "order": 16
       },
       "components": [
         {
@@ -10065,7 +10193,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 28
+        "order": 26
       },
       "components": [
         {
@@ -10723,7 +10851,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -10948,7 +11076,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -11293,7 +11421,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 29
+        "order": 27
       },
       "components": [
         {
@@ -11632,7 +11760,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 69
+        "order": 70
       },
       "components": [
         {
@@ -11824,7 +11952,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 35
       },
       "components": [
         {
@@ -12016,7 +12144,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -12431,7 +12559,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 10
+        "order": 8
       },
       "components": [
         {
@@ -12558,7 +12686,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 34
+        "order": 33
       },
       "components": [
         {
@@ -14160,7 +14288,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 30
+        "order": 28
       },
       "components": [
         {
@@ -15104,7 +15232,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 32
+        "order": 30
       },
       "components": [
         {
@@ -15329,7 +15457,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -15846,7 +15974,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 74
+        "order": 75
       },
       "components": [
         {
@@ -16042,7 +16170,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -16369,7 +16497,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 72
+        "order": 73
       },
       "components": [
         {
@@ -16565,7 +16693,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 38
+        "order": 37
       },
       "components": [
         {
@@ -16697,7 +16825,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 31
+        "order": 29
       },
       "components": [
         {
@@ -17075,7 +17203,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -17306,7 +17434,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -17637,7 +17765,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 75
+        "order": 76
       },
       "components": [
         {
@@ -17833,7 +17961,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -18027,7 +18155,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 71
+        "order": 72
       },
       "components": [
         {
@@ -18265,7 +18393,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -18515,7 +18643,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 15
+        "order": 13
       },
       "components": [
         {
@@ -18732,7 +18860,7 @@
       "settings": {
         "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
-        "order": 39
+        "order": 38
       },
       "components": [
         {
@@ -18923,7 +19051,7 @@
       "settings": {
         "title": "Book Recommendations Summer",
         "meta_descr": "A great list of book to read this spring and summer season.",
-        "order": 35
+        "order": 34
       },
       "components": [
         {
@@ -20123,7 +20251,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -21043,7 +21171,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 73
+        "order": 74
       },
       "components": [
         {
@@ -21673,7 +21801,7 @@
       "settings": {
         "meta_descr": "University Choices - A Leap of Faith",
         "title": "Leap of Faith",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -21934,7 +22062,7 @@
       "settings": {
         "meta_descr": "This is a travel blog discussing the trip.",
         "title": "Maitland Cottage Home Trip",
-        "order": 58
+        "order": 59
       },
       "components": [
         {
@@ -22633,7 +22761,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 82
+        "order": 83
       },
       "components": [
         {
@@ -22840,7 +22968,7 @@
       "settings": {
         "meta_descr": "Isaiah Lowney's Tips for the Amateur Guitarist",
         "title": "Informal Tips for the Beginner/Intermediate Guitarist ",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -23363,7 +23491,7 @@
       "settings": {
         "meta_descr": "Here is our page of memes created by STJ students.\n",
         "title": "Memes",
-        "order": 19
+        "order": 17
       },
       "components": [
         {
@@ -23617,7 +23745,7 @@
       "settings": {
         "meta_descr": "An interview with the new American Ambassador.",
         "title": "Ambassador Interview",
-        "order": 27
+        "order": 25
       },
       "components": [
         {
@@ -23903,7 +24031,7 @@
       "settings": {
         "meta_descr": "This is a series of article \"episodes\" explaining complicated concepts in uncomplicated ways.",
         "title": "\"For Dummies\" Series",
-        "order": 24
+        "order": 22
       },
       "components": [
         {
@@ -25385,7 +25513,7 @@
       "settings": {
         "meta_descr": "Our Lion's Tale Podcasts",
         "title": "Podcasts",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -25581,7 +25709,7 @@
       "settings": {
         "meta_descr": "A Quick Guide to Working Out",
         "title": "Working Out for Dummies",
-        "order": 78
+        "order": 79
       },
       "components": [
         {
@@ -25818,7 +25946,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "London Calling",
-        "order": 56
+        "order": 57
       },
       "components": [
         {
@@ -26437,7 +26565,7 @@
       "settings": {
         "meta_descr": "The first art show of the year.",
         "title": "Art Show 2018 #1",
-        "order": 33
+        "order": 32
       },
       "components": [
         {
@@ -26926,7 +27054,7 @@
       "settings": {
         "meta_descr": "A beautiful collection of art work by a great number of St. John's students.",
         "title": "Winter Art Show",
-        "order": 77
+        "order": 78
       },
       "components": [
         {
@@ -27812,7 +27940,7 @@
       "settings": {
         "meta_descr": "Stories of how STJ teachers met their spouses",
         "title": "Valentine's Day Love Stories",
-        "order": 6
+        "order": 31
       },
       "components": [
         {
@@ -28173,7 +28301,7 @@
       "settings": {
         "meta_descr": "Stories of long distance and celebrating culture.",
         "title": "International Romances",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -28459,7 +28587,7 @@
       "settings": {
         "meta_descr": "Where better to fall in love than on the job?",
         "title": "Workplace Romance",
-        "order": 79
+        "order": 80
       },
       "components": [
         {
@@ -28720,7 +28848,7 @@
       "settings": {
         "meta_descr": " Sometimes the universe seems to know best",
         "title": "Lucky Coincidences",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -28981,7 +29109,7 @@
       "settings": {
         "meta_descr": "Happy Valentine's Day!",
         "title": "Final Touches",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -29275,7 +29403,7 @@
       "settings": {
         "meta_descr": "A (not so) brief history of central banking. ",
         "title": "History and Nature of Central Banking",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -29450,7 +29578,7 @@
       "settings": {
         "meta_descr": "The controversy of Amazon's minimum wage raise.",
         "title": "Waging War on Amazon's Wages",
-        "order": 70
+        "order": 71
       },
       "components": [
         {
@@ -29657,7 +29785,7 @@
       "settings": {
         "meta_descr": "Painting the Fugitive Image Art Show",
         "title": "Mr. Mitchell Art Show",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -30092,7 +30220,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Climate Change March Article",
-        "order": 2
+        "order": 39
       },
       "components": [
         {
@@ -30390,7 +30518,7 @@
       "settings": {
         "meta_descr": "A Movie Review for Green Book",
         "title": "Green Book Movie Review",
-        "order": 1
+        "order": 48
       },
       "components": [
         {
@@ -30550,6 +30678,174 @@
           ],
           "_name": "content1",
           "_anchor": "content1-r9"
+        }
+      ]
+    },
+    "page85.html": {
+      "settings": {
+        "meta_descr": "A goodbye to high school written from a senior's perspective.",
+        "title": "Ilinca's New Article",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-rb"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-rc"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/sELktjivjGg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/sELktjivjGg",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "End of senior year: are we really leaving highschool?",
+          "text": "Written By: Ilinca Maria Manda",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-rd",
+          "_customCSS": ""
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>When we “embark” into our two final years of highschool, a long journey of deadlines and expectations also begins. This journey presumably leads us towards that much needed diploma, towards that dream university, and towards the independent (supposedly) adult life.</p><p><br></p><p> \n</p><p>But as you experience these two years, you start to realize that many beautiful moments are collected along the way as well. Yes, there are quite a few long days spent studying (or procrastinating). There is stress, loads of projects and deadlines, the period of anticipation after having applied to university and hoping to be accepted into your dream school. There are the weeks before and during exams which, as any 12th grader can attest, are not much fun. Adding sports, musicals and CAS to that, the mixture is complete! There are times when it all feels like too much, and there are times when ‘too much’ becomes ‘not enough’. Through harder times, we felt more united than ever, because we were all facing them together (and therefore getting to laugh and have some fun along the way!) As we reached the final months of high-school and graduation seems closer than ever, we are all trying to surpass our remaining difficulties, doubts and challenges, as well as find answers for whatever is still unclear. \n</p><p><br></p><p>Still, having been caught in this seemingly endless cycle of “to-dos” for the past few months, I noticed how easy it can be to forget to appreciate the present and the time we have left in highschool. We always and constantly think of the ‘big picture’, incessantly projecting ourselves into the future. We no longer stand still enough to notice, in the hectic rush of each day, the beautiful, but temporary moments that (really) matter. Beyond the stress and the expectations are the families and friends who stand by us every day, and the teachers whose warm voices we will surely miss. We have them by our side every day, so we often forget to fully appreciate them and feel thankful for their presence. This warm, cheerful familiarity will soon be passing us all by, and we may not encounter it anywhere else very soon.</p><p><br></p><p>\n</p><p>Of course, it is exciting to think of the different places from all around the world, or fields of study each of us are going for! What was once 12th grade, all together at St. John’s, will in a year’s time be a multitude of names scattered on the map. The end of an adventure means the beginning of a new one for each of us.\n</p><p><br></p><p>But after maybe a couple years, after having climbed that high mountain and already peeking at the next, we will look back to <i>this</i> time and to highschool. The way we will remember it will not be the “I am glad it’s over” kind of way, but rather the “I wish I could re-live some of those moments once again!” The true value of each day and of each moment is the fact that it does not last forever (fortunately or not) and that it can only be experienced once, in its own particular way. \n</p><p><br></p><p>&nbsp;<i>Just like highschool.\n</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-re"
         }
       ]
     }
