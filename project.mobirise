@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#87c4a3",
+        "#a8e1c2",
+        "#c0e1cf",
         "#174034",
         "#5196de",
         "#cacae5",
-        "#2e2e2e",
-        "#eab4b2",
-        "#e7d6aa",
-        "#e2c89d"
+        "#2e2e2e"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 987,
+    "uniqCompNum": 996,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -45,7 +45,7 @@
       "settings": {
         "title": "Sports",
         "meta_descr": "Website Generator Description",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -281,7 +281,7 @@
       "settings": {
         "title": "Events",
         "meta_descr": "Website Generator Description",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -517,7 +517,7 @@
       "settings": {
         "title": "Miscellaneous",
         "meta_descr": "Website Builder Description",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -767,7 +767,7 @@
       "settings": {
         "title": "Entertainment",
         "meta_descr": "Website Maker Description",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -1162,7 +1162,7 @@
       "settings": {
         "title": "About",
         "meta_descr": "Web Page Builder Description",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1936,7 +1936,7 @@
       "settings": {
         "title": "Opinions",
         "meta_descr": "Website Builder Description",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -2237,7 +2237,7 @@
       "settings": {
         "title": "Archives",
         "meta_descr": "Website Builder Description",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -4066,7 +4066,7 @@
       "settings": {
         "title": "Sample Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4333,7 +4333,7 @@
       "settings": {
         "title": "Lucky to be Lions Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 58
+        "order": 59
       },
       "components": [
         {
@@ -4579,7 +4579,7 @@
       "settings": {
         "title": "Photography Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -5221,7 +5221,7 @@
       "settings": {
         "title": "Arts",
         "meta_descr": "Website Generator Description",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5520,7 +5520,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -5783,7 +5783,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"page81.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x401.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5792,10 +5792,10 @@
               "title": ""
             }
           },
-          "title4": "The Nature and History of Central Banking",
+          "title4": "The Case for Hope",
           "subtitle4": "Written By: Isaiah Lowney",
-          "caption4": "A (not so) brief history of Central Banking.",
-          "button4": "<a data-app-btn=\"true\" href=\"page80.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": " Pessimism and Passivity v. Optimism and Dynamism",
+          "button4": "<a data-app-btn=\"true\" href=\"page86.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -5852,7 +5852,7 @@
       "settings": {
         "title": "My Icelandic Boyfriend Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -6512,7 +6512,7 @@
       "settings": {
         "title": "Living the Dream Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 56
+        "order": 57
       },
       "components": [
         {
@@ -6791,7 +6791,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Coming Soon",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -6941,7 +6941,7 @@
       "settings": {
         "title": "Maps Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -7562,7 +7562,7 @@
       "settings": {
         "title": "2017-2018 Guide to St. John's",
         "meta_descr": "Web Page Builder Description",
-        "order": 82
+        "order": 83
       },
       "components": [
         {
@@ -7763,7 +7763,7 @@
       "settings": {
         "title": "New Student Orientation",
         "meta_descr": "Web Page Builder Description",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -8057,7 +8057,7 @@
       "settings": {
         "title": "Musical Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -8290,7 +8290,7 @@
       "settings": {
         "title": "Green and White Day",
         "meta_descr": "Web Page Builder Description",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -8646,7 +8646,7 @@
       "settings": {
         "title": "Why Nice Guys Finish Last",
         "meta_descr": "Web Page Builder Description",
-        "order": 77
+        "order": 78
       },
       "components": [
         {
@@ -8838,7 +8838,7 @@
       "settings": {
         "title": "2 IB Sciences",
         "meta_descr": "Web Page Builder Description",
-        "order": 81
+        "order": 82
       },
       "components": [
         {
@@ -9112,7 +9112,7 @@
       "settings": {
         "title": "CAS Fair",
         "meta_descr": "Web Page Builder Description",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -9358,7 +9358,7 @@
       "settings": {
         "title": "North Korea Missile",
         "meta_descr": "Web Page Builder Description",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -9623,7 +9623,7 @@
       "settings": {
         "meta_descr": "Our latest group written horoscopes",
         "title": "Horoscopes",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -10193,7 +10193,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Andreea's Photos",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -10851,7 +10851,7 @@
       "settings": {
         "title": "UK University Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -11076,7 +11076,7 @@
       "settings": {
         "title": "Kayla's Feature",
         "meta_descr": "Web Page Builder Description",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -11421,7 +11421,7 @@
       "settings": {
         "title": "Art Show #1 Article",
         "meta_descr": "Web Page Builder Description",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -11760,7 +11760,7 @@
       "settings": {
         "title": "US Colleges",
         "meta_descr": "Web Page Builder Description",
-        "order": 70
+        "order": 71
       },
       "components": [
         {
@@ -11952,7 +11952,7 @@
       "settings": {
         "title": "Canadian Universities",
         "meta_descr": "Web Page Builder Description",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -12144,7 +12144,7 @@
       "settings": {
         "title": "St. John's Student Perspective",
         "meta_descr": "Web Page Builder Description",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -12559,7 +12559,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Testing",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -12686,7 +12686,7 @@
       "settings": {
         "title": "Book Recommendations",
         "meta_descr": "A great list of book to read this winter break.",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -13999,7 +13999,7 @@
       "settings": {
         "title": "Connie Birdie",
         "meta_descr": "Web Page Builder Description",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -14288,7 +14288,7 @@
       "settings": {
         "meta_descr": "A description of the art vernissage with quotes from viewers.",
         "title": "Art Show #2 Article",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -14953,7 +14953,7 @@
       "settings": {
         "meta_descr": "A contest to win a small prize",
         "title": "December Site Contest",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -15232,7 +15232,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "A-Z Holidays",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -15457,7 +15457,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Default Quiz Page",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -15650,7 +15650,7 @@
       "settings": {
         "meta_descr": "A Reflection on the Outlook of Skinny People in Today’s Society.",
         "title": "The Downside of the Fat-Acceptance Movement",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -15974,7 +15974,7 @@
       "settings": {
         "meta_descr": "Find Out Here",
         "title": "Which Teacher Are You Most Like?",
-        "order": 75
+        "order": 76
       },
       "components": [
         {
@@ -16170,7 +16170,7 @@
       "settings": {
         "meta_descr": "All Our Quizzes",
         "title": "Quiz Overview",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -16497,7 +16497,7 @@
       "settings": {
         "meta_descr": "Find out your hidden talent here",
         "title": "What Should You Perform for the Talent Show?",
-        "order": 73
+        "order": 74
       },
       "components": [
         {
@@ -16693,7 +16693,7 @@
       "settings": {
         "meta_descr": "This is the description of our charity campaign.",
         "title": "Centsaday",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -16825,7 +16825,7 @@
       "settings": {
         "meta_descr": "Obverse Art Show",
         "title": "Art Show #3",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -17203,7 +17203,7 @@
       "settings": {
         "meta_descr": "An article on the stresses of the IB that no one talks about and how to handle them",
         "title": "Unspoken Stresses of the IB",
-        "order": 69
+        "order": 70
       },
       "components": [
         {
@@ -17434,7 +17434,7 @@
       "settings": {
         "meta_descr": "An article about The Hague International Model United Nations 2018",
         "title": "THIMUN Article",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -17765,7 +17765,7 @@
       "settings": {
         "meta_descr": "This is the restaurant of your soul.",
         "title": "Which Waterloo Restaurant Are you?",
-        "order": 76
+        "order": 77
       },
       "components": [
         {
@@ -17961,7 +17961,7 @@
       "settings": {
         "meta_descr": "All about Ms. Elaine Purves, our new head of school.",
         "title": "Interview with New Head of School",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -18155,7 +18155,7 @@
       "settings": {
         "meta_descr": "An article on finding your way",
         "title": "What About The Future",
-        "order": 72
+        "order": 73
       },
       "components": [
         {
@@ -18393,7 +18393,7 @@
       "settings": {
         "meta_descr": "All you'd like to know about our clubs.",
         "title": "Clubs",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -18643,7 +18643,7 @@
       "settings": {
         "meta_descr": "Gay-Straight Alliance Articles",
         "title": "GSA",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -18860,7 +18860,7 @@
       "settings": {
         "meta_descr": "An Article on Christianity and the LGBTQ+ Community",
         "title": "Christianity and Homosexuality",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -19051,7 +19051,7 @@
       "settings": {
         "title": "Book Recommendations Summer",
         "meta_descr": "A great list of book to read this spring and summer season.",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -20251,7 +20251,7 @@
       "settings": {
         "meta_descr": "What it's like to join an international school coming from one's own country...",
         "title": "International Student Life",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -20449,7 +20449,7 @@
       "settings": {
         "meta_descr": "St. John's First Student-Designed Fashion Shoot\n",
         "title": "Fashion Show",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -21171,7 +21171,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "What IB Subject Were You Destined to Take?",
-        "order": 74
+        "order": 75
       },
       "components": [
         {
@@ -21364,7 +21364,7 @@
       "settings": {
         "meta_descr": "IB Senior Final Art Show",
         "title": "Final Senior Art Show",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -21801,7 +21801,7 @@
       "settings": {
         "meta_descr": "University Choices - A Leap of Faith",
         "title": "Leap of Faith",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -22062,7 +22062,7 @@
       "settings": {
         "meta_descr": "This is a travel blog discussing the trip.",
         "title": "Maitland Cottage Home Trip",
-        "order": 59
+        "order": 60
       },
       "components": [
         {
@@ -22761,7 +22761,7 @@
       "settings": {
         "title": "2018-2019 Guide to STJ",
         "meta_descr": "2018-2019 Guide to St. John's",
-        "order": 83
+        "order": 84
       },
       "components": [
         {
@@ -22968,7 +22968,7 @@
       "settings": {
         "meta_descr": "Isaiah Lowney's Tips for the Amateur Guitarist",
         "title": "Informal Tips for the Beginner/Intermediate Guitarist ",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -23491,7 +23491,7 @@
       "settings": {
         "meta_descr": "Here is our page of memes created by STJ students.\n",
         "title": "Memes",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -23745,7 +23745,7 @@
       "settings": {
         "meta_descr": "An interview with the new American Ambassador.",
         "title": "Ambassador Interview",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -24031,7 +24031,7 @@
       "settings": {
         "meta_descr": "This is a series of article \"episodes\" explaining complicated concepts in uncomplicated ways.",
         "title": "\"For Dummies\" Series",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -24285,7 +24285,7 @@
       "settings": {
         "meta_descr": "A simple and entertaining explanation of fiscal policy by Isaiah Lowney. ",
         "title": "Fiscal Policy for Dummies",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -24448,7 +24448,7 @@
       "settings": {
         "meta_descr": "A photo journey created by a senior about her travels this summer",
         "title": "Debora's Photos",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -25513,7 +25513,7 @@
       "settings": {
         "meta_descr": "Our Lion's Tale Podcasts",
         "title": "Podcasts",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -25709,7 +25709,7 @@
       "settings": {
         "meta_descr": "A Quick Guide to Working Out",
         "title": "Working Out for Dummies",
-        "order": 79
+        "order": 80
       },
       "components": [
         {
@@ -25946,7 +25946,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "London Calling",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -26565,7 +26565,7 @@
       "settings": {
         "meta_descr": "The first art show of the year.",
         "title": "Art Show 2018 #1",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -27054,7 +27054,7 @@
       "settings": {
         "meta_descr": "A beautiful collection of art work by a great number of St. John's students.",
         "title": "Winter Art Show",
-        "order": 78
+        "order": 79
       },
       "components": [
         {
@@ -27940,7 +27940,7 @@
       "settings": {
         "meta_descr": "Stories of how STJ teachers met their spouses",
         "title": "Valentine's Day Love Stories",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -28301,7 +28301,7 @@
       "settings": {
         "meta_descr": "Stories of long distance and celebrating culture.",
         "title": "International Romances",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -28587,7 +28587,7 @@
       "settings": {
         "meta_descr": "Where better to fall in love than on the job?",
         "title": "Workplace Romance",
-        "order": 80
+        "order": 81
       },
       "components": [
         {
@@ -28848,7 +28848,7 @@
       "settings": {
         "meta_descr": " Sometimes the universe seems to know best",
         "title": "Lucky Coincidences",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -29109,7 +29109,7 @@
       "settings": {
         "meta_descr": "Happy Valentine's Day!",
         "title": "Final Touches",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -29403,7 +29403,7 @@
       "settings": {
         "meta_descr": "A (not so) brief history of central banking. ",
         "title": "History and Nature of Central Banking",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -29578,7 +29578,7 @@
       "settings": {
         "meta_descr": "The controversy of Amazon's minimum wage raise.",
         "title": "Waging War on Amazon's Wages",
-        "order": 71
+        "order": 72
       },
       "components": [
         {
@@ -29785,7 +29785,7 @@
       "settings": {
         "meta_descr": "Painting the Fugitive Image Art Show",
         "title": "Mr. Mitchell Art Show",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -30220,7 +30220,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Climate Change March Article",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -30518,7 +30518,7 @@
       "settings": {
         "meta_descr": "A Movie Review for Green Book",
         "title": "Green Book Movie Review",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -30685,7 +30685,7 @@
       "settings": {
         "meta_descr": "A goodbye to high school written from a senior's perspective.",
         "title": "Ilinca's New Article",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -30846,6 +30846,308 @@
           ],
           "_name": "content1",
           "_anchor": "content1-re"
+        }
+      ]
+    },
+    "page86.html": {
+      "settings": {
+        "meta_descr": " Pessimism and Passivity v. Optimism and Dynamism",
+        "title": "The Case for Hope",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a1a16"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#13352b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#174034"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#91bdae!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#174034",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20988002-1378120402302790-1549326759-n-2-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lionstale.news\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Lion's Tale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page44.html\">Quizzes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page53.html\">Clubs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Comedy.html\">Entertainment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Arts.html\">Arts</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Events.html\">Events</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opinions.html\">Opinions</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Miscellaneous.html\">Miscellaneous</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Archives\">Archives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://lionstale.news\">Home</a></li>",
+          "_anchor": "menu-rf"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Alan Krueger—a renowned labor economist and professor at Princeton University who served as the Chairman of the Council of Economic Advisors under the Obama Administration—died recently. His cause of death: suicide. While I didn’t know much of his work, I was startled by the news, and went about reading his obituaries which briefly dominated the news. He is famous in the academic community for his empirically-driven research on macroeconomic subjects such as the minimum wage’s effects on employment, the Great Gatsby Curve – research which revealed that a more unequal income distribution in society is correlated to diminished intergenerational socio-economic mobility—and the corporate abuse of worker’s rights in America. He’s described by journalists, peers, and Barack Obama as having a deep care for the welfare of workers; as seeking practical applications of his findings, numbers, and theories to benefit the laborers who form the backbone of society, and who all too often find themselves on the losing end of it all.</p><p><br></p><p>\n</p><p>\n</p><p>My fascination with Mr. Krueger is not so much that he killed himself or the work that he did, but rather why he decided to take his life. While there certainly may have been—and probably were—conditions in his personal life which drove him to such a decision, I keep thinking back to a quote from him in an article in the Princeton Alumni Weekly, in which he says, “It’s hard not to be too pessimistic about our system, because you have expectations for Congress to do the people’s business and it’s not. It’s dysfunctional. I feel that frustration as much as anybody.”</p><p><br></p><p>\n</p><p>\n</p><p>The quote brings me back to myself, and the pessimistic thoughts which sometimes plague me when I read the news. Global warming is reaching alarming levels and income inequality is rising in both the UK and US, which, according to Mr. Krueger, should lead to very low economic mobility in the next decade – an eventuality that will be detrimental to economic growth, the welfare of individuals, and the contention of meritocracy in many modern states. These issues are being met with a number of populist leaders who, instead of attempting to address them, employ scare-tactics and xenophobic rhetoric in order to promote their own political support among the masses, while purporting to eliminate an elite which they are a part of, and whose payroll they’re on. Meanwhile, partisan tribalism, corporatist influences in the upper echelons of executive government, collapsing welfare states, outdated electoral systems, and heavy propaganda form the seismic waves which seem to fissure our beloved democracies at their very foundations.</p><p><br></p><p> \n</p><p>\n</p><p>The possibility—although improbable—that a man whose life was defined by rational utilitarian and consequentialist assessments, inspired by a deep care for the welfare of society’s constituents, could ultimately decide that the benefit of living was outweighed by its cost, is intensely worrying to me. If Mr. Krueger, a man who stood as a beacon of selflessness and humanism in a sea of self-interest and cutthroat politics, decided that it wasn’t worth it, then why should any of us fight for what we believe in? Why shouldn’t we succumb to pessimism and passivity, and resign ourselves to a life of self-indulgence and hedonism, before we die or the ship sinks? After bemoaning the decision of millions of low-income Americans to elect a President who advocated for the eradication of their health-care plans without stopping to think about the implications, the least that I can do, and that we should do, is to discover the answers to these questions ourselves and not accept the judgements of others. This is ‘Pessimism v. Optimism,’ and ‘Passivity v. Dynamism.’ I believe in optimism and dynamism, and here’s why.</p><p><br></p><p> \n</p><p>\n</p><p>The main reason why I think that pessimism should be reconsidered is its roots in the media. In their book Manufacturing Consent: The Political Economy of the Mass Media, Noam Chomsky and Edward S. Herman lay out their reasons (advertising, sourcing, ownership, flak, and fear) as to why the mass media propagates a systemic bias in their publications. The authors posit that mass media’s main sources of revenue come from advertising, that they are often a part of greater corporations or conglomerations (think mega-media owner Rupert Murdoch, whose 800 newspapers and many television stations somehow all praised or were neutral to Tony Blair during the general elections of 1997, 2001, and 2005.), and that fear plays an important role in their maintenance of attention among readers. It isn’t that readers want to feel fear, or that fear in and of itself causes one to buy newspapers. It is simply an inherent biological trait that has permitted us to survive for millennia. Traditionally, fear causes a heightened awareness of one’s surroundings, but today, fear is instilled through the media, and our only way of increasing our awareness is to go back to the media. This shows us two things: that fear is an effective instrument for profit-seeking media firms (it maintains and/or increases demand) and that the fear which is instilled in us often cannot be verified in our immediate surroundings. I’m not saying that journalists are liars, I’m only saying that, by framing issues in a sensationalist manner, and by making claims that these issues have implications with regards to our personal safety, the media imposes on us a pessimistic outlook which can be (to an extent!) ill-founded.</p><p><br></p><p>\n</p><p>\n</p><p>History itself is the lens through which my optimism is strongest. However, it can’t be denied that human history is marred with violence, oppression, and suffering. It is true that Thomas Sankara, the African Che Guevara, was murdered by his friend and colleague, and that Abraham Lincoln, the man who freed slaves in America and moved the world closer to true equality, was shot dead at Ford’s theater. But the malicious ploys of Blaise Compaoré and John Wilkes Booth pale in comparison to the greatness which they attempted to put an end to. The emancipation of slaves in America cannot ever be reversed, and the eventuality of African determinism is one which is not far off, and one which is increasingly embraced by the continent and the African diaspora in a number of ways. History is beautiful in that it attributes a transcendent significance—another life—to events and lives at their end. The tragedy of events gives way to the outset of another, whether intangible or not. The horrors of the First World War coincided with the liberalization of women’s roles in society, the enfranchisement of women in Britain and the USA, and paved the way for the feminist movements of the 1960s, 1970s, and 1980s.</p><p><br></p><p>  \n</p><p>\n</p><p>The graph below shows the change in the share of the world population living in absolute poverty against time. \n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ri"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "stripedBars": true,
+            "progress1": "52",
+            "progress2": "24",
+            "progress3": "10",
+            "progress4": "41",
+            "imageSize": 50,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Share of the World Population Living in Poverty",
+          "title1": "Living with less than $2 per day",
+          "title2": "Living with less than $1 per day",
+          "title3": "Living with less than $1.90 per day (2015)",
+          "title4": "Average Poverty Rate on the African Continent (2018)",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/picture1-856x610.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar5",
+          "_anchor": "extProgressBar5-rk"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The percentage of the world population earning less than $2 was 94% in 1820, and for a 10-cent decrease, was 10% in 2015 (the number on the chart is a projection). Let’s remember that in that time period, the world population grew from 813 million/1.125 billion (1800) to 6.868 billion (2010). Literacy rates have made a similar inversion in the same period of time, as shown on the graph below.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-rl"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "imageSize": "86",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader6_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#87c4a3",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture2-974x687.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full-screen intro with image at the bottom. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-rm"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>From 1910 to 1940, the share of Americans who received a high school education went from 18% to 71%, as the government saw the need to match its population to a rapidly industrializing economy. This was a massive leap forward for the United States, and set the stage for staggering levels of economic activity and growth in the post-war period. These government policies lead me to the need for dynamism as opposed to passivity.</p><p><br></p><p> \n</p><p>\n</p><p>The changes which I laid out previously did not happen on their own. History is not a meaningless drift, it is a clash of wills, and more often than not, a record of the enduring force of the collective.</p><p><br></p><p> \n</p><p>\n</p><p>In 1860, Giuseppe Garibaldi led 1000 men across Southern Italy, regaining land from Bourbon rulers, and delivering it to the King Vittorio Emmanuelle II and the House of Savoy, thus eradicating Italy of its foreign influences and rulers. Garibaldi didn’t come from a rich background, and his men had no significant warfare expertise. He was the son of a sea-merchant who, after travelling to South America and learning guerilla tactics, reclaimed the South of Italy through charismatic leadership and sheer force of will.</p><p><br></p><p> \n</p><p>\n</p><p>The following year, Alexander II emancipated the Russian serfs. He claimed: “it is better to abolish serfdom from above, than to wait for that time when it starts to abolish itself from below.” His motives were pragmatic enough, but in giving the citizenry a taste of freedom, he opened Pandora’s box. A series of assassination attempts—driven by an impetus towards further reform—turned him into a reactionary of sorts before his assassination in 1881. His grandson, Nicholas II, experienced the full might of a consciously oppressed people—a populace which transcended the propaganda which formed the bonds of its previous enslavement—when Russia’s participation in the First World War imposed a colossal cost in terms of welfare and life itself. He was forced to abdicate, and subsequently met his brutal end.</p><p><br></p><p> \n</p><p>\n</p><p>What does all this mean? It means that the people ultimately have the power, regardless of structures of governance. It means that an inefficient and unequal society cannot last when its constituents gain awareness and transcend their illusory chains. It also means that action, not stagnancy, provides results. When Martin Luther King Jr. said, “the arc of the moral universe is long, but it bends toward justice,” it wasn’t a prophecy, or a proclamation of determinism. It was a belief in the power of the human spirit—of the collective—which, when transformed into movements, uprisings, and revolutions, can accomplish no less than exactly what it sets out to do.</p><p><br></p><p> \n</p><p>\n</p><p>Given this big picture, it’s hard to see the current state of the modern world as hopeless. The people of this Earth are not so dissimilar. We are all rational in our heads, and desiring of security and freedom for ourselves and others. After all, if this weren’t true, why would we have joined together in this great collective effort masked behind the word ‘society’—the work of billions before us who, acting the basis of their virtuous and humanistic convictions, worked tirelessly for the better lives we live today. These freedom-fighters received nothing in return, and their names remain lost to history. But the monument of their achievement lasts – both a testament to the power of time and will, and an inspiration for us not to let their labor become fruitless and to build upon it in their honor, and with the aspiration of a better future for those who succeed us.</p><p><br></p><p> \n</p><p>\n</p><p>A modernized and practical application of this inspiration can be expressed as the power of the vote. As Mr. Macdonald told me, “the 1% may have all the wealth, but the 99% have the votes!” We would do well to remember that in times of despair.</p><p><br></p><p> \n</p><p>\n</p><p>When Barack Obama repeated Martin Luther King Jr.’s quote to a crowd of 5,000 university students, he added, “but here’s the thing, young people. It [the moral arc of the universe] doesn’t bend on its own.” We must engage with our democracies, rather than be skeptical of them, as is our role as citizens. Change may be instantaneous at times, but it is thrown into being by the mounting pressure that is the need and desire of the people. Why can’t we pass a bill which bans lobbying and corporate sponsorship of politicians? Why shouldn’t we ban coal consumption? Food stamps are a lasting form a paternalism in so-called free societies; let’s try universal basic income. Structural racism is a social construct; let’s deconstruct it. Workers’ rights are being infringed by no-poach agreements, anti-compete clauses, and anti-competitive mergers; let’s introduce new anti-trust laws. Just because corporations seem to be one step ahead of us doesn’t mean we can’t dance with them. The existence of the electoral college has failed to uphold the principles of American representative democracy; let’s take it out! Why can’t we, and why shouldn’t we? Let’s meet the rise of surveillance capitalism with a rise in privacy laws—privacy laws drafted by people who understand exactly how technology companies function. The Second Amendment was drafted at a time when a firearm could discharge two times per minute, but only if the shooter was an absolute pro. Claiming that ratifying the constitution violates its integrity is denying the historical core of truth, and arguing that truth is invariable against the movement of time. Nonsense! We have needs to be met in this day and age which are fundamentally different from those of hundreds of years ago. Angela Duckworth wrote, “necessity is the mother of adaptation.” Well, we need things now, so let’s adapt. Change can be difficult to bring about, and getting up will always be harder than staying seated. But should that deter us? Absolutely not. It didn’t deter Garibaldi, and Italy is now a thing.</p><p><br></p><p>\n</p><p>\n</p><p>Extreme poverty is finally close to being eradicated (2030 projection), but almost half of the world population still lives on less than $5.50 per day. If we could accomplish the former, why can’t we accomplish the latter? And why shouldn’t we? After all, lower income disparity equates to a higher standard of living, and better economic growth. The issues which face us today are not partisan issues, they’re ecological and humanitarian. The only reason why the politics of today are so divided is because of hidden agendas and uncompromising personalities. The red scare is over. Corporatism can meet its end at our hands. We can proceed without the hindering indoctrinations which plagued our predecessors.</p><p><br></p><p> \n</p><p>\n</p><p>The fact that Hillary Clinton received more votes than Donald Trump in the 2016 presidential election should catalyze a push towards the ideal democracy which America purports to have, and which its people deserve, as a matter of principle.</p><p><br></p><p> \n</p><p>\n</p><p>I don’t know why Alan Krueger chose to withdraw from life. I respect his decision to do so, and hope that his family and community can come to terms with it positively. But that isn’t the point. The worry which I experienced in the wake of his death was ill-founded. I can take pleasure and inspiration in Ruth Bader Ginsburg’s dissenting opinions; the Prime Minister of New Zealand’s commitment to immediate crisis response; Brandon Stanton’s devotion to the documentation and exposure of the lives of all members of society; Bernie Sanders’ ruthless criticism of the Trump Administration’s proposed budget and defense of people’s rights; the Algerian people’s refusal to accept anything other than a regime change; Greta Thunberg’s fearless assertion that “political leaders’ legacy will be the greatest failure of human history” if they fail to correct our contributions to global warming; and Rutger Bregman calling out the elite for their hypocrisy, and calling on the youth to be unafraid of stances which are dubbed extreme.</p><p><br></p><p> \n</p><p>\n</p><p>It will soon be our generation’s turn at the helm. As the future helmsmen and helmswomen of society, we have no power over the conditions we inherit when we take charge. However, the possibilities of the conditions which we pass on to the next helmsmen are unimaginably wide-ranging. We shouldn’t underestimate the amount of power we have when it comes to determining the societal conditions which future generations will inherit. \n</p><p>\n</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b><i>Sources: \n</i></b></p><p>-\tPrinceton Alumni Weekly\n</p><p>-\tWashington Post\n</p><p>-\tEcology\n</p><p>-\tThe World Bank\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-rn"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#174034",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "St. John's International School",
+          "_anchor": "footer1-rg"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "The Case for Hope",
+          "text": " Pessimism and Passivity v. Optimism and Dynamism<br><br>By: Isaiah Lowney",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-rh"
         }
       ]
     }
